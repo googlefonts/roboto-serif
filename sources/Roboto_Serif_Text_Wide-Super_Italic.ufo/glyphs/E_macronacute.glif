@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Emacronacute" format="2">
+  <advance width="767"/>
+  <unicode hex="1E16"/>
+  <outline>
+    <component base="E"/>
+    <component base="macron_acute.uc" xOffset="171"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.compileType</key>
+      <string>manual</string>
+    </dict>
+  </lib>
+</glyph>

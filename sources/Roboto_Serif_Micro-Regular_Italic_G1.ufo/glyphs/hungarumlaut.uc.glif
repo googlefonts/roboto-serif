@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hungarumlaut.uc" format="2">
+  <advance width="500"/>
+  <anchor x="265" y="694" name="_top"/>
+  <outline>
+    <contour>
+      <point x="123" y="925" type="curve" smooth="yes"/>
+      <point x="59" y="809" type="line"/>
+      <point x="57" y="793" type="line"/>
+      <point x="93" y="793" type="line"/>
+      <point x="176" y="854" type="line" smooth="yes"/>
+      <point x="212" y="881"/>
+      <point x="232" y="901"/>
+      <point x="232" y="926" type="curve" smooth="yes"/>
+      <point x="232" y="951"/>
+      <point x="213" y="971"/>
+      <point x="182" y="971" type="curve" smooth="yes"/>
+      <point x="153" y="971"/>
+      <point x="141" y="951"/>
+    </contour>
+    <contour>
+      <point x="321" y="925" type="curve" smooth="yes"/>
+      <point x="257" y="809" type="line"/>
+      <point x="255" y="793" type="line"/>
+      <point x="291" y="793" type="line"/>
+      <point x="374" y="854" type="line" smooth="yes"/>
+      <point x="410" y="881"/>
+      <point x="430" y="901"/>
+      <point x="430" y="926" type="curve" smooth="yes"/>
+      <point x="430" y="951"/>
+      <point x="411" y="971"/>
+      <point x="380" y="971" type="curve" smooth="yes"/>
+      <point x="351" y="971"/>
+      <point x="339" y="951"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_top</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>capHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>1,0.5769,0,1</string>
+    </dict>
+  </lib>
+</glyph>

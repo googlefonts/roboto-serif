@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="breveinverted.uc" format="2">
+  <advance width="412"/>
+  <outline>
+    <contour>
+      <point x="205.0" y="897.0" type="curve" smooth="yes"/>
+      <point x="275.0" y="897.0"/>
+      <point x="321.0" y="857.0"/>
+      <point x="327.0" y="759.0" type="curve"/>
+      <point x="271.0" y="759.0" type="line"/>
+      <point x="263.0" y="818.0"/>
+      <point x="241.0" y="833.0"/>
+      <point x="202.0" y="833.0" type="curve" smooth="yes"/>
+      <point x="163.0" y="833.0"/>
+      <point x="143.0" y="818.0"/>
+      <point x="135.0" y="759.0" type="curve"/>
+      <point x="84.0" y="759.0" type="line"/>
+      <point x="90.0" y="857.0"/>
+      <point x="135.0" y="897.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_top</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>capHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

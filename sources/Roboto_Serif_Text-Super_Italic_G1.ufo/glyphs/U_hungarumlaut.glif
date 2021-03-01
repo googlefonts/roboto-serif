@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Uhungarumlaut" format="2">
+  <advance width="739"/>
+  <unicode hex="0170"/>
+  <outline>
+    <component base="U"/>
+    <component base="hungarumlaut.uc" xOffset="273.1812096366022"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.compileType</key>
+      <string>manual</string>
+    </dict>
+  </lib>
+</glyph>

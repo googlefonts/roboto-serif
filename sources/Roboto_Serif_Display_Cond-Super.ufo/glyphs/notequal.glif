@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="notequal" format="2">
+  <advance width="420"/>
+  <unicode hex="2260"/>
+  <guideline x="55" y="227" angle="90" identifier="OndwJSduz3"/>
+  <guideline x="505" y="221" angle="90" identifier="BGpETuJKal"/>
+  <outline>
+    <contour>
+      <point x="323.0" y="576" type="line"/>
+      <point x="43.0" y="107" type="line"/>
+      <point x="97.0" y="107" type="line"/>
+      <point x="377.0" y="576" type="line"/>
+    </contour>
+    <component base="equal" yOffset="-16"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.BGpETuJKal</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.OndwJSduz3</key>
+      <real>5.0</real>
+      <key>public.markColor</key>
+      <string>0.5412,1,0.0738,1</string>
+    </dict>
+  </lib>
+</glyph>

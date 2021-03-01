@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seveneighths" format="2">
+  <advance width="554"/>
+  <unicode hex="215E"/>
+  <outline>
+    <component base="seven.num" xOffset="16"/>
+    <component base="fraction" xOffset="120"/>
+    <component base="eight.den" xOffset="311"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5412,1,0.0738,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="breve_hook" format="2">
+  <advance width="428"/>
+  <anchor x="210" y="525" name="_top"/>
+  <outline>
+    <contour>
+      <point x="93" y="839" type="line"/>
+      <point x="97" y="882"/>
+      <point x="132" y="925"/>
+      <point x="218" y="925" type="curve" smooth="yes"/>
+      <point x="294" y="925"/>
+      <point x="333" y="894"/>
+      <point x="333" y="845" type="curve" smooth="yes"/>
+      <point x="333" y="790"/>
+      <point x="292" y="772"/>
+      <point x="228" y="766" type="curve"/>
+      <point x="247" y="788" type="line"/>
+      <point x="247" y="738" type="line"/>
+      <point x="176" y="738" type="line"/>
+      <point x="176" y="795" type="line"/>
+      <point x="213" y="798"/>
+      <point x="234" y="816"/>
+      <point x="234" y="843" type="curve" smooth="yes"/>
+      <point x="234" y="872"/>
+      <point x="224" y="886"/>
+      <point x="210" y="886" type="curve" smooth="yes"/>
+      <point x="198" y="886"/>
+      <point x="185" y="871"/>
+      <point x="182" y="839" type="curve"/>
+    </contour>
+    <contour>
+      <point x="210" y="560" type="curve" smooth="yes"/>
+      <point x="127" y="560"/>
+      <point x="64" y="618"/>
+      <point x="68" y="728" type="curve"/>
+      <point x="111" y="728" type="line"/>
+      <point x="120" y="683"/>
+      <point x="160" y="663"/>
+      <point x="213" y="663" type="curve" smooth="yes"/>
+      <point x="262" y="663"/>
+      <point x="301" y="683"/>
+      <point x="311" y="728" type="curve"/>
+      <point x="352" y="728" type="line"/>
+      <point x="355" y="618"/>
+      <point x="292" y="560"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_top</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>xHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.9962,1,0.5137,1</string>
+    </dict>
+  </lib>
+</glyph>

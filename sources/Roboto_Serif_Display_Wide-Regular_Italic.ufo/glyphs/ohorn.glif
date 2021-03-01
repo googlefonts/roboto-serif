@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ohorn" format="2">
+  <advance width="702"/>
+  <unicode hex="01A1"/>
+  <anchor x="348.6283783783784" y="538" name="top"/>
+  <anchor x="345.07094594594594" y="0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="147" y="254"/>
+      <point x="153" y="292"/>
+      <point x="167" y="334" type="curve" smooth="yes"/>
+      <point x="197" y="422"/>
+      <point x="267" y="496"/>
+      <point x="378" y="496" type="curve"/>
+      <point x="489" y="496"/>
+      <point x="555" y="428"/>
+      <point x="555" y="305" type="curve" smooth="yes"/>
+      <point x="555" y="264"/>
+      <point x="549" y="226"/>
+      <point x="535" y="184" type="curve" smooth="yes"/>
+      <point x="505" y="96"/>
+      <point x="435" y="22"/>
+      <point x="324" y="22" type="curve"/>
+      <point x="213" y="22"/>
+      <point x="147" y="90"/>
+      <point x="147" y="213" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="473" y="494" type="line"/>
+      <point x="490" y="489"/>
+      <point x="519" y="485"/>
+      <point x="540" y="485" type="curve" smooth="yes"/>
+      <point x="652" y="485"/>
+      <point x="721" y="529"/>
+      <point x="748" y="660" type="curve"/>
+      <point x="666" y="660" type="line"/>
+      <point x="647" y="574"/>
+      <point x="625" y="516"/>
+      <point x="533" y="516" type="curve" smooth="yes"/>
+      <point x="487" y="516"/>
+      <point x="440" y="528"/>
+      <point x="378" y="528" type="curve" smooth="yes"/>
+      <point x="185" y="528"/>
+      <point x="46" y="392"/>
+      <point x="46" y="233" type="curve" smooth="yes"/>
+      <point x="46" y="82"/>
+      <point x="163" y="-10"/>
+      <point x="324" y="-10" type="curve"/>
+      <point x="517" y="-10"/>
+      <point x="656" y="126"/>
+      <point x="656" y="285" type="curve" smooth="yes"/>
+      <point x="656" y="394"/>
+      <point x="588" y="471"/>
+      <point x="485" y="506" type="curve"/>
+      <point x="519" y="475" type="line"/>
+      <point x="526" y="497" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.CXywlpUieP</key>
+      <real>5.0</real>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>bottom</key>
+        <dict>
+          <key>name</key>
+          <string>origin</string>
+          <key>type</key>
+          <string>glyphMetric</string>
+        </dict>
+        <key>top</key>
+        <dict>
+          <key>name</key>
+          <string>xHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

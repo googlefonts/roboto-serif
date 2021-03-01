@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="breve_tilde" format="2">
+  <advance width="340"/>
+  <anchor x="170" y="524" name="_top"/>
+  <outline>
+    <contour>
+      <point x="209" y="744" type="curve"/>
+      <point x="233" y="744"/>
+      <point x="257" y="765"/>
+      <point x="264" y="822" type="curve"/>
+      <point x="239" y="830" type="line"/>
+      <point x="234" y="792"/>
+      <point x="222" y="787"/>
+      <point x="214" y="787" type="curve" smooth="yes"/>
+      <point x="194" y="787"/>
+      <point x="167" y="831"/>
+      <point x="132" y="831" type="curve" smooth="yes"/>
+      <point x="99" y="831"/>
+      <point x="82" y="805"/>
+      <point x="75" y="748" type="curve"/>
+      <point x="102" y="745" type="line"/>
+      <point x="107" y="783"/>
+      <point x="117" y="788"/>
+      <point x="127" y="788" type="curve" smooth="yes"/>
+      <point x="146" y="788"/>
+      <point x="174" y="744"/>
+    </contour>
+    <contour>
+      <point x="170" y="596" type="curve" smooth="yes"/>
+      <point x="122" y="596"/>
+      <point x="91" y="630"/>
+      <point x="89" y="711" type="curve"/>
+      <point x="116" y="711" type="line"/>
+      <point x="122" y="654"/>
+      <point x="148" y="642"/>
+      <point x="170" y="642" type="curve" smooth="yes"/>
+      <point x="192" y="642"/>
+      <point x="218" y="655"/>
+      <point x="223" y="711" type="curve"/>
+      <point x="251" y="711" type="line"/>
+      <point x="248" y="630"/>
+      <point x="219" y="596"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_top</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>xHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>1,0.6331,0.046,1</string>
+    </dict>
+  </lib>
+</glyph>

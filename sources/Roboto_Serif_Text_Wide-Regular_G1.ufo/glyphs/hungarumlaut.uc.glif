@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hungarumlaut.uc" format="2">
+  <advance width="588"/>
+  <anchor x="316" y="694" name="_top"/>
+  <outline>
+    <contour>
+      <point x="210" y="845" type="curve" smooth="yes"/>
+      <point x="181" y="770" type="line"/>
+      <point x="181" y="757" type="line"/>
+      <point x="212" y="757" type="line"/>
+      <point x="261" y="798" type="line" smooth="yes"/>
+      <point x="291" y="823"/>
+      <point x="315" y="847"/>
+      <point x="315" y="872" type="curve" smooth="yes"/>
+      <point x="315" y="898"/>
+      <point x="299" y="915"/>
+      <point x="273" y="915" type="curve" smooth="yes"/>
+      <point x="245" y="915"/>
+      <point x="227" y="889"/>
+    </contour>
+    <contour>
+      <point x="392" y="845" type="curve" smooth="yes"/>
+      <point x="363" y="770" type="line"/>
+      <point x="363" y="757" type="line"/>
+      <point x="394" y="757" type="line"/>
+      <point x="444" y="798" type="line" smooth="yes"/>
+      <point x="476" y="824"/>
+      <point x="497" y="847"/>
+      <point x="497" y="872" type="curve" smooth="yes"/>
+      <point x="497" y="898"/>
+      <point x="481" y="915"/>
+      <point x="456" y="915" type="curve" smooth="yes"/>
+      <point x="428" y="915"/>
+      <point x="409" y="889"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_top</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>capHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.9962,1,0.5137,1</string>
+    </dict>
+  </lib>
+</glyph>

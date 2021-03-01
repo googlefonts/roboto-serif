@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acute.pl" format="2">
+  <advance width="530"/>
+  <anchor x="230.02" y="489" name="_top"/>
+  <outline>
+    <contour>
+      <point x="265.0" y="797" type="curve" smooth="yes"/>
+      <point x="221.0" y="679" type="line"/>
+      <point x="221.0" y="661" type="line"/>
+      <point x="243.0" y="661" type="line"/>
+      <point x="329.0" y="764" type="line" smooth="yes"/>
+      <point x="351.0" y="790"/>
+      <point x="363.0" y="804"/>
+      <point x="363.0" y="826" type="curve" smooth="yes"/>
+      <point x="363.0" y="849"/>
+      <point x="347.0" y="862"/>
+      <point x="322.0" y="862" type="curve" smooth="yes"/>
+      <point x="289.0" y="862"/>
+      <point x="280" y="836"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

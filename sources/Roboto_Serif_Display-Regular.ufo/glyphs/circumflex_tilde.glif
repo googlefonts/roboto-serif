@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflex_tilde" format="2">
+  <advance width="500"/>
+  <anchor x="245.0" y="551" name="_top"/>
+  <outline>
+    <contour>
+      <point x="313" y="777" type="curve" smooth="yes"/>
+      <point x="365" y="777"/>
+      <point x="398" y="815"/>
+      <point x="413" y="892" type="curve"/>
+      <point x="386" y="902" type="line"/>
+      <point x="375" y="861"/>
+      <point x="363" y="835"/>
+      <point x="335" y="835" type="curve" smooth="yes"/>
+      <point x="290" y="835"/>
+      <point x="254" y="902"/>
+      <point x="193" y="902" type="curve" smooth="yes"/>
+      <point x="139" y="902"/>
+      <point x="109" y="865"/>
+      <point x="96" y="787" type="curve"/>
+      <point x="123" y="778" type="line"/>
+      <point x="129" y="821"/>
+      <point x="145" y="845"/>
+      <point x="170" y="845" type="curve" smooth="yes"/>
+      <point x="210" y="845"/>
+      <point x="246" y="777"/>
+    </contour>
+    <contour>
+      <point x="288" y="732" type="line"/>
+      <point x="397" y="591" type="line"/>
+      <point x="397" y="581" type="line"/>
+      <point x="365" y="581" type="line"/>
+      <point x="235" y="679" type="line"/>
+      <point x="255" y="679" type="line"/>
+      <point x="125" y="581" type="line"/>
+      <point x="103" y="581" type="line"/>
+      <point x="103" y="591" type="line"/>
+      <point x="212" y="732" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

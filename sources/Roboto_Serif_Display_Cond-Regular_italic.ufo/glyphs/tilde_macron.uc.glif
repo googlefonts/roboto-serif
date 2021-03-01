@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tilde_macron.uc" format="2">
+  <advance width="368"/>
+  <anchor x="172.47817836812143" y="694.0" name="_top"/>
+  <outline>
+    <component base="tilde.uc"/>
+    <component base="macron.uc" xOffset="14" yOffset="136"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_top</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.6814,0.703,1,1</string>
+    </dict>
+  </lib>
+</glyph>

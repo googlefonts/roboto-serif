@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hungarumlaut" format="2">
+  <advance width="500"/>
+  <unicode hex="02DD"/>
+  <anchor x="255.0" y="525" name="_top"/>
+  <outline>
+    <contour>
+      <point x="253.55" y="769.0"/>
+      <point x="237.38504636635125" y="751.3389094088791"/>
+      <point x="220" y="703" type="curve" smooth="yes"/>
+      <point x="179" y="589" type="line"/>
+      <point x="177" y="576" type="line"/>
+      <point x="197" y="576" type="line"/>
+      <point x="284" y="667" type="line" smooth="yes"/>
+      <point x="307" y="691"/>
+      <point x="319" y="709"/>
+      <point x="319" y="732" type="curve" smooth="yes"/>
+      <point x="319" y="753"/>
+      <point x="303" y="769"/>
+      <point x="281" y="769" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="406.55" y="769.0"/>
+      <point x="390.3850463663513" y="751.3389094088791"/>
+      <point x="373" y="703" type="curve" smooth="yes"/>
+      <point x="332" y="589" type="line"/>
+      <point x="330" y="576" type="line"/>
+      <point x="350" y="576" type="line"/>
+      <point x="437" y="667" type="line" smooth="yes"/>
+      <point x="460" y="691"/>
+      <point x="472" y="709"/>
+      <point x="472" y="732" type="curve" smooth="yes"/>
+      <point x="472" y="753"/>
+      <point x="456" y="769"/>
+      <point x="434" y="769" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_top</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>LC accents</string>
+          <key>type</key>
+          <string>fontGuide</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>1,1,0.4,1</string>
+    </dict>
+  </lib>
+</glyph>

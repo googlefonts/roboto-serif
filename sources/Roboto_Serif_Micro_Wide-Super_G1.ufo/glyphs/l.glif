@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="l" format="2">
+  <advance width="473"/>
+  <unicode hex="006C"/>
+  <anchor x="248" y="746" name="top"/>
+  <anchor x="252" y="0" name="bottom"/>
+  <anchor x="412" y="735" name="right"/>
+  <anchor x="498" y="391" name="mid"/>
+  <outline>
+    <contour>
+      <point x="376" y="780" type="line"/>
+      <point x="50" y="780" type="line"/>
+      <point x="50" y="720" type="line"/>
+      <point x="63" y="718" type="line" smooth="yes"/>
+      <point x="97" y="713"/>
+      <point x="113" y="708"/>
+      <point x="113" y="694" type="curve" smooth="yes"/>
+      <point x="113" y="115" type="line" smooth="yes"/>
+      <point x="113" y="65"/>
+      <point x="94" y="50"/>
+      <point x="58" y="50" type="curve" smooth="yes"/>
+      <point x="50" y="50" type="line"/>
+      <point x="50" y="0" type="line"/>
+      <point x="439" y="0" type="line"/>
+      <point x="439" y="50" type="line"/>
+      <point x="431" y="50" type="line" smooth="yes"/>
+      <point x="395" y="50"/>
+      <point x="376" y="65"/>
+      <point x="376" y="115" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>bottom</key>
+        <dict>
+          <key>name</key>
+          <string>origin</string>
+          <key>type</key>
+          <string>glyphMetric</string>
+        </dict>
+        <key>top</key>
+        <dict>
+          <key>name</key>
+          <string>ascender</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,1,0.502,1</string>
+    </dict>
+  </lib>
+</glyph>

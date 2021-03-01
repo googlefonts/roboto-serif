@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acute.ucpl" format="2">
+  <advance width="418"/>
+  <anchor x="154.66" y="694" name="_top"/>
+  <outline>
+    <contour>
+      <point x="162" y="921" type="curve" smooth="yes"/>
+      <point x="143" y="824" type="line"/>
+      <point x="143" y="784" type="line"/>
+      <point x="192" y="784" type="line"/>
+      <point x="274" y="827" type="line" smooth="yes"/>
+      <point x="322" y="852"/>
+      <point x="357.0" y="878.0"/>
+      <point x="357" y="931" type="curve" smooth="yes"/>
+      <point x="357" y="977"/>
+      <point x="324" y="1014"/>
+      <point x="266" y="1014" type="curve" smooth="yes"/>
+      <point x="206" y="1014"/>
+      <point x="173" y="976"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_top</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>capHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.8431,0.8627,1,1</string>
+    </dict>
+  </lib>
+</glyph>

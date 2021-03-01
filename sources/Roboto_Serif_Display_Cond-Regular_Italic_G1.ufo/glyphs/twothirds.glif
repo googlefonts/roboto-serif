@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="twothirds" format="2">
+  <advance width="563"/>
+  <unicode hex="2154"/>
+  <outline>
+    <component base="two.num" xOffset="18"/>
+    <component base="fraction" xOffset="161"/>
+    <component base="three.den" xOffset="319"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8273,0.0492,1</string>
+    </dict>
+  </lib>
+</glyph>

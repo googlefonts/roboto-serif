@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="horn" format="2">
+  <advance width="500"/>
+  <anchor x="160" y="444" name="_top"/>
+  <outline>
+    <contour>
+      <point x="130" y="487" type="line"/>
+      <point x="334" y="477"/>
+      <point x="381" y="554"/>
+      <point x="388" y="695" type="curve"/>
+      <point x="328" y="695" type="line"/>
+      <point x="319" y="562"/>
+      <point x="291" y="518"/>
+      <point x="122" y="518" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.5769,0,1</string>
+    </dict>
+  </lib>
+</glyph>

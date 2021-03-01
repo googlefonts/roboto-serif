@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ocircumflexdotbelow" format="2">
+  <advance width="639"/>
+  <unicode hex="1ED8"/>
+  <outline>
+    <component base="O"/>
+    <component base="circumflex.uc" xOffset="105"/>
+    <component base="dotbelow" xOffset="106"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.compileType</key>
+      <string>manual</string>
+      <key>public.markColor</key>
+      <string>0.3922,0.8039,1,1</string>
+    </dict>
+  </lib>
+</glyph>

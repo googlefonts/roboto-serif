@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hook" format="2">
+  <advance width="530"/>
+  <unicode hex="2440"/>
+  <anchor x="243.17647058823528" y="517" name="_top"/>
+  <outline>
+    <contour>
+      <point x="91" y="804" type="line"/>
+      <point x="96" y="884"/>
+      <point x="172" y="925"/>
+      <point x="274" y="925" type="curve" smooth="yes"/>
+      <point x="373.0" y="925.0"/>
+      <point x="435" y="889"/>
+      <point x="435" y="813" type="curve" smooth="yes"/>
+      <point x="435" y="729"/>
+      <point x="355" y="700"/>
+      <point x="249" y="699" type="curve"/>
+      <point x="299" y="741" type="line"/>
+      <point x="299" y="647" type="line"/>
+      <point x="221" y="647" type="line"/>
+      <point x="221" y="738" type="line"/>
+      <point x="301" y="739"/>
+      <point x="350" y="756"/>
+      <point x="350" y="807" type="curve"/>
+      <point x="350" y="841"/>
+      <point x="327" y="861"/>
+      <point x="270" y="861" type="curve" smooth="yes"/>
+      <point x="208" y="861"/>
+      <point x="181" y="838"/>
+      <point x="176" y="804" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

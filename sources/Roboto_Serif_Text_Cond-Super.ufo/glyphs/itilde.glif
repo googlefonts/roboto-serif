@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="itilde" format="2">
+  <advance width="289"/>
+  <unicode hex="0129"/>
+  <outline>
+    <contour>
+      <point x="196" y="558" type="curve" smooth="yes"/>
+      <point x="257" y="558"/>
+      <point x="297" y="617"/>
+      <point x="314" y="718" type="curve"/>
+      <point x="234" y="741" type="line"/>
+      <point x="225" y="705"/>
+      <point x="220" y="687"/>
+      <point x="202" y="687" type="curve" smooth="yes"/>
+      <point x="174" y="687"/>
+      <point x="157" y="741"/>
+      <point x="92" y="741" type="curve" smooth="yes"/>
+      <point x="25" y="741"/>
+      <point x="-3" y="684"/>
+      <point x="-18" y="581" type="curve"/>
+      <point x="62" y="559" type="line"/>
+      <point x="69" y="597"/>
+      <point x="75" y="615"/>
+      <point x="92" y="615" type="curve" smooth="yes"/>
+      <point x="116" y="615"/>
+      <point x="125" y="558"/>
+    </contour>
+    <component base="dotlessi"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.5769,0,1</string>
+    </dict>
+  </lib>
+</glyph>

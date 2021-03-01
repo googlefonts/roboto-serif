@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ebreve" format="2">
+  <advance width="645"/>
+  <unicode hex="0114"/>
+  <outline>
+    <component base="E"/>
+    <component base="breve.uc" xOffset="100"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.compileType</key>
+      <string>manual</string>
+    </dict>
+  </lib>
+</glyph>

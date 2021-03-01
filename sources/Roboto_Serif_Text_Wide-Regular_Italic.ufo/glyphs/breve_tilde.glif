@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="breve_tilde" format="2">
+  <advance width="575"/>
+  <anchor x="287.5" y="524" name="_top"/>
+  <outline>
+    <contour>
+      <point x="385" y="768" type="curve" smooth="yes"/>
+      <point x="436.5272727272727" y="768.0"/>
+      <point x="471.0219527488735" y="802.063949311936"/>
+      <point x="494" y="869" type="curve"/>
+      <point x="444" y="893" type="line"/>
+      <point x="426.79020897907907" y="852.5063740684213"/>
+      <point x="417.54" y="837.0"/>
+      <point x="395" y="837" type="curve" smooth="yes"/>
+      <point x="357.70866141732284" y="837.0"/>
+      <point x="317.79365079365084" y="889.0"/>
+      <point x="267" y="889" type="curve" smooth="yes"/>
+      <point x="212.51401869158877" y="889.0"/>
+      <point x="182.9613967993282" y="855.8806810161053"/>
+      <point x="161" y="788" type="curve"/>
+      <point x="211" y="764" type="line"/>
+      <point x="222.1268923380105" y="800.415284015307"/>
+      <point x="236.5" y="821.0"/>
+      <point x="262" y="821" type="curve" smooth="yes"/>
+      <point x="295.5454545454545" y="821.0"/>
+      <point x="335.5983606557377" y="768.0"/>
+    </contour>
+    <contour>
+      <point x="470" y="720" type="line"/>
+      <point x="457.0092354052388" y="617.0731728261233"/>
+      <point x="392.88023952095807" y="578.0"/>
+      <point x="311" y="578" type="curve" smooth="yes"/>
+      <point x="222.0469798657718" y="578.0"/>
+      <point x="170.0" y="632.0"/>
+      <point x="170" y="701" type="curve" smooth="yes"/>
+      <point x="170" y="707"/>
+      <point x="170" y="714"/>
+      <point x="171" y="720" type="curve"/>
+      <point x="236" y="720" type="line"/>
+      <point x="236.9999477137117" y="680.0020914515326"/>
+      <point x="251.4" y="649.0"/>
+      <point x="313" y="649" type="curve" smooth="yes"/>
+      <point x="366.49514563106794" y="649.0"/>
+      <point x="395.06315142187646" y="672.2331744807747"/>
+      <point x="408" y="720" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_top</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>xHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,1,1,1</string>
+    </dict>
+  </lib>
+</glyph>

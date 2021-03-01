@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="r" format="2">
+  <advance width="484"/>
+  <unicode hex="0072"/>
+  <guideline x="0.0" y="518" angle="0" identifier="VdAZ4226GI"/>
+  <guideline x="271" y="337" angle="90.0" identifier="m6YEHcFLVt"/>
+  <anchor x="261.43065693430657" y="514" name="top"/>
+  <anchor x="199.01703163017032" y="0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="462.0" y="512.0" type="line"/>
+      <point x="455.0" y="515.0"/>
+      <point x="441.0" y="518.0"/>
+      <point x="422.0" y="518.0" type="curve" smooth="yes"/>
+      <point x="326.0" y="518.0"/>
+      <point x="296.0" y="435.0"/>
+      <point x="271.0" y="319.0" type="curve"/>
+      <point x="271.0" y="262.0" type="line"/>
+      <point x="295.0" y="311.0"/>
+      <point x="343.0" y="320.0"/>
+      <point x="400.0" y="320.0" type="curve" smooth="yes"/>
+      <point x="423.0" y="320.0"/>
+      <point x="445.0" y="316.0"/>
+      <point x="462.0" y="312.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="16" y="0" type="line"/>
+      <point x="351" y="0" type="line"/>
+      <point x="351" y="76" type="line"/>
+      <point x="349" y="76" type="line"/>
+      <point x="327" y="76"/>
+      <point x="295" y="78"/>
+      <point x="295" y="84" type="curve" smooth="yes"/>
+      <point x="295" y="357" type="line"/>
+      <point x="281" y="342" type="line"/>
+      <point x="281" y="514" type="line"/>
+      <point x="16" y="514" type="line"/>
+      <point x="16" y="434" type="line"/>
+      <point x="23" y="432" type="line" smooth="yes"/>
+      <point x="43" y="426"/>
+      <point x="50" y="422"/>
+      <point x="50" y="406" type="curve" smooth="yes"/>
+      <point x="50" y="102" type="line" smooth="yes"/>
+      <point x="50" y="82"/>
+      <point x="35" y="76"/>
+      <point x="17" y="76" type="curve" smooth="yes"/>
+      <point x="16" y="76" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.VdAZ4226GI</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.m6YEHcFLVt</key>
+      <real>5.0</real>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>bottom</key>
+        <dict>
+          <key>name</key>
+          <string>origin</string>
+          <key>type</key>
+          <string>glyphMetric</string>
+        </dict>
+        <key>top</key>
+        <dict>
+          <key>name</key>
+          <string>xHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.9962,1,0.5137,1</string>
+    </dict>
+  </lib>
+</glyph>

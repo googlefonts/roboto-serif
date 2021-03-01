@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ringhalfright" format="2">
+  <advance width="630"/>
+  <unicode hex="02BE"/>
+  <anchor x="315.0" y="566" name="_top"/>
+  <outline>
+    <contour>
+      <point x="315" y="778" type="line"/>
+      <point x="387" y="778"/>
+      <point x="440" y="744"/>
+      <point x="440" y="680" type="curve" smooth="yes"/>
+      <point x="440" y="615"/>
+      <point x="387" y="582"/>
+      <point x="315" y="582" type="curve"/>
+      <point x="315" y="606" type="line"/>
+      <point x="354" y="606"/>
+      <point x="380" y="628"/>
+      <point x="380" y="680" type="curve" smooth="yes"/>
+      <point x="380" y="731"/>
+      <point x="354" y="754"/>
+      <point x="315" y="754" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

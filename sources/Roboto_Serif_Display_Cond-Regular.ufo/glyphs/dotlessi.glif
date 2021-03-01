@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotlessi" format="2">
+  <advance width="221"/>
+  <unicode hex="0131"/>
+  <anchor x="117.7742946708464" y="518" name="top"/>
+  <outline>
+    <contour>
+      <point x="151" y="518" type="line"/>
+      <point x="21" y="518" type="line"/>
+      <point x="21" y="488" type="line"/>
+      <point x="29" y="486" type="line" smooth="yes"/>
+      <point x="58" y="478"/>
+      <point x="72" y="470"/>
+      <point x="72" y="442" type="curve" smooth="yes"/>
+      <point x="72" y="66" type="line" smooth="yes"/>
+      <point x="72" y="37"/>
+      <point x="51" y="30"/>
+      <point x="23" y="30" type="curve" smooth="yes"/>
+      <point x="21" y="30" type="line"/>
+      <point x="21" y="0" type="line"/>
+      <point x="201" y="0" type="line"/>
+      <point x="201" y="30" type="line"/>
+      <point x="200" y="30" type="line" smooth="yes"/>
+      <point x="172" y="30"/>
+      <point x="151" y="37"/>
+      <point x="151" y="66" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>bottom</key>
+        <dict>
+          <key>name</key>
+          <string>origin</string>
+          <key>type</key>
+          <string>glyphMetric</string>
+        </dict>
+        <key>top</key>
+        <dict>
+          <key>name</key>
+          <string>xHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>1,0.3151,0.8535,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflex_hook.uc" format="2">
+  <advance width="340"/>
+  <anchor x="163.33333333333334" y="694" name="_top"/>
+  <outline>
+    <contour>
+      <point x="208.0" y="943" type="line"/>
+      <point x="211.0" y="986"/>
+      <point x="237.0" y="1015"/>
+      <point x="296.0" y="1015" type="curve" smooth="yes"/>
+      <point x="349.0" y="1015"/>
+      <point x="385.0" y="990"/>
+      <point x="385.0" y="944" type="curve" smooth="yes"/>
+      <point x="385.0" y="896"/>
+      <point x="345.0" y="873"/>
+      <point x="288.0" y="867" type="curve"/>
+      <point x="304.0" y="884.0" type="line"/>
+      <point x="304.0" y="837.0" type="line"/>
+      <point x="274.0" y="837.0" type="line"/>
+      <point x="274.0" y="886" type="line"/>
+      <point x="315.0" y="892"/>
+      <point x="325" y="916"/>
+      <point x="325.0" y="947" type="curve" smooth="yes"/>
+      <point x="325.0" y="979"/>
+      <point x="315" y="991"/>
+      <point x="296.0" y="991" type="curve" smooth="yes"/>
+      <point x="272.0" y="991"/>
+      <point x="266.0" y="973"/>
+      <point x="264.0" y="943" type="curve"/>
+    </contour>
+    <component base="circumflex.uc" xOffset="3"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.6814,0.703,1,1</string>
+    </dict>
+  </lib>
+</glyph>

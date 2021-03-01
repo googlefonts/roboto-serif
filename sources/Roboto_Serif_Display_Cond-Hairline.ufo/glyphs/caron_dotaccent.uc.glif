@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caron_dotaccent.uc" format="2">
+  <advance width="340"/>
+  <anchor x="172.8716216216216" y="694" name="_top"/>
+  <outline>
+    <component base="caron.uc"/>
+    <component base="dotaccent.uc" yOffset="116"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.6065,0.5111,1,1</string>
+    </dict>
+  </lib>
+</glyph>

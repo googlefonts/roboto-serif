@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflex_acute.uc" format="2">
+  <advance width="590"/>
+  <anchor x="283.4313725490196" y="749" name="_top"/>
+  <outline>
+    <contour>
+      <point x="482" y="1043" type="curve" smooth="yes"/>
+      <point x="412" y="935" type="line"/>
+      <point x="412" y="915" type="line"/>
+      <point x="436" y="915" type="line"/>
+      <point x="544" y="1011" type="line" smooth="yes"/>
+      <point x="572" y="1035"/>
+      <point x="583" y="1049"/>
+      <point x="583" y="1071" type="curve" smooth="yes"/>
+      <point x="583" y="1089"/>
+      <point x="570" y="1100"/>
+      <point x="549" y="1100" type="curve" smooth="yes"/>
+      <point x="518" y="1100"/>
+      <point x="505" y="1078"/>
+    </contour>
+    <component base="circumflex.uc"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hungarumlaut.uc" format="2">
+  <advance width="500"/>
+  <anchor x="269" y="694" name="_top"/>
+  <outline>
+    <contour>
+      <point x="47" y="926" type="curve" smooth="yes"/>
+      <point x="3" y="842" type="line"/>
+      <point x="3" y="779" type="line"/>
+      <point x="81" y="779" type="line"/>
+      <point x="168" y="820" type="line" smooth="yes"/>
+      <point x="218" y="848"/>
+      <point x="263" y="888"/>
+      <point x="263" y="944" type="curve" smooth="yes"/>
+      <point x="263" y="992"/>
+      <point x="227" y="1025"/>
+      <point x="169" y="1025" type="curve" smooth="yes"/>
+      <point x="107" y="1025"/>
+      <point x="74" y="981"/>
+    </contour>
+    <contour>
+      <point x="300" y="926" type="curve" smooth="yes"/>
+      <point x="256" y="842" type="line"/>
+      <point x="256" y="779" type="line"/>
+      <point x="334" y="779" type="line"/>
+      <point x="421" y="820" type="line" smooth="yes"/>
+      <point x="471" y="848"/>
+      <point x="516" y="888"/>
+      <point x="516" y="944" type="curve" smooth="yes"/>
+      <point x="516" y="992"/>
+      <point x="480" y="1025"/>
+      <point x="422" y="1025" type="curve" smooth="yes"/>
+      <point x="360" y="1025"/>
+      <point x="327" y="981"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_top</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>capHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.9962,1,0.5137,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acute_dotaccent.uc" format="2">
+  <advance width="340"/>
+  <anchor x="147.63157894736844" y="677" name="_top"/>
+  <outline>
+    <component base="acute.uc" xOffset="16"/>
+    <component base="dotaccent.uc" xOffset="25" yOffset="159"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.6065,0.5111,1,1</string>
+    </dict>
+  </lib>
+</glyph>

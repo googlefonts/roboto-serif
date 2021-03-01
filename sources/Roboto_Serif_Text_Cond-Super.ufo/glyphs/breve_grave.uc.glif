@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="breve_grave.uc" format="2">
+  <advance width="428"/>
+  <anchor x="209.80392156862743" y="744" name="_top"/>
+  <outline>
+    <contour>
+      <point x="233" y="1028" type="line" smooth="yes"/>
+      <point x="214" y="1078"/>
+      <point x="190" y="1103"/>
+      <point x="149" y="1103" type="curve" smooth="yes"/>
+      <point x="108" y="1103"/>
+      <point x="82" y="1078"/>
+      <point x="82" y="1042" type="curve" smooth="yes"/>
+      <point x="82" y="1002"/>
+      <point x="110" y="977"/>
+      <point x="161" y="952" type="curve" smooth="yes"/>
+      <point x="206" y="930" type="line"/>
+      <point x="260" y="930" type="line"/>
+      <point x="260" y="956" type="line"/>
+    </contour>
+    <component base="breve.uc"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.7167,0.7338,0.8154,1</string>
+    </dict>
+  </lib>
+</glyph>

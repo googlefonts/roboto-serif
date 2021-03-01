@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Oslash" format="2">
+  <advance width="828"/>
+  <unicode hex="00D8"/>
+  <anchor x="405.5076923076923" y="731" name="top"/>
+  <outline>
+    <contour>
+      <point x="686" y="-25"/>
+      <point x="806" y="235"/>
+      <point x="806" y="455" type="curve" smooth="yes"/>
+      <point x="806.0" y="610.0"/>
+      <point x="687" y="735"/>
+      <point x="491" y="735" type="curve" smooth="yes"/>
+      <point x="164" y="735"/>
+      <point x="44" y="475"/>
+      <point x="44" y="255" type="curve" smooth="yes"/>
+      <point x="44" y="100.0"/>
+      <point x="163" y="-25"/>
+      <point x="359" y="-25" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="508" y="150"/>
+      <point x="464" y="79"/>
+      <point x="369" y="79" type="curve" smooth="yes"/>
+      <point x="290" y="79"/>
+      <point x="261" y="113"/>
+      <point x="261" y="181" type="curve" smooth="yes"/>
+      <point x="261" y="251"/>
+      <point x="272" y="290"/>
+      <point x="293" y="370" type="curve" smooth="yes"/>
+      <point x="342" y="560"/>
+      <point x="386" y="631"/>
+      <point x="481" y="631" type="curve"/>
+      <point x="562" y="631"/>
+      <point x="589" y="597"/>
+      <point x="589" y="529" type="curve" smooth="yes"/>
+      <point x="589" y="459"/>
+      <point x="578" y="420"/>
+      <point x="557" y="340" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="-76" y="-25.0" type="line"/>
+      <point x="54" y="-25.0" type="line"/>
+      <point x="917" y="735.0" type="line"/>
+      <point x="787" y="735.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>top</key>
+        <dict>
+          <key>name</key>
+          <string>capHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>1,0.5769,0,1</string>
+    </dict>
+  </lib>
+</glyph>

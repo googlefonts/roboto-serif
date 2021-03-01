@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresis.uc" format="2">
+  <advance width="538"/>
+  <anchor x="269" y="694" name="_top"/>
+  <outline>
+    <contour>
+      <point x="234" y="886" type="curve" smooth="yes"/>
+      <point x="234" y="958"/>
+      <point x="185" y="993"/>
+      <point x="102" y="993" type="curve" smooth="yes"/>
+      <point x="17" y="993"/>
+      <point x="-31" y="958"/>
+      <point x="-31" y="886" type="curve" smooth="yes"/>
+      <point x="-31" y="813"/>
+      <point x="17" y="778"/>
+      <point x="102" y="778" type="curve" smooth="yes"/>
+      <point x="185" y="778"/>
+      <point x="234" y="814"/>
+    </contour>
+    <contour>
+      <point x="567" y="886" type="curve" smooth="yes"/>
+      <point x="567" y="958"/>
+      <point x="519" y="993"/>
+      <point x="437" y="993" type="curve" smooth="yes"/>
+      <point x="352" y="993"/>
+      <point x="304" y="958"/>
+      <point x="304" y="886" type="curve" smooth="yes"/>
+      <point x="304" y="813"/>
+      <point x="352" y="778"/>
+      <point x="437" y="778" type="curve" smooth="yes"/>
+      <point x="519" y="778"/>
+      <point x="567" y="814"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.bxOGD763Rl</key>
+      <real>5.0</real>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_top</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>UC accents</string>
+          <key>type</key>
+          <string>fontGuide</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>1,1,0.4,1</string>
+    </dict>
+  </lib>
+</glyph>

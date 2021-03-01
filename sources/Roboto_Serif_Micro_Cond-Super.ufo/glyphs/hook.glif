@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hook" format="2">
+  <advance width="418"/>
+  <unicode hex="2440"/>
+  <anchor x="191.78823529411764" y="517" name="_top"/>
+  <outline>
+    <contour>
+      <point x="10" y="804" type="line"/>
+      <point x="19.998904077210007" y="898.9895887334951"/>
+      <point x="104.04522613065326" y="942.0"/>
+      <point x="207" y="942" type="curve" smooth="yes"/>
+      <point x="316.83769633507853" y="942.0"/>
+      <point x="396" y="907"/>
+      <point x="396" y="817" type="curve" smooth="yes"/>
+      <point x="396" y="717"/>
+      <point x="294.00007679277235" y="687.0000007455609"/>
+      <point x="191" y="686" type="curve"/>
+      <point x="253" y="735" type="line"/>
+      <point x="253" y="638" type="line"/>
+      <point x="137" y="638" type="line"/>
+      <point x="137" y="742" type="line"/>
+      <point x="223.29058877023618" y="743.0272689139314"/>
+      <point x="250.0" y="752.0"/>
+      <point x="250" y="809" type="curve" smooth="yes"/>
+      <point x="250.0" y="844.3888888888889"/>
+      <point x="238.0" y="858.0"/>
+      <point x="204" y="858" type="curve" smooth="yes"/>
+      <point x="165" y="858"/>
+      <point x="154.57956825887226" y="846.1320279816248"/>
+      <point x="150" y="804" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_top</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>xHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.6966,0.4864,0.7881,1</string>
+    </dict>
+  </lib>
+</glyph>

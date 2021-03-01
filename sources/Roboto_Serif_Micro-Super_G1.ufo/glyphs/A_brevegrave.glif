@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Abrevegrave" format="2">
+  <advance width="798"/>
+  <unicode hex="1EB0"/>
+  <outline>
+    <component base="A"/>
+    <component base="breve_grave.uc" xOffset="149"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.compileType</key>
+      <string>manual</string>
+    </dict>
+  </lib>
+</glyph>

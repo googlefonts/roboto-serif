@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflex_hook.uc" format="2">
+  <advance width="587"/>
+  <anchor x="280.83921568627454" y="694" name="_top"/>
+  <outline>
+    <contour>
+      <point x="443" y="940" type="line"/>
+      <point x="453" y="985"/>
+      <point x="499" y="1014"/>
+      <point x="574" y="1014" type="curve" smooth="yes"/>
+      <point x="657" y="1014"/>
+      <point x="700" y="984"/>
+      <point x="700" y="941" type="curve" smooth="yes"/>
+      <point x="700" y="883"/>
+      <point x="635" y="862"/>
+      <point x="559" y="858" type="curve"/>
+      <point x="584" y="887" type="line"/>
+      <point x="575" y="837" type="line"/>
+      <point x="511" y="837" type="line"/>
+      <point x="521" y="891" type="line"/>
+      <point x="590" y="894"/>
+      <point x="616" y="914"/>
+      <point x="616" y="940" type="curve" smooth="yes"/>
+      <point x="616" y="960"/>
+      <point x="602" y="972"/>
+      <point x="571" y="972" type="curve" smooth="yes"/>
+      <point x="541" y="972"/>
+      <point x="524" y="962"/>
+      <point x="518" y="940" type="curve"/>
+    </contour>
+    <component base="circumflex.uc" xOffset="1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_top</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>capHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,1,1,1</string>
+    </dict>
+  </lib>
+</glyph>

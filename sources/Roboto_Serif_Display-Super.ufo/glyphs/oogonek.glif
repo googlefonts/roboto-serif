@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oogonek" format="2">
+  <advance width="668"/>
+  <unicode hex="01EB"/>
+  <outline>
+    <contour>
+      <point x="292" y="40"/>
+      <point x="273" y="85"/>
+      <point x="273" y="262" type="curve" smooth="yes"/>
+      <point x="273" y="439"/>
+      <point x="292" y="484"/>
+      <point x="334" y="484" type="curve" smooth="yes"/>
+      <point x="376" y="484"/>
+      <point x="395" y="439"/>
+      <point x="395" y="262" type="curve" smooth="yes"/>
+      <point x="395" y="85"/>
+      <point x="376" y="40"/>
+      <point x="334" y="40" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="487" y="31" type="line"/>
+      <point x="325.7179438396551" y="-39.560899570150895"/>
+      <point x="232" y="-62"/>
+      <point x="232" y="-143" type="curve" smooth="yes"/>
+      <point x="232" y="-210"/>
+      <point x="287" y="-246"/>
+      <point x="371" y="-246" type="curve" smooth="yes"/>
+      <point x="454" y="-246"/>
+      <point x="499" y="-214"/>
+      <point x="535" y="-166" type="curve"/>
+      <point x="506" y="-135" type="line"/>
+      <point x="492.37242630630925" y="-147.57929879417608"/>
+      <point x="468" y="-161"/>
+      <point x="443" y="-161" type="curve" smooth="yes"/>
+      <point x="412" y="-161"/>
+      <point x="389" y="-146"/>
+      <point x="389" y="-112" type="curve" smooth="yes"/>
+      <point x="389" y="-59"/>
+      <point x="435.454395161137" y="-22.697069892575357"/>
+      <point x="537" y="45" type="curve" smooth="yes"/>
+      <point x="607" y="92"/>
+      <point x="645" y="168"/>
+      <point x="645" y="262" type="curve" smooth="yes"/>
+      <point x="645" y="425"/>
+      <point x="529" y="534"/>
+      <point x="334" y="534" type="curve" smooth="yes"/>
+      <point x="139" y="534"/>
+      <point x="23" y="425"/>
+      <point x="23" y="262" type="curve" smooth="yes"/>
+      <point x="23" y="99"/>
+      <point x="139" y="-10"/>
+      <point x="334" y="-10" type="curve" smooth="yes"/>
+      <point x="388" y="-10"/>
+      <point x="435" y="-2"/>
+      <point x="476" y="14" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.compileType</key>
+      <string>manual</string>
+    </dict>
+  </lib>
+</glyph>

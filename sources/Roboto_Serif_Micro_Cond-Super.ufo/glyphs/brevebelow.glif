@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevebelow" format="2">
+  <advance width="417"/>
+  <guideline x="-199.81203814089554" y="-107.63809798599823" angle="0" identifier="8fUwPC68rP"/>
+  <anchor x="211.836" y="-46" name="_bottom"/>
+  <outline>
+    <component base="breve" xOffset="-6" yOffset="-921"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_bottom</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>above</key>
+        <dict>
+          <key>name</key>
+          <string>origin</string>
+          <key>type</key>
+          <string>glyphMetric</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.6966,0.4864,0.7881,1</string>
+    </dict>
+  </lib>
+</glyph>

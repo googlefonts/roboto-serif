@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="i" format="2">
+  <advance width="415"/>
+  <unicode hex="0069"/>
+  <anchor x="219.858934169279" y="524" name="top"/>
+  <anchor x="217.25705329153604" y="-10" name="bottom"/>
+  <anchor x="279.7021943573667" y="-10" name="right"/>
+  <outline>
+    <contour>
+      <point x="208" y="566" type="curve" smooth="yes"/>
+      <point x="304.0" y="566.0"/>
+      <point x="360" y="602"/>
+      <point x="360" y="663" type="curve" smooth="yes"/>
+      <point x="360.0" y="724.0"/>
+      <point x="304" y="760"/>
+      <point x="208" y="760" type="curve" smooth="yes"/>
+      <point x="112.0" y="760.0"/>
+      <point x="56" y="724"/>
+      <point x="56" y="663" type="curve" smooth="yes"/>
+      <point x="56.0" y="602.0"/>
+      <point x="112" y="566"/>
+    </contour>
+    <contour>
+      <point x="360" y="524" type="line"/>
+      <point x="12" y="524" type="line"/>
+      <point x="12" y="484" type="line"/>
+      <point x="26" y="482" type="line" smooth="yes"/>
+      <point x="50" y="479"/>
+      <point x="60" y="469"/>
+      <point x="60" y="445" type="curve" smooth="yes"/>
+      <point x="60" y="72" type="line" smooth="yes"/>
+      <point x="60.0" y="46.0"/>
+      <point x="41" y="39"/>
+      <point x="17" y="39" type="curve" smooth="yes"/>
+      <point x="12" y="39" type="line"/>
+      <point x="12" y="0" type="line"/>
+      <point x="408" y="0" type="line"/>
+      <point x="408" y="39" type="line"/>
+      <point x="403" y="39" type="line" smooth="yes"/>
+      <point x="379" y="39"/>
+      <point x="360.0" y="46.0"/>
+      <point x="360" y="72" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>right</key>
+        <dict>
+          <key>name</key>
+          <string>bottom</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>bottom</key>
+        <dict>
+          <key>name</key>
+          <string>origin</string>
+          <key>type</key>
+          <string>glyphMetric</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

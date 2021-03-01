@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macron_acute" format="2">
+  <advance width="569"/>
+  <anchor x="284.5" y="526" name="_top"/>
+  <outline>
+    <component base="macron" xOffset="21"/>
+    <component base="acute" xOffset="-10" yOffset="189"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

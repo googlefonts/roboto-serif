@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="I" format="2">
+  <advance width="338"/>
+  <unicode hex="0049"/>
+  <anchor x="169" y="741" name="top"/>
+  <anchor x="169" y="0" name="bottom"/>
+  <anchor x="223" y="0" name="right"/>
+  <outline>
+    <contour>
+      <point x="157" y="53" type="line" smooth="yes"/>
+      <point x="157" y="26"/>
+      <point x="113" y="20"/>
+      <point x="65" y="20" type="curve" smooth="yes"/>
+      <point x="52" y="20" type="line"/>
+      <point x="52" y="0" type="line"/>
+      <point x="286" y="0" type="line"/>
+      <point x="286" y="20" type="line"/>
+      <point x="273" y="20" type="line" smooth="yes"/>
+      <point x="225" y="20"/>
+      <point x="181" y="26"/>
+      <point x="181" y="53" type="curve" smooth="yes"/>
+      <point x="181" y="657" type="line" smooth="yes"/>
+      <point x="181" y="684"/>
+      <point x="225" y="690"/>
+      <point x="273" y="690" type="curve" smooth="yes"/>
+      <point x="286" y="690" type="line"/>
+      <point x="286" y="710" type="line"/>
+      <point x="52" y="710" type="line"/>
+      <point x="52" y="690" type="line"/>
+      <point x="65" y="690" type="line" smooth="yes"/>
+      <point x="113" y="690"/>
+      <point x="157" y="684"/>
+      <point x="157" y="657" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>bottom</key>
+        <dict>
+          <key>name</key>
+          <string>origin</string>
+          <key>type</key>
+          <string>glyphMetric</string>
+        </dict>
+        <key>top</key>
+        <dict>
+          <key>name</key>
+          <string>capHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.9962,1,0.5137,1</string>
+    </dict>
+  </lib>
+</glyph>

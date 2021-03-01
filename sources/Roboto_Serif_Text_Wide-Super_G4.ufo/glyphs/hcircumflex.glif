@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hcircumflex" format="2">
+  <advance width="811"/>
+  <unicode hex="0125"/>
+  <outline>
+    <component base="h"/>
+    <component base="circumflex.uc" xOffset="121" yOffset="27"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.compileType</key>
+      <string>manual</string>
+    </dict>
+  </lib>
+</glyph>

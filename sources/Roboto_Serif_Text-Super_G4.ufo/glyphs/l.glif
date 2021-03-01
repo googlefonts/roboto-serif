@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="l" format="2">
+  <advance width="341"/>
+  <unicode hex="006C"/>
+  <guideline x="0.0" y="720" angle="0" identifier="7JnQdy9SYE"/>
+  <anchor x="178.7766990291262" y="746" name="top"/>
+  <anchor x="182.0873786407767" y="0" name="bottom"/>
+  <anchor x="296.8576051779936" y="735" name="right"/>
+  <anchor x="358.6569579288026" y="391.0" name="mid"/>
+  <outline>
+    <contour>
+      <point x="295" y="735" type="line"/>
+      <point x="16" y="735" type="line"/>
+      <point x="16" y="615" type="line"/>
+      <point x="23" y="613" type="line" smooth="yes"/>
+      <point x="43" y="607"/>
+      <point x="50" y="603"/>
+      <point x="50" y="587" type="curve" smooth="yes"/>
+      <point x="50" y="142" type="line" smooth="yes"/>
+      <point x="50.0" y="122.0"/>
+      <point x="35" y="116"/>
+      <point x="17" y="116" type="curve" smooth="yes"/>
+      <point x="16" y="116" type="line"/>
+      <point x="16" y="0" type="line"/>
+      <point x="329" y="0" type="line"/>
+      <point x="329" y="116" type="line"/>
+      <point x="328" y="116" type="line" smooth="yes"/>
+      <point x="310" y="116"/>
+      <point x="295.0" y="122.0"/>
+      <point x="295" y="142" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.7JnQdy9SYE</key>
+      <real>5.0</real>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>bottom</key>
+        <dict>
+          <key>name</key>
+          <string>origin</string>
+          <key>type</key>
+          <string>glyphMetric</string>
+        </dict>
+        <key>top</key>
+        <dict>
+          <key>name</key>
+          <string>capHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.9962,1,0.5137,1</string>
+    </dict>
+  </lib>
+</glyph>

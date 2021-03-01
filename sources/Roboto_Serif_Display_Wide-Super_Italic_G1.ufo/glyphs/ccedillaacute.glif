@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ccedillaacute" format="2">
+  <advance width="730"/>
+  <unicode hex="1E09"/>
+  <outline>
+    <component base="c"/>
+    <component base="acute" xOffset="146"/>
+    <component base="cedilla" xOffset="14"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.compileType</key>
+      <string>manual</string>
+    </dict>
+  </lib>
+</glyph>

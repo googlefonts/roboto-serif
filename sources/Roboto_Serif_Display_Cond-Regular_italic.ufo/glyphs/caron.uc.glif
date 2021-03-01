@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caron.uc" format="2">
+  <advance width="351"/>
+  <anchor x="179.01" y="694" name="_top"/>
+  <outline>
+    <component base="circumflex.uc" xScale="-1" yScale="-1" xOffset="506" yOffset="1637"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>capHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.6447,0.9238,1,1</string>
+    </dict>
+  </lib>
+</glyph>

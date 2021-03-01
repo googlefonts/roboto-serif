@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="idieresis" format="2">
+  <advance width="415"/>
+  <unicode hex="00EF"/>
+  <outline>
+    <contour>
+      <point x="77" y="568" type="curve" smooth="yes"/>
+      <point x="154" y="568"/>
+      <point x="192" y="604"/>
+      <point x="192" y="660" type="curve" smooth="yes"/>
+      <point x="192" y="717"/>
+      <point x="154" y="752"/>
+      <point x="77" y="752" type="curve" smooth="yes"/>
+      <point x="1" y="752"/>
+      <point x="-38" y="717"/>
+      <point x="-38" y="660" type="curve" smooth="yes"/>
+      <point x="-38" y="603"/>
+      <point x="1" y="568"/>
+    </contour>
+    <contour>
+      <point x="336" y="568" type="curve" smooth="yes"/>
+      <point x="413" y="568"/>
+      <point x="451" y="604"/>
+      <point x="451" y="660" type="curve" smooth="yes"/>
+      <point x="451" y="717"/>
+      <point x="413" y="752"/>
+      <point x="336" y="752" type="curve" smooth="yes"/>
+      <point x="260" y="752"/>
+      <point x="221" y="717"/>
+      <point x="221" y="660" type="curve" smooth="yes"/>
+      <point x="221" y="603"/>
+      <point x="260" y="568"/>
+    </contour>
+    <component base="dotlessi"/>
+  </outline>
+</glyph>

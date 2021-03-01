@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ring.uc" format="2">
+  <advance width="340"/>
+  <anchor x="170" y="731" name="_top"/>
+  <outline>
+    <contour>
+      <point x="145" y="867" type="curve" smooth="yes"/>
+      <point x="145" y="914"/>
+      <point x="152" y="934"/>
+      <point x="170" y="934" type="curve" smooth="yes"/>
+      <point x="188" y="934"/>
+      <point x="195" y="914"/>
+      <point x="195" y="867" type="curve" smooth="yes"/>
+      <point x="195" y="820"/>
+      <point x="188" y="800"/>
+      <point x="170" y="800" type="curve" smooth="yes"/>
+      <point x="152" y="800"/>
+      <point x="145" y="820"/>
+    </contour>
+    <contour>
+      <point x="285" y="867" type="curve" smooth="yes"/>
+      <point x="285" y="942"/>
+      <point x="234" y="983"/>
+      <point x="170" y="983" type="curve" smooth="yes"/>
+      <point x="106" y="983"/>
+      <point x="55" y="942"/>
+      <point x="55" y="867" type="curve" smooth="yes"/>
+      <point x="55" y="791"/>
+      <point x="106" y="751"/>
+      <point x="170" y="751" type="curve" smooth="yes"/>
+      <point x="234" y="751"/>
+      <point x="285" y="791"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_top</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>capHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>1,0.6331,0.046,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="breve.uc" format="2">
+  <advance width="530"/>
+  <anchor x="265.0" y="694" name="_top"/>
+  <outline>
+    <contour>
+      <point x="266.0" y="797" type="curve" smooth="yes"/>
+      <point x="142.0" y="797"/>
+      <point x="66.0" y="853"/>
+      <point x="63.0" y="965" type="curve"/>
+      <point x="134.0" y="965" type="line"/>
+      <point x="139.0" y="907"/>
+      <point x="174.0" y="873"/>
+      <point x="266.0" y="873" type="curve" smooth="yes"/>
+      <point x="363.0" y="873"/>
+      <point x="398.0" y="907"/>
+      <point x="402.0" y="965" type="curve"/>
+      <point x="468.0" y="965" type="line"/>
+      <point x="466.0" y="853"/>
+      <point x="392.0" y="797"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

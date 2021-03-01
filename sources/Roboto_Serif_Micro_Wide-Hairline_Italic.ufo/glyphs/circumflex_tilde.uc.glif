@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflex_tilde.uc" format="2">
+  <advance width="336"/>
+  <anchor x="161.28" y="694.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="407" y="998" type="curve" smooth="yes"/>
+      <point x="455" y="998"/>
+      <point x="487" y="1033"/>
+      <point x="515" y="1132" type="curve"/>
+      <point x="473" y="1144" type="line"/>
+      <point x="455" y="1088"/>
+      <point x="441" y="1046"/>
+      <point x="411" y="1046" type="curve" smooth="yes"/>
+      <point x="363.0" y="1046.0"/>
+      <point x="351" y="1141"/>
+      <point x="270" y="1141" type="curve" smooth="yes"/>
+      <point x="214" y="1141"/>
+      <point x="188" y="1108"/>
+      <point x="161" y="1010" type="curve"/>
+      <point x="203" y="999" type="line"/>
+      <point x="221" y="1065"/>
+      <point x="237" y="1092"/>
+      <point x="265" y="1092" type="curve" smooth="yes"/>
+      <point x="314" y="1092"/>
+      <point x="323" y="998"/>
+    </contour>
+    <contour>
+      <point x="348" y="946" type="line"/>
+      <point x="463" y="803" type="line"/>
+      <point x="459" y="782" type="line"/>
+      <point x="437" y="782" type="line"/>
+      <point x="294" y="902" type="line"/>
+      <point x="331" y="909" type="line"/>
+      <point x="152" y="782" type="line"/>
+      <point x="124" y="782" type="line"/>
+      <point x="127" y="803" type="line"/>
+      <point x="282" y="946" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_top</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>capHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

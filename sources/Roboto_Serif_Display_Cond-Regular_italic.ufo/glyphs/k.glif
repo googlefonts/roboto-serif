@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="k" format="2">
+  <advance width="393"/>
+  <unicode hex="006B"/>
+  <anchor x="195.049815498155" y="0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="307" y="65" type="line" smooth="yes"/>
+      <point x="311" y="43"/>
+      <point x="321" y="31"/>
+      <point x="336" y="31.0" type="curve" smooth="yes"/>
+      <point x="352" y="31"/>
+      <point x="365" y="44"/>
+      <point x="380" y="60" type="curve"/>
+      <point x="373" y="24" type="line"/>
+      <point x="359" y="8"/>
+      <point x="337" y="-10"/>
+      <point x="303" y="-10.0" type="curve" smooth="yes"/>
+      <point x="263" y="-10"/>
+      <point x="241" y="15"/>
+      <point x="234" y="49" type="curve" smooth="yes"/>
+      <point x="188" y="283" type="line"/>
+      <point x="189" y="288" type="line"/>
+      <point x="271" y="364"/>
+      <point x="322" y="434"/>
+      <point x="362" y="518" type="curve"/>
+      <point x="430" y="518" type="line"/>
+      <point x="430" y="514" type="line"/>
+      <point x="383" y="438"/>
+      <point x="308" y="369"/>
+      <point x="214" y="279" type="curve"/>
+      <point x="256" y="328" type="line"/>
+    </contour>
+    <contour>
+      <point x="37" y="0" type="line"/>
+      <point x="156" y="674" type="line" smooth="yes"/>
+      <point x="161" y="702"/>
+      <point x="147" y="708"/>
+      <point x="117" y="718" type="curve" smooth="yes"/>
+      <point x="111" y="720" type="line"/>
+      <point x="116" y="750" type="line"/>
+      <point x="247" y="750" type="line"/>
+      <point x="115" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>bottom</key>
+        <dict>
+          <key>name</key>
+          <string>origin</string>
+          <key>type</key>
+          <string>glyphMetric</string>
+        </dict>
+        <key>top</key>
+        <dict>
+          <key>name</key>
+          <string>ascender</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>1,0.3151,0.8535,1</string>
+    </dict>
+  </lib>
+</glyph>

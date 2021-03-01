@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="question" format="2">
+  <advance width="593"/>
+  <unicode hex="003F"/>
+  <guideline x="213.48" y="204" angle="90" identifier="lffoukpSSF"/>
+  <guideline x="296.5" y="191" angle="90" identifier="3qil2Mjc7n"/>
+  <outline>
+    <contour>
+      <point x="245" y="385" type="line"/>
+      <point x="314" y="410"/>
+      <point x="338" y="463"/>
+      <point x="338" y="528" type="curve" smooth="yes"/>
+      <point x="338" y="630"/>
+      <point x="306" y="666"/>
+      <point x="245" y="666" type="curve"/>
+      <point x="204.0" y="666.0"/>
+      <point x="178" y="659"/>
+      <point x="161" y="643" type="curve"/>
+      <point x="148" y="653"/>
+      <point x="148" y="659"/>
+      <point x="171" y="664" type="curve"/>
+      <point x="171" y="522" type="line"/>
+      <point x="30" y="522" type="line"/>
+      <point x="30" y="643" type="line"/>
+      <point x="64" y="674"/>
+      <point x="155" y="720"/>
+      <point x="292" y="720" type="curve" smooth="yes"/>
+      <point x="476" y="720"/>
+      <point x="565" y="650"/>
+      <point x="565" y="550" type="curve" smooth="yes"/>
+      <point x="565.0" y="436.0"/>
+      <point x="431" y="369"/>
+      <point x="304" y="346" type="curve"/>
+      <point x="304" y="262" type="line"/>
+      <point x="245" y="262" type="line"/>
+    </contour>
+    <component base="period" xOffset="96"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.3qil2Mjc7n</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.lffoukpSSF</key>
+      <real>5.0</real>
+      <key>public.markColor</key>
+      <string>1,0.5769,0,1</string>
+    </dict>
+  </lib>
+</glyph>

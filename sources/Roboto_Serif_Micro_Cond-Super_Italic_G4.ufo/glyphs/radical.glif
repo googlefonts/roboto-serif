@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="radical" format="2">
+  <advance width="621"/>
+  <unicode hex="221A"/>
+  <outline>
+    <contour>
+      <point x="29" y="273" type="line"/>
+      <point x="31" y="273" type="line"/>
+      <point x="131" y="324" type="line"/>
+      <point x="91" y="0" type="line"/>
+      <point x="235" y="0" type="line"/>
+      <point x="259" y="22" type="line"/>
+      <point x="299" y="418" type="line"/>
+      <point x="61" y="418" type="line"/>
+    </contour>
+    <contour>
+      <point x="550" y="710" type="line"/>
+      <point x="200" y="0" type="line"/>
+      <point x="356" y="0" type="line"/>
+      <point x="716" y="710" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.5769,0,1</string>
+    </dict>
+  </lib>
+</glyph>

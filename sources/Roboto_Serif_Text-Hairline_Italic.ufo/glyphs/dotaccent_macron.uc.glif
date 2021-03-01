@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotaccent_macron.uc" format="2">
+  <advance width="500"/>
+  <anchor x="280.0" y="694" name="_top"/>
+  <outline>
+    <component base="dotaccent.uc" xOffset="5"/>
+    <component base="macron.uc" xOffset="15" yOffset="93"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.3901,0.3797,1</string>
+    </dict>
+  </lib>
+</glyph>

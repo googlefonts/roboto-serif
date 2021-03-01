@@ -1,0 +1,761 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.1">
+  <axes>
+    <axis tag="wdth" name="width" minimum="50" maximum="150" default="100"/>
+    <axis tag="opsz" name="Optical Size" minimum="8" maximum="144" default="20"/>
+    <axis tag="wght" name="weight" minimum="100" maximum="900" default="400"/>
+    <axis tag="GRAD" name="Grade" minimum="-100" maximum="100" default="0"/>
+  </axes>
+  <sources>
+    <source filename="Roboto_Serif_Text-Super_Italic_G4.ufo" familyname="Roboto Serif Text" stylename="Super G4">
+      <location>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Optical Size" xvalue="20"/>
+        <dimension name="weight" xvalue="900"/>
+        <dimension name="Grade" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="Roboto_Serif_Text-Super_Italic_G1.ufo" familyname="Roboto Serif Text" stylename="Super G1">
+      <location>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Optical Size" xvalue="20"/>
+        <dimension name="weight" xvalue="900"/>
+        <dimension name="Grade" xvalue="-1"/>
+      </location>
+    </source>
+    <source filename="Roboto_Serif_Text-Super_Italic.ufo" familyname="Roboto Serif Text" stylename="Super">
+      <location>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Optical Size" xvalue="20"/>
+        <dimension name="weight" xvalue="900"/>
+        <dimension name="Grade" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Roboto_Serif_Text-Regular_Italic_G4.ufo" familyname="Roboto Serif Text" stylename="Regular G4">
+      <location>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Optical Size" xvalue="20"/>
+        <dimension name="weight" xvalue="400"/>
+        <dimension name="Grade" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="Roboto_Serif_Text-Regular_Italic_G1.ufo" familyname="Roboto Serif Text" stylename="Regular G1">
+      <location>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Optical Size" xvalue="20"/>
+        <dimension name="weight" xvalue="400"/>
+        <dimension name="Grade" xvalue="-1"/>
+      </location>
+    </source>
+    <source filename="Roboto_Serif_Text-Regular_Italic.ufo" familyname="Roboto Serif" stylename="Regular">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Optical Size" xvalue="20"/>
+        <dimension name="weight" xvalue="400"/>
+        <dimension name="Grade" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Roboto_Serif_Text-Hairline_Italic_G4.ufo" familyname="Roboto Serif Text" stylename="Hairline G4">
+      <location>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Optical Size" xvalue="20"/>
+        <dimension name="weight" xvalue="100"/>
+        <dimension name="Grade" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="Roboto_Serif_Text-Hairline_Italic_G1.ufo" familyname="Roboto Serif Text" stylename="Hairline G1">
+      <location>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Optical Size" xvalue="20"/>
+        <dimension name="weight" xvalue="100"/>
+        <dimension name="Grade" xvalue="-1"/>
+      </location>
+    </source>
+    <source filename="Roboto_Serif_Text-Hairline_Italic.ufo" familyname="Roboto Serif Text" stylename="Hairline">
+      <location>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Optical Size" xvalue="20"/>
+        <dimension name="weight" xvalue="100"/>
+        <dimension name="Grade" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Roboto_Serif_Text_Wide-Super_Italic.ufo" familyname="Roboto Serif Text Wide" stylename="Super">
+      <location>
+        <dimension name="width" xvalue="150"/>
+        <dimension name="Optical Size" xvalue="20"/>
+        <dimension name="weight" xvalue="900"/>
+        <dimension name="Grade" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Roboto_Serif_Text_Wide-Regular_Italic.ufo" familyname="Roboto Serif Text Wide" stylename="Regular">
+      <location>
+        <dimension name="width" xvalue="150"/>
+        <dimension name="Optical Size" xvalue="20"/>
+        <dimension name="weight" xvalue="400"/>
+        <dimension name="Grade" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Roboto_Serif_Text_Wide-Hairline_Italic.ufo" familyname="Roboto Serif Text Wide" stylename="Hairline">
+      <location>
+        <dimension name="width" xvalue="150"/>
+        <dimension name="Optical Size" xvalue="20"/>
+        <dimension name="weight" xvalue="100"/>
+        <dimension name="Grade" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Roboto_Serif_Text_Wide-Super_Italic_G4.ufo" familyname="Roboto Serif Text Wide" stylename="Super G4">
+      <location>
+        <dimension name="width" xvalue="150"/>
+        <dimension name="Optical Size" xvalue="20"/>
+        <dimension name="weight" xvalue="900"/>
+        <dimension name="Grade" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="Roboto_Serif_Text_Wide-Super_Italic_G1.ufo" familyname="Roboto Serif Text Wide" stylename="Super G1">
+      <location>
+        <dimension name="width" xvalue="150"/>
+        <dimension name="Optical Size" xvalue="20"/>
+        <dimension name="weight" xvalue="900"/>
+        <dimension name="Grade" xvalue="-1"/>
+      </location>
+    </source>
+    <source filename="Roboto_Serif_Text_Wide-Regular_Italic_G4.ufo" familyname="Roboto Serif Text Wide" stylename="Regular G4">
+      <location>
+        <dimension name="width" xvalue="150"/>
+        <dimension name="Optical Size" xvalue="20"/>
+        <dimension name="weight" xvalue="400"/>
+        <dimension name="Grade" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="Roboto_Serif_Text_Wide-Regular_Italic_G1.ufo" familyname="Roboto Serif Text Wide" stylename="Regular G1">
+      <location>
+        <dimension name="width" xvalue="150"/>
+        <dimension name="Optical Size" xvalue="20"/>
+        <dimension name="weight" xvalue="400"/>
+        <dimension name="Grade" xvalue="-1"/>
+      </location>
+    </source>
+    <source filename="Roboto_Serif_Text_Wide-Hairline_Italic_G4.ufo" familyname="Roboto Serif Text Wide" stylename="Hairline G4">
+      <location>
+        <dimension name="width" xvalue="150"/>
+        <dimension name="Optical Size" xvalue="20"/>
+        <dimension name="weight" xvalue="100"/>
+        <dimension name="Grade" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="Roboto_Serif_Text_Wide-Hairline_Italic_G1.ufo" familyname="Roboto Serif Text Wide" stylename="Hairline G1">
+      <location>
+        <dimension name="width" xvalue="150"/>
+        <dimension name="Optical Size" xvalue="20"/>
+        <dimension name="weight" xvalue="100"/>
+        <dimension name="Grade" xvalue="-1"/>
+      </location>
+    </source>
+    <source filename="Roboto_Serif_Text_Cond-Super_Italic.ufo" familyname="Roboto Serif Text Cond" stylename="Super">
+      <location>
+        <dimension name="width" xvalue="50"/>
+        <dimension name="Optical Size" xvalue="20"/>
+        <dimension name="weight" xvalue="900"/>
+        <dimension name="Grade" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Roboto_Serif_Text_Cond-Regular_Italic.ufo" familyname="Roboto Serif Text Cond" stylename="Regular">
+      <location>
+        <dimension name="width" xvalue="50"/>
+        <dimension name="Optical Size" xvalue="20"/>
+        <dimension name="weight" xvalue="400"/>
+        <dimension name="Grade" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Roboto_Serif_Text_Cond-Hairline_Italic.ufo" familyname="Roboto Serif Text Cond" stylename="Hairline">
+      <location>
+        <dimension name="width" xvalue="50"/>
+        <dimension name="Optical Size" xvalue="20"/>
+        <dimension name="weight" xvalue="100"/>
+        <dimension name="Grade" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Roboto_Serif_Text_Cond-Super_Italic_G4.ufo" familyname="Roboto Serif Text Cond" stylename="Super G4">
+      <location>
+        <dimension name="width" xvalue="50"/>
+        <dimension name="Optical Size" xvalue="20"/>
+        <dimension name="weight" xvalue="900"/>
+        <dimension name="Grade" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="Roboto_Serif_Text_Cond-Super_Italic_G1.ufo" familyname="Roboto Serif Text Cond" stylename="Super G1">
+      <location>
+        <dimension name="width" xvalue="50"/>
+        <dimension name="Optical Size" xvalue="20"/>
+        <dimension name="weight" xvalue="900"/>
+        <dimension name="Grade" xvalue="-1"/>
+      </location>
+    </source>
+    <source filename="Roboto_Serif_Text_Cond-Regular_Italic_G4.ufo" familyname="Roboto Serif Text Cond" stylename="Regular G4">
+      <location>
+        <dimension name="width" xvalue="50"/>
+        <dimension name="Optical Size" xvalue="20"/>
+        <dimension name="weight" xvalue="400"/>
+        <dimension name="Grade" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="Roboto_Serif_Text_Cond-Regular_Italic_G1.ufo" familyname="Roboto Serif Text Cond" stylename="Regular G1">
+      <location>
+        <dimension name="width" xvalue="50"/>
+        <dimension name="Optical Size" xvalue="20"/>
+        <dimension name="weight" xvalue="400"/>
+        <dimension name="Grade" xvalue="-1"/>
+      </location>
+    </source>
+    <source filename="Roboto_Serif_Text_Cond-Hairline_Italic_G4.ufo" familyname="Roboto Serif Text Cond" stylename="Hairline G4">
+      <location>
+        <dimension name="width" xvalue="50"/>
+        <dimension name="Optical Size" xvalue="20"/>
+        <dimension name="weight" xvalue="100"/>
+        <dimension name="Grade" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="Roboto_Serif_Text_Cond-Hairline_Italic_G1.ufo" familyname="Roboto Serif Text Cond" stylename="Hairline G1">
+      <location>
+        <dimension name="width" xvalue="50"/>
+        <dimension name="Optical Size" xvalue="20"/>
+        <dimension name="weight" xvalue="100"/>
+        <dimension name="Grade" xvalue="-1"/>
+      </location>
+    </source>
+    <source filename="Roboto_Serif_Micro-Super_Italic.ufo" familyname="Roboto Serif Micro" stylename="Super">
+      <location>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Optical Size" xvalue="8"/>
+        <dimension name="weight" xvalue="900"/>
+        <dimension name="Grade" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Roboto_Serif_Micro-Regular_Italic.ufo" familyname="Roboto Serif Micro" stylename="Regular">
+      <location>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Optical Size" xvalue="8"/>
+        <dimension name="weight" xvalue="400"/>
+        <dimension name="Grade" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Roboto_Serif_Micro-Hairline_Italic.ufo" familyname="Roboto Serif Micro" stylename="Hairline">
+      <location>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Optical Size" xvalue="8"/>
+        <dimension name="weight" xvalue="100"/>
+        <dimension name="Grade" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Roboto_Serif_Micro_Wide-Super_Italic.ufo" familyname="Roboto Serif Micro Wide" stylename="Super">
+      <location>
+        <dimension name="width" xvalue="150"/>
+        <dimension name="Optical Size" xvalue="8"/>
+        <dimension name="weight" xvalue="900"/>
+        <dimension name="Grade" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Roboto_Serif_Micro_Wide-Regular_Italic.ufo" familyname="Roboto Serif Micro Wide" stylename="Regular">
+      <location>
+        <dimension name="width" xvalue="150"/>
+        <dimension name="Optical Size" xvalue="8"/>
+        <dimension name="weight" xvalue="400"/>
+        <dimension name="Grade" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Roboto_Serif_Micro_Wide-Hairline_Italic.ufo" familyname="Roboto Serif Micro Wide" stylename="Hairline">
+      <location>
+        <dimension name="width" xvalue="150"/>
+        <dimension name="Optical Size" xvalue="8"/>
+        <dimension name="weight" xvalue="100"/>
+        <dimension name="Grade" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Roboto_Serif_Micro_Cond-Super_Italic.ufo" familyname="Roboto Serif Micro Cond" stylename="Super">
+      <location>
+        <dimension name="width" xvalue="50"/>
+        <dimension name="Optical Size" xvalue="8"/>
+        <dimension name="weight" xvalue="900"/>
+        <dimension name="Grade" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Roboto_Serif_Micro_Cond-Regular_Italic.ufo" familyname="Roboto Serif Micro Cond" stylename="Regular">
+      <location>
+        <dimension name="width" xvalue="50"/>
+        <dimension name="Optical Size" xvalue="8"/>
+        <dimension name="weight" xvalue="400"/>
+        <dimension name="Grade" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Roboto_Serif_Micro_Cond-Hairline_Italic.ufo" familyname="Roboto Serif Micro Cond" stylename="Hairline">
+      <location>
+        <dimension name="width" xvalue="50"/>
+        <dimension name="Optical Size" xvalue="8"/>
+        <dimension name="weight" xvalue="100"/>
+        <dimension name="Grade" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Roboto_Serif_Display-Super_Italic.ufo" familyname="Roboto Serif Display" stylename="Super">
+      <location>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Optical Size" xvalue="144"/>
+        <dimension name="weight" xvalue="900"/>
+        <dimension name="Grade" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Roboto_Serif_Display-Regular_Italic.ufo" familyname="Roboto Serif Display" stylename="Regular">
+      <location>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Optical Size" xvalue="144"/>
+        <dimension name="weight" xvalue="400"/>
+        <dimension name="Grade" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Roboto_Serif_Display-Hairline_Italic.ufo" familyname="Roboto Serif Display" stylename="Hairline">
+      <location>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Optical Size" xvalue="144"/>
+        <dimension name="weight" xvalue="100"/>
+        <dimension name="Grade" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Roboto_Serif_Display_Wide-Super_Italic.ufo" familyname="Roboto Serif Display Wide" stylename="Super">
+      <location>
+        <dimension name="width" xvalue="150"/>
+        <dimension name="Optical Size" xvalue="144"/>
+        <dimension name="weight" xvalue="900"/>
+        <dimension name="Grade" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Roboto_Serif_Display_Wide-Regular_Italic.ufo" familyname="Roboto Serif Display Wide" stylename="Regular">
+      <location>
+        <dimension name="width" xvalue="150"/>
+        <dimension name="Optical Size" xvalue="144"/>
+        <dimension name="weight" xvalue="400"/>
+        <dimension name="Grade" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Roboto_Serif_Display_Wide-Hairline_Italic.ufo" familyname="Roboto Serif Display Wide" stylename="Hairline">
+      <location>
+        <dimension name="width" xvalue="150"/>
+        <dimension name="Optical Size" xvalue="144"/>
+        <dimension name="weight" xvalue="100"/>
+        <dimension name="Grade" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Roboto_Serif_Display_Cond-Super_Italic.ufo" familyname="Roboto Serif Display Cond" stylename="Super">
+      <location>
+        <dimension name="width" xvalue="50"/>
+        <dimension name="Optical Size" xvalue="144"/>
+        <dimension name="weight" xvalue="900"/>
+        <dimension name="Grade" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Roboto_Serif_Display_Cond-Regular_Italic.ufo" familyname="Roboto Serif Display Cond" stylename="Regular">
+      <location>
+        <dimension name="width" xvalue="50"/>
+        <dimension name="Optical Size" xvalue="144"/>
+        <dimension name="weight" xvalue="400"/>
+        <dimension name="Grade" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Roboto_Serif_Display_Cond-Hairline_Italic.ufo" familyname="Roboto Serif Display Cond" stylename="Hairline">
+      <location>
+        <dimension name="width" xvalue="50"/>
+        <dimension name="Optical Size" xvalue="144"/>
+        <dimension name="weight" xvalue="100"/>
+        <dimension name="Grade" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Roboto_Serif_Display_Cond-Super_Italic_G4.ufo" familyname="Roboto Serif Display Cond" stylename="Super G4">
+      <location>
+        <dimension name="width" xvalue="50"/>
+        <dimension name="Optical Size" xvalue="144"/>
+        <dimension name="weight" xvalue="900"/>
+        <dimension name="Grade" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="Roboto_Serif_Display_Cond-Super_Italic_G1.ufo" familyname="Roboto Serif Display Cond" stylename="Super G1">
+      <location>
+        <dimension name="width" xvalue="50"/>
+        <dimension name="Optical Size" xvalue="144"/>
+        <dimension name="weight" xvalue="900"/>
+        <dimension name="Grade" xvalue="-1"/>
+      </location>
+    </source>
+    <source filename="Roboto_Serif_Display_Cond-Regular_Italic_G4.ufo" familyname="Roboto Serif Display Cond" stylename="Regular G4">
+      <location>
+        <dimension name="width" xvalue="50"/>
+        <dimension name="Optical Size" xvalue="144"/>
+        <dimension name="weight" xvalue="400"/>
+        <dimension name="Grade" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="Roboto_Serif_Display_Cond-Regular_Italic_G1.ufo" familyname="Roboto Serif Display Cond" stylename="Regular G1">
+      <location>
+        <dimension name="width" xvalue="50"/>
+        <dimension name="Optical Size" xvalue="144"/>
+        <dimension name="weight" xvalue="400"/>
+        <dimension name="Grade" xvalue="-1"/>
+      </location>
+    </source>
+    <source filename="Roboto_Serif_Display_Cond-Hairline_Italic_G4.ufo" familyname="Roboto Serif Display Cond" stylename="Hairline G4">
+      <location>
+        <dimension name="width" xvalue="50"/>
+        <dimension name="Optical Size" xvalue="144"/>
+        <dimension name="weight" xvalue="100"/>
+        <dimension name="Grade" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="Roboto_Serif_Display_Cond-Hairline_Italic_G1.ufo" familyname="Roboto Serif Display Cond" stylename="Hairline G1">
+      <location>
+        <dimension name="width" xvalue="50"/>
+        <dimension name="Optical Size" xvalue="144"/>
+        <dimension name="weight" xvalue="100"/>
+        <dimension name="Grade" xvalue="-1"/>
+      </location>
+    </source>
+    <source filename="Roboto_Serif_Display_Wide-Super_Italic_G4.ufo" familyname="Roboto Serif Display Wide" stylename="Super G4">
+      <location>
+        <dimension name="width" xvalue="150"/>
+        <dimension name="Optical Size" xvalue="144"/>
+        <dimension name="weight" xvalue="900"/>
+        <dimension name="Grade" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="Roboto_Serif_Display_Wide-Super_Italic_G1.ufo" familyname="Roboto Serif Display Wide" stylename="Super G1">
+      <location>
+        <dimension name="width" xvalue="150"/>
+        <dimension name="Optical Size" xvalue="144"/>
+        <dimension name="weight" xvalue="900"/>
+        <dimension name="Grade" xvalue="-1"/>
+      </location>
+    </source>
+    <source filename="Roboto_Serif_Display_Wide-Regular_Italic_G4.ufo" familyname="Roboto Serif Display Wide" stylename="Regular G4">
+      <location>
+        <dimension name="width" xvalue="150"/>
+        <dimension name="Optical Size" xvalue="144"/>
+        <dimension name="weight" xvalue="400"/>
+        <dimension name="Grade" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="Roboto_Serif_Display_Wide-Regular_Italic_G1.ufo" familyname="Roboto Serif Display Wide" stylename="Regular G1">
+      <location>
+        <dimension name="width" xvalue="150"/>
+        <dimension name="Optical Size" xvalue="144"/>
+        <dimension name="weight" xvalue="400"/>
+        <dimension name="Grade" xvalue="-1"/>
+      </location>
+    </source>
+    <source filename="Roboto_Serif_Display_Wide-Hairline_Italic_G4.ufo" familyname="Roboto Serif Display Wide" stylename="Hairline G4">
+      <location>
+        <dimension name="width" xvalue="150"/>
+        <dimension name="Optical Size" xvalue="144"/>
+        <dimension name="weight" xvalue="100"/>
+        <dimension name="Grade" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="Roboto_Serif_Display_Wide-Hairline_Italic_G1.ufo" familyname="Roboto Serif Display Wide" stylename="Hairline G1">
+      <location>
+        <dimension name="width" xvalue="150"/>
+        <dimension name="Optical Size" xvalue="144"/>
+        <dimension name="weight" xvalue="100"/>
+        <dimension name="Grade" xvalue="-1"/>
+      </location>
+    </source>
+    <source filename="Roboto_Serif_Micro_Cond-Super_Italic_G4.ufo" familyname="Roboto Serif Micro Cond" stylename="Super G4">
+      <location>
+        <dimension name="width" xvalue="50"/>
+        <dimension name="Optical Size" xvalue="8"/>
+        <dimension name="weight" xvalue="900"/>
+        <dimension name="Grade" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="Roboto_Serif_Micro_Cond-Super_Italic_G1.ufo" familyname="Roboto Serif Micro Cond" stylename="Super G1">
+      <location>
+        <dimension name="width" xvalue="50"/>
+        <dimension name="Optical Size" xvalue="8"/>
+        <dimension name="weight" xvalue="900"/>
+        <dimension name="Grade" xvalue="-1"/>
+      </location>
+    </source>
+    <source filename="Roboto_Serif_Micro_Cond-Regular_Italic_G4.ufo" familyname="Roboto Serif Micro Cond" stylename="Regular G4">
+      <location>
+        <dimension name="width" xvalue="50"/>
+        <dimension name="Optical Size" xvalue="8"/>
+        <dimension name="weight" xvalue="400"/>
+        <dimension name="Grade" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="Roboto_Serif_Micro_Cond-Regular_Italic_G1.ufo" familyname="Roboto Serif Micro Cond" stylename="Regular G1">
+      <location>
+        <dimension name="width" xvalue="50"/>
+        <dimension name="Optical Size" xvalue="8"/>
+        <dimension name="weight" xvalue="400"/>
+        <dimension name="Grade" xvalue="-1"/>
+      </location>
+    </source>
+    <source filename="Roboto_Serif_Micro_Cond-Hairline_Italic_G4.ufo" familyname="Roboto Serif Micro Cond" stylename="Hairline G4">
+      <location>
+        <dimension name="width" xvalue="50"/>
+        <dimension name="Optical Size" xvalue="8"/>
+        <dimension name="weight" xvalue="100"/>
+        <dimension name="Grade" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="Roboto_Serif_Micro_Cond-Hairline_Italic_G1.ufo" familyname="Roboto Serif Micro Cond" stylename="Hairline G1">
+      <location>
+        <dimension name="width" xvalue="50"/>
+        <dimension name="Optical Size" xvalue="8"/>
+        <dimension name="weight" xvalue="100"/>
+        <dimension name="Grade" xvalue="-1"/>
+      </location>
+    </source>
+    <source filename="Roboto_Serif_Micro_Wide-Super_Italic_G4.ufo" familyname="Roboto Serif Micro Wide" stylename="Super G4">
+      <location>
+        <dimension name="width" xvalue="150"/>
+        <dimension name="Optical Size" xvalue="8"/>
+        <dimension name="weight" xvalue="900"/>
+        <dimension name="Grade" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="Roboto_Serif_Micro_Wide-Super_Italic_G1.ufo" familyname="Roboto Serif Micro Wide" stylename="Super G1">
+      <location>
+        <dimension name="width" xvalue="150"/>
+        <dimension name="Optical Size" xvalue="8"/>
+        <dimension name="weight" xvalue="900"/>
+        <dimension name="Grade" xvalue="-1"/>
+      </location>
+    </source>
+    <source filename="Roboto_Serif_Micro_Wide-Regular_Italic_G4.ufo" familyname="Roboto Serif Micro Wide" stylename="Regular G4">
+      <location>
+        <dimension name="width" xvalue="150"/>
+        <dimension name="Optical Size" xvalue="8"/>
+        <dimension name="weight" xvalue="400"/>
+        <dimension name="Grade" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="Roboto_Serif_Micro_Wide-Regular_Italic_G1.ufo" familyname="Roboto Serif Micro Wide" stylename="Regular G1">
+      <location>
+        <dimension name="width" xvalue="150"/>
+        <dimension name="Optical Size" xvalue="8"/>
+        <dimension name="weight" xvalue="400"/>
+        <dimension name="Grade" xvalue="-1"/>
+      </location>
+    </source>
+    <source filename="Roboto_Serif_Micro_Wide-Hairline_Italic_G4.ufo" familyname="Roboto Serif Micro Wide" stylename="Hairline G4">
+      <location>
+        <dimension name="width" xvalue="150"/>
+        <dimension name="Optical Size" xvalue="8"/>
+        <dimension name="weight" xvalue="100"/>
+        <dimension name="Grade" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="Roboto_Serif_Micro_Wide-Hairline_Italic_G1.ufo" familyname="Roboto Serif Micro Wide" stylename="Hairline G1">
+      <location>
+        <dimension name="width" xvalue="150"/>
+        <dimension name="Optical Size" xvalue="8"/>
+        <dimension name="weight" xvalue="100"/>
+        <dimension name="Grade" xvalue="-1"/>
+      </location>
+    </source>
+    <source filename="Roboto_Serif_Micro-Super_Italic_G4.ufo" familyname="Roboto Serif Micro" stylename="Super Italic G4">
+      <location>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Optical Size" xvalue="8"/>
+        <dimension name="weight" xvalue="900"/>
+        <dimension name="Grade" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="Roboto_Serif_Micro-Super_Italic_G1.ufo" familyname="Roboto Serif Micro" stylename="Super Italic G1">
+      <location>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Optical Size" xvalue="8"/>
+        <dimension name="weight" xvalue="900"/>
+        <dimension name="Grade" xvalue="-1"/>
+      </location>
+    </source>
+    <source filename="Roboto_Serif_Micro-Regular_Italic_G4.ufo" familyname="Roboto Serif Micro" stylename="Regular Italic G4">
+      <location>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Optical Size" xvalue="8"/>
+        <dimension name="weight" xvalue="400"/>
+        <dimension name="Grade" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="Roboto_Serif_Micro-Regular_Italic_G1.ufo" familyname="Roboto Serif Micro" stylename="Regular Italic G1">
+      <location>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Optical Size" xvalue="8"/>
+        <dimension name="weight" xvalue="400"/>
+        <dimension name="Grade" xvalue="-1"/>
+      </location>
+    </source>
+    <source filename="Roboto_Serif_Micro-Hairline_Italic_G4.ufo" familyname="Roboto Serif" stylename="Hairline Italic G4">
+      <location>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Optical Size" xvalue="8"/>
+        <dimension name="weight" xvalue="100"/>
+        <dimension name="Grade" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="Roboto_Serif_Micro-Hairline_Italic_G1.ufo" familyname="Roboto Serif Micro" stylename="Hairline Italic G1">
+      <location>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Optical Size" xvalue="8"/>
+        <dimension name="weight" xvalue="100"/>
+        <dimension name="Grade" xvalue="-1"/>
+      </location>
+    </source>
+    <source filename="Roboto_Serif_Display-Super_Italic_G4.ufo" familyname="Roboto Serif Display" stylename="Super Italic G4">
+      <location>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Optical Size" xvalue="144"/>
+        <dimension name="weight" xvalue="900"/>
+        <dimension name="Grade" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="Roboto_Serif_Display-Super_Italic_G1.ufo" familyname="Roboto Serif Display" stylename="Super Italic G1">
+      <location>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Optical Size" xvalue="144"/>
+        <dimension name="weight" xvalue="900"/>
+        <dimension name="Grade" xvalue="-1"/>
+      </location>
+    </source>
+    <source filename="Roboto_Serif_Display-Regular_Italic_G4.ufo" familyname="Roboto Serif Display" stylename="Regular Italic G4">
+      <location>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Optical Size" xvalue="144"/>
+        <dimension name="weight" xvalue="400"/>
+        <dimension name="Grade" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="Roboto_Serif_Display-Regular_Italic_G1.ufo" familyname="Roboto Serif Display" stylename="Regular Italic G1">
+      <location>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Optical Size" xvalue="144"/>
+        <dimension name="weight" xvalue="400"/>
+        <dimension name="Grade" xvalue="-1"/>
+      </location>
+    </source>
+    <source filename="Roboto_Serif_Display-Hairline_Italic_G4.ufo" familyname="Roboto Serif Display" stylename="Hairline Italic G4">
+      <location>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Optical Size" xvalue="144"/>
+        <dimension name="weight" xvalue="100"/>
+        <dimension name="Grade" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="Roboto_Serif_Display-Hairline_Italic_G1.ufo" familyname="Roboto Serif Display" stylename="Hairline Italic G1">
+      <location>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Optical Size" xvalue="144"/>
+        <dimension name="weight" xvalue="100"/>
+        <dimension name="Grade" xvalue="-1"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance familyname="Roboto Serif" stylename="Thin Italic">
+      <location>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Optical Size" xvalue="20"/>
+        <dimension name="weight" xvalue="900"/>
+        <dimension name="Grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif" stylename="ExtraLight Italic">
+      <location>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Optical Size" xvalue="20"/>
+        <dimension name="weight" xvalue="900"/>
+        <dimension name="Grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif" stylename="Light Italic">
+      <location>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Optical Size" xvalue="20"/>
+        <dimension name="weight" xvalue="900"/>
+        <dimension name="Grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif" stylename="Regular Italic">
+      <location>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Optical Size" xvalue="20"/>
+        <dimension name="weight" xvalue="900"/>
+        <dimension name="Grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif" stylename="Medium Italic">
+      <location>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Optical Size" xvalue="20"/>
+        <dimension name="weight" xvalue="900"/>
+        <dimension name="Grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif" stylename="SemiBold Italic">
+      <location>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Optical Size" xvalue="20"/>
+        <dimension name="weight" xvalue="900"/>
+        <dimension name="Grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif" stylename="Bold Italic">
+      <location>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Optical Size" xvalue="20"/>
+        <dimension name="weight" xvalue="900"/>
+        <dimension name="Grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif" stylename="ExtraBold Italic">
+      <location>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Optical Size" xvalue="20"/>
+        <dimension name="weight" xvalue="900"/>
+        <dimension name="Grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Roboto Serif" stylename="Black Italic">
+      <location>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Optical Size" xvalue="20"/>
+        <dimension name="weight" xvalue="900"/>
+        <dimension name="Grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+  </instances>
+  <lib>
+    <dict>
+      <key>com.letterror.mathModelPref</key>
+      <string>previewVarLib</string>
+    </dict>
+  </lib>
+</designspace>

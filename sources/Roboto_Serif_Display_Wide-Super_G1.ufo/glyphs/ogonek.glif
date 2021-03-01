@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ogonek" format="2">
+  <advance width="730"/>
+  <unicode hex="02DB"/>
+  <anchor x="433" y="9" name="_right"/>
+  <outline>
+    <contour>
+      <point x="490" y="15" type="line"/>
+      <point x="233" y="-13"/>
+      <point x="177" y="-81"/>
+      <point x="177" y="-139" type="curve" smooth="yes"/>
+      <point x="177" y="-204"/>
+      <point x="237" y="-246"/>
+      <point x="341" y="-246" type="curve" smooth="yes"/>
+      <point x="425" y="-246"/>
+      <point x="484" y="-208"/>
+      <point x="518" y="-167" type="curve"/>
+      <point x="498" y="-147" type="line"/>
+      <point x="476" y="-169"/>
+      <point x="451" y="-181"/>
+      <point x="428" y="-181" type="curve" smooth="yes"/>
+      <point x="392" y="-181"/>
+      <point x="370" y="-160"/>
+      <point x="370" y="-121" type="curve" smooth="yes"/>
+      <point x="370" y="-80"/>
+      <point x="394" y="-33"/>
+      <point x="480" y="8" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_right</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+        <key>right</key>
+        <dict>
+          <key>name</key>
+          <string>_right</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>above</key>
+        <dict>
+          <key>name</key>
+          <string>origin</string>
+          <key>type</key>
+          <string>glyphMetric</string>
+        </dict>
+        <key>top</key>
+        <dict>
+          <key>name</key>
+          <string>origin</string>
+          <key>type</key>
+          <string>glyphMetric</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>1,1,0.4,1</string>
+    </dict>
+  </lib>
+</glyph>

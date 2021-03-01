@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ldot" format="2">
+  <advance width="665"/>
+  <unicode hex="0140"/>
+  <outline>
+    <contour>
+      <point x="351" y="735" type="line"/>
+      <point x="351" y="98" type="line" smooth="yes"/>
+      <point x="351" y="80" name="inserted"/>
+      <point x="363" y="71"/>
+      <point x="387" y="71" type="curve" smooth="yes"/>
+      <point x="388" y="71" type="line"/>
+      <point x="388" y="0" type="line"/>
+      <point x="22" y="0" type="line"/>
+      <point x="22" y="71" type="line"/>
+      <point x="23" y="71" type="line" smooth="yes"/>
+      <point x="48" y="71" name="inserted"/>
+      <point x="60" y="80"/>
+      <point x="60" y="98" type="curve" smooth="yes"/>
+      <point x="60" y="630" type="line" smooth="yes"/>
+      <point x="60" y="647"/>
+      <point x="53" y="652"/>
+      <point x="29" y="659" type="curve" smooth="yes"/>
+      <point x="21" y="661" type="line"/>
+      <point x="21" y="735" type="line"/>
+    </contour>
+    <contour>
+      <point x="687" y="410"/>
+      <point x="687" y="329"/>
+      <point x="639" y="289" type="curve" smooth="yes" name="inserted"/>
+      <point x="590" y="248"/>
+      <point x="486" y="248"/>
+      <point x="438" y="289" type="curve" smooth="yes" name="inserted"/>
+      <point x="389" y="329"/>
+      <point x="389" y="410"/>
+      <point x="438" y="452" type="curve" smooth="yes" name="inserted"/>
+      <point x="486" y="494"/>
+      <point x="590" y="494"/>
+      <point x="639" y="452" type="curve" smooth="yes" name="inserted"/>
+    </contour>
+  </outline>
+</glyph>

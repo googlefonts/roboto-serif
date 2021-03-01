@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Sdotbelowdotaccent" format="2">
+  <advance width="764"/>
+  <unicode hex="1E68"/>
+  <outline>
+    <component base="S"/>
+    <component base="dotaccent.uc" xOffset="197" yOffset="21"/>
+    <component base="dotbelow" xOffset="353"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.compileType</key>
+      <string>manual</string>
+    </dict>
+  </lib>
+</glyph>

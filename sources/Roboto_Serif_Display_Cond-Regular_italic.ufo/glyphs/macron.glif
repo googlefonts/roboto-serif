@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macron" format="2">
+  <advance width="340"/>
+  <unicode hex="00AF"/>
+  <anchor x="170.0" y="526" name="_top"/>
+  <outline>
+    <contour>
+      <point x="124" y="653" type="line"/>
+      <point x="118" y="618" type="line"/>
+      <point x="326" y="618" type="line"/>
+      <point x="332" y="653" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>xHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>1,0.6568,1,1</string>
+    </dict>
+  </lib>
+</glyph>

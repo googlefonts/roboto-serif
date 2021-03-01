@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macronbelow" format="2">
+  <advance width="500"/>
+  <guideline x="445" y="-94" angle="0" identifier="q4LK5aSGHd"/>
+  <guideline x="468" y="-119" angle="0" identifier="RUIwST8Ahm"/>
+  <anchor x="250.0" y="-20" name="_bottom"/>
+  <outline>
+    <component base="macron" yOffset="-760"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.RUIwST8Ahm</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.q4LK5aSGHd</key>
+      <real>5.0</real>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_bottom</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>above</key>
+        <dict>
+          <key>name</key>
+          <string>origin</string>
+          <key>type</key>
+          <string>glyphMetric</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.4,0.8,1,1</string>
+    </dict>
+  </lib>
+</glyph>

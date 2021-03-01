@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="minute" format="2">
+  <advance width="284"/>
+  <unicode hex="2032"/>
+  <outline>
+    <contour>
+      <point x="260" y="710" type="line"/>
+      <point x="242" y="604"/>
+      <point x="152" y="546"/>
+      <point x="128" y="430" type="curve"/>
+      <point x="63" y="430" type="line"/>
+      <point x="81" y="547"/>
+      <point x="19" y="612"/>
+      <point x="39" y="710" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,1,0.4,1</string>
+    </dict>
+  </lib>
+</glyph>

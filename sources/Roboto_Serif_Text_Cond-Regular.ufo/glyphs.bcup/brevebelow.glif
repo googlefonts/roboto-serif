@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevebelow" format="2">
+  <advance width="413"/>
+  <outline>
+    <contour>
+      <point x="206.0" y="-233.0" type="curve" smooth="yes"/>
+      <point x="133" y="-233"/>
+      <point x="94" y="-181"/>
+      <point x="89.0" y="-79.0" type="curve"/>
+      <point x="142.0" y="-79.0" type="line"/>
+      <point x="148" y="-140"/>
+      <point x="167" y="-166"/>
+      <point x="209.0" y="-166.0" type="curve" smooth="yes"/>
+      <point x="250" y="-166"/>
+      <point x="268" y="-141"/>
+      <point x="274.0" y="-79.0" type="curve"/>
+      <point x="323.0" y="-79.0" type="line"/>
+      <point x="319" y="-181"/>
+      <point x="280" y="-233"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_bottom</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>above</key>
+        <dict>
+          <key>name</key>
+          <string>origin</string>
+          <key>type</key>
+          <string>glyphMetric</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

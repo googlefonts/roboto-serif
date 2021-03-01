@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acute_dotaccent.uc" format="2">
+  <advance width="440"/>
+  <outline>
+    <contour>
+      <point x="199" y="873" type="curve" smooth="yes"/>
+      <point x="151" y="786" type="line"/>
+      <point x="151" y="766" type="line"/>
+      <point x="177" y="766" type="line"/>
+      <point x="246" y="812" type="line" smooth="yes"/>
+      <point x="277" y="832"/>
+      <point x="292" y="854"/>
+      <point x="292" y="877" type="curve" smooth="yes"/>
+      <point x="292" y="899"/>
+      <point x="278" y="914"/>
+      <point x="257" y="914" type="curve" smooth="yes"/>
+      <point x="236" y="914"/>
+      <point x="213" y="899"/>
+    </contour>
+    <contour>
+      <point x="212" y="939" type="curve" smooth="yes"/>
+      <point x="248" y="939"/>
+      <point x="272" y="957"/>
+      <point x="272" y="1001" type="curve" smooth="yes"/>
+      <point x="272" y="1045"/>
+      <point x="248" y="1062"/>
+      <point x="212" y="1062" type="curve" smooth="yes"/>
+      <point x="176" y="1062"/>
+      <point x="151" y="1045"/>
+      <point x="151" y="1001" type="curve" smooth="yes"/>
+      <point x="151" y="957"/>
+      <point x="176" y="939"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_top</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>capHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

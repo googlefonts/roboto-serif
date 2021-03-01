@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tilde.uc" format="2">
+  <advance width="340"/>
+  <anchor x="170.0" y="694" name="_top"/>
+  <outline>
+    <contour>
+      <point x="294.0" y="765.0" type="curve" smooth="yes"/>
+      <point x="326" y="765"/>
+      <point x="358" y="789"/>
+      <point x="376" y="863" type="curve"/>
+      <point x="352" y="872" type="line"/>
+      <point x="337" y="830"/>
+      <point x="325" y="815"/>
+      <point x="309.0" y="815.0" type="curve" smooth="yes"/>
+      <point x="279" y="815"/>
+      <point x="264" y="875"/>
+      <point x="214.0" y="875.0" type="curve" smooth="yes"/>
+      <point x="182" y="875"/>
+      <point x="150" y="851"/>
+      <point x="132" y="777" type="curve"/>
+      <point x="156" y="768" type="line"/>
+      <point x="171" y="810"/>
+      <point x="183" y="825"/>
+      <point x="199.0" y="825.0" type="curve" smooth="yes"/>
+      <point x="229" y="825"/>
+      <point x="244" y="765"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.KInitPUVFB</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.Od8rmmLnRI</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.b4r4cDwqsM</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.nP1woivgaB</key>
+      <real>5.0</real>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>capHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.6447,0.9238,1,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Oogonek" format="2">
+  <advance width="498"/>
+  <unicode hex="01EA"/>
+  <outline>
+    <contour>
+      <point x="249" y="9" type="curve" smooth="yes"/>
+      <point x="151" y="9"/>
+      <point x="123" y="136"/>
+      <point x="123" y="355" type="curve" smooth="yes"/>
+      <point x="123" y="574"/>
+      <point x="151" y="701"/>
+      <point x="249" y="701" type="curve" smooth="yes"/>
+      <point x="347" y="701"/>
+      <point x="375" y="574"/>
+      <point x="375" y="355" type="curve" smooth="yes"/>
+      <point x="375" y="136"/>
+      <point x="347" y="9"/>
+    </contour>
+    <contour>
+      <point x="315" y="0" type="curve" smooth="yes"/>
+      <point x="424" y="74"/>
+      <point x="463" y="192"/>
+      <point x="463" y="355" type="curve" smooth="yes"/>
+      <point x="463" y="572"/>
+      <point x="381" y="720"/>
+      <point x="249" y="720" type="curve" smooth="yes"/>
+      <point x="117" y="720"/>
+      <point x="35" y="572"/>
+      <point x="35" y="355" type="curve" smooth="yes"/>
+      <point x="35" y="138"/>
+      <point x="116" y="-10"/>
+      <point x="249" y="-10" type="curve" smooth="yes"/>
+      <point x="276" y="-10"/>
+      <point x="299" y="-1"/>
+      <point x="309" y="4" type="curve"/>
+      <point x="303" y="13" type="line"/>
+      <point x="237" y="-38"/>
+      <point x="199" y="-89"/>
+      <point x="199" y="-142" type="curve" smooth="yes"/>
+      <point x="199" y="-188"/>
+      <point x="223" y="-223"/>
+      <point x="277" y="-223" type="curve" smooth="yes"/>
+      <point x="314" y="-223"/>
+      <point x="345" y="-207"/>
+      <point x="362" y="-181" type="curve"/>
+      <point x="354" y="-171" type="line"/>
+      <point x="344" y="-182"/>
+      <point x="325" y="-193"/>
+      <point x="305" y="-193" type="curve" smooth="yes"/>
+      <point x="277" y="-193"/>
+      <point x="261" y="-176"/>
+      <point x="261" y="-126" type="curve" smooth="yes"/>
+      <point x="261" y="-89"/>
+      <point x="252" y="-35"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.compileType</key>
+      <string>manual</string>
+      <key>public.markColor</key>
+      <string>1,0.5769,0,1</string>
+      <key>rb_smoothie_points</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

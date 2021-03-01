@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tilde.uc" format="2">
+  <advance width="412"/>
+  <outline>
+    <contour>
+      <point x="260" y="762" type="curve" smooth="yes"/>
+      <point x="307" y="762"/>
+      <point x="337" y="791"/>
+      <point x="344" y="875" type="curve"/>
+      <point x="300" y="886" type="line"/>
+      <point x="292" y="843"/>
+      <point x="283" y="827"/>
+      <point x="266" y="827" type="curve" smooth="yes"/>
+      <point x="232" y="827"/>
+      <point x="214" y="887"/>
+      <point x="150" y="887" type="curve" smooth="yes"/>
+      <point x="105" y="887"/>
+      <point x="78" y="860"/>
+      <point x="73" y="772" type="curve"/>
+      <point x="116" y="763" type="line"/>
+      <point x="120" y="802"/>
+      <point x="130" y="823"/>
+      <point x="148" y="823" type="curve" smooth="yes"/>
+      <point x="177" y="823"/>
+      <point x="197" y="762"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_top</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>capHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>1,0.8273,0.0492,1</string>
+    </dict>
+  </lib>
+</glyph>

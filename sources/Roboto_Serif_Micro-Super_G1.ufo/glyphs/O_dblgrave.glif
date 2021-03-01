@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Odblgrave" format="2">
+  <advance width="841"/>
+  <unicode hex="020C"/>
+  <outline>
+    <component base="O"/>
+    <component base="dblgrave.uc" xOffset="156"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.compileType</key>
+      <string>manual</string>
+    </dict>
+  </lib>
+</glyph>

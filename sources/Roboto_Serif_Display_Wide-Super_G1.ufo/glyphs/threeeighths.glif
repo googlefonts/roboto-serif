@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="threeeighths" format="2">
+  <advance width="1217"/>
+  <unicode hex="215C"/>
+  <outline>
+    <component base="three.num" xOffset="90"/>
+    <component base="fraction" xOffset="368"/>
+    <component base="eight.den" xOffset="639"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,1,0.4,1</string>
+    </dict>
+  </lib>
+</glyph>

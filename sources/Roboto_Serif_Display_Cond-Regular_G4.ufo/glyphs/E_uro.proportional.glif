@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Euro.proportional" format="2">
+  <advance width="481"/>
+  <outline>
+    <contour>
+      <point x="10" y="294" type="line"/>
+      <point x="10" y="242" type="line"/>
+      <point x="304" y="242" type="line"/>
+      <point x="304" y="294" type="line"/>
+    </contour>
+    <contour>
+      <point x="10" y="449" type="line"/>
+      <point x="10" y="397" type="line"/>
+      <point x="338" y="397" type="line"/>
+      <point x="338" y="449" type="line"/>
+    </contour>
+    <contour>
+      <point x="147" y="355" type="curve"/>
+      <point x="147" y="592"/>
+      <point x="197" y="670"/>
+      <point x="296" y="670" type="curve" smooth="yes"/>
+      <point x="359" y="670"/>
+      <point x="393" y="648"/>
+      <point x="407" y="619" type="curve"/>
+      <point x="418" y="635"/>
+      <point x="380" y="672"/>
+      <point x="357" y="681" type="curve"/>
+      <point x="357" y="570" type="line"/>
+      <point x="437" y="570" type="line"/>
+      <point x="437" y="666" type="line"/>
+      <point x="420" y="685"/>
+      <point x="373" y="720"/>
+      <point x="296" y="720" type="curve" smooth="yes"/>
+      <point x="159" y="720"/>
+      <point x="59" y="609"/>
+      <point x="59" y="355" type="curve"/>
+      <point x="59" y="102"/>
+      <point x="148" y="-10"/>
+      <point x="268" y="-10" type="curve" smooth="yes"/>
+      <point x="370" y="-10"/>
+      <point x="438" y="71"/>
+      <point x="456" y="214" type="curve"/>
+      <point x="418" y="225" type="line"/>
+      <point x="403" y="99"/>
+      <point x="343" y="42"/>
+      <point x="277" y="42" type="curve" smooth="yes"/>
+      <point x="197" y="42"/>
+      <point x="147" y="124"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.6331,0.046,1</string>
+    </dict>
+  </lib>
+</glyph>

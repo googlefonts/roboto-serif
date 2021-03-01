@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="t" format="2">
+  <advance width="383"/>
+  <unicode hex="0074"/>
+  <anchor x="160" y="675" name="top"/>
+  <anchor x="251" y="0" name="bottom"/>
+  <anchor x="300" y="681" name="right"/>
+  <outline>
+    <contour>
+      <point x="17" y="531" type="line" identifier="54Ee0zqOy7"/>
+      <point x="336" y="531" type="line" identifier="GzFFuEVDKb"/>
+      <point x="336" y="565" type="line" identifier="SYZx2Eavk6"/>
+      <point x="148" y="565" type="line" identifier="TDhHnx7j9Y"/>
+      <point x="124" y="640" type="line" identifier="bdM5ezJ88E"/>
+      <point x="124" y="569" identifier="WFpJxphXTp"/>
+      <point x="111" y="560" identifier="2HupIiIXVx"/>
+      <point x="51" y="560" type="curve" smooth="yes" identifier="VYUUzpRkps"/>
+      <point x="17" y="560" type="line" identifier="wT9v3auvNS"/>
+    </contour>
+    <contour>
+      <point x="153" y="118" type="curve" smooth="yes" identifier="IavN0B42RE"/>
+      <point x="153" y="734" type="line" identifier="mx7Kkok83N"/>
+      <point x="124" y="734" type="line" identifier="0JzJUvTT10"/>
+      <point x="124" y="561" type="line" identifier="gYuubW7gSZ"/>
+      <point x="120" y="552" type="line" identifier="AvpBliZz7W"/>
+      <point x="120" y="118" type="line" smooth="yes" identifier="NOLkT5emPc"/>
+      <point x="120" y="13" identifier="MhZo4Bve4V"/>
+      <point x="186" y="-12" identifier="PtHuHjui6g"/>
+      <point x="252" y="-12" type="curve" smooth="yes" identifier="ApDxumvQ0N"/>
+      <point x="279" y="-12" identifier="vrzCgvoNcm"/>
+      <point x="315" y="-8" identifier="46ArRopIbm"/>
+      <point x="335" y="-1" type="curve" identifier="RHIYhSFwm8"/>
+      <point x="335" y="29" type="line" identifier="hmHGUiZGEX"/>
+      <point x="330" y="28" identifier="MS7nbNGVpY"/>
+      <point x="297" y="21" identifier="9aZMDn4tvn"/>
+      <point x="257" y="21" type="curve" smooth="yes" identifier="k5tBSWN2iH"/>
+      <point x="207" y="21" identifier="loDGCPYT7Z"/>
+      <point x="153" y="38" identifier="55juAkinpr"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>bottom</key>
+        <dict>
+          <key>name</key>
+          <string>origin</string>
+          <key>type</key>
+          <string>glyphMetric</string>
+        </dict>
+        <key>top</key>
+        <dict>
+          <key>name</key>
+          <string>xHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>1,0.5769,0,1</string>
+      <key>rb_smoothie_points</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

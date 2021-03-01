@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresis.uc" format="2">
+  <advance width="500"/>
+  <anchor x="250.0" y="694" name="_top"/>
+  <outline>
+    <contour>
+      <point x="177" y="784"/>
+      <point x="203" y="807"/>
+      <point x="203" y="844" type="curve" smooth="yes"/>
+      <point x="203" y="880"/>
+      <point x="177" y="903"/>
+      <point x="143" y="903" type="curve" smooth="yes"/>
+      <point x="109" y="903"/>
+      <point x="83" y="880"/>
+      <point x="83" y="844" type="curve" smooth="yes"/>
+      <point x="83" y="807"/>
+      <point x="109" y="784"/>
+      <point x="143" y="784" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="391" y="784"/>
+      <point x="417" y="807"/>
+      <point x="417" y="844" type="curve" smooth="yes"/>
+      <point x="417" y="880"/>
+      <point x="391" y="903"/>
+      <point x="357" y="903" type="curve" smooth="yes"/>
+      <point x="323" y="903"/>
+      <point x="297" y="880"/>
+      <point x="297" y="844" type="curve" smooth="yes"/>
+      <point x="297" y="807"/>
+      <point x="323" y="784"/>
+      <point x="357" y="784" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

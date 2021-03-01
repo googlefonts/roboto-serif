@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Amacron" format="2">
+  <advance width="822"/>
+  <unicode hex="0100"/>
+  <outline>
+    <component base="A"/>
+    <component base="macron.uc" xOffset="235" yOffset="-20"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.compileType</key>
+      <string>manual</string>
+    </dict>
+  </lib>
+</glyph>

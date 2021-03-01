@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="numero" format="2">
+  <advance width="1039"/>
+  <unicode hex="2116"/>
+  <outline>
+    <contour>
+      <point x="686.0" y="236.0" type="line"/>
+      <point x="968.0" y="236.0" type="line"/>
+      <point x="968.0" y="186.0" type="line"/>
+      <point x="686.0" y="186.0" type="line"/>
+    </contour>
+    <component base="N"/>
+    <component base="ordmasculine" xOffset="609"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.6331,0.046,1</string>
+    </dict>
+  </lib>
+</glyph>

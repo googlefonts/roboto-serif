@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflex" format="2">
+  <advance width="420"/>
+  <unicode hex="02C6"/>
+  <anchor x="206" y="529" name="_top"/>
+  <outline>
+    <contour>
+      <point x="297" y="730" type="line"/>
+      <point x="397" y="576" type="line"/>
+      <point x="397" y="557" type="line"/>
+      <point x="355" y="557" type="line"/>
+      <point x="204" y="651" type="line"/>
+      <point x="246" y="651" type="line"/>
+      <point x="94" y="557" type="line"/>
+      <point x="61" y="557" type="line"/>
+      <point x="61" y="576" type="line"/>
+      <point x="162" y="730" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_top</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>xHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>1,0.5769,0,1</string>
+    </dict>
+  </lib>
+</glyph>

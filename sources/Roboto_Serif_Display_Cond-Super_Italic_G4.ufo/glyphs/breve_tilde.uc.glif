@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="breve_tilde.uc" format="2">
+  <advance width="351"/>
+  <anchor x="199" y="694" name="_top"/>
+  <outline>
+    <contour>
+      <point x="328" y="934" type="curve" smooth="yes"/>
+      <point x="373" y="934"/>
+      <point x="400" y="980"/>
+      <point x="418" y="1066" type="curve"/>
+      <point x="372" y="1084" type="line"/>
+      <point x="360" y="1048"/>
+      <point x="346" y="1038"/>
+      <point x="337" y="1038" type="curve"/>
+      <point x="308" y="1038"/>
+      <point x="290" y="1078"/>
+      <point x="247" y="1078" type="curve" smooth="yes"/>
+      <point x="200" y="1078"/>
+      <point x="172" y="1034"/>
+      <point x="156" y="948" type="curve"/>
+      <point x="202" y="930" type="line"/>
+      <point x="212" y="960"/>
+      <point x="224" y="976"/>
+      <point x="233" y="976" type="curve" smooth="yes"/>
+      <point x="258" y="976"/>
+      <point x="286" y="934"/>
+    </contour>
+    <contour>
+      <point x="156" y="915" type="line"/>
+      <point x="153" y="897"/>
+      <point x="151" y="882"/>
+      <point x="151" y="867" type="curve" smooth="yes"/>
+      <point x="151" y="789"/>
+      <point x="202" y="756"/>
+      <point x="264" y="756" type="curve"/>
+      <point x="338" y="756"/>
+      <point x="384" y="802"/>
+      <point x="400" y="915" type="curve"/>
+      <point x="344" y="915" type="line"/>
+      <point x="332" y="873"/>
+      <point x="304" y="865"/>
+      <point x="271" y="865" type="curve" smooth="yes"/>
+      <point x="238" y="865"/>
+      <point x="209" y="873"/>
+      <point x="211" y="915" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_top</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>capHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.7167,0.7338,0.8154,1</string>
+    </dict>
+  </lib>
+</glyph>

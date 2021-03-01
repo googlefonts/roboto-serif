@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Uhorn" format="2">
+  <advance width="800"/>
+  <unicode hex="01AF"/>
+  <anchor x="399.5055624227441" y="663" name="top"/>
+  <anchor x="388.62793572311494" y="0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="64" y="63"/>
+      <point x="168" y="-10"/>
+      <point x="355" y="-10" type="curve" smooth="yes"/>
+      <point x="516" y="-10"/>
+      <point x="613" y="74"/>
+      <point x="647" y="268" type="curve" smooth="yes"/>
+      <point x="713" y="643" type="line" smooth="yes"/>
+      <point x="718" y="670"/>
+      <point x="736" y="678"/>
+      <point x="775" y="687" type="curve" smooth="yes"/>
+      <point x="865" y="708"/>
+      <point x="919" y="747"/>
+      <point x="943" y="842" type="curve"/>
+      <point x="783" y="842" type="line"/>
+      <point x="762" y="746"/>
+      <point x="749.0" y="710.0"/>
+      <point x="639" y="710" type="curve" smooth="yes"/>
+      <point x="613" y="710" type="line"/>
+      <point x="606" y="668" type="line"/>
+      <point x="614" y="668" type="line" smooth="yes"/>
+      <point x="634" y="668"/>
+      <point x="657" y="662"/>
+      <point x="655" y="648" type="curve" smooth="yes"/>
+      <point x="590" y="280" type="line" smooth="yes"/>
+      <point x="567" y="147"/>
+      <point x="519" y="85"/>
+      <point x="427" y="85" type="curve" smooth="yes"/>
+      <point x="361" y="85"/>
+      <point x="320" y="120"/>
+      <point x="320" y="208" type="curve" smooth="yes"/>
+      <point x="320" y="237"/>
+      <point x="324" y="271"/>
+      <point x="332" y="314" type="curve" smooth="yes"/>
+      <point x="392" y="658" type="line" smooth="yes"/>
+      <point x="393" y="665"/>
+      <point x="418" y="668"/>
+      <point x="437" y="668" type="curve" smooth="yes"/>
+      <point x="446" y="668" type="line"/>
+      <point x="453" y="710" type="line"/>
+      <point x="88" y="710" type="line"/>
+      <point x="81" y="668" type="line"/>
+      <point x="91" y="668" type="line" smooth="yes"/>
+      <point x="116" y="668"/>
+      <point x="133" y="662"/>
+      <point x="129" y="637" type="curve" smooth="yes"/>
+      <point x="77" y="344" type="line" smooth="yes"/>
+      <point x="69" y="299"/>
+      <point x="64" y="259"/>
+      <point x="64" y="223" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.6thPUeMA8I</key>
+      <real>5.0</real>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>bottom</key>
+        <dict>
+          <key>name</key>
+          <string>origin</string>
+          <key>type</key>
+          <string>glyphMetric</string>
+        </dict>
+        <key>top</key>
+        <dict>
+          <key>name</key>
+          <string>UC accents</string>
+          <key>type</key>
+          <string>fontGuide</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

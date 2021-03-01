@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dblgrave.uc" format="2">
+  <advance width="500"/>
+  <anchor x="290.0" y="734" name="_top"/>
+  <outline>
+    <contour>
+      <point x="231" y="854" type="line" smooth="yes"/>
+      <point x="213" y="923"/>
+      <point x="188" y="964"/>
+      <point x="128" y="964" type="curve" smooth="yes"/>
+      <point x="82" y="964"/>
+      <point x="52" y="934"/>
+      <point x="52" y="892" type="curve"/>
+      <point x="52" y="855"/>
+      <point x="60" y="832"/>
+      <point x="113" y="775" type="curve" smooth="yes"/>
+      <point x="148" y="738" type="line"/>
+      <point x="252" y="738" type="line"/>
+      <point x="248" y="787" type="line"/>
+    </contour>
+    <contour>
+      <point x="437" y="854" type="line" smooth="yes"/>
+      <point x="419" y="923"/>
+      <point x="394" y="964"/>
+      <point x="334" y="964" type="curve" smooth="yes"/>
+      <point x="288" y="964"/>
+      <point x="258" y="934"/>
+      <point x="258" y="892" type="curve"/>
+      <point x="258" y="855"/>
+      <point x="266" y="832"/>
+      <point x="319" y="775" type="curve" smooth="yes"/>
+      <point x="354" y="738" type="line"/>
+      <point x="458" y="738" type="line"/>
+      <point x="454" y="787" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_top</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>capHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.9962,1,0.5137,1</string>
+    </dict>
+  </lib>
+</glyph>

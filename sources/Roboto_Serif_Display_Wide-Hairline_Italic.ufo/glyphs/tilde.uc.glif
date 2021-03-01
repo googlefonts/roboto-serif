@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tilde.uc" format="2">
+  <advance width="630"/>
+  <anchor x="315.0" y="694" name="_top"/>
+  <outline>
+    <contour>
+      <point x="378" y="785" type="curve" smooth="yes"/>
+      <point x="419" y="785"/>
+      <point x="444" y="817"/>
+      <point x="465" y="870" type="curve"/>
+      <point x="451" y="877" type="line"/>
+      <point x="436" y="839"/>
+      <point x="418" y="817"/>
+      <point x="388" y="817" type="curve" smooth="yes"/>
+      <point x="349" y="817"/>
+      <point x="303" y="876"/>
+      <point x="256" y="876" type="curve" smooth="yes"/>
+      <point x="215" y="876"/>
+      <point x="188" y="840"/>
+      <point x="170" y="788" type="curve"/>
+      <point x="184" y="782" type="line"/>
+      <point x="196" y="819"/>
+      <point x="216" y="844"/>
+      <point x="246" y="844" type="curve" smooth="yes"/>
+      <point x="287" y="844"/>
+      <point x="330" y="785"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.KInitPUVFB</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.Od8rmmLnRI</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.b4r4cDwqsM</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.nP1woivgaB</key>
+      <real>5.0</real>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_top</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>UC accents</string>
+          <key>type</key>
+          <string>fontGuide</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>1,0,1,1</string>
+    </dict>
+  </lib>
+</glyph>

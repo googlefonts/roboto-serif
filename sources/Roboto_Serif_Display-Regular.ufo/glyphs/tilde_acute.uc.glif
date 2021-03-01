@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tilde_acute.uc" format="2">
+  <advance width="580"/>
+  <anchor x="286.99999999999994" y="694" name="_top"/>
+  <outline>
+    <component base="tilde.uc" xOffset="37"/>
+    <component base="acute.uc" xOffset="77" yOffset="160"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

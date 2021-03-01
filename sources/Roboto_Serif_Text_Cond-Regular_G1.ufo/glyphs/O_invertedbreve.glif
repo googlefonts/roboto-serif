@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Oinvertedbreve" format="2">
+  <advance width="596"/>
+  <unicode hex="020E"/>
+  <outline>
+    <component base="O"/>
+    <component base="breveinverted.uc" xOffset="93"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.compileType</key>
+      <string>manual</string>
+    </dict>
+  </lib>
+</glyph>

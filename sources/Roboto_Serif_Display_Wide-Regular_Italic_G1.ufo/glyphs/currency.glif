@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="currency" format="2">
+  <advance width="669"/>
+  <unicode hex="00A4"/>
+  <outline>
+    <contour>
+      <point x="110" y="137" type="line"/>
+      <point x="229" y="247" type="line"/>
+      <point x="205" y="263" type="line"/>
+      <point x="91" y="158" type="line"/>
+    </contour>
+    <contour>
+      <point x="132" y="592" type="line"/>
+      <point x="215" y="496" type="line"/>
+      <point x="241" y="508" type="line"/>
+      <point x="153" y="610" type="line"/>
+    </contour>
+    <contour>
+      <point x="495" y="280"/>
+      <point x="428" y="215"/>
+      <point x="336" y="215" type="curve" smooth="yes"/>
+      <point x="236" y="215"/>
+      <point x="189" y="280"/>
+      <point x="189" y="368" type="curve" smooth="yes"/>
+      <point x="189" y="468"/>
+      <point x="256" y="533"/>
+      <point x="348" y="533" type="curve" smooth="yes"/>
+      <point x="448" y="533"/>
+      <point x="495" y="468"/>
+      <point x="495" y="380" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="157" y="269"/>
+      <point x="224" y="192"/>
+      <point x="336" y="192" type="curve" smooth="yes"/>
+      <point x="446" y="192"/>
+      <point x="527" y="278"/>
+      <point x="527" y="380" type="curve" smooth="yes"/>
+      <point x="527" y="479"/>
+      <point x="460" y="556"/>
+      <point x="348" y="556" type="curve" smooth="yes"/>
+      <point x="238" y="556"/>
+      <point x="157" y="470"/>
+      <point x="157" y="368" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="536" y="137" type="line"/>
+      <point x="556" y="156" type="line"/>
+      <point x="471" y="254" type="line"/>
+      <point x="451" y="236" type="line"/>
+    </contour>
+    <contour>
+      <point x="594" y="590" type="line"/>
+      <point x="576" y="610" type="line"/>
+      <point x="460" y="506" type="line"/>
+      <point x="475" y="483" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,1,1,1</string>
+    </dict>
+  </lib>
+</glyph>

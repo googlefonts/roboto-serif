@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macron_grave.uc" format="2">
+  <advance width="466"/>
+  <anchor x="233.0" y="694" name="_top"/>
+  <outline>
+    <component base="macron.uc" xOffset="17"/>
+    <component base="grave.uc" xOffset="-29" yOffset="181"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_top</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>capHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.8392,0.8706,1,1</string>
+    </dict>
+  </lib>
+</glyph>

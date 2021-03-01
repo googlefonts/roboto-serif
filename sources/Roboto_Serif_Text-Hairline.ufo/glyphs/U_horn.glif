@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Uhorn" format="2">
+  <advance width="819"/>
+  <unicode hex="01AF"/>
+  <anchor x="412.96614268440146" y="663" name="top"/>
+  <anchor x="412.96614268440146" y="-35" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="141" y="271" type="line" smooth="yes"/>
+      <point x="141" y="68"/>
+      <point x="247" y="-10"/>
+      <point x="392" y="-10" type="curve" smooth="yes"/>
+      <point x="532" y="-10"/>
+      <point x="643" y="69"/>
+      <point x="643" y="271" type="curve" smooth="yes"/>
+      <point x="643" y="644" type="line" smooth="yes"/>
+      <point x="643" y="678"/>
+      <point x="669" y="671"/>
+      <point x="747" y="696" type="curve" smooth="yes"/>
+      <point x="829" y="722"/>
+      <point x="861" y="785"/>
+      <point x="864" y="878" type="curve"/>
+      <point x="824" y="878" type="line"/>
+      <point x="816" y="738"/>
+      <point x="762" y="710"/>
+      <point x="609" y="710" type="curve" smooth="yes"/>
+      <point x="514" y="710" type="line"/>
+      <point x="514" y="680" type="line"/>
+      <point x="523" y="680" type="line" smooth="yes"/>
+      <point x="561" y="680"/>
+      <point x="610" y="672"/>
+      <point x="610" y="658" type="curve" smooth="yes"/>
+      <point x="610" y="271" type="line" smooth="yes"/>
+      <point x="610" y="89"/>
+      <point x="517" y="24"/>
+      <point x="396" y="24" type="curve" smooth="yes"/>
+      <point x="276" y="24"/>
+      <point x="181" y="86"/>
+      <point x="181" y="271" type="curve" smooth="yes"/>
+      <point x="181" y="670" type="line" smooth="yes"/>
+      <point x="181" y="677"/>
+      <point x="230" y="680"/>
+      <point x="268" y="680" type="curve" smooth="yes"/>
+      <point x="277" y="680" type="line"/>
+      <point x="277" y="710" type="line"/>
+      <point x="45" y="710" type="line"/>
+      <point x="45" y="680" type="line"/>
+      <point x="56" y="680" type="line" smooth="yes"/>
+      <point x="105" y="680"/>
+      <point x="141" y="673"/>
+      <point x="141" y="644" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>top</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>bottom</key>
+        <dict>
+          <key>name</key>
+          <string>origin</string>
+          <key>type</key>
+          <string>glyphMetric</string>
+        </dict>
+        <key>top</key>
+        <dict>
+          <key>name</key>
+          <string>capHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.9962,1,0.5137,1</string>
+    </dict>
+  </lib>
+</glyph>

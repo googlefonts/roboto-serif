@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macron_dieresis.uc" format="2">
+  <advance width="530"/>
+  <anchor x="265.0" y="694" name="_top"/>
+  <outline>
+    <component base="macron.uc" xOffset="2"/>
+    <component base="dieresis.uc" xOffset="1" yOffset="135"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

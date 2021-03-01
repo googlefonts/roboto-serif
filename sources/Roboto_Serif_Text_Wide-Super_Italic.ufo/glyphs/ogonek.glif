@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ogonek" format="2">
+  <advance width="707"/>
+  <unicode hex="02DB"/>
+  <anchor x="417.13" y="9.0" name="_right"/>
+  <outline>
+    <contour>
+      <point x="495" y="42" type="line"/>
+      <point x="231.33116143818245" y="-10.933516832486085"/>
+      <point x="150.0" y="-55.26775956284153"/>
+      <point x="150" y="-136" type="curve" smooth="yes"/>
+      <point x="150.0" y="-207.3009708737864"/>
+      <point x="221.1222222222222" y="-244.0"/>
+      <point x="323" y="-244" type="curve" smooth="yes"/>
+      <point x="406.14606741573033" y="-244.0"/>
+      <point x="463.9979523843068" y="-218.83892358523153"/>
+      <point x="508" y="-182" type="curve"/>
+      <point x="472" y="-125" type="line"/>
+      <point x="459.74674129747683" y="-134.18994402689236"/>
+      <point x="437" y="-149"/>
+      <point x="409" y="-149" type="curve" smooth="yes"/>
+      <point x="380" y="-149.0"/>
+      <point x="364.0" y="-134.0"/>
+      <point x="364" y="-111" type="curve" smooth="yes"/>
+      <point x="364.0" y="-82.0"/>
+      <point x="380.2523225247818" y="-48.33290748896575"/>
+      <point x="518" y="13" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_right</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+        <key>right</key>
+        <dict>
+          <key>name</key>
+          <string>_right</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>above</key>
+        <dict>
+          <key>name</key>
+          <string>origin</string>
+          <key>type</key>
+          <string>glyphMetric</string>
+        </dict>
+        <key>top</key>
+        <dict>
+          <key>name</key>
+          <string>origin</string>
+          <key>type</key>
+          <string>glyphMetric</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>1,1,0.4,1</string>
+    </dict>
+  </lib>
+</glyph>

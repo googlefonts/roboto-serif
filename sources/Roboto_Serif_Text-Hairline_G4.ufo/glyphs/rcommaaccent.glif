@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rcommaaccent" format="2">
+  <advance width="364"/>
+  <unicode hex="0157"/>
+  <guideline x="119" y="16" angle="90.0" identifier="aSXTKaNNp8"/>
+  <guideline x="159" y="28" angle="90.0" identifier="DIw04jnPM6"/>
+  <outline>
+    <component base="r"/>
+    <component base="commaaccent" xOffset="-123" yOffset="-3"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.DIw04jnPM6</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.aSXTKaNNp8</key>
+      <real>5.0</real>
+      <key>com.typesupply.AccentFactory.compileType</key>
+      <string>manual</string>
+      <key>public.markColor</key>
+      <string>0.9962,1,0.5137,1</string>
+    </dict>
+  </lib>
+</glyph>

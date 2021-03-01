@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="l" format="2">
+  <advance width="341"/>
+  <unicode hex="006C"/>
+  <anchor x="178.7766990291262" y="746" name="top"/>
+  <anchor x="182.0873786407767" y="0" name="bottom"/>
+  <anchor x="296.8576051779936" y="735" name="right"/>
+  <anchor x="358.6569579288026" y="391.0" name="mid"/>
+  <outline>
+    <contour>
+      <point x="295" y="750" type="line"/>
+      <point x="16" y="750" type="line"/>
+      <point x="16" y="710" type="line"/>
+      <point x="25" y="708" type="line" smooth="yes"/>
+      <point x="44" y="704"/>
+      <point x="50" y="699"/>
+      <point x="50" y="685" type="curve" smooth="yes"/>
+      <point x="50" y="62" type="line" smooth="yes"/>
+      <point x="50" y="42"/>
+      <point x="35" y="39"/>
+      <point x="17" y="39" type="curve" smooth="yes"/>
+      <point x="16" y="39" type="line"/>
+      <point x="16" y="0" type="line"/>
+      <point x="329" y="0" type="line"/>
+      <point x="329" y="39" type="line"/>
+      <point x="328" y="39" type="line" smooth="yes"/>
+      <point x="310" y="39"/>
+      <point x="295" y="42"/>
+      <point x="295" y="62" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>bottom</key>
+        <dict>
+          <key>name</key>
+          <string>origin</string>
+          <key>type</key>
+          <string>glyphMetric</string>
+        </dict>
+        <key>top</key>
+        <dict>
+          <key>name</key>
+          <string>capHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>1,1,0.4,1</string>
+    </dict>
+  </lib>
+</glyph>

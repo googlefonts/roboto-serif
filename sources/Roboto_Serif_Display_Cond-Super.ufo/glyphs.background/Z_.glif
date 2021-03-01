@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Z" format="2">
+  <advance width="480"/>
+  <unicode hex="005A"/>
+  <guideline x="456" y="640" angle="66.95875332643614" identifier="heoiGEFTlP"/>
+  <outline>
+    <contour>
+      <point x="152" y="48" type="line"/>
+      <point x="220" y="16" type="line"/>
+      <point x="452" y="660" type="line"/>
+      <point x="452" y="710" type="line"/>
+      <point x="30" y="710" type="line"/>
+      <point x="30" y="514" type="line"/>
+      <point x="66" y="514" type="line"/>
+      <point x="87" y="615" type="line" smooth="yes"/>
+      <point x="94" y="648"/>
+      <point x="110" y="662"/>
+      <point x="144" y="662" type="curve" smooth="yes"/>
+      <point x="294" y="662" type="line"/>
+      <point x="245" y="691" type="line"/>
+      <point x="15" y="50" type="line"/>
+      <point x="15" y="0" type="line"/>
+      <point x="465" y="0" type="line"/>
+      <point x="465" y="219" type="line"/>
+      <point x="429" y="219" type="line"/>
+      <point x="403" y="93" type="line" smooth="yes"/>
+      <point x="395" y="56"/>
+      <point x="382" y="48"/>
+      <point x="332" y="48" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.c4FmmiCNJP</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.o4zsCJBdpd</key>
+      <real>5.0</real>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>bottom</key>
+        <dict>
+          <key>name</key>
+          <string>origin</string>
+          <key>type</key>
+          <string>glyphMetric</string>
+        </dict>
+        <key>top</key>
+        <dict>
+          <key>name</key>
+          <string>capHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,1,1,1</string>
+    </dict>
+  </lib>
+</glyph>

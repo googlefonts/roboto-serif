@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflex_tilde.uc" format="2">
+  <advance width="500"/>
+  <anchor x="243" y="694" name="_top"/>
+  <outline>
+    <contour>
+      <point x="328" y="990" type="curve" smooth="yes"/>
+      <point x="393" y="990"/>
+      <point x="427" y="1018"/>
+      <point x="447" y="1134" type="curve"/>
+      <point x="386" y="1146" type="line"/>
+      <point x="374" y="1083"/>
+      <point x="365" y="1064"/>
+      <point x="332" y="1064" type="curve" smooth="yes"/>
+      <point x="276" y="1064"/>
+      <point x="262" y="1145"/>
+      <point x="172" y="1145" type="curve" smooth="yes"/>
+      <point x="109" y="1145"/>
+      <point x="72" y="1116"/>
+      <point x="54" y="1004" type="curve"/>
+      <point x="113" y="992" type="line"/>
+      <point x="128" y="1051"/>
+      <point x="133" y="1074"/>
+      <point x="166" y="1074" type="curve" smooth="yes"/>
+      <point x="215" y="1074"/>
+      <point x="233" y="990"/>
+    </contour>
+    <contour>
+      <point x="286" y="936" type="line"/>
+      <point x="420" y="802" type="line"/>
+      <point x="420" y="782" type="line"/>
+      <point x="360" y="782" type="line"/>
+      <point x="180" y="898" type="line"/>
+      <point x="314" y="903" type="line"/>
+      <point x="131" y="782" type="line"/>
+      <point x="81" y="782" type="line"/>
+      <point x="81" y="802" type="line"/>
+      <point x="212" y="936" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_top</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>capHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.9962,1,0.5137,1</string>
+    </dict>
+  </lib>
+</glyph>

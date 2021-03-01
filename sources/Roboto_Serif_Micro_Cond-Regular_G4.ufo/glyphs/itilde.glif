@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="itilde" format="2">
+  <advance width="301"/>
+  <unicode hex="0129"/>
+  <outline>
+    <contour>
+      <point x="203" y="657" type="curve"/>
+      <point x="260" y="657"/>
+      <point x="290" y="692"/>
+      <point x="308" y="832" type="curve"/>
+      <point x="248" y="845" type="line"/>
+      <point x="235" y="761"/>
+      <point x="233" y="726"/>
+      <point x="211" y="726" type="curve" smooth="yes"/>
+      <point x="169" y="726"/>
+      <point x="171" y="842"/>
+      <point x="87" y="842" type="curve" smooth="yes"/>
+      <point x="26" y="842"/>
+      <point x="0" y="805"/>
+      <point x="-13" y="671" type="curve"/>
+      <point x="47" y="657" type="line"/>
+      <point x="57" y="740"/>
+      <point x="58" y="776"/>
+      <point x="79" y="776" type="curve" smooth="yes"/>
+      <point x="116" y="776"/>
+      <point x="118" y="657"/>
+    </contour>
+    <component base="dotlessi"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.compileType</key>
+      <string>manual</string>
+      <key>public.markColor</key>
+      <string>1,0.5769,0,1</string>
+    </dict>
+  </lib>
+</glyph>

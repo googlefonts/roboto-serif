@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Acircumflexacute" format="2">
+  <advance width="580"/>
+  <unicode hex="1EA4"/>
+  <outline>
+    <contour>
+      <point x="140" y="299" type="line"/>
+      <point x="140" y="248" type="line"/>
+      <point x="386" y="248" type="line"/>
+      <point x="386" y="299" type="line"/>
+    </contour>
+    <contour>
+      <point x="256" y="678" type="line"/>
+      <point x="419" y="54" type="line"/>
+      <point x="419" y="47"/>
+      <point x="386" y="44"/>
+      <point x="359" y="44" type="curve" smooth="yes"/>
+      <point x="341" y="44" type="line"/>
+      <point x="341" y="0" type="line"/>
+      <point x="553" y="0" type="line"/>
+      <point x="553" y="44" type="line"/>
+      <point x="549" y="44" type="line"/>
+      <point x="524" y="44"/>
+      <point x="508" y="46"/>
+      <point x="501" y="72" type="curve" smooth="yes"/>
+      <point x="333" y="710" type="line"/>
+      <point x="225" y="710" type="line"/>
+      <point x="62" y="87" type="line" smooth="yes"/>
+      <point x="52" y="50"/>
+      <point x="36" y="44"/>
+      <point x="9" y="44" type="curve"/>
+      <point x="5" y="44" type="line"/>
+      <point x="5" y="0" type="line"/>
+      <point x="186" y="0" type="line"/>
+      <point x="186" y="44" type="line"/>
+      <point x="175" y="44" type="line" smooth="yes"/>
+      <point x="147" y="44"/>
+      <point x="115" y="51"/>
+      <point x="115" y="62" type="curve"/>
+      <point x="268" y="652" type="line"/>
+    </contour>
+    <contour>
+      <point x="445" y="951" type="curve" smooth="yes"/>
+      <point x="403" y="867" type="line"/>
+      <point x="403" y="848" type="line"/>
+      <point x="427" y="848" type="line"/>
+      <point x="490" y="890" type="line" smooth="yes"/>
+      <point x="522" y="912"/>
+      <point x="538" y="934"/>
+      <point x="538" y="956" type="curve" smooth="yes"/>
+      <point x="538" y="978"/>
+      <point x="523" y="993"/>
+      <point x="501" y="993" type="curve" smooth="yes"/>
+      <point x="479" y="993"/>
+      <point x="459" y="978"/>
+    </contour>
+    <contour>
+      <point x="335.0" y="901.0" type="line"/>
+      <point x="424.0" y="769.0" type="line"/>
+      <point x="424.0" y="756.0" type="line"/>
+      <point x="377.0" y="756.0" type="line"/>
+      <point x="280.0" y="849.0" type="line"/>
+      <point x="299.0" y="849.0" type="line"/>
+      <point x="203.0" y="756.0" type="line"/>
+      <point x="164.0" y="756.0" type="line"/>
+      <point x="164.0" y="769.0" type="line"/>
+      <point x="253.0" y="901.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.compileType</key>
+      <string>manual</string>
+    </dict>
+  </lib>
+</glyph>

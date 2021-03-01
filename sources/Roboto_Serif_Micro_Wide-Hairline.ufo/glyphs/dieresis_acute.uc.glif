@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresis_acute.uc" format="2">
+  <advance width="600"/>
+  <anchor x="300.0" y="694" name="_top"/>
+  <outline>
+    <component base="dieresis.uc" xOffset="3.5"/>
+    <component base="acute.uc" xOffset="28" yOffset="160"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

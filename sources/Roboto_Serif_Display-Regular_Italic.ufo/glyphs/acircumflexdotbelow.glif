@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acircumflexdotbelow" format="2">
+  <advance width="581"/>
+  <unicode hex="1EAD"/>
+  <outline>
+    <component base="a"/>
+    <component base="circumflex" xOffset="59"/>
+    <component base="dotbelow" xOffset="-17"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.compileType</key>
+      <string>manual</string>
+    </dict>
+  </lib>
+</glyph>

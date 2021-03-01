@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="numero" format="2">
+  <advance width="1260"/>
+  <unicode hex="2116"/>
+  <guideline x="760" y="486" angle="90.0" identifier="OVS76JVKga"/>
+  <guideline x="1183" y="468" angle="90.0" identifier="qzEpKWRs3T"/>
+  <outline>
+    <contour>
+      <point x="839" y="248" type="line"/>
+      <point x="1177" y="248" type="line"/>
+      <point x="1177" y="173" type="line"/>
+      <point x="839" y="173" type="line"/>
+    </contour>
+    <component base="N"/>
+    <component base="ordmasculine" xOffset="741"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.OVS76JVKga</key>
+      <real>5.0</real>
+      <key>com.typemytype.robofont.guideline.magnetic.qzEpKWRs3T</key>
+      <real>5.0</real>
+      <key>public.markColor</key>
+      <string>0.9962,1,0.5137,1</string>
+    </dict>
+  </lib>
+</glyph>

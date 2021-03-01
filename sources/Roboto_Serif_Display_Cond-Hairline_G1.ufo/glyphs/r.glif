@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="r" format="2">
+  <advance width="244"/>
+  <unicode hex="0072"/>
+  <anchor x="132" y="518" name="top"/>
+  <anchor x="100" y="0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="227" y="524" type="line"/>
+      <point x="223" y="526"/>
+      <point x="216" y="527"/>
+      <point x="210" y="527" type="curve" smooth="yes"/>
+      <point x="158" y="527"/>
+      <point x="123" y="472"/>
+      <point x="94" y="410" type="curve"/>
+      <point x="94" y="390" type="line"/>
+      <point x="134" y="474"/>
+      <point x="165" y="502"/>
+      <point x="206" y="502" type="curve" smooth="yes"/>
+      <point x="220" y="502"/>
+      <point x="226" y="500"/>
+      <point x="227" y="498" type="curve"/>
+    </contour>
+    <contour>
+      <point x="18" y="0" type="line" identifier="bnjIFnq2MC"/>
+      <point x="172" y="0" type="line" identifier="FFUYzTtR8G"/>
+      <point x="172" y="8" type="line" identifier="aXHDRsIzsX"/>
+      <point x="163" y="8" type="line" smooth="yes" identifier="ZCIQcKac5U"/>
+      <point x="114" y="8" identifier="aquR0mbsjs"/>
+      <point x="100" y="12" identifier="QwuLzKYC8B"/>
+      <point x="100" y="30" type="curve" smooth="yes" identifier="kSZugqKpDc"/>
+      <point x="100" y="421" type="line" identifier="L2nJ5lGzsq"/>
+      <point x="98" y="420" type="line" identifier="4pdAa37jHk"/>
+      <point x="98" y="518" type="line" identifier="uFPoQ8nQVG"/>
+      <point x="18" y="518" type="line" identifier="0bDuElsrqy"/>
+      <point x="18" y="510" type="line" identifier="ixDSCyuGpb"/>
+      <point x="31" y="508" type="line" smooth="yes" identifier="5znKa8bjwK"/>
+      <point x="64" y="506" identifier="o4UOJcsWMG"/>
+      <point x="72" y="499" identifier="bKeP1El3Jk"/>
+      <point x="72" y="482" type="curve" smooth="yes" identifier="eIzzYtJo7x"/>
+      <point x="72" y="33" type="line" smooth="yes" identifier="Hz2v0hMVcn"/>
+      <point x="72" y="13" identifier="DnQl8zaT7H"/>
+      <point x="55" y="8" identifier="30zywtyF97"/>
+      <point x="20" y="8" type="curve" smooth="yes" identifier="SwY6Q87NZJ"/>
+      <point x="18" y="8" type="line" identifier="adyOYvpoTN"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>bottom</key>
+        <dict>
+          <key>name</key>
+          <string>origin</string>
+          <key>type</key>
+          <string>glyphMetric</string>
+        </dict>
+        <key>top</key>
+        <dict>
+          <key>name</key>
+          <string>xHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>1,0.6331,0.046,1</string>
+    </dict>
+  </lib>
+</glyph>

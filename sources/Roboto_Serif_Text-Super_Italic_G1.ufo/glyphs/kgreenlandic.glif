@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kgreenlandic" format="2">
+  <advance width="679"/>
+  <unicode hex="0138"/>
+  <outline>
+    <contour>
+      <point x="499" y="390" type="line"/>
+      <point x="570" y="162" type="line" smooth="yes"/>
+      <point x="596" y="77"/>
+      <point x="606" y="56"/>
+      <point x="629" y="56" type="curve"/>
+      <point x="641" y="56"/>
+      <point x="652" y="60"/>
+      <point x="654" y="60" type="curve"/>
+      <point x="649" y="15" type="line"/>
+      <point x="626" y="4"/>
+      <point x="572" y="-12"/>
+      <point x="511" y="-12" type="curve"/>
+      <point x="411" y="-12"/>
+      <point x="361" y="35"/>
+      <point x="339" y="130" type="curve" smooth="yes"/>
+      <point x="310" y="256" type="line"/>
+      <point x="311" y="271" type="line"/>
+      <point x="397" y="352"/>
+      <point x="482" y="435"/>
+      <point x="563" y="514" type="curve"/>
+      <point x="710" y="514" type="line"/>
+      <point x="710" y="501" type="line"/>
+      <point x="608" y="433"/>
+      <point x="485" y="350"/>
+      <point x="383" y="282" type="curve"/>
+    </contour>
+    <contour>
+      <point x="245" y="0" type="line"/>
+      <point x="337" y="514" type="line"/>
+      <point x="53" y="514" type="line"/>
+      <point x="45" y="467" type="line"/>
+      <point x="54" y="465" type="line" smooth="yes"/>
+      <point x="73" y="461"/>
+      <point x="82" y="455"/>
+      <point x="79" y="439" type="curve" smooth="yes"/>
+      <point x="0" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.9962,1,0.5137,1</string>
+    </dict>
+  </lib>
+</glyph>

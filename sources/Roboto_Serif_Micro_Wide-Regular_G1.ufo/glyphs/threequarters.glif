@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="threequarters" format="2">
+  <advance width="1186"/>
+  <unicode hex="00BE"/>
+  <outline>
+    <component base="three.num"/>
+    <component base="fraction" xOffset="512"/>
+    <component base="four.den" xOffset="628"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,1,0.4,1</string>
+    </dict>
+  </lib>
+</glyph>

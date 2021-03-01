@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="S" format="2">
+  <advance width="546"/>
+  <unicode hex="0053"/>
+  <anchor x="300" y="741" name="top"/>
+  <anchor x="300" y="0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="300" y="52" type="curve" smooth="yes"/>
+      <point x="198" y="52"/>
+      <point x="148" y="110"/>
+      <point x="127" y="227" type="curve"/>
+      <point x="52" y="227" type="line"/>
+      <point x="52" y="-5" type="line"/>
+      <point x="117" y="-5" type="line"/>
+      <point x="130" y="163" type="line"/>
+      <point x="102" y="201" type="line"/>
+      <point x="111" y="43"/>
+      <point x="184" y="-23"/>
+      <point x="302" y="-23" type="curve" smooth="yes"/>
+      <point x="421" y="-23"/>
+      <point x="503" y="40"/>
+      <point x="503" y="184" type="curve" smooth="yes"/>
+      <point x="503" y="345"/>
+      <point x="401" y="381"/>
+      <point x="306" y="410" type="curve" smooth="yes"/>
+      <point x="211" y="441"/>
+      <point x="156" y="453"/>
+      <point x="156" y="549" type="curve" smooth="yes"/>
+      <point x="156" y="627"/>
+      <point x="191" y="659"/>
+      <point x="254" y="659" type="curve" smooth="yes"/>
+      <point x="341" y="659"/>
+      <point x="380" y="604"/>
+      <point x="401" y="513" type="curve"/>
+      <point x="472" y="513" type="line"/>
+      <point x="472" y="720" type="line"/>
+      <point x="406" y="720" type="line"/>
+      <point x="391" y="584" type="line"/>
+      <point x="415" y="538" type="line"/>
+      <point x="415" y="673"/>
+      <point x="357" y="733"/>
+      <point x="252" y="733" type="curve" smooth="yes"/>
+      <point x="131" y="733"/>
+      <point x="66" y="666"/>
+      <point x="66" y="547" type="curve" smooth="yes"/>
+      <point x="66" y="383"/>
+      <point x="149" y="354"/>
+      <point x="252" y="322" type="curve" smooth="yes"/>
+      <point x="337" y="297"/>
+      <point x="410" y="276"/>
+      <point x="410" y="173" type="curve" smooth="yes"/>
+      <point x="410" y="85"/>
+      <point x="375" y="52"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict>
+        <key>44C01JJw7g</key>
+        <array>
+          <string>SP</string>
+        </array>
+        <key>5gS7YraSxW</key>
+        <array>
+          <string>SP</string>
+        </array>
+        <key>C7yiJWVxp2</key>
+        <array>
+          <string>SP</string>
+        </array>
+        <key>CifvSSw45O</key>
+        <array>
+          <string>SP</string>
+        </array>
+        <key>bLLn3PvH3R</key>
+        <array>
+          <string>SP</string>
+        </array>
+        <key>fAM1CbMFN2</key>
+        <array>
+          <string>SP</string>
+        </array>
+        <key>kPrXMwOd2j</key>
+        <array>
+          <string>SP</string>
+        </array>
+        <key>oKNbchba1w</key>
+        <array>
+          <string>SP</string>
+        </array>
+        <key>rCTRNYBW0a</key>
+        <array>
+          <string>SP</string>
+        </array>
+        <key>v3U17WKz3z</key>
+        <array>
+          <string>SP</string>
+        </array>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>bottom</key>
+        <dict>
+          <key>name</key>
+          <string>origin</string>
+          <key>type</key>
+          <string>glyphMetric</string>
+        </dict>
+        <key>top</key>
+        <dict>
+          <key>name</key>
+          <string>capHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>1,0.6331,0.046,1</string>
+    </dict>
+  </lib>
+</glyph>

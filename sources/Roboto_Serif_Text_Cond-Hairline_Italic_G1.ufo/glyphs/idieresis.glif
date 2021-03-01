@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="idieresis" format="2">
+  <advance width="235"/>
+  <unicode hex="00EF"/>
+  <outline>
+    <contour>
+      <point x="108" y="661" type="curve" smooth="yes"/>
+      <point x="88" y="661"/>
+      <point x="74" y="673"/>
+      <point x="74" y="701" type="curve" smooth="yes"/>
+      <point x="74" y="726"/>
+      <point x="90" y="742"/>
+      <point x="111" y="742" type="curve" smooth="yes"/>
+      <point x="131" y="742"/>
+      <point x="145" y="726"/>
+      <point x="145" y="701" type="curve" smooth="yes"/>
+      <point x="145" y="673"/>
+      <point x="129" y="661"/>
+    </contour>
+    <contour>
+      <point x="241" y="661" type="curve" smooth="yes"/>
+      <point x="221" y="661"/>
+      <point x="207" y="673"/>
+      <point x="207" y="701" type="curve" smooth="yes"/>
+      <point x="207" y="726"/>
+      <point x="223" y="742"/>
+      <point x="244" y="742" type="curve" smooth="yes"/>
+      <point x="264" y="742"/>
+      <point x="278" y="726"/>
+      <point x="278" y="701" type="curve" smooth="yes"/>
+      <point x="278" y="673"/>
+      <point x="262" y="661"/>
+    </contour>
+    <component base="dotlessi" yxScale="0.03142626604335114" xOffset="-8"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.compileType</key>
+      <string>manual</string>
+      <key>public.markColor</key>
+      <string>0.9962,1,0.5137,1</string>
+    </dict>
+  </lib>
+</glyph>
