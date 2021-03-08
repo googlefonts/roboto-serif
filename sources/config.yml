@@ -2,6 +2,11 @@ sources:
   - RobotoSerif.designspace
   - RobotoSerif-Italic.designspace
 familyName: Roboto Serif
-includeSourceFixes: true
+axisOrder:
+  - GRAD
+  - opsz
+  - wdth
+  - wght
+  - ital
 buildStatic: false
 outputDir: "../fonts"
