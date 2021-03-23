@@ -16,7 +16,7 @@ pip install -r requirements.txt
 
 ```
 cd sources
-gftools builder config.yml
+sh build.sh
 ```
 
 
