@@ -3,6 +3,7 @@ from fontTools.ttLib import TTFont
 import os
 
 fonts_dir = os.path.join(os.path.dirname(__file__), "..", "fonts", "variable")
+# TODO get from ufos
 version = 1.004
 license = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL"
 
