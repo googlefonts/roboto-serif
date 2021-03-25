@@ -9,6 +9,7 @@ This family supports the Google Fonts Latin Pro glyph set, for use in over 130 l
 
 ```
 python3 -m venv venv
+source venv/bin/activate
 pip install -r requirements.txt
 ```
 
