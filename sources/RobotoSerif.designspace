@@ -4,7 +4,7 @@
     <axis tag="wdth" name="width" minimum="50" maximum="150" default="100"/>
     <axis tag="opsz" name="Optical Size" minimum="8" maximum="144" default="20"/>
     <axis tag="wght" name="weight" minimum="100" maximum="900" default="400"/>
-    <axis tag="GRAD" name="Grade" minimum="-100" maximum="100" default="0"/>
+    <axis tag="GRAD" name="Grade" minimum="-50" maximum="100" default="0"/>
   </axes>
   <sources>
     <source filename="Roboto_Serif_Text-Super_G4.ufo" familyname="Roboto Serif" stylename="Grade1 20pt Black">
@@ -12,7 +12,7 @@
         <dimension name="width" xvalue="100"/>
         <dimension name="Optical Size" xvalue="20"/>
         <dimension name="weight" xvalue="900"/>
-        <dimension name="Grade" xvalue="1"/>
+        <dimension name="Grade" xvalue="100"/>
       </location>
     </source>
     <source filename="Roboto_Serif_Text-Super_G1.ufo" familyname="Roboto Serif" stylename="Grade-1 20pt Black">
@@ -20,7 +20,7 @@
         <dimension name="width" xvalue="100"/>
         <dimension name="Optical Size" xvalue="20"/>
         <dimension name="weight" xvalue="900"/>
-        <dimension name="Grade" xvalue="-1"/>
+        <dimension name="Grade" xvalue="-50"/>
       </location>
     </source>
     <source filename="Roboto_Serif_Text-Super.ufo" familyname="Roboto Serif" stylename="20pt Black">
@@ -36,7 +36,7 @@
         <dimension name="width" xvalue="100"/>
         <dimension name="Optical Size" xvalue="20"/>
         <dimension name="weight" xvalue="400"/>
-        <dimension name="Grade" xvalue="1"/>
+        <dimension name="Grade" xvalue="100"/>
       </location>
     </source>
     <source filename="Roboto_Serif_Text-Regular_G1.ufo" familyname="Roboto Serif" stylename="Grade-1 20pt Regular">
@@ -44,7 +44,7 @@
         <dimension name="width" xvalue="100"/>
         <dimension name="Optical Size" xvalue="20"/>
         <dimension name="weight" xvalue="400"/>
-        <dimension name="Grade" xvalue="-1"/>
+        <dimension name="Grade" xvalue="-50"/>
       </location>
     </source>
     <source filename="Roboto_Serif_Text-Regular.ufo" familyname="Roboto Serif" stylename="20pt Regular">
@@ -64,7 +64,7 @@
         <dimension name="width" xvalue="100"/>
         <dimension name="Optical Size" xvalue="20"/>
         <dimension name="weight" xvalue="100"/>
-        <dimension name="Grade" xvalue="1"/>
+        <dimension name="Grade" xvalue="100"/>
       </location>
     </source>
     <source filename="Roboto_Serif_Text-Hairline_G1.ufo" familyname="Roboto Serif" stylename="Grade-1 20pt Thin">
@@ -72,7 +72,7 @@
         <dimension name="width" xvalue="100"/>
         <dimension name="Optical Size" xvalue="20"/>
         <dimension name="weight" xvalue="100"/>
-        <dimension name="Grade" xvalue="-1"/>
+        <dimension name="Grade" xvalue="-50"/>
       </location>
     </source>
     <source filename="Roboto_Serif_Text-Hairline.ufo" familyname="Roboto Serif" stylename="20pt Thin">
@@ -112,7 +112,7 @@
         <dimension name="width" xvalue="150"/>
         <dimension name="Optical Size" xvalue="20"/>
         <dimension name="weight" xvalue="900"/>
-        <dimension name="Grade" xvalue="1"/>
+        <dimension name="Grade" xvalue="100"/>
       </location>
     </source>
     <source filename="Roboto_Serif_Text_Wide-Super_G1.ufo" familyname="Roboto Serif" stylename="Grade-1 20pt ExtraExpanded Black">
@@ -120,7 +120,7 @@
         <dimension name="width" xvalue="150"/>
         <dimension name="Optical Size" xvalue="20"/>
         <dimension name="weight" xvalue="900"/>
-        <dimension name="Grade" xvalue="-1"/>
+        <dimension name="Grade" xvalue="-50"/>
       </location>
     </source>
     <source filename="Roboto_Serif_Text_Wide-Regular_G4.ufo" familyname="Roboto Serif" stylename="Grade1 20pt ExtraExpanded Regular">
@@ -128,7 +128,7 @@
         <dimension name="width" xvalue="150"/>
         <dimension name="Optical Size" xvalue="20"/>
         <dimension name="weight" xvalue="400"/>
-        <dimension name="Grade" xvalue="1"/>
+        <dimension name="Grade" xvalue="100"/>
       </location>
     </source>
     <source filename="Roboto_Serif_Text_Wide-Regular_G1.ufo" familyname="Roboto Serif" stylename="Grade-1 20pt ExtraExpanded Regular">
@@ -136,7 +136,7 @@
         <dimension name="width" xvalue="150"/>
         <dimension name="Optical Size" xvalue="20"/>
         <dimension name="weight" xvalue="400"/>
-        <dimension name="Grade" xvalue="-1"/>
+        <dimension name="Grade" xvalue="-50"/>
       </location>
     </source>
     <source filename="Roboto_Serif_Text_Wide-Hairline_G4.ufo" familyname="Roboto Serif" stylename="Grade1 20pt ExtraExpanded Thin">
@@ -144,7 +144,7 @@
         <dimension name="width" xvalue="150"/>
         <dimension name="Optical Size" xvalue="20"/>
         <dimension name="weight" xvalue="100"/>
-        <dimension name="Grade" xvalue="1"/>
+        <dimension name="Grade" xvalue="100"/>
       </location>
     </source>
     <source filename="Roboto_Serif_Text_Wide-Hairline_G1.ufo" familyname="Roboto Serif" stylename="Grade-1 20pt ExtraExpanded Thin">
@@ -152,7 +152,7 @@
         <dimension name="width" xvalue="150"/>
         <dimension name="Optical Size" xvalue="20"/>
         <dimension name="weight" xvalue="100"/>
-        <dimension name="Grade" xvalue="-1"/>
+        <dimension name="Grade" xvalue="-50"/>
       </location>
     </source>
     <source filename="Roboto_Serif_Text_Cond-Super.ufo" familyname="Roboto Serif" stylename="20pt UltraCondensed Black">
@@ -184,7 +184,7 @@
         <dimension name="width" xvalue="50"/>
         <dimension name="Optical Size" xvalue="20"/>
         <dimension name="weight" xvalue="900"/>
-        <dimension name="Grade" xvalue="1"/>
+        <dimension name="Grade" xvalue="100"/>
       </location>
     </source>
     <source filename="Roboto_Serif_Text_Cond-Super_G1.ufo" familyname="Roboto Serif" stylename="Grade-1 20pt UltraCondensed Black">
@@ -192,7 +192,7 @@
         <dimension name="width" xvalue="50"/>
         <dimension name="Optical Size" xvalue="20"/>
         <dimension name="weight" xvalue="900"/>
-        <dimension name="Grade" xvalue="-1"/>
+        <dimension name="Grade" xvalue="-50"/>
       </location>
     </source>
     <source filename="Roboto_Serif_Text_Cond-Regular_G4.ufo" familyname="Roboto Serif" stylename="Grade1 20pt UltraCondensed Regular">
@@ -200,7 +200,7 @@
         <dimension name="width" xvalue="50"/>
         <dimension name="Optical Size" xvalue="20"/>
         <dimension name="weight" xvalue="400"/>
-        <dimension name="Grade" xvalue="1"/>
+        <dimension name="Grade" xvalue="100"/>
       </location>
     </source>
     <source filename="Roboto_Serif_Text_Cond-Regular_G1.ufo" familyname="Roboto Serif" stylename="Grade-1 20pt UltraCondensed Regular">
@@ -208,7 +208,7 @@
         <dimension name="width" xvalue="50"/>
         <dimension name="Optical Size" xvalue="20"/>
         <dimension name="weight" xvalue="400"/>
-        <dimension name="Grade" xvalue="-1"/>
+        <dimension name="Grade" xvalue="-50"/>
       </location>
     </source>
     <source filename="Roboto_Serif_Text_Cond-Hairline_G4.ufo" familyname="Roboto Serif" stylename="Grade1 20pt UltraCondensed Thin">
@@ -216,7 +216,7 @@
         <dimension name="width" xvalue="50"/>
         <dimension name="Optical Size" xvalue="20"/>
         <dimension name="weight" xvalue="100"/>
-        <dimension name="Grade" xvalue="1"/>
+        <dimension name="Grade" xvalue="100"/>
       </location>
     </source>
     <source filename="Roboto_Serif_Text_Cond-Hairline_G1.ufo" familyname="Roboto Serif" stylename="Grade-1 20pt UltraCondensed Thin">
@@ -224,7 +224,7 @@
         <dimension name="width" xvalue="50"/>
         <dimension name="Optical Size" xvalue="20"/>
         <dimension name="weight" xvalue="100"/>
-        <dimension name="Grade" xvalue="-1"/>
+        <dimension name="Grade" xvalue="-50"/>
       </location>
     </source>
     <source filename="Roboto_Serif_Micro-Super.ufo" familyname="Roboto Serif" stylename="8pt Black">
@@ -376,7 +376,7 @@
         <dimension name="width" xvalue="50"/>
         <dimension name="Optical Size" xvalue="144"/>
         <dimension name="weight" xvalue="900"/>
-        <dimension name="Grade" xvalue="1"/>
+        <dimension name="Grade" xvalue="100"/>
       </location>
     </source>
     <source filename="Roboto_Serif_Display_Cond-Super_G1.ufo" familyname="Roboto Serif" stylename="Grade-1 144pt UltraCondensed Black">
@@ -384,7 +384,7 @@
         <dimension name="width" xvalue="50"/>
         <dimension name="Optical Size" xvalue="144"/>
         <dimension name="weight" xvalue="900"/>
-        <dimension name="Grade" xvalue="-1"/>
+        <dimension name="Grade" xvalue="-50"/>
       </location>
     </source>
     <source filename="Roboto_Serif_Display_Cond-Regular_G4.ufo" familyname="Roboto Serif" stylename="Grade1 144pt UltraCondensed Regular">
@@ -392,7 +392,7 @@
         <dimension name="width" xvalue="50"/>
         <dimension name="Optical Size" xvalue="144"/>
         <dimension name="weight" xvalue="400"/>
-        <dimension name="Grade" xvalue="1"/>
+        <dimension name="Grade" xvalue="100"/>
       </location>
     </source>
     <source filename="Roboto_Serif_Display_Cond-Regular_G1.ufo" familyname="Roboto Serif" stylename="Grade-1 144pt UltraCondensed Regular">
@@ -400,7 +400,7 @@
         <dimension name="width" xvalue="50"/>
         <dimension name="Optical Size" xvalue="144"/>
         <dimension name="weight" xvalue="400"/>
-        <dimension name="Grade" xvalue="-1"/>
+        <dimension name="Grade" xvalue="-50"/>
       </location>
     </source>
     <source filename="Roboto_Serif_Display_Cond-Hairline_G4.ufo" familyname="Roboto Serif" stylename="Grade1 144pt UltraCondensed Thin">
@@ -408,7 +408,7 @@
         <dimension name="width" xvalue="50"/>
         <dimension name="Optical Size" xvalue="144"/>
         <dimension name="weight" xvalue="100"/>
-        <dimension name="Grade" xvalue="1"/>
+        <dimension name="Grade" xvalue="100"/>
       </location>
     </source>
     <source filename="Roboto_Serif_Display_Cond-Hairline_G1.ufo" familyname="Roboto Serif" stylename="Grade-1 144pt UltraCondensed Thin">
@@ -416,7 +416,7 @@
         <dimension name="width" xvalue="50"/>
         <dimension name="Optical Size" xvalue="144"/>
         <dimension name="weight" xvalue="100"/>
-        <dimension name="Grade" xvalue="-1"/>
+        <dimension name="Grade" xvalue="-50"/>
       </location>
     </source>
     <source filename="Roboto_Serif_Display_Wide-Super_G4.ufo" familyname="Roboto Serif" stylename="Grade1 144pt ExtraExpanded Black">
@@ -424,7 +424,7 @@
         <dimension name="width" xvalue="150"/>
         <dimension name="Optical Size" xvalue="144"/>
         <dimension name="weight" xvalue="900"/>
-        <dimension name="Grade" xvalue="1"/>
+        <dimension name="Grade" xvalue="100"/>
       </location>
     </source>
     <source filename="Roboto_Serif_Display_Wide-Super_G1.ufo" familyname="Roboto Serif" stylename="Grade-1 144pt ExtraExpanded Black">
@@ -432,7 +432,7 @@
         <dimension name="width" xvalue="150"/>
         <dimension name="Optical Size" xvalue="144"/>
         <dimension name="weight" xvalue="900"/>
-        <dimension name="Grade" xvalue="-1"/>
+        <dimension name="Grade" xvalue="-50"/>
       </location>
     </source>
     <source filename="Roboto_Serif_Display_Wide-Regular_G4.ufo" familyname="Roboto Serif" stylename="Grade1 144pt ExtraExpanded Regular">
@@ -440,7 +440,7 @@
         <dimension name="width" xvalue="150"/>
         <dimension name="Optical Size" xvalue="144"/>
         <dimension name="weight" xvalue="400"/>
-        <dimension name="Grade" xvalue="1"/>
+        <dimension name="Grade" xvalue="100"/>
       </location>
     </source>
     <source filename="Roboto_Serif_Display_Wide-Regular_G1.ufo" familyname="Roboto Serif" stylename="Grade-1 144pt ExtraExpanded Regular">
@@ -448,7 +448,7 @@
         <dimension name="width" xvalue="150"/>
         <dimension name="Optical Size" xvalue="144"/>
         <dimension name="weight" xvalue="400"/>
-        <dimension name="Grade" xvalue="-1"/>
+        <dimension name="Grade" xvalue="-50"/>
       </location>
     </source>
     <source filename="Roboto_Serif_Display_Wide-Hairline_G4.ufo" familyname="Roboto Serif" stylename="Grade1 144pt ExtraExpanded Thin">
@@ -456,7 +456,7 @@
         <dimension name="width" xvalue="150"/>
         <dimension name="Optical Size" xvalue="144"/>
         <dimension name="weight" xvalue="100"/>
-        <dimension name="Grade" xvalue="1"/>
+        <dimension name="Grade" xvalue="100"/>
       </location>
     </source>
     <source filename="Roboto_Serif_Display_Wide-Hairline_G1.ufo" familyname="Roboto Serif" stylename="Grade-1 144pt ExtraExpanded Thin">
@@ -464,7 +464,7 @@
         <dimension name="width" xvalue="150"/>
         <dimension name="Optical Size" xvalue="144"/>
         <dimension name="weight" xvalue="100"/>
-        <dimension name="Grade" xvalue="-1"/>
+        <dimension name="Grade" xvalue="-50"/>
       </location>
     </source>
     <source filename="Roboto_Serif_Micro_Cond-Super_G4.ufo" familyname="Roboto Serif" stylename="Grade1 8pt UltraCondensed Black">
@@ -472,7 +472,7 @@
         <dimension name="width" xvalue="50"/>
         <dimension name="Optical Size" xvalue="8"/>
         <dimension name="weight" xvalue="900"/>
-        <dimension name="Grade" xvalue="1"/>
+        <dimension name="Grade" xvalue="100"/>
       </location>
     </source>
     <source filename="Roboto_Serif_Micro_Cond-Super_G1.ufo" familyname="Roboto Serif" stylename="Grade-1 8pt UltraCondensed Black">
@@ -480,7 +480,7 @@
         <dimension name="width" xvalue="50"/>
         <dimension name="Optical Size" xvalue="8"/>
         <dimension name="weight" xvalue="900"/>
-        <dimension name="Grade" xvalue="-1"/>
+        <dimension name="Grade" xvalue="-50"/>
       </location>
     </source>
     <source filename="Roboto_Serif_Micro_Cond-Regular_G4.ufo" familyname="Roboto Serif" stylename="Grade1 8pt UltraCondensed Regular">
@@ -488,7 +488,7 @@
         <dimension name="width" xvalue="50"/>
         <dimension name="Optical Size" xvalue="8"/>
         <dimension name="weight" xvalue="400"/>
-        <dimension name="Grade" xvalue="1"/>
+        <dimension name="Grade" xvalue="100"/>
       </location>
     </source>
     <source filename="Roboto_Serif_Micro_Cond-Regular_G1.ufo" familyname="Roboto Serif" stylename="Grade-1 8pt UltraCondensed Regular">
@@ -496,7 +496,7 @@
         <dimension name="width" xvalue="50"/>
         <dimension name="Optical Size" xvalue="8"/>
         <dimension name="weight" xvalue="400"/>
-        <dimension name="Grade" xvalue="-1"/>
+        <dimension name="Grade" xvalue="-50"/>
       </location>
     </source>
     <source filename="Roboto_Serif_Micro_Cond-Hairline_G4.ufo" familyname="Roboto Serif" stylename="Grade1 8pt UltraCondensed Thin">
@@ -504,7 +504,7 @@
         <dimension name="width" xvalue="50"/>
         <dimension name="Optical Size" xvalue="8"/>
         <dimension name="weight" xvalue="100"/>
-        <dimension name="Grade" xvalue="1"/>
+        <dimension name="Grade" xvalue="100"/>
       </location>
     </source>
     <source filename="Roboto_Serif_Micro_Cond-Hairline_G1.ufo" familyname="Roboto Serif" stylename="Grade-1 8pt UltraCondensed Thin">
@@ -512,7 +512,7 @@
         <dimension name="width" xvalue="50"/>
         <dimension name="Optical Size" xvalue="8"/>
         <dimension name="weight" xvalue="100"/>
-        <dimension name="Grade" xvalue="-1"/>
+        <dimension name="Grade" xvalue="-50"/>
       </location>
     </source>
     <source filename="Roboto_Serif_Micro_Wide-Super_G4.ufo" familyname="Roboto Serif" stylename="Grade1 8pt ExtraExpanded Black">
@@ -520,7 +520,7 @@
         <dimension name="width" xvalue="150"/>
         <dimension name="Optical Size" xvalue="8"/>
         <dimension name="weight" xvalue="900"/>
-        <dimension name="Grade" xvalue="1"/>
+        <dimension name="Grade" xvalue="100"/>
       </location>
     </source>
     <source filename="Roboto_Serif_Micro_Wide-Super_G1.ufo" familyname="Roboto Serif" stylename="Grade-1 8pt ExtraExpanded Black">
@@ -528,7 +528,7 @@
         <dimension name="width" xvalue="150"/>
         <dimension name="Optical Size" xvalue="8"/>
         <dimension name="weight" xvalue="900"/>
-        <dimension name="Grade" xvalue="-1"/>
+        <dimension name="Grade" xvalue="-50"/>
       </location>
     </source>
     <source filename="Roboto_Serif_Micro_Wide-Regular_G4.ufo" familyname="Roboto Serif" stylename="Grade1 8pt ExtraExpanded Regular">
@@ -536,7 +536,7 @@
         <dimension name="width" xvalue="150"/>
         <dimension name="Optical Size" xvalue="8"/>
         <dimension name="weight" xvalue="400"/>
-        <dimension name="Grade" xvalue="1"/>
+        <dimension name="Grade" xvalue="100"/>
       </location>
     </source>
     <source filename="Roboto_Serif_Micro_Wide-Regular_G1.ufo" familyname="Roboto Serif" stylename="Grade-1 8pt ExtraExpanded Regular">
@@ -544,7 +544,7 @@
         <dimension name="width" xvalue="150"/>
         <dimension name="Optical Size" xvalue="8"/>
         <dimension name="weight" xvalue="400"/>
-        <dimension name="Grade" xvalue="-1"/>
+        <dimension name="Grade" xvalue="-50"/>
       </location>
     </source>
     <source filename="Roboto_Serif_Micro_Wide-Hairline_G4.ufo" familyname="Roboto Serif" stylename="Grade1 8pt ExtraExpanded Thin">
@@ -552,7 +552,7 @@
         <dimension name="width" xvalue="150"/>
         <dimension name="Optical Size" xvalue="8"/>
         <dimension name="weight" xvalue="100"/>
-        <dimension name="Grade" xvalue="1"/>
+        <dimension name="Grade" xvalue="100"/>
       </location>
     </source>
     <source filename="Roboto_Serif_Micro_Wide-Hairline_G1.ufo" familyname="Roboto Serif" stylename="Grade-1 8pt ExtraExpanded Thin">
@@ -560,7 +560,7 @@
         <dimension name="width" xvalue="150"/>
         <dimension name="Optical Size" xvalue="8"/>
         <dimension name="weight" xvalue="100"/>
-        <dimension name="Grade" xvalue="-1"/>
+        <dimension name="Grade" xvalue="-50"/>
       </location>
     </source>
     <source filename="Roboto_Serif_Micro-Super_G4.ufo" familyname="Roboto Serif" stylename="Grade1 8pt Black">
@@ -568,7 +568,7 @@
         <dimension name="width" xvalue="100"/>
         <dimension name="Optical Size" xvalue="8"/>
         <dimension name="weight" xvalue="900"/>
-        <dimension name="Grade" xvalue="1"/>
+        <dimension name="Grade" xvalue="100"/>
       </location>
     </source>
     <source filename="Roboto_Serif_Micro-Super_G1.ufo" familyname="Roboto Serif" stylename="Grade-1 8pt Black">
@@ -576,7 +576,7 @@
         <dimension name="width" xvalue="100"/>
         <dimension name="Optical Size" xvalue="8"/>
         <dimension name="weight" xvalue="900"/>
-        <dimension name="Grade" xvalue="-1"/>
+        <dimension name="Grade" xvalue="-50"/>
       </location>
     </source>
     <source filename="Roboto_Serif_Micro-Regular_G4.ufo" familyname="Roboto Serif" stylename="Grade1 8pt Regular">
@@ -584,7 +584,7 @@
         <dimension name="width" xvalue="100"/>
         <dimension name="Optical Size" xvalue="8"/>
         <dimension name="weight" xvalue="400"/>
-        <dimension name="Grade" xvalue="1"/>
+        <dimension name="Grade" xvalue="100"/>
       </location>
     </source>
     <source filename="Roboto_Serif_Micro-Regular_G1.ufo" familyname="Roboto Serif" stylename="Grade-1 8pt Regular">
@@ -592,7 +592,7 @@
         <dimension name="width" xvalue="100"/>
         <dimension name="Optical Size" xvalue="8"/>
         <dimension name="weight" xvalue="400"/>
-        <dimension name="Grade" xvalue="-1"/>
+        <dimension name="Grade" xvalue="-50"/>
       </location>
     </source>
     <source filename="Roboto_Serif_Micro-Hairline_G4.ufo" familyname="Roboto Serif" stylename="Grade1 8pt Thin">
@@ -600,7 +600,7 @@
         <dimension name="width" xvalue="100"/>
         <dimension name="Optical Size" xvalue="8"/>
         <dimension name="weight" xvalue="100"/>
-        <dimension name="Grade" xvalue="1"/>
+        <dimension name="Grade" xvalue="100"/>
       </location>
     </source>
     <source filename="Roboto_Serif_Micro-Hairline_G1.ufo" familyname="Roboto Serif" stylename="Grade-1 8pt Thin">
@@ -608,7 +608,7 @@
         <dimension name="width" xvalue="100"/>
         <dimension name="Optical Size" xvalue="8"/>
         <dimension name="weight" xvalue="100"/>
-        <dimension name="Grade" xvalue="-1"/>
+        <dimension name="Grade" xvalue="-50"/>
       </location>
     </source>
     <source filename="Roboto_Serif_Display-Super_G4.ufo" familyname="Roboto Serif" stylename="Grade1 144pt Black">
@@ -616,7 +616,7 @@
         <dimension name="width" xvalue="100"/>
         <dimension name="Optical Size" xvalue="144"/>
         <dimension name="weight" xvalue="900"/>
-        <dimension name="Grade" xvalue="1"/>
+        <dimension name="Grade" xvalue="100"/>
       </location>
     </source>
     <source filename="Roboto_Serif_Display-Super_G1.ufo" familyname="Roboto Serif" stylename="Grade-1 144pt Black">
@@ -624,7 +624,7 @@
         <dimension name="width" xvalue="100"/>
         <dimension name="Optical Size" xvalue="144"/>
         <dimension name="weight" xvalue="900"/>
-        <dimension name="Grade" xvalue="-1"/>
+        <dimension name="Grade" xvalue="-50"/>
       </location>
     </source>
     <source filename="Roboto_Serif_Display-Regular_G4.ufo" familyname="Roboto Serif" stylename="Grade1 144pt Regular">
@@ -632,7 +632,7 @@
         <dimension name="width" xvalue="100"/>
         <dimension name="Optical Size" xvalue="144"/>
         <dimension name="weight" xvalue="400"/>
-        <dimension name="Grade" xvalue="1"/>
+        <dimension name="Grade" xvalue="100"/>
       </location>
     </source>
     <source filename="Roboto_Serif_Display-Regular_G1.ufo" familyname="Roboto Serif" stylename="Grade-1 144pt Regular">
@@ -640,7 +640,7 @@
         <dimension name="width" xvalue="100"/>
         <dimension name="Optical Size" xvalue="144"/>
         <dimension name="weight" xvalue="400"/>
-        <dimension name="Grade" xvalue="-1"/>
+        <dimension name="Grade" xvalue="-50"/>
       </location>
     </source>
     <source filename="Roboto_Serif_Display-Hairline_G4.ufo" familyname="Roboto Serif" stylename="Grade1 144pt Thin">
@@ -648,7 +648,7 @@
         <dimension name="width" xvalue="100"/>
         <dimension name="Optical Size" xvalue="144"/>
         <dimension name="weight" xvalue="100"/>
-        <dimension name="Grade" xvalue="1"/>
+        <dimension name="Grade" xvalue="100"/>
       </location>
     </source>
     <source filename="Roboto_Serif_Display-Hairline_G1.ufo" familyname="Roboto Serif" stylename="Grade-1 144pt Thin">
@@ -656,7 +656,7 @@
         <dimension name="width" xvalue="100"/>
         <dimension name="Optical Size" xvalue="144"/>
         <dimension name="weight" xvalue="100"/>
-        <dimension name="Grade" xvalue="-1"/>
+        <dimension name="Grade" xvalue="-50"/>
       </location>
     </source>
   </sources>
