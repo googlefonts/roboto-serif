@@ -1,0 +1,68 @@
+FONTLOG for Roboto Serif Text
+
+ChangeLog
+
+
+Roboto Serif v1.004 (12 April 2021)
+- Release to public
+
+
+Roboto Serif v0.004 (11 September 2020)
+
+- Sources: Added 24 sources to improve grad axis across all optical sizes
+- License: Updated license in fonts with text from OFL.txt
+- Sources: combining accents set to zero width, negative offset.
+
+
+Roboto Serif v0.003 (17 June 2020)
+
+- Family Name: rename from "Roboto Serif Text" to "Roboto Serif"
+- glyph outlines: Moved overlapped points in the apex of A (and other characters with similar problem) closer together so they wouldn’t poke out in the grade deltas.
+- width: respec range: 50 : 150, default 100
+- weight: respec range: 100 : 900, default 400
+- weight: instances at 
+	100 Thin
+	200 Extralight
+	300 Light
+	400 Regular
+	500 Medium
+	600 SemiBold
+	700 Bold
+	* NOTE: no ExtraBold
+	900 Black
+- weight: fix typo: "wgth" renamed to "wght"
+- optical size: respec range: 8px (Micro), 20px (Text), 144px (Big)
+- optical size: instances at 8px, 14px, 20px, 60px, 100px
+- optical size: label renamed to "Optical Size"
+- grade: respec range: -1 : 1
+- instances: reordered by: opsz/wght/wdth/GRAD
+- designspace: added "name" field (to help if anyone wants to build specific instances) 
+- designspace: added "stylemapfamilyname" and "stylemapstylename" to merge Bolds with Regulars
+- build_static.sh: added
+- build_variable.sh: updated to be more robust
+
+
+Roboto Serif Text v0.002 (4 May 2020)
+- copyright change to "Copyright 2020 The Roboto Serif Project Authors" to match Google spec.
+- rename instance names to match Google spec.
+- fix glyph names: thai:baht renamed to baht, thai:baht.proportional renamed to baht.proportional
+- change file names to to RobotoSerifText[grad,opsz,wdth,wgth].ttf and RobotoSerifText-Italic[grad,opsz,wdth,wgth].ttf to match Google spec.
+- update metrics to match Roboto Release v2.138
+openTypeHheaAscender = 928
+openTypeHheaDescender = -244
+openTypeHheaLineGap = 0
+openTypeOS2TypoAscender = 1048
+openTypeOS2TypoDescender = -271
+openTypeOS2TypoLineGap = 0
+openTypeOS2WinAscent = 1048
+openTypeOS2WinDescent = 251
+- update underline thickness and position to match Roboto Release v2.138
+postscriptUnderlinePosition = -150
+postscriptUnderlineThickness = 100
+- change license from Apache to OFL.
+- version minor: 1.002
+- add commands to build.sh: gftools fix-nonhinting and gftools fix-dsig
+
+
+Roboto Serif Text v0.001 (20 April 2020)
+- Initial release
