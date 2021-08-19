@@ -1,6 +1,6 @@
 sources:
   - RobotoSerif.designspace
-  #- RobotoSerif-Italic.designspace
+  - RobotoSerif-Italic.designspace
 familyName: Roboto Serif
 axisOrder:
   - GRAD
@@ -13,8 +13,8 @@ stat:
   - name: Grade
     tag: GRAD
     values:
-    - name: G100
-      value: 100
+    - name: G0
+      value: 0
       flags: 2
   - name: Optical Size
     tag: opsz
@@ -78,73 +78,73 @@ stat:
       value: 0
       linkedValue: 1
       flags: 2
-#  RobotoSerif-Italic[GRAD,opsz,wdth,wght].ttf:
-#  - name: Grade
-#    tag: GRAD
-#    values:
-#    - name: G100
-#      value: 100
-#      flags: 2
-#  - name: Optical Size
-#    tag: opsz
-#    values:
-#    - name: 8pt
-#      value: 8
-#    - name: 14pt
-#      value: 14
-#    - name: 20pt
-#      value: 20
-#    - name: 60pt
-#      value: 60
-#    - name: 100pt
-#      value: 100
-#  - name: Width
-#    tag: wdth
-#    values:
-#    - name: UltraCondensed
-#      value: 50
-#    - name: ExtraCondensed
-#      value: 62.5
-#    - name: Condensed
-#      value: 75
-#    - name: SemiCondensed
-#      value: 87.5
-#    - name: Normal
-#      value: 100
-#      flags: 2
-#    - name: SemiExpanded
-#      value: 112.5
-#    - name: Expanded
-#      value: 125
-#    - name: ExtraExpanded
-#      value: 150
-#  - name: Weight
-#    tag: wght
-#    values:
-#    - name: Thin
-#      value: 100
-#    - name: ExtraLight
-#      value: 200
-#    - name: Light
-#      value: 300
-#    - name: Regular
-#      value: 400
-#      flags: 2
-#    - name: Medium
-#      value: 500
-#    - name: SemiBold
-#      value: 600
-#    - name: Bold
-#      value: 700
-#    - name: ExtraBold
-#      value: 800
-#    - name: Black
-#      value: 900
-#  - name: Italic
-#    tag: ital
-#    values:
-#    - name: Italic
-#      value: 1
+  RobotoSerif-Italic[GRAD,opsz,wdth,wght].ttf:
+  - name: Grade
+    tag: GRAD
+    values:
+    - name: G0
+      value: 0
+      flags: 2
+  - name: Optical Size
+    tag: opsz
+    values:
+    - name: 8pt
+      value: 8
+    - name: 14pt
+      value: 14
+    - name: 20pt
+      value: 20
+    - name: 60pt
+      value: 60
+    - name: 100pt
+      value: 100
+  - name: Width
+    tag: wdth
+    values:
+    - name: UltraCondensed
+      value: 50
+    - name: ExtraCondensed
+      value: 62.5
+    - name: Condensed
+      value: 75
+    - name: SemiCondensed
+      value: 87.5
+    - name: Normal
+      value: 100
+      flags: 2
+    - name: SemiExpanded
+      value: 112.5
+    - name: Expanded
+      value: 125
+    - name: ExtraExpanded
+      value: 150
+  - name: Weight
+    tag: wght
+    values:
+    - name: Thin
+      value: 100
+    - name: ExtraLight
+      value: 200
+    - name: Light
+      value: 300
+    - name: Regular
+      value: 400
+      flags: 2
+    - name: Medium
+      value: 500
+    - name: SemiBold
+      value: 600
+    - name: Bold
+      value: 700
+    - name: ExtraBold
+      value: 800
+    - name: Black
+      value: 900
+  - name: Italic
+    tag: ital
+    values:
+    - name: Italic
+      value: 1
 outputDir: "../fonts"
 buildTTF: true
 buildOTF: false
@@ -155,899 +155,1350 @@ instances:
       opsz: 8
       wdth: 50
       wght: 100
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 8
       wdth: 50
       wght: 200
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 8
       wdth: 50
       wght: 300
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 8
       wdth: 50
       wght: 400
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 8
       wdth: 50
       wght: 500
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 8
       wdth: 50
       wght: 600
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 8
       wdth: 50
       wght: 700
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 8
       wdth: 50
       wght: 800
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 8
       wdth: 50
       wght: 900
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 8
       wdth: 100
       wght: 100
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 8
       wdth: 100
       wght: 200
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 8
       wdth: 100
       wght: 300
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 8
       wdth: 100
       wght: 400
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 8
       wdth: 100
       wght: 500
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 8
       wdth: 100
       wght: 600
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 8
       wdth: 100
       wght: 700
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 8
       wdth: 100
       wght: 800
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 8
       wdth: 100
       wght: 900
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 8
       wdth: 150
       wght: 100
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 8
       wdth: 150
       wght: 200
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 8
       wdth: 150
       wght: 300
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 8
       wdth: 150
       wght: 400
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 8
       wdth: 150
       wght: 500
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 8
       wdth: 150
       wght: 600
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 8
       wdth: 150
       wght: 700
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 8
       wdth: 150
       wght: 800
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 8
       wdth: 150
       wght: 900
-      GRAD: 100
+      GRAD: 0
+  - coordinates:
+      opsz: 14
+      wdth: 50
+      wght: 100
+      GRAD: 0
+  - coordinates:
+      opsz: 14
+      wdth: 50
+      wght: 200
+      GRAD: 0
+  - coordinates:
+      opsz: 14
+      wdth: 50
+      wght: 300
+      GRAD: 0
+  - coordinates:
+      opsz: 14
+      wdth: 50
+      wght: 400
+      GRAD: 0
+  - coordinates:
+      opsz: 14
+      wdth: 50
+      wght: 500
+      GRAD: 0
+  - coordinates:
+      opsz: 14
+      wdth: 50
+      wght: 600
+      GRAD: 0
+  - coordinates:
+      opsz: 14
+      wdth: 50
+      wght: 700
+      GRAD: 0
+  - coordinates:
+      opsz: 14
+      wdth: 50
+      wght: 800
+      GRAD: 0
+  - coordinates:
+      opsz: 14
+      wdth: 50
+      wght: 900
+      GRAD: 0
+  - coordinates:
+      opsz: 14
+      wdth: 100
+      wght: 100
+      GRAD: 0
+  - coordinates:
+      opsz: 14
+      wdth: 100
+      wght: 200
+      GRAD: 0
+  - coordinates:
+      opsz: 14
+      wdth: 100
+      wght: 300
+      GRAD: 0
+  - coordinates:
+      opsz: 14
+      wdth: 100
+      wght: 400
+      GRAD: 0
+  - coordinates:
+      opsz: 14
+      wdth: 100
+      wght: 500
+      GRAD: 0
+  - coordinates:
+      opsz: 14
+      wdth: 100
+      wght: 600
+      GRAD: 0
+  - coordinates:
+      opsz: 14
+      wdth: 100
+      wght: 700
+      GRAD: 0
+  - coordinates:
+      opsz: 14
+      wdth: 100
+      wght: 800
+      GRAD: 0
+  - coordinates:
+      opsz: 14
+      wdth: 100
+      wght: 900
+      GRAD: 0
+  - coordinates:
+      opsz: 14
+      wdth: 150
+      wght: 100
+      GRAD: 0
+  - coordinates:
+      opsz: 14
+      wdth: 150
+      wght: 200
+      GRAD: 0
+  - coordinates:
+      opsz: 14
+      wdth: 150
+      wght: 300
+      GRAD: 0
+  - coordinates:
+      opsz: 14
+      wdth: 150
+      wght: 400
+      GRAD: 0
+  - coordinates:
+      opsz: 14
+      wdth: 150
+      wght: 500
+      GRAD: 0
+  - coordinates:
+      opsz: 14
+      wdth: 150
+      wght: 600
+      GRAD: 0
+  - coordinates:
+      opsz: 14
+      wdth: 150
+      wght: 700
+      GRAD: 0
+  - coordinates:
+      opsz: 14
+      wdth: 150
+      wght: 800
+      GRAD: 0
+  - coordinates:
+      opsz: 14
+      wdth: 150
+      wght: 900
+      GRAD: 0
+  - coordinates:
+      opsz: 20
+      wdth: 50
+      wght: 100
+      GRAD: 0
+  - coordinates:
+      opsz: 20
+      wdth: 50
+      wght: 200
+      GRAD: 0
+  - coordinates:
+      opsz: 20
+      wdth: 50
+      wght: 300
+      GRAD: 0
+  - coordinates:
+      opsz: 20
+      wdth: 50
+      wght: 400
+      GRAD: 0
+  - coordinates:
+      opsz: 20
+      wdth: 50
+      wght: 500
+      GRAD: 0
+  - coordinates:
+      opsz: 20
+      wdth: 50
+      wght: 600
+      GRAD: 0
+  - coordinates:
+      opsz: 20
+      wdth: 50
+      wght: 700
+      GRAD: 0
+  - coordinates:
+      opsz: 20
+      wdth: 50
+      wght: 800
+      GRAD: 0
+  - coordinates:
+      opsz: 20
+      wdth: 50
+      wght: 900
+      GRAD: 0
+  - coordinates:
+      opsz: 20
+      wdth: 100
+      wght: 100
+      GRAD: 0
+  - coordinates:
+      opsz: 20
+      wdth: 100
+      wght: 200
+      GRAD: 0
+  - coordinates:
+      opsz: 20
+      wdth: 100
+      wght: 300
+      GRAD: 0
+  - coordinates:
+      opsz: 20
+      wdth: 100
+      wght: 400
+      GRAD: 0
+  - coordinates:
+      opsz: 20
+      wdth: 100
+      wght: 500
+      GRAD: 0
+  - coordinates:
+      opsz: 20
+      wdth: 100
+      wght: 600
+      GRAD: 0
+  - coordinates:
+      opsz: 20
+      wdth: 100
+      wght: 700
+      GRAD: 0
+  - coordinates:
+      opsz: 20
+      wdth: 100
+      wght: 800
+      GRAD: 0
+  - coordinates:
+      opsz: 20
+      wdth: 100
+      wght: 900
+      GRAD: 0
+  - coordinates:
+      opsz: 20
+      wdth: 150
+      wght: 100
+      GRAD: 0
+  - coordinates:
+      opsz: 20
+      wdth: 150
+      wght: 200
+      GRAD: 0
+  - coordinates:
+      opsz: 20
+      wdth: 150
+      wght: 300
+      GRAD: 0
+  - coordinates:
+      opsz: 20
+      wdth: 150
+      wght: 400
+      GRAD: 0
+  - coordinates:
+      opsz: 20
+      wdth: 150
+      wght: 500
+      GRAD: 0
+  - coordinates:
+      opsz: 20
+      wdth: 150
+      wght: 600
+      GRAD: 0
+  - coordinates:
+      opsz: 20
+      wdth: 150
+      wght: 700
+      GRAD: 0
+  - coordinates:
+      opsz: 20
+      wdth: 150
+      wght: 800
+      GRAD: 0
+  - coordinates:
+      opsz: 20
+      wdth: 150
+      wght: 900
+      GRAD: 0
+  - coordinates:
+      opsz: 60
+      wdth: 50
+      wght: 100
+      GRAD: 0
+  - coordinates:
+      opsz: 60
+      wdth: 50
+      wght: 200
+      GRAD: 0
+  - coordinates:
+      opsz: 60
+      wdth: 50
+      wght: 300
+      GRAD: 0
+  - coordinates:
+      opsz: 60
+      wdth: 50
+      wght: 400
+      GRAD: 0
+  - coordinates:
+      opsz: 60
+      wdth: 50
+      wght: 500
+      GRAD: 0
+  - coordinates:
+      opsz: 60
+      wdth: 50
+      wght: 600
+      GRAD: 0
+  - coordinates:
+      opsz: 60
+      wdth: 50
+      wght: 700
+      GRAD: 0
+  - coordinates:
+      opsz: 60
+      wdth: 50
+      wght: 800
+      GRAD: 0
+  - coordinates:
+      opsz: 60
+      wdth: 50
+      wght: 900
+      GRAD: 0
+  - coordinates:
+      opsz: 60
+      wdth: 100
+      wght: 100
+      GRAD: 0
+  - coordinates:
+      opsz: 60
+      wdth: 100
+      wght: 200
+      GRAD: 0
+  - coordinates:
+      opsz: 60
+      wdth: 100
+      wght: 300
+      GRAD: 0
+  - coordinates:
+      opsz: 60
+      wdth: 100
+      wght: 400
+      GRAD: 0
+  - coordinates:
+      opsz: 60
+      wdth: 100
+      wght: 500
+      GRAD: 0
+  - coordinates:
+      opsz: 60
+      wdth: 100
+      wght: 600
+      GRAD: 0
+  - coordinates:
+      opsz: 60
+      wdth: 100
+      wght: 700
+      GRAD: 0
+  - coordinates:
+      opsz: 60
+      wdth: 100
+      wght: 800
+      GRAD: 0
+  - coordinates:
+      opsz: 60
+      wdth: 100
+      wght: 900
+      GRAD: 0
+  - coordinates:
+      opsz: 60
+      wdth: 150
+      wght: 100
+      GRAD: 0
+  - coordinates:
+      opsz: 60
+      wdth: 150
+      wght: 200
+      GRAD: 0
+  - coordinates:
+      opsz: 60
+      wdth: 150
+      wght: 300
+      GRAD: 0
+  - coordinates:
+      opsz: 60
+      wdth: 150
+      wght: 400
+      GRAD: 0
+  - coordinates:
+      opsz: 60
+      wdth: 150
+      wght: 500
+      GRAD: 0
+  - coordinates:
+      opsz: 60
+      wdth: 150
+      wght: 600
+      GRAD: 0
+  - coordinates:
+      opsz: 60
+      wdth: 150
+      wght: 700
+      GRAD: 0
+  - coordinates:
+      opsz: 60
+      wdth: 150
+      wght: 800
+      GRAD: 0
+  - coordinates:
+      opsz: 60
+      wdth: 150
+      wght: 900
+      GRAD: 0
+  - coordinates:
+      opsz: 100
+      wdth: 50
+      wght: 100
+      GRAD: 0
+  - coordinates:
+      opsz: 100
+      wdth: 50
+      wght: 200
+      GRAD: 0
+  - coordinates:
+      opsz: 100
+      wdth: 50
+      wght: 300
+      GRAD: 0
+  - coordinates:
+      opsz: 100
+      wdth: 50
+      wght: 400
+      GRAD: 0
+  - coordinates:
+      opsz: 100
+      wdth: 50
+      wght: 500
+      GRAD: 0
+  - coordinates:
+      opsz: 100
+      wdth: 50
+      wght: 600
+      GRAD: 0
+  - coordinates:
+      opsz: 100
+      wdth: 50
+      wght: 700
+      GRAD: 0
+  - coordinates:
+      opsz: 100
+      wdth: 50
+      wght: 800
+      GRAD: 0
+  - coordinates:
+      opsz: 100
+      wdth: 50
+      wght: 900
+      GRAD: 0
+  - coordinates:
+      opsz: 100
+      wdth: 100
+      wght: 100
+      GRAD: 0
+  - coordinates:
+      opsz: 100
+      wdth: 100
+      wght: 200
+      GRAD: 0
+  - coordinates:
+      opsz: 100
+      wdth: 100
+      wght: 300
+      GRAD: 0
+  - coordinates:
+      opsz: 100
+      wdth: 100
+      wght: 400
+      GRAD: 0
+  - coordinates:
+      opsz: 100
+      wdth: 100
+      wght: 500
+      GRAD: 0
+  - coordinates:
+      opsz: 100
+      wdth: 100
+      wght: 600
+      GRAD: 0
+  - coordinates:
+      opsz: 100
+      wdth: 100
+      wght: 700
+      GRAD: 0
+  - coordinates:
+      opsz: 100
+      wdth: 100
+      wght: 800
+      GRAD: 0
+  - coordinates:
+      opsz: 100
+      wdth: 100
+      wght: 900
+      GRAD: 0
+  - coordinates:
+      opsz: 100
+      wdth: 150
+      wght: 100
+      GRAD: 0
+  - coordinates:
+      opsz: 100
+      wdth: 150
+      wght: 200
+      GRAD: 0
+  - coordinates:
+      opsz: 100
+      wdth: 150
+      wght: 300
+      GRAD: 0
+  - coordinates:
+      opsz: 100
+      wdth: 150
+      wght: 400
+      GRAD: 0
+  - coordinates:
+      opsz: 100
+      wdth: 150
+      wght: 500
+      GRAD: 0
+  - coordinates:
+      opsz: 100
+      wdth: 150
+      wght: 600
+      GRAD: 0
+  - coordinates:
+      opsz: 100
+      wdth: 150
+      wght: 700
+      GRAD: 0
+  - coordinates:
+      opsz: 100
+      wdth: 150
+      wght: 800
+      GRAD: 0
+  - coordinates:
+      opsz: 100
+      wdth: 150
+      wght: 900
+      GRAD: 0
+  RobotoSerif-Italic[GRAD,opsz,wdth,wght].ttf:
   - coordinates:
       opsz: 8
-      wdth: 200
+      wdth: 50
       wght: 100
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 8
-      wdth: 200
+      wdth: 50
       wght: 200
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 8
-      wdth: 200
+      wdth: 50
       wght: 300
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 8
-      wdth: 200
+      wdth: 50
       wght: 400
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 8
-      wdth: 200
+      wdth: 50
       wght: 500
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 8
-      wdth: 200
+      wdth: 50
       wght: 600
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 8
-      wdth: 200
+      wdth: 50
       wght: 700
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 8
-      wdth: 200
+      wdth: 50
       wght: 800
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 8
-      wdth: 200
+      wdth: 50
       wght: 900
-      GRAD: 100
+      GRAD: 0
+  - coordinates:
+      opsz: 8
+      wdth: 100
+      wght: 100
+      GRAD: 0
+  - coordinates:
+      opsz: 8
+      wdth: 100
+      wght: 200
+      GRAD: 0
+  - coordinates:
+      opsz: 8
+      wdth: 100
+      wght: 300
+      GRAD: 0
+  - coordinates:
+      opsz: 8
+      wdth: 100
+      wght: 400
+      GRAD: 0
+  - coordinates:
+      opsz: 8
+      wdth: 100
+      wght: 500
+      GRAD: 0
+  - coordinates:
+      opsz: 8
+      wdth: 100
+      wght: 600
+      GRAD: 0
+  - coordinates:
+      opsz: 8
+      wdth: 100
+      wght: 700
+      GRAD: 0
+  - coordinates:
+      opsz: 8
+      wdth: 100
+      wght: 800
+      GRAD: 0
+  - coordinates:
+      opsz: 8
+      wdth: 100
+      wght: 900
+      GRAD: 0
+  - coordinates:
+      opsz: 8
+      wdth: 150
+      wght: 100
+      GRAD: 0
+  - coordinates:
+      opsz: 8
+      wdth: 150
+      wght: 200
+      GRAD: 0
+  - coordinates:
+      opsz: 8
+      wdth: 150
+      wght: 300
+      GRAD: 0
+  - coordinates:
+      opsz: 8
+      wdth: 150
+      wght: 400
+      GRAD: 0
+  - coordinates:
+      opsz: 8
+      wdth: 150
+      wght: 500
+      GRAD: 0
+  - coordinates:
+      opsz: 8
+      wdth: 150
+      wght: 600
+      GRAD: 0
+  - coordinates:
+      opsz: 8
+      wdth: 150
+      wght: 700
+      GRAD: 0
+  - coordinates:
+      opsz: 8
+      wdth: 150
+      wght: 800
+      GRAD: 0
+  - coordinates:
+      opsz: 8
+      wdth: 150
+      wght: 900
+      GRAD: 0
   - coordinates:
       opsz: 14
       wdth: 50
       wght: 100
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 14
       wdth: 50
       wght: 200
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 14
       wdth: 50
       wght: 300
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 14
       wdth: 50
       wght: 400
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 14
       wdth: 50
       wght: 500
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 14
       wdth: 50
       wght: 600
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 14
       wdth: 50
       wght: 700
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 14
       wdth: 50
       wght: 800
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 14
       wdth: 50
       wght: 900
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 14
       wdth: 100
       wght: 100
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 14
       wdth: 100
       wght: 200
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 14
       wdth: 100
       wght: 300
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 14
       wdth: 100
       wght: 400
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 14
       wdth: 100
       wght: 500
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 14
       wdth: 100
       wght: 600
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 14
       wdth: 100
       wght: 700
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 14
       wdth: 100
       wght: 800
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 14
       wdth: 100
       wght: 900
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 14
       wdth: 150
       wght: 100
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 14
       wdth: 150
       wght: 200
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 14
       wdth: 150
       wght: 300
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 14
       wdth: 150
       wght: 400
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 14
       wdth: 150
       wght: 500
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 14
       wdth: 150
       wght: 600
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 14
       wdth: 150
       wght: 700
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 14
       wdth: 150
       wght: 800
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 14
       wdth: 150
       wght: 900
-      GRAD: 100
-  - coordinates:
-      opsz: 14
-      wdth: 200
-      wght: 100
-      GRAD: 100
-  - coordinates:
-      opsz: 14
-      wdth: 200
-      wght: 200
-      GRAD: 100
-  - coordinates:
-      opsz: 14
-      wdth: 200
-      wght: 300
-      GRAD: 100
-  - coordinates:
-      opsz: 14
-      wdth: 200
-      wght: 400
-      GRAD: 100
-  - coordinates:
-      opsz: 14
-      wdth: 200
-      wght: 500
-      GRAD: 100
-  - coordinates:
-      opsz: 14
-      wdth: 200
-      wght: 600
-      GRAD: 100
-  - coordinates:
-      opsz: 14
-      wdth: 200
-      wght: 700
-      GRAD: 100
-  - coordinates:
-      opsz: 14
-      wdth: 200
-      wght: 800
-      GRAD: 100
-  - coordinates:
-      opsz: 14
-      wdth: 200
-      wght: 900
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 20
       wdth: 50
       wght: 100
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 20
       wdth: 50
       wght: 200
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 20
       wdth: 50
       wght: 300
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 20
       wdth: 50
       wght: 400
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 20
       wdth: 50
       wght: 500
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 20
       wdth: 50
       wght: 600
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 20
       wdth: 50
       wght: 700
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 20
       wdth: 50
       wght: 800
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 20
       wdth: 50
       wght: 900
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 20
       wdth: 100
       wght: 100
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 20
       wdth: 100
       wght: 200
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 20
       wdth: 100
       wght: 300
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 20
       wdth: 100
       wght: 400
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 20
       wdth: 100
       wght: 500
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 20
       wdth: 100
       wght: 600
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 20
       wdth: 100
       wght: 700
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 20
       wdth: 100
       wght: 800
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 20
       wdth: 100
       wght: 900
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 20
       wdth: 150
       wght: 100
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 20
       wdth: 150
       wght: 200
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 20
       wdth: 150
       wght: 300
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 20
       wdth: 150
       wght: 400
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 20
       wdth: 150
       wght: 500
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 20
       wdth: 150
       wght: 600
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 20
       wdth: 150
       wght: 700
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 20
       wdth: 150
       wght: 800
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 20
       wdth: 150
       wght: 900
-      GRAD: 100
-  - coordinates:
-      opsz: 20
-      wdth: 200
-      wght: 100
-      GRAD: 100
-  - coordinates:
-      opsz: 20
-      wdth: 200
-      wght: 200
-      GRAD: 100
-  - coordinates:
-      opsz: 20
-      wdth: 200
-      wght: 300
-      GRAD: 100
-  - coordinates:
-      opsz: 20
-      wdth: 200
-      wght: 400
-      GRAD: 100
-  - coordinates:
-      opsz: 20
-      wdth: 200
-      wght: 500
-      GRAD: 100
-  - coordinates:
-      opsz: 20
-      wdth: 200
-      wght: 600
-      GRAD: 100
-  - coordinates:
-      opsz: 20
-      wdth: 200
-      wght: 700
-      GRAD: 100
-  - coordinates:
-      opsz: 20
-      wdth: 200
-      wght: 800
-      GRAD: 100
-  - coordinates:
-      opsz: 20
-      wdth: 200
-      wght: 900
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 60
       wdth: 50
       wght: 100
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 60
       wdth: 50
       wght: 200
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 60
       wdth: 50
       wght: 300
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 60
       wdth: 50
       wght: 400
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 60
       wdth: 50
       wght: 500
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 60
       wdth: 50
       wght: 600
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 60
       wdth: 50
       wght: 700
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 60
       wdth: 50
       wght: 800
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 60
       wdth: 50
       wght: 900
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 60
       wdth: 100
       wght: 100
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 60
       wdth: 100
       wght: 200
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 60
       wdth: 100
       wght: 300
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 60
       wdth: 100
       wght: 400
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 60
       wdth: 100
       wght: 500
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 60
       wdth: 100
       wght: 600
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 60
       wdth: 100
       wght: 700
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 60
       wdth: 100
       wght: 800
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 60
       wdth: 100
       wght: 900
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 60
       wdth: 150
       wght: 100
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 60
       wdth: 150
       wght: 200
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 60
       wdth: 150
       wght: 300
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 60
       wdth: 150
       wght: 400
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 60
       wdth: 150
       wght: 500
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 60
       wdth: 150
       wght: 600
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 60
       wdth: 150
       wght: 700
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 60
       wdth: 150
       wght: 800
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 60
       wdth: 150
       wght: 900
-      GRAD: 100
-  - coordinates:
-      opsz: 60
-      wdth: 200
-      wght: 100
-      GRAD: 100
-  - coordinates:
-      opsz: 60
-      wdth: 200
-      wght: 200
-      GRAD: 100
-  - coordinates:
-      opsz: 60
-      wdth: 200
-      wght: 300
-      GRAD: 100
-  - coordinates:
-      opsz: 60
-      wdth: 200
-      wght: 400
-      GRAD: 100
-  - coordinates:
-      opsz: 60
-      wdth: 200
-      wght: 500
-      GRAD: 100
-  - coordinates:
-      opsz: 60
-      wdth: 200
-      wght: 600
-      GRAD: 100
-  - coordinates:
-      opsz: 60
-      wdth: 200
-      wght: 700
-      GRAD: 100
-  - coordinates:
-      opsz: 60
-      wdth: 200
-      wght: 800
-      GRAD: 100
-  - coordinates:
-      opsz: 60
-      wdth: 200
-      wght: 900
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 100
       wdth: 50
       wght: 100
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 100
       wdth: 50
       wght: 200
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 100
       wdth: 50
       wght: 300
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 100
       wdth: 50
       wght: 400
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 100
       wdth: 50
       wght: 500
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 100
       wdth: 50
       wght: 600
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 100
       wdth: 50
       wght: 700
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 100
       wdth: 50
       wght: 800
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 100
       wdth: 50
       wght: 900
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 100
       wdth: 100
       wght: 100
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 100
       wdth: 100
       wght: 200
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 100
       wdth: 100
       wght: 300
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 100
       wdth: 100
       wght: 400
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 100
       wdth: 100
       wght: 500
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 100
       wdth: 100
       wght: 600
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 100
       wdth: 100
       wght: 700
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 100
       wdth: 100
       wght: 800
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 100
       wdth: 100
       wght: 900
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 100
       wdth: 150
       wght: 100
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 100
       wdth: 150
       wght: 200
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 100
       wdth: 150
       wght: 300
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 100
       wdth: 150
       wght: 400
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 100
       wdth: 150
       wght: 500
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 100
       wdth: 150
       wght: 600
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 100
       wdth: 150
       wght: 700
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 100
       wdth: 150
       wght: 800
-      GRAD: 100
+      GRAD: 0
   - coordinates:
       opsz: 100
       wdth: 150
       wght: 900
-      GRAD: 100
-  - coordinates:
-      opsz: 100
-      wdth: 200
-      wght: 100
-      GRAD: 100
-  - coordinates:
-      opsz: 100
-      wdth: 200
-      wght: 200
-      GRAD: 100
-  - coordinates:
-      opsz: 100
-      wdth: 200
-      wght: 300
-      GRAD: 100
-  - coordinates:
-      opsz: 100
-      wdth: 200
-      wght: 400
-      GRAD: 100
-  - coordinates:
-      opsz: 100
-      wdth: 200
-      wght: 500
-      GRAD: 100
-  - coordinates:
-      opsz: 100
-      wdth: 200
-      wght: 600
-      GRAD: 100
-  - coordinates:
-      opsz: 100
-      wdth: 200
-      wght: 700
-      GRAD: 100
-  - coordinates:
-      opsz: 100
-      wdth: 200
-      wght: 800
-      GRAD: 100
-  - coordinates:
-      opsz: 100
-      wdth: 200
-      wght: 900
-      GRAD: 100
+      GRAD: 0
