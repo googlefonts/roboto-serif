@@ -1247,7 +1247,7 @@
       <key>g</key>
       <integer>5</integer>
       <key>g.alt</key>
-      <integer>30</integer>
+      <integer>25</integer>
       <key>j</key>
       <integer>120</integer>
       <key>p</key>
@@ -1762,21 +1762,21 @@
       <key>asterisk</key>
       <integer>10</integer>
       <key>b</key>
-      <integer>20</integer>
+      <integer>25</integer>
       <key>backslash</key>
       <integer>80</integer>
       <key>exclam</key>
       <integer>25</integer>
       <key>h</key>
-      <integer>15</integer>
+      <integer>20</integer>
       <key>i</key>
       <integer>25</integer>
       <key>j</key>
       <integer>15</integer>
       <key>k</key>
-      <integer>20</integer>
+      <integer>25</integer>
       <key>l</key>
-      <integer>20</integer>
+      <integer>25</integer>
       <key>parenright</key>
       <integer>40</integer>
       <key>public.kern2.braceright</key>
@@ -2344,7 +2344,7 @@
     <key>eogonek</key>
     <dict>
       <key>g.alt</key>
-      <integer>-5</integer>
+      <integer>0</integer>
       <key>j</key>
       <integer>80</integer>
       <key>p</key>
@@ -5347,7 +5347,7 @@
       <key>lacute</key>
       <integer>-40</integer>
       <key>lcaron</key>
-      <integer>-65</integer>
+      <integer>-40</integer>
       <key>lcommaaccent</key>
       <integer>-40</integer>
       <key>ldot</key>
@@ -5734,7 +5734,7 @@
       <key>exclam</key>
       <integer>5</integer>
       <key>gcircumflex.alt</key>
-      <integer>-75</integer>
+      <integer>-60</integer>
       <key>hbar</key>
       <integer>15</integer>
       <key>ibreve</key>
@@ -7537,7 +7537,7 @@
       <key>gbreve.alt</key>
       <integer>-70</integer>
       <key>gcircumflex.alt</key>
-      <integer>-75</integer>
+      <integer>-65</integer>
       <key>germandbls</key>
       <integer>0</integer>
       <key>gmacron.alt</key>
@@ -7792,11 +7792,11 @@
       <key>exclam</key>
       <integer>5</integer>
       <key>gbreve.alt</key>
-      <integer>-100</integer>
+      <integer>-85</integer>
       <key>gcaron.alt</key>
-      <integer>-110</integer>
+      <integer>-95</integer>
       <key>gcircumflex.alt</key>
-      <integer>-110</integer>
+      <integer>-95</integer>
       <key>germandbls</key>
       <integer>-30</integer>
       <key>gmacron.alt</key>
@@ -9315,9 +9315,9 @@
       <key>gcircumflex.alt</key>
       <integer>15</integer>
       <key>gcommaaccent.alt</key>
-      <integer>-45</integer>
-      <key>gdotaccent.alt</key>
       <integer>-40</integer>
+      <key>gdotaccent.alt</key>
+      <integer>-35</integer>
       <key>germandbls</key>
       <integer>35</integer>
       <key>gmacron.alt</key>
@@ -9927,15 +9927,15 @@
       <key>exclam</key>
       <integer>90</integer>
       <key>gbreve.alt</key>
-      <integer>-35</integer>
+      <integer>-15</integer>
       <key>gcaron.alt</key>
-      <integer>-25</integer>
+      <integer>-5</integer>
       <key>gcircumflex.alt</key>
-      <integer>-25</integer>
+      <integer>-5</integer>
       <key>gdotaccent.alt</key>
-      <integer>-50</integer>
+      <integer>-30</integer>
       <key>gmacron.alt</key>
-      <integer>-40</integer>
+      <integer>-20</integer>
       <key>hbar</key>
       <integer>130</integer>
       <key>iacute</key>
@@ -14199,7 +14199,7 @@
       <key>percent</key>
       <integer>-5</integer>
       <key>periodcentered</key>
-      <integer>-10</integer>
+      <integer>-5</integer>
       <key>plus</key>
       <integer>5</integer>
       <key>public.kern2.braceright</key>
@@ -14209,31 +14209,31 @@
       <key>public.kern2.dashes</key>
       <integer>-5</integer>
       <key>public.kern2.guillemotleft</key>
-      <integer>-10</integer>
+      <integer>-15</integer>
       <key>public.kern2.guillemotleft_uc</key>
       <integer>-5</integer>
       <key>public.kern2.guillemotright</key>
       <integer>10</integer>
       <key>public.kern2.period</key>
-      <integer>-10</integer>
+      <integer>-15</integer>
       <key>public.kern2.quoteleft</key>
       <integer>-5</integer>
       <key>public.kern2.quoteright</key>
-      <real>-7.5</real>
+      <integer>-5</integer>
       <key>public.kern2.quotesingle</key>
       <integer>-5</integer>
       <key>public.kern2.slash</key>
-      <integer>5</integer>
+      <integer>15</integer>
       <key>question</key>
-      <integer>-20</integer>
+      <integer>-40</integer>
       <key>seven.midprop</key>
-      <real>-7.5</real>
+      <integer>-15</integer>
       <key>seven.num</key>
       <integer>-15</integer>
       <key>six.num</key>
       <integer>5</integer>
       <key>three.midprop</key>
-      <integer>20</integer>
+      <integer>10</integer>
       <key>three.num</key>
       <integer>15</integer>
       <key>trademark</key>
@@ -14766,7 +14766,7 @@
       <key>g</key>
       <integer>10</integer>
       <key>g.alt</key>
-      <integer>15</integer>
+      <integer>30</integer>
       <key>j</key>
       <integer>120</integer>
       <key>p</key>
