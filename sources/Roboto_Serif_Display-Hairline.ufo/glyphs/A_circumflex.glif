@@ -2,7 +2,7 @@
 <glyph name="Acircumflex" format="2">
   <advance width="657"/>
   <unicode hex="00C2"/>
-  <guideline x="326" y="670" angle="90.0" identifier="fDl0mH13Go"/>
+  <guideline x="326" y="670" angle="90" identifier="fDl0mH13Go"/>
   <outline>
     <component base="A"/>
     <component base="circumflex.uc" xOffset="79"/>
@@ -10,7 +10,7 @@
   <lib>
     <dict>
       <key>com.typemytype.robofont.guideline.magnetic.fDl0mH13Go</key>
-      <real>5.0</real>
+      <integer>5</integer>
     </dict>
   </lib>
 </glyph>

@@ -2,16 +2,16 @@
 <glyph name="exclam" format="2">
   <advance width="195"/>
   <unicode hex="0021"/>
-  <guideline x="105" y="153" angle="90.0" identifier="q30PvNB6Se"/>
+  <guideline x="105" y="153" angle="90" identifier="q30PvNB6Se"/>
   <outline>
     <contour>
       <point x="122" y="735" type="line"/>
-      <point x="122.0" y="558.1759259259259"/>
-      <point x="105.0" y="379.25925925925924"/>
+      <point x="122" y="558.1759259259"/>
+      <point x="105" y="379.2592592593"/>
       <point x="105" y="170" type="curve"/>
       <point x="89" y="170" type="line"/>
-      <point x="89.0" y="379.25925925925924"/>
-      <point x="72.0" y="557.1296296296296"/>
+      <point x="89" y="379.2592592593"/>
+      <point x="72" y="557.1296296296"/>
       <point x="72" y="735" type="curve"/>
     </contour>
     <component base="period" xOffset="10"/>
@@ -19,7 +19,7 @@
   <lib>
     <dict>
       <key>com.typemytype.robofont.guideline.magnetic.q30PvNB6Se</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>public.markColor</key>
       <string>1,1,0.4,1</string>
     </dict>

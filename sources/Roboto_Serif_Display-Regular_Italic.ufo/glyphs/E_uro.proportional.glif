@@ -3,8 +3,6 @@
   <advance width="680"/>
   <outline>
     <contour>
-      <point x="650" y="684"/>
-      <point x="589" y="720"/>
       <point x="474" y="720" type="curve" smooth="yes"/>
       <point x="281" y="720"/>
       <point x="117" y="567"/>
@@ -37,6 +35,8 @@
       <point x="565" y="540" type="line"/>
       <point x="656" y="540" type="line"/>
       <point x="676" y="660" type="line"/>
+      <point x="650" y="684"/>
+      <point x="589" y="720"/>
     </contour>
     <contour>
       <point x="51" y="439" type="line"/>
@@ -54,13 +54,13 @@
   <lib>
     <dict>
       <key>com.typemytype.robofont.guideline.magnetic.NOpgnsyvb1</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>com.typemytype.robofont.guideline.magnetic.QGwlvMGVvu</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>com.typemytype.robofont.guideline.magnetic.csSM6NwSwP</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>com.typemytype.robofont.guideline.magnetic.vCHe5U00f4</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>public.markColor</key>
       <string>1,1,0.4,1</string>
     </dict>

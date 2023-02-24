@@ -10,12 +10,28 @@
     <string>A_ogonek.glif</string>
     <key>B</key>
     <string>B_.glif</string>
+    <key>Bhook</key>
+    <string>B_hook.glif</string>
     <key>C</key>
     <string>C_.glif</string>
+    <key>Che</key>
+    <string>C_he.glif</string>
+    <key>Chedescender</key>
+    <string>C_hedescender.glif</string>
+    <key>Cheverticalstroke</key>
+    <string>C_heverticalstroke.glif</string>
+    <key>De</key>
+    <string>D_e.glif</string>
+    <key>Dhook</key>
+    <string>D_hook.glif</string>
     <key>E</key>
     <string>E_.glif</string>
     <key>E.alt</key>
     <string>E_.alt.glif</string>
+    <key>Ecyr</key>
+    <string>E_cyr.glif</string>
+    <key>Eng.afr</key>
+    <string>E_ng.afr.glif</string>
     <key>Euro</key>
     <string>E_uro.glif</string>
     <key>Euro.proportional</key>
@@ -26,8 +42,14 @@
     <string>F_.alt.glif</string>
     <key>G</key>
     <string>G_.glif</string>
+    <key>Gecyr</key>
+    <string>G_ecyr.glif</string>
     <key>Germandbls</key>
     <string>G_ermandbls.glif</string>
+    <key>Ghe</key>
+    <string>G_he.glif</string>
+    <key>Ghestroke</key>
+    <string>G_hestroke.glif</string>
     <key>H</key>
     <string>H_.glif</string>
     <key>I</key>
@@ -36,6 +58,8 @@
     <string>J_.glif</string>
     <key>K</key>
     <string>K_.glif</string>
+    <key>Khook</key>
+    <string>K_hook.glif</string>
     <key>L</key>
     <string>L_.glif</string>
     <key>Ldot</key>
@@ -72,10 +96,16 @@
     <string>X_.glif</string>
     <key>Y</key>
     <string>Y_.glif</string>
+    <key>Yhook</key>
+    <string>Y_hook.glif</string>
     <key>Z</key>
     <string>Z_.glif</string>
+    <key>Ze</key>
+    <string>Z_e.glif</string>
     <key>a</key>
     <string>a.glif</string>
+    <key>a.alt</key>
+    <string>a.alt.glif</string>
     <key>acute</key>
     <string>acute.glif</string>
     <key>acute.pl</key>
@@ -86,6 +116,8 @@
     <string>ae.glif</string>
     <key>ampersand</key>
     <string>ampersand.glif</string>
+    <key>aogonek.alt</key>
+    <string>aogonek.alt.glif</string>
     <key>approxequal</key>
     <string>approxequal.glif</string>
     <key>asciicircum</key>
@@ -104,6 +136,10 @@
     <string>backslash.uc.glif</string>
     <key>bar.uc</key>
     <string>bar.uc.glif</string>
+    <key>be</key>
+    <string>be.glif</string>
+    <key>bhook</key>
+    <string>bhook.glif</string>
     <key>blackdiamond</key>
     <string>blackdiamond.glif</string>
     <key>blackdownpointingtriangle</key>
@@ -112,6 +148,10 @@
     <string>braceleft.uc.glif</string>
     <key>bracketleft.uc</key>
     <string>bracketleft.uc.glif</string>
+    <key>breve.cyr</key>
+    <string>breve.cyr.glif</string>
+    <key>breve.cyr.uc</key>
+    <string>breve.cyr.uc.glif</string>
     <key>breve.uc</key>
     <string>breve.uc.glif</string>
     <key>breve_hook</key>
@@ -178,6 +218,8 @@
     <string>dagger.glif</string>
     <key>daggerdbl</key>
     <string>daggerdbl.glif</string>
+    <key>dhook</key>
+    <string>dhook.glif</string>
     <key>dollar.alt</key>
     <string>dollar.alt.glif</string>
     <key>dollar.altprop</key>
@@ -192,6 +234,8 @@
     <string>dotaccent.glif</string>
     <key>e</key>
     <string>e.glif</string>
+    <key>ecyr</key>
+    <string>ecyr.glif</string>
     <key>eight</key>
     <string>eight.glif</string>
     <key>eight.lin</key>
@@ -206,6 +250,8 @@
     <string>eight.prop.glif</string>
     <key>eight.sinf</key>
     <string>eight.sinf.glif</string>
+    <key>em</key>
+    <string>em.glif</string>
     <key>emdash.uc</key>
     <string>emdash.uc.glif</string>
     <key>emptyset</key>
@@ -310,6 +356,14 @@
     <string>g.alt.glif</string>
     <key>germandbls</key>
     <string>germandbls.glif</string>
+    <key>ghe</key>
+    <string>ghe.glif</string>
+    <key>ghe.bgr</key>
+    <string>ghe.bgr.glif</string>
+    <key>ghestroke</key>
+    <string>ghestroke.glif</string>
+    <key>gheup</key>
+    <string>gheup.glif</string>
     <key>grave</key>
     <string>grave.glif</string>
     <key>guarani</key>
@@ -324,6 +378,8 @@
     <string>guilsinglright.uc.glif</string>
     <key>h</key>
     <string>h.glif</string>
+    <key>hard.bgr</key>
+    <string>hard.bgr.glif</string>
     <key>hook</key>
     <string>hook.glif</string>
     <key>hook.uc</key>
@@ -340,8 +396,6 @@
     <string>hyphen.uc.glif</string>
     <key>i</key>
     <string>i.glif</string>
-    <key>idotless</key>
-    <string>idotless.glif</string>
     <key>iinvertedbreve</key>
     <string>iinvertedbreve.glif</string>
     <key>infinity</key>
@@ -350,10 +404,10 @@
     <string>integral.glif</string>
     <key>j</key>
     <string>j.glif</string>
-    <key>jdotless</key>
-    <string>jdotless.glif</string>
     <key>k</key>
     <string>k.glif</string>
+    <key>khook</key>
+    <string>khook.glif</string>
     <key>kip.proportional</key>
     <string>kip.proportional.glif</string>
     <key>l</key>
@@ -516,6 +570,8 @@
     <string>six.sinf.glif</string>
     <key>slash.uc</key>
     <string>slash.uc.glif</string>
+    <key>soft.bgr</key>
+    <string>soft.bgr.glif</string>
     <key>soundcopyright</key>
     <string>soundcopyright.glif</string>
     <key>sterling</key>
@@ -608,6 +664,10 @@
     <string>yen.glif</string>
     <key>yen.proportional</key>
     <string>yen.proportional.glif</string>
+    <key>yhook</key>
+    <string>yhook.glif</string>
+    <key>ze</key>
+    <string>ze.glif</string>
     <key>zero</key>
     <string>zero.glif</string>
     <key>zero.lin</key>

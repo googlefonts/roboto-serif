@@ -2,7 +2,7 @@
 <glyph name="z" format="2">
   <advance width="561"/>
   <unicode hex="007A"/>
-  <guideline x="466" y="249" angle="90.0"/>
+  <guideline x="466" y="249" angle="90"/>
   <anchor x="286.46808510638294" y="565" name="top"/>
   <anchor x="309.14680851063827" y="0" name="bottom"/>
   <outline>
@@ -34,7 +34,7 @@
   <lib>
     <dict>
       <key>com.typemytype.robofont.guideline.magnetic.HVBdHXj9F5</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>com.typesupply.AccentFactory.yCoordinates</key>
       <dict>
         <key>bottom</key>

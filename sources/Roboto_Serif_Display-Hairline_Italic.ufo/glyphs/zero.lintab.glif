@@ -3,11 +3,9 @@
   <advance width="560"/>
   <outline>
     <contour>
-      <point x="36.0" y="86.63670411985018"/>
-      <point x="123.0" y="-10.0"/>
       <point x="239" y="-10" type="curve" smooth="yes"/>
-      <point x="421.0" y="-10.0"/>
-      <point x="534.0" y="213.51724137931032"/>
+      <point x="421" y="-10"/>
+      <point x="534" y="213.5172413793"/>
       <point x="534" y="453" type="curve" smooth="yes"/>
       <point x="534" y="623"/>
       <point x="447" y="720"/>
@@ -15,38 +13,40 @@
       <point x="149" y="720"/>
       <point x="36" y="496"/>
       <point x="36" y="256" type="curve" smooth="yes"/>
+      <point x="36" y="86.6367041199"/>
+      <point x="123" y="-10"/>
     </contour>
     <contour>
-      <point x="443.99541073399075" y="120.97382878032548"/>
-      <point x="355.4813278008299" y="6.0"/>
       <point x="239" y="6" type="curve" smooth="yes"/>
-      <point x="134.0" y="6.0"/>
+      <point x="134" y="6"/>
       <point x="79" y="99"/>
       <point x="79" y="256" type="curve" smooth="yes"/>
-      <point x="79.0" y="290.07438016528926"/>
-      <point x="81.22796886328366" y="337.4643170717915"/>
+      <point x="79" y="290.0743801653"/>
+      <point x="81.2279688633" y="337.4643170718"/>
       <point x="90" y="389" type="curve" smooth="yes"/>
-      <point x="126.6497136125164" y="593.4668233119336"/>
-      <point x="215.0" y="704.0"/>
+      <point x="126.6497136125" y="593.4668233119"/>
+      <point x="215" y="704"/>
       <point x="331" y="704" type="curve" smooth="yes"/>
       <point x="436" y="704"/>
       <point x="491" y="616"/>
       <point x="491" y="453" type="curve" smooth="yes"/>
-      <point x="491.0" y="422.0"/>
-      <point x="488.980429316472" y="378.8850222342729"/>
+      <point x="491" y="422"/>
+      <point x="488.9804293165" y="378.8850222343"/>
       <point x="481" y="332" type="curve" smooth="yes"/>
+      <point x="443.995410734" y="120.9738287803"/>
+      <point x="355.4813278008" y="6"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.guideline.magnetic.MhhEMKij4u</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>com.typemytype.robofont.guideline.magnetic.OwmCfUoquW</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>com.typemytype.robofont.guideline.magnetic.Yt3ytNFkDq</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>com.typemytype.robofont.guideline.magnetic.vl8pil4GMI</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>public.markColor</key>
       <string>0.4,0.8,1,1</string>
     </dict>

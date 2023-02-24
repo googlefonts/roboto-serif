@@ -5,21 +5,21 @@
   <outline>
     <contour>
       <point x="252" y="-58" type="curve" smooth="yes"/>
-      <point x="118" y="-58.0"/>
-      <point x="51.80880999450669" y="-12.345319072098661"/>
+      <point x="118" y="-58"/>
+      <point x="51.8088099945" y="-12.3453190721"/>
       <point x="19" y="100" type="curve"/>
       <point x="113" y="135" type="line"/>
-      <point x="133.01612607498615" y="71.94920286379364"/>
-      <point x="163" y="28.0"/>
+      <point x="133.016126075" y="71.9492028638"/>
+      <point x="163" y="28"/>
       <point x="228" y="28" type="curve" smooth="yes"/>
       <point x="294" y="28"/>
-      <point x="314.0" y="70.7261146496815"/>
+      <point x="314" y="70.7261146497"/>
       <point x="314" y="200" type="curve" smooth="yes"/>
-      <point x="314.0" y="303.6984126984127"/>
-      <point x="299.0" y="339.0"/>
+      <point x="314" y="303.6984126984"/>
+      <point x="299" y="339"/>
       <point x="239" y="339" type="curve" smooth="yes"/>
-      <point x="189.0" y="339.0"/>
-      <point x="178.60267286276522" y="309.66621320882143"/>
+      <point x="189" y="339"/>
+      <point x="178.6026728628" y="309.6662132088"/>
       <point x="161" y="261" type="curve"/>
       <point x="71" y="261" type="line"/>
       <point x="71" y="679" type="line"/>
@@ -28,8 +28,8 @@
       <point x="150" y="545" type="line"/>
       <point x="157" y="659" type="line"/>
       <point x="157" y="332" type="line"/>
-      <point x="152.3568308971365" y="318.9991265119822"/>
-      <point x="149.3" y="313.0"/>
+      <point x="152.3568308971" y="318.999126512"/>
+      <point x="149.3" y="313"/>
       <point x="150" y="313" type="curve"/>
       <point x="172" y="380"/>
       <point x="206" y="426"/>
@@ -386,9 +386,9 @@
       <key>com.typemytype.robofont.mark</key>
       <array>
         <real>0.9962</real>
-        <real>1.0</real>
+        <integer>1</integer>
         <real>0.5137</real>
-        <real>1.0</real>
+        <integer>1</integer>
       </array>
       <key>public.markColor</key>
       <string>0.8431,0.8627,1,1</string>

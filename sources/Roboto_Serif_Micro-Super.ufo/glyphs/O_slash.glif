@@ -33,26 +33,10 @@
       <point x="210" y="-25"/>
     </contour>
     <contour>
-      <point x="-20.0" y="-25" type="line"/>
-      <point x="110.0" y="-25" type="line"/>
-      <point x="861.0" y="735" type="line"/>
-      <point x="731.0" y="735" type="line"/>
+      <point x="-20" y="-25" type="line"/>
+      <point x="110" y="-25" type="line"/>
+      <point x="861" y="735" type="line"/>
+      <point x="731" y="735" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typesupply.AccentFactory.yCoordinates</key>
-      <dict>
-        <key>top</key>
-        <dict>
-          <key>name</key>
-          <string>capHeight</string>
-          <key>type</key>
-          <string>fontInfo</string>
-        </dict>
-      </dict>
-      <key>public.markColor</key>
-      <string>1,0.5769,0,1</string>
-    </dict>
-  </lib>
 </glyph>

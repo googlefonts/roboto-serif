@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="gmacron" format="2">
   <advance width="500"/>
   <unicode hex="1E21"/>
@@ -6,10 +5,4 @@
     <component base="g"/>
     <component base="macron" xOffset="35"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>1,0,0,0.5</string>
-    </dict>
-  </lib>
 </glyph>

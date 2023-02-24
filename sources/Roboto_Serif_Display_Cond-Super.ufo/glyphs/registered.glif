@@ -2,17 +2,17 @@
 <glyph name="registered" format="2">
   <advance width="596"/>
   <unicode hex="00AE"/>
-  <guideline x="0.0" y="203" angle="0" identifier="mR6ZLgHzLe"/>
-  <guideline x="464" y="205" angle="282.925999124706" identifier="oXNCtcGfJU"/>
+  <guideline x="0" y="203" angle="0" identifier="mR6ZLgHzLe"/>
+  <guideline x="464" y="205" angle="282.9259991247" identifier="oXNCtcGfJU"/>
   <outline>
     <contour>
-      <point x="298" y="8" type="curve"/>
+      <point x="298" y="8" type="curve" smooth="yes"/>
       <point x="159" y="8"/>
       <point x="67" y="141"/>
       <point x="67" y="355" type="curve" smooth="yes"/>
       <point x="67" y="569"/>
       <point x="159" y="702"/>
-      <point x="298" y="702" type="curve"/>
+      <point x="298" y="702" type="curve" smooth="yes"/>
       <point x="437" y="702"/>
       <point x="529" y="569"/>
       <point x="529" y="355" type="curve" smooth="yes"/>
@@ -20,18 +20,18 @@
       <point x="437" y="8"/>
     </contour>
     <contour>
-      <point x="15" y="113"/>
-      <point x="141" y="-40"/>
-      <point x="298" y="-40" type="curve"/>
+      <point x="298" y="-40" type="curve" smooth="yes"/>
       <point x="455" y="-40"/>
       <point x="581" y="113"/>
       <point x="581" y="355" type="curve" smooth="yes"/>
       <point x="581" y="597"/>
       <point x="455" y="750"/>
-      <point x="298" y="750" type="curve"/>
+      <point x="298" y="750" type="curve" smooth="yes"/>
       <point x="141" y="750"/>
       <point x="15" y="597"/>
       <point x="15" y="355" type="curve" smooth="yes"/>
+      <point x="15" y="113"/>
+      <point x="141" y="-40"/>
     </contour>
     <contour>
       <point x="141" y="152" type="line"/>
@@ -87,7 +87,7 @@
   <lib>
     <dict>
       <key>com.typemytype.robofont.guideline.magnetic.mR6ZLgHzLe</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>public.markColor</key>
       <string>1,0.6568,1,1</string>
     </dict>

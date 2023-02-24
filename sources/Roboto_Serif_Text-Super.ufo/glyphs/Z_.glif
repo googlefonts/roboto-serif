@@ -8,8 +8,6 @@
   <anchor x="340.6366559485531" y="0" name="bottom"/>
   <outline>
     <contour>
-      <point x="152" y="610"/>
-      <point x="188" y="617"/>
       <point x="238" y="617" type="curve" smooth="yes"/>
       <point x="432" y="617" type="line"/>
       <point x="397" y="691" type="line"/>
@@ -30,14 +28,16 @@
       <point x="37" y="491" type="line"/>
       <point x="145" y="491" type="line"/>
       <point x="150" y="574" type="line" smooth="yes"/>
+      <point x="152" y="610"/>
+      <point x="188" y="617"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.guideline.magnetic.cgm3YXSGev</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>com.typemytype.robofont.guideline.magnetic.orTK4eTxDL</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>com.typesupply.AccentFactory.yCoordinates</key>
       <dict>
         <key>bottom</key>

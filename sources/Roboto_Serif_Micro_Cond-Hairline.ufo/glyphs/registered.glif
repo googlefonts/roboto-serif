@@ -4,8 +4,6 @@
   <unicode hex="00AE"/>
   <outline>
     <contour>
-      <point x="664" y="149"/>
-      <point x="547" y="10"/>
       <point x="384" y="10" type="curve" smooth="yes"/>
       <point x="221" y="10"/>
       <point x="104" y="149"/>
@@ -16,10 +14,10 @@
       <point x="547" y="700"/>
       <point x="664" y="561"/>
       <point x="664" y="355" type="curve" smooth="yes"/>
+      <point x="664" y="149"/>
+      <point x="547" y="10"/>
     </contour>
     <contour>
-      <point x="60" y="128"/>
-      <point x="201" y="-28"/>
       <point x="384" y="-28" type="curve" smooth="yes"/>
       <point x="567" y="-28"/>
       <point x="708" y="128"/>
@@ -30,6 +28,8 @@
       <point x="201" y="738"/>
       <point x="60" y="582"/>
       <point x="60" y="355" type="curve" smooth="yes"/>
+      <point x="60" y="128"/>
+      <point x="201" y="-28"/>
     </contour>
     <contour>
       <point x="247" y="159" type="line"/>
@@ -37,14 +37,14 @@
       <point x="381" y="190" type="line"/>
       <point x="372" y="190" type="line" smooth="yes"/>
       <point x="351" y="190"/>
-      <point x="329" y="191.0"/>
+      <point x="329" y="191"/>
       <point x="329" y="195" type="curve" smooth="yes"/>
       <point x="329" y="323" type="line"/>
       <point x="378" y="323" type="line" smooth="yes"/>
       <point x="467" y="323"/>
-      <point x="514.0" y="370.0"/>
+      <point x="514" y="370"/>
       <point x="514" y="437" type="curve" smooth="yes"/>
-      <point x="514.0" y="508.0"/>
+      <point x="514" y="508"/>
       <point x="471" y="549"/>
       <point x="389" y="549" type="curve" smooth="yes"/>
       <point x="247" y="549" type="line"/>
@@ -76,8 +76,8 @@
       <point x="541" y="162" type="line"/>
       <point x="541" y="190" type="line"/>
       <point x="532" y="190" type="line" smooth="yes"/>
-      <point x="515.5294117647059" y="190"/>
-      <point x="502.3459865768568" y="193.08053243926287"/>
+      <point x="515.5294117647" y="190"/>
+      <point x="502.3459865769" y="193.0805324393"/>
       <point x="497" y="206" type="curve" smooth="yes"/>
       <point x="437" y="351" type="line"/>
     </contour>
@@ -85,7 +85,7 @@
   <lib>
     <dict>
       <key>com.typemytype.robofont.guideline.magnetic.1emrpOedR0</key>
-      <real>5.0</real>
+      <integer>5</integer>
     </dict>
   </lib>
 </glyph>

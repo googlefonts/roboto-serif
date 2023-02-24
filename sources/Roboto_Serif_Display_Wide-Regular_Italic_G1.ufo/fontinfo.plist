@@ -13,7 +13,40 @@
     <key>familyName</key>
     <string>Roboto Serif</string>
     <key>guidelines</key>
-    <array/>
+    <array>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>identifier</key>
+        <string>zguQMMSpAC</string>
+        <key>x</key>
+        <real>376.9990255744</real>
+        <key>y</key>
+        <integer>0</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>identifier</key>
+        <string>e4GiC2E9ed</string>
+        <key>name</key>
+        <string>`</string>
+        <key>x</key>
+        <real>734.0047081576</real>
+        <key>y</key>
+        <integer>355</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>identifier</key>
+        <string>hBnbBnKV0N</string>
+        <key>x</key>
+        <integer>180</integer>
+        <key>y</key>
+        <integer>710</integer>
+      </dict>
+    </array>
     <key>italicAngle</key>
     <integer>-10</integer>
     <key>openTypeHeadCreated</key>
@@ -68,9 +101,9 @@
     <key>openTypeOS2WidthClass</key>
     <integer>7</integer>
     <key>openTypeOS2WinAscent</key>
-    <integer>1152</integer>
+    <integer>1048</integer>
     <key>openTypeOS2WinDescent</key>
-    <integer>305</integer>
+    <integer>251</integer>
     <key>postscriptBlueValues</key>
     <array>
       <integer>-10</integer>
@@ -122,8 +155,6 @@
     <integer>-150</integer>
     <key>postscriptUnderlineThickness</key>
     <integer>100</integer>
-    <key>styleMapFamilyName</key>
-    <string>Roboto Serif Grade-1 144pt ExtraExpanded</string>
     <key>styleMapStyleName</key>
     <string>italic</string>
     <key>styleName</key>
@@ -135,7 +166,7 @@
     <key>versionMajor</key>
     <integer>1</integer>
     <key>versionMinor</key>
-    <integer>7</integer>
+    <integer>8</integer>
     <key>xHeight</key>
     <integer>518</integer>
   </dict>

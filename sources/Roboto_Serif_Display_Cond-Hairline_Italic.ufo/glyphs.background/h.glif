@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="h" format="2">
   <advance width="379"/>
   <unicode hex="0068"/>
@@ -39,8 +38,8 @@
       <point x="878" y="183" type="curve" smooth="yes"/>
       <point x="908" y="329" type="line" smooth="yes"/>
       <point x="915" y="370"/>
-      <point x="923.0" y="410"/>
-      <point x="923.0" y="440" type="curve" smooth="yes"/>
+      <point x="923" y="410"/>
+      <point x="923" y="440" type="curve" smooth="yes"/>
       <point x="923" y="484"/>
       <point x="906" y="502"/>
       <point x="879" y="502" type="curve" smooth="yes"/>
@@ -53,17 +52,17 @@
       <point x="892" y="528" type="curve" smooth="yes"/>
       <point x="942" y="528"/>
       <point x="959" y="492"/>
-      <point x="959.0" y="441" type="curve" smooth="yes"/>
-      <point x="959.0" y="405.0"/>
+      <point x="959" y="441" type="curve" smooth="yes"/>
+      <point x="959" y="405"/>
       <point x="951" y="366"/>
       <point x="943" y="326" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="326" y="471" type="curve"/>
+      <point x="326" y="471" type="curve" smooth="yes"/>
       <point x="267" y="135" type="line" smooth="yes"/>
       <point x="260" y="97"/>
       <point x="256" y="68"/>
-      <point x="256.0" y="50.0" type="curve" smooth="yes"/>
+      <point x="256" y="50" type="curve" smooth="yes"/>
       <point x="256" y="4"/>
       <point x="282" y="-7"/>
       <point x="306" y="-7" type="curve" smooth="yes"/>
@@ -76,14 +75,14 @@
       <point x="322" y="13" type="curve" smooth="yes"/>
       <point x="302" y="13"/>
       <point x="290" y="27"/>
-      <point x="290.0" y="51.0" type="curve" smooth="yes"/>
+      <point x="290" y="51" type="curve" smooth="yes"/>
       <point x="290" y="68"/>
       <point x="296" y="103"/>
       <point x="303" y="142" type="curve" smooth="yes"/>
       <point x="369" y="518" type="line"/>
       <point x="281" y="518" type="line"/>
       <point x="278" y="503" type="line"/>
-      <point x="294" y="501" type="line" smooth="yes"/>
+      <point x="294" y="501" type="line"/>
       <point x="320" y="496"/>
       <point x="330" y="491"/>
     </contour>

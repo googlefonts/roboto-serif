@@ -11,9 +11,132 @@
     <key>descender</key>
     <integer>-223</integer>
     <key>familyName</key>
-    <string>Roboto Serif</string>
+    <string>Roboto Serif Text Cond</string>
     <key>guidelines</key>
-    <array/>
+    <array>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>identifier</key>
+        <string>2JtzCnDQoR</string>
+        <key>x</key>
+        <integer>339</integer>
+        <key>y</key>
+        <integer>0</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>identifier</key>
+        <string>9UDZ4uKQWi</string>
+        <key>x</key>
+        <integer>347</integer>
+        <key>y</key>
+        <integer>44</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>identifier</key>
+        <string>CNS9869Tfe</string>
+        <key>x</key>
+        <integer>393</integer>
+        <key>y</key>
+        <integer>-12</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>80</integer>
+        <key>identifier</key>
+        <string>YDADns81zF</string>
+        <key>x</key>
+        <integer>236</integer>
+        <key>y</key>
+        <integer>526</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>identifier</key>
+        <string>rrkLyk47wM</string>
+        <key>x</key>
+        <real>160.4276103187</real>
+        <key>y</key>
+        <real>627.6482127515</real>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>identifier</key>
+        <string>lHRtIdrsgM</string>
+        <key>x</key>
+        <integer>294</integer>
+        <key>y</key>
+        <integer>81</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>identifier</key>
+        <string>dvJms8U2V6</string>
+        <key>x</key>
+        <integer>490</integer>
+        <key>y</key>
+        <integer>186</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>identifier</key>
+        <string>k68fWkzKfs</string>
+        <key>x</key>
+        <real>640.4219095686</real>
+        <key>y</key>
+        <integer>710</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>identifier</key>
+        <string>ONodFt2SrQ</string>
+        <key>name</key>
+        <string>`</string>
+        <key>x</key>
+        <integer>491</integer>
+        <key>y</key>
+        <integer>357</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>identifier</key>
+        <string>exs8lkWMKg</string>
+        <key>x</key>
+        <real>402.5820231367</real>
+        <key>y</key>
+        <integer>508</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>identifier</key>
+        <string>pUX61MGn83</string>
+        <key>x</key>
+        <integer>543</integer>
+        <key>y</key>
+        <integer>272</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>identifier</key>
+        <string>CbztqGgRFq</string>
+        <key>x</key>
+        <real>269.1616326301</real>
+        <key>y</key>
+        <real>-141.0715420754</real>
+      </dict>
+    </array>
     <key>italicAngle</key>
     <integer>-10</integer>
     <key>openTypeHeadCreated</key>
@@ -40,6 +163,15 @@
     <string>Roboto Serif Text Cond</string>
     <key>openTypeNamePreferredSubfamilyName</key>
     <string>Regular Italic</string>
+    <key>openTypeOS2CodePageRanges</key>
+    <array>
+      <integer>0</integer>
+      <integer>1</integer>
+      <integer>4</integer>
+      <integer>7</integer>
+      <integer>8</integer>
+      <integer>29</integer>
+    </array>
     <key>openTypeOS2Panose</key>
     <array>
       <integer>0</integer>
@@ -65,6 +197,30 @@
     <integer>-244</integer>
     <key>openTypeOS2TypoLineGap</key>
     <integer>0</integer>
+    <key>openTypeOS2UnicodeRanges</key>
+    <array>
+      <integer>0</integer>
+      <integer>1</integer>
+      <integer>2</integer>
+      <integer>3</integer>
+      <integer>4</integer>
+      <integer>5</integer>
+      <integer>7</integer>
+      <integer>24</integer>
+      <integer>29</integer>
+      <integer>31</integer>
+      <integer>32</integer>
+      <integer>33</integer>
+      <integer>35</integer>
+      <integer>36</integer>
+      <integer>37</integer>
+      <integer>38</integer>
+      <integer>41</integer>
+      <integer>42</integer>
+      <integer>45</integer>
+      <integer>60</integer>
+      <integer>62</integer>
+    </array>
     <key>openTypeOS2VendorID</key>
     <string>COMM</string>
     <key>openTypeOS2WeightClass</key>
@@ -72,9 +228,9 @@
     <key>openTypeOS2WidthClass</key>
     <integer>3</integer>
     <key>openTypeOS2WinAscent</key>
-    <integer>1152</integer>
+    <integer>1048</integer>
     <key>openTypeOS2WinDescent</key>
-    <integer>305</integer>
+    <integer>251</integer>
     <key>postscriptBlueValues</key>
     <array>
       <integer>-11</integer>
@@ -126,12 +282,10 @@
     <integer>-150</integer>
     <key>postscriptUnderlineThickness</key>
     <integer>100</integer>
-    <key>styleMapFamilyName</key>
-    <string>Roboto Serif 20pt UltraCondensed</string>
     <key>styleMapStyleName</key>
     <string>italic</string>
     <key>styleName</key>
-    <string>20pt UltraCondensed Italic</string>
+    <string>Regular Italic</string>
     <key>trademark</key>
     <string>Roboto is a registered trademark of Google, Inc.</string>
     <key>unitsPerEm</key>
@@ -139,7 +293,7 @@
     <key>versionMajor</key>
     <integer>1</integer>
     <key>versionMinor</key>
-    <integer>7</integer>
+    <integer>8</integer>
     <key>xHeight</key>
     <integer>518</integer>
     <key>year</key>

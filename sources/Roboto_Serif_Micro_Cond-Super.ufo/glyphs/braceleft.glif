@@ -6,14 +6,14 @@
     <contour>
       <point x="331" y="200" type="curve" smooth="yes"/>
       <point x="331" y="253"/>
-      <point x="293.92702660054573" y="269.0181019285468"/>
+      <point x="293.9270266005" y="269.0181019285"/>
       <point x="165" y="301" type="curve"/>
       <point x="165" y="316" type="line"/>
-      <point x="293.92702660054573" y="347.9818980714532"/>
-      <point x="331.0" y="363.52941176470586"/>
+      <point x="293.9270266005" y="347.9818980715"/>
+      <point x="331" y="363.5294117647"/>
       <point x="331" y="417" type="curve" smooth="yes"/>
-      <point x="331.0" y="472.2956989247312"/>
-      <point x="259.0" y="537.6451612903226"/>
+      <point x="331" y="472.2956989247"/>
+      <point x="259" y="537.6451612903"/>
       <point x="259" y="604" type="curve" smooth="yes"/>
       <point x="259" y="659"/>
       <point x="322" y="673"/>
@@ -40,7 +40,7 @@
       <point x="322" y="-56"/>
       <point x="259" y="-43"/>
       <point x="259" y="13" type="curve" smooth="yes"/>
-      <point x="259.0" y="79.35483870967742"/>
+      <point x="259" y="79.3548387097"/>
       <point x="331" y="145"/>
     </contour>
   </outline>
@@ -984,10 +984,10 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>1.0</real>
+        <integer>1</integer>
         <real>0.5769</real>
-        <real>0.0</real>
-        <real>1.0</real>
+        <integer>0</integer>
+        <integer>1</integer>
       </array>
     </dict>
   </lib>

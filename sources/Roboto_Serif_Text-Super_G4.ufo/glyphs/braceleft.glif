@@ -6,12 +6,12 @@
   <outline>
     <contour>
       <point x="335" y="220" type="curve" smooth="yes"/>
-      <point x="335.0" y="263.0"/>
+      <point x="335" y="263"/>
       <point x="294" y="296"/>
       <point x="176" y="309" type="curve"/>
       <point x="176" y="314" type="line"/>
       <point x="294" y="327"/>
-      <point x="335.0" y="361.0"/>
+      <point x="335" y="361"/>
       <point x="335" y="403" type="curve" smooth="yes"/>
       <point x="335" y="463"/>
       <point x="261" y="529"/>
@@ -48,7 +48,7 @@
   <lib>
     <dict>
       <key>com.typemytype.robofont.guideline.magnetic.l7BuSt8ASP</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>public.markColor</key>
       <string>1,0.5769,0,1</string>
     </dict>

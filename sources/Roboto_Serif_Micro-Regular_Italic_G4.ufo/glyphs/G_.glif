@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="G" format="2">
-  <advance width="829"/>
+  <advance width="828"/>
   <unicode hex="0047"/>
   <anchor x="414" y="741" name="top"/>
   <anchor x="414" y="0" name="bottom"/>
@@ -13,9 +13,9 @@
       <point x="497" y="59"/>
       <point x="541" y="109"/>
       <point x="556" y="121" type="curve"/>
-      <point x="585" y="227" type="line"/>
-      <point x="593" y="257"/>
-      <point x="566" y="267"/>
+      <point x="584" y="227" type="line" smooth="yes"/>
+      <point x="592" y="257"/>
+      <point x="565" y="267"/>
       <point x="499" y="267" type="curve" smooth="yes"/>
       <point x="478" y="267" type="line"/>
       <point x="497" y="349" type="line"/>
@@ -24,7 +24,7 @@
       <point x="770" y="267" type="line" smooth="yes"/>
       <point x="721" y="267"/>
       <point x="694" y="260"/>
-      <point x="685" y="227" type="curve"/>
+      <point x="685" y="227" type="curve" smooth="yes"/>
       <point x="648" y="85" type="line"/>
       <point x="612" y="54"/>
       <point x="530" y="-25"/>

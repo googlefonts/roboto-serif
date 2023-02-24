@@ -7,8 +7,6 @@
   <anchor x="424.71794871794873" y="0" name="right"/>
   <outline>
     <contour>
-      <point x="24" y="121"/>
-      <point x="167" y="-10"/>
       <point x="370" y="-10" type="curve" smooth="yes"/>
       <point x="635" y="-10"/>
       <point x="788" y="174"/>
@@ -19,12 +17,12 @@
       <point x="177" y="720"/>
       <point x="24" y="536"/>
       <point x="24" y="317" type="curve" smooth="yes"/>
+      <point x="24" y="121"/>
+      <point x="167" y="-10"/>
     </contour>
     <contour>
-      <point x="345" y="569"/>
-      <point x="386" y="660"/>
       <point x="448" y="660" type="curve" smooth="yes"/>
-      <point x="497.0" y="660.0"/>
+      <point x="497" y="660"/>
       <point x="519" y="604"/>
       <point x="519" y="501" type="curve" smooth="yes"/>
       <point x="519" y="395"/>
@@ -33,12 +31,14 @@
       <point x="468" y="145"/>
       <point x="435" y="50"/>
       <point x="368" y="50" type="curve" smooth="yes"/>
-      <point x="315.0" y="50"/>
+      <point x="315" y="50"/>
       <point x="294" y="107"/>
       <point x="294" y="207" type="curve" smooth="yes"/>
       <point x="294" y="329"/>
       <point x="309" y="401"/>
       <point x="322" y="461" type="curve" smooth="yes"/>
+      <point x="345" y="569"/>
+      <point x="386" y="660"/>
     </contour>
   </outline>
   <lib>

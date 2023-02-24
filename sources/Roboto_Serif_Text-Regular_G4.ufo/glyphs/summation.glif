@@ -2,7 +2,7 @@
 <glyph name="summation" format="2">
   <advance width="586"/>
   <unicode hex="2211"/>
-  <guideline x="48" y="50" angle="90.0" identifier="gLq2I7PXoq"/>
+  <guideline x="48" y="50" angle="90" identifier="gLq2I7PXoq"/>
   <guideline x="333" y="-223" angle="0" identifier="6OZwZ7Ya58"/>
   <outline>
     <contour>
@@ -37,9 +37,9 @@
   <lib>
     <dict>
       <key>com.typemytype.robofont.guideline.magnetic.6OZwZ7Ya58</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>com.typemytype.robofont.guideline.magnetic.gLq2I7PXoq</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>public.markColor</key>
       <string>0.9962,1,0.5137,1</string>
     </dict>

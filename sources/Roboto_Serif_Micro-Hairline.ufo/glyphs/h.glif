@@ -2,7 +2,7 @@
 <glyph name="h" format="2">
   <advance width="689"/>
   <unicode hex="0068"/>
-  <guideline x="186.03" y="376" angle="90.0"/>
+  <guideline x="186.03" y="376" angle="90"/>
   <anchor x="361.56501547987614" y="755" name="top"/>
   <anchor x="350.8993808049536" y="0" name="bottom"/>
   <outline>
@@ -1877,10 +1877,10 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>1.0</real>
+        <integer>1</integer>
         <real>0.5769</real>
-        <real>0.0</real>
-        <real>1.0</real>
+        <integer>0</integer>
+        <integer>1</integer>
       </array>
       <key>com.typesupply.AccentFactory.yCoordinates</key>
       <dict>

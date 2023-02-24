@@ -2,7 +2,7 @@
 <glyph name="d" format="2">
   <advance width="684"/>
   <unicode hex="0064"/>
-  <guideline x="443" y="151" angle="90.0" identifier="iE0gakTr6x"/>
+  <guideline x="443" y="151" angle="90" identifier="iE0gakTr6x"/>
   <anchor x="319.0577223088925" y="0" name="bottom"/>
   <anchor x="647.7191887675507" y="735.0" name="right"/>
   <outline>
@@ -13,7 +13,7 @@
       <point x="355" y="615" type="line"/>
       <point x="362" y="613" type="line" smooth="yes"/>
       <point x="382" y="607"/>
-      <point x="393.0" y="603.0"/>
+      <point x="393" y="603"/>
       <point x="393" y="587" type="curve" smooth="yes"/>
       <point x="393" y="107" type="line"/>
       <point x="417" y="122" type="line"/>
@@ -22,7 +22,7 @@
       <point x="672" y="116" type="line"/>
       <point x="665" y="118" type="line" smooth="yes"/>
       <point x="645" y="124"/>
-      <point x="638.0" y="128.0"/>
+      <point x="638" y="128"/>
     </contour>
     <contour>
       <point x="257" y="524" type="curve" smooth="yes"/>
@@ -56,7 +56,7 @@
   <lib>
     <dict>
       <key>com.typemytype.robofont.guideline.magnetic.iE0gakTr6x</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>com.typesupply.AccentFactory.yCoordinates</key>
       <dict>
         <key>bottom</key>

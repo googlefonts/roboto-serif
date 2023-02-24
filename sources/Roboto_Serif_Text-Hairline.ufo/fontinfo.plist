@@ -3,7 +3,7 @@
 <plist version="1.0">
   <dict>
     <key>ascender</key>
-    <integer>735</integer>
+    <integer>750</integer>
     <key>capHeight</key>
     <integer>710</integer>
     <key>copyright</key>
@@ -11,7 +11,7 @@
     <key>descender</key>
     <integer>-223</integer>
     <key>familyName</key>
-    <string>Roboto Serif</string>
+    <string>Roboto Serif Text</string>
     <key>guidelines</key>
     <array>
       <dict>
@@ -22,9 +22,9 @@
         <key>name</key>
         <string>UC accents</string>
         <key>x</key>
-        <integer>742</integer>
+        <integer>400</integer>
         <key>y</key>
-        <integer>710</integer>
+        <integer>720</integer>
       </dict>
       <dict>
         <key>angle</key>
@@ -34,9 +34,9 @@
         <key>name</key>
         <string>LC accents</string>
         <key>x</key>
-        <integer>408</integer>
+        <integer>281</integer>
         <key>y</key>
-        <integer>508</integer>
+        <integer>518</integer>
       </dict>
       <dict>
         <key>angle</key>
@@ -54,9 +54,9 @@
         <key>identifier</key>
         <string>p1bm7kxnqM</string>
         <key>x</key>
-        <integer>431</integer>
+        <integer>305</integer>
         <key>y</key>
-        <integer>802</integer>
+        <integer>154</integer>
       </dict>
       <dict>
         <key>angle</key>
@@ -64,9 +64,9 @@
         <key>identifier</key>
         <string>UtINtJiyk0</string>
         <key>x</key>
-        <integer>155</integer>
+        <integer>510</integer>
         <key>y</key>
-        <integer>745</integer>
+        <integer>260</integer>
       </dict>
       <dict>
         <key>angle</key>
@@ -74,9 +74,9 @@
         <key>identifier</key>
         <string>KPfqIpqMBs</string>
         <key>x</key>
-        <integer>369</integer>
+        <integer>705</integer>
         <key>y</key>
-        <integer>974</integer>
+        <integer>817</integer>
       </dict>
       <dict>
         <key>angle</key>
@@ -84,13 +84,73 @@
         <key>identifier</key>
         <string>TUB3zgg6sH</string>
         <key>x</key>
-        <integer>0</integer>
+        <integer>462</integer>
         <key>y</key>
-        <integer>481</integer>
+        <integer>508</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>identifier</key>
+        <string>bpfDsvQtlF</string>
+        <key>x</key>
+        <integer>393</integer>
+        <key>y</key>
+        <integer>0</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>identifier</key>
+        <string>QFpUwlCcPv</string>
+        <key>x</key>
+        <integer>328</integer>
+        <key>y</key>
+        <integer>-226</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>90</integer>
+        <key>identifier</key>
+        <string>vxBZDb6z2q</string>
+        <key>x</key>
+        <integer>208</integer>
+        <key>y</key>
+        <integer>393</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>identifier</key>
+        <string>qQUTaUFG4o</string>
+        <key>x</key>
+        <integer>489</integer>
+        <key>y</key>
+        <integer>-115</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>identifier</key>
+        <string>4nEO23ooMd</string>
+        <key>x</key>
+        <integer>361</integer>
+        <key>y</key>
+        <integer>710</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>identifier</key>
+        <string>BxfxnUIHjL</string>
+        <key>x</key>
+        <integer>541</integer>
+        <key>y</key>
+        <integer>-10</integer>
       </dict>
     </array>
     <key>italicAngle</key>
-    <real>0.0</real>
+    <integer>0</integer>
     <key>openTypeHeadCreated</key>
     <string>2020/04/09 11:16:35</string>
     <key>openTypeHheaAscender</key>
@@ -115,6 +175,15 @@
     <string>Roboto Serif Text</string>
     <key>openTypeNamePreferredSubfamilyName</key>
     <string>Hairline</string>
+    <key>openTypeOS2CodePageRanges</key>
+    <array>
+      <integer>0</integer>
+      <integer>1</integer>
+      <integer>4</integer>
+      <integer>7</integer>
+      <integer>8</integer>
+      <integer>29</integer>
+    </array>
     <key>openTypeOS2Panose</key>
     <array>
       <integer>0</integer>
@@ -140,6 +209,30 @@
     <integer>-244</integer>
     <key>openTypeOS2TypoLineGap</key>
     <integer>0</integer>
+    <key>openTypeOS2UnicodeRanges</key>
+    <array>
+      <integer>0</integer>
+      <integer>1</integer>
+      <integer>2</integer>
+      <integer>3</integer>
+      <integer>4</integer>
+      <integer>5</integer>
+      <integer>7</integer>
+      <integer>24</integer>
+      <integer>29</integer>
+      <integer>31</integer>
+      <integer>32</integer>
+      <integer>33</integer>
+      <integer>35</integer>
+      <integer>36</integer>
+      <integer>37</integer>
+      <integer>38</integer>
+      <integer>41</integer>
+      <integer>42</integer>
+      <integer>45</integer>
+      <integer>60</integer>
+      <integer>62</integer>
+    </array>
     <key>openTypeOS2VendorID</key>
     <string>COMM</string>
     <key>openTypeOS2WeightClass</key>
@@ -147,9 +240,9 @@
     <key>openTypeOS2WidthClass</key>
     <integer>5</integer>
     <key>openTypeOS2WinAscent</key>
-    <integer>1152</integer>
+    <integer>1048</integer>
     <key>openTypeOS2WinDescent</key>
-    <integer>305</integer>
+    <integer>251</integer>
     <key>postscriptBlueValues</key>
     <array>
       <integer>-12</integer>
@@ -200,12 +293,10 @@
     <integer>-150</integer>
     <key>postscriptUnderlineThickness</key>
     <integer>100</integer>
-    <key>styleMapFamilyName</key>
-    <string>Roboto Serif 20pt Thin</string>
     <key>styleMapStyleName</key>
     <string>regular</string>
     <key>styleName</key>
-    <string>20pt Thin</string>
+    <string>Hairline</string>
     <key>trademark</key>
     <string>Roboto is a registered trademark of Google, Inc.</string>
     <key>unitsPerEm</key>
@@ -213,9 +304,9 @@
     <key>versionMajor</key>
     <integer>1</integer>
     <key>versionMinor</key>
-    <integer>7</integer>
+    <integer>8</integer>
     <key>xHeight</key>
-    <integer>508</integer>
+    <integer>518</integer>
     <key>year</key>
     <integer>2020</integer>
   </dict>

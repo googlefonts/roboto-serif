@@ -2,7 +2,7 @@
 <glyph name="igrave" format="2">
   <advance width="319"/>
   <unicode hex="00EC"/>
-  <guideline x="212" y="517" angle="90.0" identifier="Yht9KYcNRg"/>
+  <guideline x="212" y="517" angle="90" identifier="Yht9KYcNRg"/>
   <outline>
     <component base="dotlessi"/>
     <component base="grave" xOffset="-62" yOffset="3"/>
@@ -10,7 +10,7 @@
   <lib>
     <dict>
       <key>com.typemytype.robofont.guideline.magnetic.Yht9KYcNRg</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>com.typesupply.AccentFactory.compileType</key>
       <string>manual</string>
     </dict>

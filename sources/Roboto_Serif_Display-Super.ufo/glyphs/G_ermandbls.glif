@@ -2,12 +2,12 @@
 <glyph name="Germandbls" format="2">
   <advance width="894"/>
   <unicode hex="1E9E"/>
-  <guideline x="764" y="651" angle="242.9442046823209" identifier="oUJ4MJ6bjd"/>
+  <guideline x="764" y="651" angle="242.9442046823" identifier="oUJ4MJ6bjd"/>
   <outline>
     <contour>
       <point x="586" y="52" type="curve" smooth="yes"/>
-      <point x="526.6829268292682" y="52.0"/>
-      <point x="481.06947266013094" y="115.75231486388104"/>
+      <point x="526.6829268293" y="52"/>
+      <point x="481.0694726601" y="115.7523148639"/>
       <point x="458" y="198" type="curve"/>
       <point x="405" y="198" type="line"/>
       <point x="405" y="0" type="line"/>
@@ -15,13 +15,13 @@
       <point x="472" y="122" type="line"/>
       <point x="447" y="105" type="line"/>
       <point x="473" y="28"/>
-      <point x="539.2842639593908" y="-10.0"/>
+      <point x="539.2842639594" y="-10"/>
       <point x="649" y="-10" type="curve" smooth="yes"/>
-      <point x="776.0" y="-10.0"/>
-      <point x="877.0" y="58.29268292682926"/>
+      <point x="776" y="-10"/>
+      <point x="877" y="58.2926829268"/>
       <point x="877" y="190" type="curve" smooth="yes"/>
-      <point x="877.0" y="336.3568075117371"/>
-      <point x="713.0547439775889" y="390.992433759195"/>
+      <point x="877" y="336.3568075117"/>
+      <point x="713.0547439776" y="390.9924337592"/>
       <point x="590" y="408" type="curve"/>
       <point x="655" y="320" type="line"/>
       <point x="805" y="651" type="line"/>
@@ -45,8 +45,8 @@
       <point x="552" y="668" type="line"/>
       <point x="449" y="430" type="line"/>
       <point x="449" y="369" type="line"/>
-      <point x="559.1480415524351" y="332.9515500373849"/>
-      <point x="649.0" y="255.41699449252553"/>
+      <point x="559.1480415524" y="332.9515500374"/>
+      <point x="649" y="255.4169944925"/>
       <point x="649" y="149" type="curve" smooth="yes"/>
       <point x="649" y="84"/>
       <point x="626" y="52"/>
@@ -55,7 +55,7 @@
   <lib>
     <dict>
       <key>com.typemytype.robofont.guideline.magnetic.oUJ4MJ6bjd</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>public.markColor</key>
       <string>1,0.4,1,1</string>
     </dict>

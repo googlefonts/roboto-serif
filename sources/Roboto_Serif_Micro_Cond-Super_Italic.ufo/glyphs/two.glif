@@ -6,17 +6,17 @@
     <contour>
       <point x="-48" y="0" type="line"/>
       <point x="-8" y="160" type="line"/>
-      <point x="304.1703421579963" y="288.96217413740175"/>
-      <point x="350.0" y="424.06936416184976"/>
+      <point x="304.170342158" y="288.9621741374"/>
+      <point x="350" y="424.0693641618"/>
       <point x="350" y="536" type="curve" smooth="yes"/>
-      <point x="350.0" y="592.0967741935484"/>
-      <point x="333.0" y="610.0"/>
+      <point x="350" y="592.0967741935"/>
+      <point x="333" y="610"/>
       <point x="290" y="610" type="curve" smooth="yes"/>
-      <point x="256.0" y="610.0"/>
-      <point x="209.0" y="592.0"/>
+      <point x="256" y="610"/>
+      <point x="209" y="592"/>
       <point x="188" y="577" type="curve"/>
-      <point x="177.99866830519343" y="592.0019975422098"/>
-      <point x="214.05219303178714" y="611.003914477384"/>
+      <point x="177.9986683052" y="592.0019975422"/>
+      <point x="214.0521930318" y="611.0039144774"/>
       <point x="254" y="614" type="curve"/>
       <point x="217" y="466" type="line"/>
       <point x="62" y="466" type="line"/>
@@ -27,12 +27,12 @@
       <point x="488" y="693"/>
       <point x="558" y="633"/>
       <point x="558" y="519" type="curve" smooth="yes"/>
-      <point x="558.0" y="304.90078328981724"/>
-      <point x="388.7595257722549" y="241.2848221645956"/>
+      <point x="558" y="304.9007832898"/>
+      <point x="388.7595257723" y="241.2848221646"/>
       <point x="36" y="109" type="curve"/>
       <point x="30" y="132" type="line"/>
       <point x="286" y="132" type="line" smooth="yes"/>
-      <point x="362.0" y="132.0"/>
+      <point x="362" y="132"/>
       <point x="390" y="135"/>
       <point x="405" y="174" type="curve" smooth="yes"/>
       <point x="428" y="234" type="line"/>
@@ -45,9 +45,9 @@
       <key>com.typemytype.robofont.mark</key>
       <array>
         <real>0.9962</real>
-        <real>1.0</real>
+        <integer>1</integer>
         <real>0.5137</real>
-        <real>1.0</real>
+        <integer>1</integer>
       </array>
       <key>public.markColor</key>
       <string>0.8431,0.8627,1,1</string>

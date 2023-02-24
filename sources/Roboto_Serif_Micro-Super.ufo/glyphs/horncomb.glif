@@ -1,14 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="horncomb" format="2">
+  <advance width="500"/>
   <unicode hex="031B"/>
   <anchor x="-472.6083916083916" y="444" name="_top"/>
   <outline>
     <component base="horn" xOffset="-660"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>1,0.5769,0,1</string>
-    </dict>
-  </lib>
 </glyph>

@@ -6,20 +6,20 @@
   <anchor x="465" y="0" name="right"/>
   <outline>
     <contour>
-      <point x="178" y="394" type="line"/>
+      <point x="178" y="395" type="line"/>
       <point x="178" y="331" type="line"/>
       <point x="355" y="331" type="line" smooth="yes"/>
       <point x="384" y="331"/>
       <point x="394" y="316"/>
-      <point x="394" y="282" type="curve"/>
+      <point x="394" y="282" type="curve" smooth="yes"/>
       <point x="394" y="262" type="line"/>
       <point x="460" y="262" type="line"/>
       <point x="460" y="464" type="line"/>
       <point x="394" y="464" type="line"/>
-      <point x="394" y="444" type="line"/>
+      <point x="394" y="444" type="line" smooth="yes"/>
       <point x="394" y="409"/>
-      <point x="384" y="394"/>
-      <point x="355" y="394" type="curve" smooth="yes"/>
+      <point x="384" y="395"/>
+      <point x="355" y="395" type="curve" smooth="yes"/>
     </contour>
     <contour>
       <point x="611" y="218" type="line"/>

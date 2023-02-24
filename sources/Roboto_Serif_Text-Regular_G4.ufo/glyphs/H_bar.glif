@@ -2,8 +2,8 @@
 <glyph name="Hbar" format="2">
   <advance width="833"/>
   <unicode hex="0126"/>
-  <guideline x="45" y="653" angle="90.0" identifier="n9bAZT0VSM"/>
-  <guideline x="788" y="643" angle="90.0" identifier="BbIZTYKxZW"/>
+  <guideline x="45" y="653" angle="90" identifier="n9bAZT0VSM"/>
+  <guideline x="788" y="643" angle="90" identifier="BbIZTYKxZW"/>
   <outline>
     <contour>
       <point x="202" y="405" type="line"/>
@@ -73,9 +73,9 @@
   <lib>
     <dict>
       <key>com.typemytype.robofont.guideline.magnetic.BbIZTYKxZW</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>com.typemytype.robofont.guideline.magnetic.n9bAZT0VSM</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>public.markColor</key>
       <string>1,0.568,0.6434,1</string>
     </dict>

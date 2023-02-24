@@ -1,14 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="caroncomb" format="2">
+  <advance width="500"/>
   <unicode hex="030C"/>
   <anchor x="-350.5170068027211" y="525.0" name="_top"/>
   <outline>
     <component base="caron" xOffset="-608"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>1,0,0,0.5</string>
-    </dict>
-  </lib>
 </glyph>

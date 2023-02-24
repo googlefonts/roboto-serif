@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="nine.linprop" format="2">
   <advance width="581"/>
-  <guideline x="122.00999999999999" y="-15" angle="0" identifier="f3yMubw7XK"/>
+  <guideline x="122.01" y="-15" angle="0" identifier="f3yMubw7XK"/>
   <outline>
     <contour>
       <point x="94" y="30" type="line"/>
@@ -11,7 +11,7 @@
       <point x="469" y="620"/>
       <point x="405" y="690"/>
       <point x="279" y="690" type="curve" smooth="yes"/>
-      <point x="150.0" y="690.0"/>
+      <point x="150" y="690"/>
       <point x="100" y="599"/>
       <point x="100" y="488" type="curve" smooth="yes"/>
       <point x="100" y="392"/>
@@ -30,7 +30,7 @@
       <point x="45" y="630"/>
       <point x="129" y="735"/>
       <point x="281" y="735" type="curve" smooth="yes"/>
-      <point x="429.0" y="735.0"/>
+      <point x="429" y="735"/>
       <point x="521" y="649"/>
       <point x="521" y="430" type="curve" smooth="yes"/>
       <point x="521" y="153"/>
@@ -349,9 +349,9 @@
       <key>com.typemytype.robofont.mark</key>
       <array>
         <real>0.9962</real>
-        <real>1.0</real>
+        <integer>1</integer>
         <real>0.5137</real>
-        <real>1.0</real>
+        <integer>1</integer>
       </array>
       <key>public.markColor</key>
       <string>1,0.5769,0,1</string>

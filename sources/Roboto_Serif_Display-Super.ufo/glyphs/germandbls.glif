@@ -2,7 +2,7 @@
 <glyph name="germandbls" format="2">
   <advance width="697"/>
   <unicode hex="00DF"/>
-  <guideline x="322.46000000000004" y="307" angle="90" identifier="fbM4yuHhI2"/>
+  <guideline x="322.46" y="307" angle="90" identifier="fbM4yuHhI2"/>
   <outline>
     <contour>
       <point x="0" y="524" type="line"/>
@@ -66,7 +66,7 @@
   <lib>
     <dict>
       <key>com.typemytype.robofont.guideline.magnetic.fbM4yuHhI2</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>public.markColor</key>
       <string>1,1,0.4,1</string>
     </dict>

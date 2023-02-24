@@ -2,7 +2,7 @@
 <glyph name="n" format="2">
   <advance width="689"/>
   <unicode hex="006E"/>
-  <guideline x="186.03" y="309" angle="90.0"/>
+  <guideline x="186.03" y="309" angle="90"/>
   <guideline x="0" y="508" angle="0"/>
   <anchor x="341.8294573643412" y="565" name="top"/>
   <anchor x="350.37519379844963" y="0" name="bottom"/>
@@ -437,9 +437,9 @@
                   <key>smooth</key>
                   <true/>
                   <key>x</key>
-                  <real>397.0</real>
+                  <integer>397</integer>
                   <key>y</key>
-                  <real>508.0</real>
+                  <integer>508</integer>
                 </dict>
                 <dict>
                   <key>smooth</key>
@@ -544,10 +544,10 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>1.0</real>
+        <integer>1</integer>
         <real>0.5769</real>
-        <real>0.0</real>
-        <real>1.0</real>
+        <integer>0</integer>
+        <integer>1</integer>
       </array>
       <key>com.typesupply.AccentFactory.yCoordinates</key>
       <dict>

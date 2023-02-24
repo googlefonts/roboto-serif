@@ -2,7 +2,7 @@
 <glyph name="Lslash" format="2">
   <advance width="577"/>
   <unicode hex="0141"/>
-  <guideline x="36" y="65" angle="90.0" identifier="oSgSeSiUHU"/>
+  <guideline x="36" y="65" angle="90" identifier="oSgSeSiUHU"/>
   <outline>
     <contour>
       <point x="36" y="208" type="line"/>
@@ -15,7 +15,7 @@
   <lib>
     <dict>
       <key>com.typemytype.robofont.guideline.magnetic.oSgSeSiUHU</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>public.markColor</key>
       <string>0.9962,1,0.5137,1</string>
     </dict>

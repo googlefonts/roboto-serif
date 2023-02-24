@@ -2,7 +2,7 @@
 <glyph name="peso" format="2">
   <advance width="560"/>
   <unicode hex="20B1"/>
-  <guideline x="44.800000000000004" y="629" angle="90" identifier="HVcWL5P1TR"/>
+  <guideline x="44.8" y="629" angle="90" identifier="HVcWL5P1TR"/>
   <outline>
     <contour>
       <point x="12" y="0" type="line"/>
@@ -24,10 +24,10 @@
       <point x="12" y="628" type="line"/>
       <point x="22" y="628" type="line" smooth="yes"/>
       <point x="36.6956521739" y="628"/>
-      <point x="48" y="621.0"/>
+      <point x="48" y="621"/>
       <point x="48" y="592" type="curve" smooth="yes"/>
       <point x="48" y="118" type="line" smooth="yes"/>
-      <point x="48" y="89.0"/>
+      <point x="48" y="89"/>
       <point x="36.6956521739" y="82"/>
       <point x="22" y="82" type="curve" smooth="yes"/>
       <point x="12" y="82" type="line"/>
@@ -44,15 +44,15 @@
       <point x="243" y="617" type="line"/>
     </contour>
     <contour>
-      <point x="12.0" y="505.0" type="line"/>
-      <point x="12.0" y="419.0" type="line"/>
+      <point x="12" y="505" type="line"/>
+      <point x="12" y="419" type="line"/>
       <point x="193" y="419" type="line"/>
       <point x="210" y="429" type="line"/>
       <point x="407" y="429" type="line"/>
       <point x="442" y="419" type="line"/>
-      <point x="560.0" y="419.0" type="line"/>
-      <point x="560.0" y="505.0" type="line"/>
-      <point x="455.0" y="505.0" type="line"/>
+      <point x="560" y="419" type="line"/>
+      <point x="560" y="505" type="line"/>
+      <point x="455" y="505" type="line"/>
       <point x="422" y="495" type="line"/>
       <point x="188" y="495" type="line"/>
       <point x="181" y="505" type="line"/>
@@ -61,7 +61,7 @@
   <lib>
     <dict>
       <key>com.typemytype.robofont.guideline.magnetic.HVcWL5P1TR</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>public.markColor</key>
       <string>0.9962,1,0.5137,1</string>
     </dict>

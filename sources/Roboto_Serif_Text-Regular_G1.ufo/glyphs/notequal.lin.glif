@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="notequal.lin" format="2">
   <advance width="560"/>
-  <guideline x="60" y="161" angle="90.0" identifier="A3hupi7fRi"/>
-  <guideline x="450" y="144" angle="90.0" identifier="y2JsYoIgbx"/>
+  <guideline x="60" y="161" angle="90" identifier="A3hupi7fRi"/>
+  <guideline x="450" y="144" angle="90" identifier="y2JsYoIgbx"/>
   <outline>
     <component base="notequal" yOffset="30"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.guideline.magnetic.A3hupi7fRi</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>com.typemytype.robofont.guideline.magnetic.y2JsYoIgbx</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>public.markColor</key>
       <string>1,0.5769,0,1</string>
     </dict>

@@ -6,28 +6,28 @@
   <anchor x="385.5964630225081" y="0" name="bottom"/>
   <outline>
     <contour>
-      <point x="147.0" y="657"/>
-      <point x="188.0" y="666"/>
-      <point x="283.0" y="666" type="curve" smooth="yes"/>
-      <point x="617.0" y="666" type="line"/>
-      <point x="610.0" y="680" type="line"/>
-      <point x="62.0" y="54" type="line"/>
-      <point x="62.0" y="0.0" type="line"/>
-      <point x="667.0" y="0.0" type="line"/>
-      <point x="667.0" y="223" type="line"/>
-      <point x="628.0" y="223" type="line"/>
-      <point x="612.0" y="85" type="line" smooth="yes"/>
-      <point x="608.0" y="53"/>
-      <point x="567.0" y="44.0"/>
-      <point x="472.0" y="44" type="curve" smooth="yes"/>
-      <point x="87.0" y="44" type="line"/>
-      <point x="97.0" y="21" type="line"/>
-      <point x="653.0" y="659" type="line"/>
-      <point x="653.0" y="710.0" type="line"/>
-      <point x="88.0" y="710.0" type="line"/>
-      <point x="88.0" y="487" type="line"/>
-      <point x="127.0" y="487" type="line"/>
-      <point x="143.0" y="625" type="line" smooth="yes"/>
+      <point x="283" y="666" type="curve" smooth="yes"/>
+      <point x="617" y="666" type="line"/>
+      <point x="610" y="680" type="line"/>
+      <point x="62" y="54" type="line"/>
+      <point x="62" y="0" type="line"/>
+      <point x="667" y="0" type="line"/>
+      <point x="667" y="223" type="line"/>
+      <point x="628" y="223" type="line"/>
+      <point x="612" y="85" type="line" smooth="yes"/>
+      <point x="608" y="53"/>
+      <point x="567" y="44"/>
+      <point x="472" y="44" type="curve" smooth="yes"/>
+      <point x="87" y="44" type="line"/>
+      <point x="97" y="21" type="line"/>
+      <point x="653" y="659" type="line"/>
+      <point x="653" y="710" type="line"/>
+      <point x="88" y="710" type="line"/>
+      <point x="88" y="487" type="line"/>
+      <point x="127" y="487" type="line"/>
+      <point x="143" y="625" type="line" smooth="yes"/>
+      <point x="147" y="657"/>
+      <point x="188" y="666"/>
     </contour>
   </outline>
   <lib>
@@ -36,7 +36,7 @@
       <array>
         <dict>
           <key>angle</key>
-          <real>90.0</real>
+          <integer>90</integer>
           <key>isGlobal</key>
           <false/>
           <key>magnetic</key>
@@ -50,7 +50,7 @@
         </dict>
         <dict>
           <key>angle</key>
-          <real>90.0</real>
+          <integer>90</integer>
           <key>isGlobal</key>
           <false/>
           <key>magnetic</key>

@@ -2,34 +2,34 @@
 <glyph name="u" format="2">
   <advance width="680"/>
   <unicode hex="0075"/>
-  <guideline x="413" y="184" angle="90.0" identifier="dPbFz1sjeU"/>
+  <guideline x="413" y="184" angle="90" identifier="dPbFz1sjeU"/>
   <guideline x="440" y="238" angle="0" identifier="SI9v1JHh2e"/>
   <anchor x="318.20512820512835" y="514" name="top"/>
   <anchor x="314.93589743589746" y="0" name="bottom"/>
   <anchor x="495.83333333333326" y="0" name="right"/>
   <outline>
     <contour>
-      <point x="291.0" y="514.0" type="line"/>
-      <point x="12.0" y="514.0" type="line"/>
-      <point x="12.0" y="394.0" type="line"/>
-      <point x="19.0" y="392.0" type="line" smooth="yes"/>
+      <point x="291" y="514" type="line"/>
+      <point x="12" y="514" type="line"/>
+      <point x="12" y="394" type="line"/>
+      <point x="19" y="392" type="line" smooth="yes"/>
       <point x="39" y="386"/>
-      <point x="46.0" y="382.0"/>
-      <point x="46.0" y="366.0" type="curve" smooth="yes"/>
-      <point x="46.0" y="171.0" type="line" smooth="yes"/>
+      <point x="46" y="382"/>
+      <point x="46" y="366" type="curve" smooth="yes"/>
+      <point x="46" y="171" type="line" smooth="yes"/>
       <point x="46" y="54"/>
-      <point x="115.0" y="-10.0"/>
-      <point x="221.0" y="-10.0" type="curve" smooth="yes"/>
-      <point x="307.0" y="-10.0"/>
+      <point x="115" y="-10"/>
+      <point x="221" y="-10" type="curve" smooth="yes"/>
+      <point x="307" y="-10"/>
       <point x="379" y="33"/>
       <point x="413" y="119" type="curve"/>
       <point x="413" y="238" type="line"/>
       <point x="383" y="186"/>
-      <point x="356.0" y="155.0"/>
-      <point x="325.0" y="155.0" type="curve" smooth="yes"/>
-      <point x="300.0" y="155.0"/>
-      <point x="291.0" y="172.0"/>
-      <point x="291.0" y="206.0" type="curve" smooth="yes"/>
+      <point x="356" y="155"/>
+      <point x="325" y="155" type="curve" smooth="yes"/>
+      <point x="300" y="155"/>
+      <point x="291" y="172"/>
+      <point x="291" y="206" type="curve" smooth="yes"/>
     </contour>
     <contour>
       <point x="634" y="514" type="line"/>
@@ -37,7 +37,7 @@
       <point x="339" y="394" type="line"/>
       <point x="349" y="392" type="line" smooth="yes"/>
       <point x="369" y="388"/>
-      <point x="389.0" y="382.0"/>
+      <point x="389" y="382"/>
       <point x="389" y="366" type="curve" smooth="yes"/>
       <point x="389" y="107" type="line"/>
       <point x="413" y="122" type="line"/>
@@ -46,16 +46,16 @@
       <point x="668" y="116" type="line"/>
       <point x="661" y="118" type="line" smooth="yes"/>
       <point x="641" y="124"/>
-      <point x="634.0" y="128.0"/>
+      <point x="634" y="128"/>
       <point x="634" y="144" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.guideline.magnetic.SI9v1JHh2e</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>com.typemytype.robofont.guideline.magnetic.dPbFz1sjeU</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>com.typesupply.AccentFactory.xCoordinates</key>
       <dict>
         <key>right</key>

@@ -18,7 +18,7 @@
       <point x="141" y="729"/>
       <point x="141" y="573" type="curve" smooth="yes"/>
       <point x="141" y="155" type="line" smooth="yes"/>
-      <point x="141.0" y="105.0"/>
+      <point x="141" y="105"/>
       <point x="122" y="90"/>
       <point x="86" y="90" type="curve" smooth="yes"/>
       <point x="42" y="90" type="line"/>
@@ -26,15 +26,15 @@
       <point x="517" y="0" type="line"/>
       <point x="517" y="90" type="line"/>
       <point x="484" y="90" type="line" smooth="yes"/>
-      <point x="428.0" y="90.0"/>
-      <point x="402.0" y="98.0"/>
+      <point x="428" y="90"/>
+      <point x="402" y="98"/>
       <point x="402" y="107" type="curve" smooth="yes"/>
       <point x="402" y="579" type="line" smooth="yes"/>
       <point x="402" y="646"/>
       <point x="430" y="675"/>
       <point x="529" y="675" type="curve" smooth="yes"/>
-      <point x="569.0" y="675.0"/>
-      <point x="620" y="670.0"/>
+      <point x="569" y="675"/>
+      <point x="620" y="670"/>
       <point x="657" y="664" type="curve"/>
     </contour>
   </outline>
@@ -966,10 +966,10 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>1.0</real>
+        <integer>1</integer>
         <real>0.5769</real>
-        <real>0.0</real>
-        <real>1.0</real>
+        <integer>0</integer>
+        <integer>1</integer>
       </array>
       <key>public.markColor</key>
       <string>0.0925,0.7043,0.0985,1</string>

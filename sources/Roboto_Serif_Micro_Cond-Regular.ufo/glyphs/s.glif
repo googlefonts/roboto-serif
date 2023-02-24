@@ -7,14 +7,14 @@
   <outline>
     <contour>
       <point x="337" y="150" type="curve" smooth="yes"/>
-      <point x="337.0" y="79.0"/>
-      <point x="304.1192660550459" y="46.0"/>
+      <point x="337" y="79"/>
+      <point x="304.119266055" y="46"/>
       <point x="225" y="46" type="curve" smooth="yes"/>
       <point x="164" y="46"/>
       <point x="116" y="68"/>
       <point x="93" y="83" type="curve"/>
-      <point x="89.01046266300648" y="65.04708198352918"/>
-      <point x="89.93778753131691" y="39.33707268665474"/>
+      <point x="89.010462663" y="65.0470819835"/>
+      <point x="89.9377875313" y="39.3370726867"/>
       <point x="126" y="27" type="curve"/>
       <point x="126" y="171" type="line"/>
       <point x="44" y="171" type="line"/>
@@ -28,17 +28,17 @@
       <point x="415" y="279"/>
       <point x="335" y="305"/>
       <point x="260" y="327" type="curve" smooth="yes"/>
-      <point x="188.4589642433769" y="347.4402959304638"/>
-      <point x="131.0" y="357.0"/>
+      <point x="188.4589642434" y="347.4402959305"/>
+      <point x="131" y="357"/>
       <point x="131" y="431" type="curve" smooth="yes"/>
-      <point x="131.0" y="486.0"/>
-      <point x="159.84848484848487" y="518.0"/>
+      <point x="131" y="486"/>
+      <point x="159.8484848485" y="518"/>
       <point x="233" y="518" type="curve" smooth="yes"/>
       <point x="286" y="518"/>
       <point x="328" y="506"/>
       <point x="350" y="485" type="curve"/>
-      <point x="348.00051142487456" y="513.9925843393188"/>
-      <point x="339.6202014983103" y="524.1103838801351"/>
+      <point x="348.0005114249" y="513.9925843393"/>
+      <point x="339.6202014983" y="524.1103838801"/>
       <point x="316" y="526" type="curve"/>
       <point x="316" y="415" type="line"/>
       <point x="396" y="415" type="line"/>
@@ -52,8 +52,8 @@
       <point x="56" y="302"/>
       <point x="133" y="275"/>
       <point x="210" y="256" type="curve" smooth="yes"/>
-      <point x="274.4093043652161" y="237.59734160993824"/>
-      <point x="337.0" y="225.0"/>
+      <point x="274.4093043652" y="237.5973416099"/>
+      <point x="337" y="225"/>
     </contour>
   </outline>
   <lib>
@@ -62,7 +62,7 @@
       <array>
         <dict>
           <key>angle</key>
-          <real>90.0</real>
+          <integer>90</integer>
           <key>isGlobal</key>
           <false/>
           <key>magnetic</key>
@@ -852,10 +852,10 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>1.0</real>
+        <integer>1</integer>
         <real>0.5769</real>
-        <real>0.0</real>
-        <real>1.0</real>
+        <integer>0</integer>
+        <integer>1</integer>
       </array>
       <key>com.typesupply.AccentFactory.xCoordinates</key>
       <dict>

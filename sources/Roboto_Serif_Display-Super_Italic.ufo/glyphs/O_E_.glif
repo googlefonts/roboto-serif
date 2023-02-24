@@ -6,12 +6,12 @@
     <contour>
       <point x="717" y="386" type="curve"/>
       <point x="710" y="341" type="line"/>
-      <point x="805.0" y="336.0"/>
-      <point x="869.0" y="325.0"/>
+      <point x="805" y="336"/>
+      <point x="869" y="325"/>
       <point x="930" y="309" type="curve"/>
       <point x="949" y="418" type="line"/>
-      <point x="882.0" y="403.0"/>
-      <point x="815.0" y="393.0"/>
+      <point x="882" y="403"/>
+      <point x="815" y="393"/>
     </contour>
     <contour>
       <point x="497" y="710" type="line" smooth="yes"/>
@@ -53,7 +53,7 @@
   <lib>
     <dict>
       <key>com.typemytype.robofont.guideline.magnetic.Dps8IDy0hW</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>public.markColor</key>
       <string>1,1,0.4,1</string>
     </dict>

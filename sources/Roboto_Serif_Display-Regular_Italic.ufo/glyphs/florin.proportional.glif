@@ -3,8 +3,6 @@
   <advance width="506"/>
   <outline>
     <contour>
-      <point x="76" y="-236"/>
-      <point x="152" y="-134"/>
       <point x="192" y="35" type="curve" smooth="yes"/>
       <point x="318" y="573" type="line" smooth="yes"/>
       <point x="346" y="690"/>
@@ -23,7 +21,7 @@
       <point x="110" y="56" type="line" smooth="yes"/>
       <point x="63" y="-146"/>
       <point x="26" y="-204"/>
-      <point x="-44" y="-204" type="curve"/>
+      <point x="-44" y="-204" type="curve" smooth="yes"/>
       <point x="-83" y="-204"/>
       <point x="-107" y="-189"/>
       <point x="-115" y="-186" type="curve"/>
@@ -31,6 +29,8 @@
       <point x="-104" y="-229"/>
       <point x="-79" y="-236"/>
       <point x="-45" y="-236" type="curve" smooth="yes"/>
+      <point x="76" y="-236"/>
+      <point x="152" y="-134"/>
     </contour>
     <contour>
       <point x="115" y="498" type="line"/>
@@ -42,23 +42,23 @@
   <lib>
     <dict>
       <key>com.typemytype.robofont.guideline.magnetic.JgGCWiXkg5</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>com.typemytype.robofont.guideline.magnetic.TDrVN7Ex93</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>com.typemytype.robofont.guideline.magnetic.VqC9dpMsSI</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>com.typemytype.robofont.guideline.magnetic.Y8ZSZLq8nd</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>com.typemytype.robofont.guideline.magnetic.cwtWE3IYrg</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>com.typemytype.robofont.guideline.magnetic.iSiu9dxkjJ</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>com.typemytype.robofont.guideline.magnetic.nHuj65gdl0</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>com.typemytype.robofont.guideline.magnetic.nyB0yj13ec</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>com.typemytype.robofont.guideline.magnetic.pC80A5EJi6</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>public.markColor</key>
       <string>1,1,0.4,1</string>
     </dict>

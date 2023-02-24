@@ -18,17 +18,17 @@
     </contour>
     <contour>
       <point x="262" y="31" type="curve" smooth="yes"/>
-      <point x="150.0" y="31.0"/>
+      <point x="150" y="31"/>
       <point x="97" y="149"/>
       <point x="97" y="362" type="curve" smooth="yes"/>
       <point x="97" y="575"/>
-      <point x="150.0" y="693.0"/>
+      <point x="150" y="693"/>
       <point x="262" y="693" type="curve" smooth="yes"/>
-      <point x="373.0" y="693.0"/>
+      <point x="373" y="693"/>
       <point x="425" y="575"/>
       <point x="425" y="362" type="curve" smooth="yes"/>
       <point x="425" y="149"/>
-      <point x="373.0" y="31.0"/>
+      <point x="373" y="31"/>
     </contour>
   </outline>
   <lib>
@@ -36,9 +36,9 @@
       <key>com.typemytype.robofont.mark</key>
       <array>
         <real>0.9962</real>
-        <real>1.0</real>
+        <integer>1</integer>
         <real>0.5137</real>
-        <real>1.0</real>
+        <integer>1</integer>
       </array>
       <key>public.markColor</key>
       <string>0.3922,0.962,0.8039,1</string>

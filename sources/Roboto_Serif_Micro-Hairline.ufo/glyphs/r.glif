@@ -3,7 +3,7 @@
   <advance width="461"/>
   <unicode hex="0072"/>
   <guideline x="0" y="518" angle="0"/>
-  <guideline x="179.79" y="354" angle="90.0"/>
+  <guideline x="179.79" y="354" angle="90"/>
   <anchor x="249.007299270073" y="565" name="top"/>
   <anchor x="189.5596107055961" y="0" name="bottom"/>
   <outline>
@@ -1475,10 +1475,10 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>1.0</real>
+        <integer>1</integer>
         <real>0.5769</real>
-        <real>0.0</real>
-        <real>1.0</real>
+        <integer>0</integer>
+        <integer>1</integer>
       </array>
       <key>com.typesupply.AccentFactory.yCoordinates</key>
       <dict>

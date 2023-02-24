@@ -20,11 +20,11 @@
       <point x="43" y="521" type="line"/>
       <point x="51" y="519" type="line" smooth="yes"/>
       <point x="97" y="508"/>
-      <point x="120.0" y="503.0"/>
+      <point x="120" y="503"/>
       <point x="120" y="474" type="curve" smooth="yes"/>
       <point x="120" y="110" type="line" smooth="yes"/>
       <point x="120" y="53"/>
-      <point x="96.0" y="38.0"/>
+      <point x="96" y="38"/>
       <point x="47" y="38" type="curve" smooth="yes"/>
       <point x="43" y="38" type="line"/>
     </contour>
@@ -33,20 +33,20 @@
       <point x="556" y="38" type="line"/>
       <point x="552" y="38" type="line" smooth="yes"/>
       <point x="503" y="38"/>
-      <point x="479.0" y="53.0"/>
+      <point x="479" y="53"/>
       <point x="479" y="110" type="curve" smooth="yes"/>
       <point x="479" y="453" type="line" smooth="yes"/>
       <point x="479" y="531"/>
-      <point x="440" y="576.0"/>
+      <point x="440" y="576"/>
       <point x="357" y="576" type="curve" smooth="yes"/>
-      <point x="284" y="576.0"/>
+      <point x="284" y="576"/>
       <point x="207" y="529"/>
       <point x="155" y="452" type="curve"/>
       <point x="161" y="424" type="line"/>
-      <point x="210.70837819608005" y="486.63255652706084"/>
-      <point x="276.0" y="528.0"/>
+      <point x="210.7083781961" y="486.6325565271"/>
+      <point x="276" y="528"/>
       <point x="339" y="528" type="curve" smooth="yes"/>
-      <point x="408" y="528.0"/>
+      <point x="408" y="528"/>
       <point x="431" y="498"/>
       <point x="431" y="439" type="curve" smooth="yes"/>
       <point x="431" y="48" type="line" smooth="yes"/>
@@ -435,9 +435,9 @@
                   <key>smooth</key>
                   <true/>
                   <key>x</key>
-                  <real>397.0</real>
+                  <integer>397</integer>
                   <key>y</key>
-                  <real>508.0</real>
+                  <integer>508</integer>
                 </dict>
                 <dict>
                   <key>smooth</key>
@@ -542,10 +542,10 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>1.0</real>
+        <integer>1</integer>
         <real>0.5769</real>
-        <real>0.0</real>
-        <real>1.0</real>
+        <integer>0</integer>
+        <integer>1</integer>
       </array>
       <key>com.typesupply.AccentFactory.xCoordinates</key>
       <dict>

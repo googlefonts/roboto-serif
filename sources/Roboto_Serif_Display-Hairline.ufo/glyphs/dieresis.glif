@@ -5,8 +5,6 @@
   <anchor x="250.0" y="526" name="_top"/>
   <outline>
     <contour>
-      <point x="192" y="661"/>
-      <point x="205" y="673"/>
       <point x="205" y="692" type="curve" smooth="yes"/>
       <point x="205" y="712"/>
       <point x="192" y="724"/>
@@ -17,10 +15,10 @@
       <point x="143" y="673"/>
       <point x="156" y="661"/>
       <point x="174" y="661" type="curve" smooth="yes"/>
+      <point x="192" y="661"/>
+      <point x="205" y="673"/>
     </contour>
     <contour>
-      <point x="347" y="661"/>
-      <point x="360" y="673"/>
       <point x="360" y="692" type="curve" smooth="yes"/>
       <point x="360" y="712"/>
       <point x="347" y="724"/>
@@ -31,6 +29,8 @@
       <point x="298" y="673"/>
       <point x="311" y="661"/>
       <point x="329" y="661" type="curve" smooth="yes"/>
+      <point x="347" y="661"/>
+      <point x="360" y="673"/>
     </contour>
   </outline>
   <lib>

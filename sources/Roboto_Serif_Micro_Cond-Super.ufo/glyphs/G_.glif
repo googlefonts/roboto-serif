@@ -22,13 +22,13 @@
       <point x="407" y="79"/>
       <point x="387" y="70"/>
       <point x="357" y="70" type="curve" smooth="yes"/>
-      <point x="287.0" y="70.0"/>
-      <point x="267.0" y="116.51041666666666"/>
+      <point x="287" y="70"/>
+      <point x="267" y="116.5104166667"/>
       <point x="267" y="355" type="curve" smooth="yes"/>
-      <point x="267.0" y="591.0"/>
+      <point x="267" y="591"/>
       <point x="290" y="640"/>
       <point x="372" y="640" type="curve" smooth="yes"/>
-      <point x="424.0" y="640.0"/>
+      <point x="424" y="640"/>
       <point x="467" y="599"/>
       <point x="494" y="493" type="curve"/>
       <point x="609" y="493" type="line"/>
@@ -37,13 +37,13 @@
       <point x="497" y="557" type="line"/>
       <point x="538" y="504" type="line"/>
       <point x="516" y="670"/>
-      <point x="449" y="730.0"/>
+      <point x="449" y="730"/>
       <point x="335" y="730" type="curve" smooth="yes"/>
-      <point x="171.0" y="730.0"/>
-      <point x="30.0" y="605.9920634920635"/>
+      <point x="171" y="730"/>
+      <point x="30" y="605.9920634921"/>
       <point x="30" y="355" type="curve" smooth="yes"/>
-      <point x="30.0" y="103.01587301587301"/>
-      <point x="159.0" y="-20.0"/>
+      <point x="30" y="103.0158730159"/>
+      <point x="159" y="-20"/>
       <point x="342" y="-20" type="curve" smooth="yes"/>
       <point x="449" y="-20"/>
       <point x="547" y="18"/>
@@ -1729,10 +1729,10 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>1.0</real>
+        <integer>1</integer>
         <real>0.5769</real>
-        <real>0.0</real>
-        <real>1.0</real>
+        <integer>0</integer>
+        <integer>1</integer>
       </array>
       <key>com.typesupply.AccentFactory.xCoordinates</key>
       <dict>

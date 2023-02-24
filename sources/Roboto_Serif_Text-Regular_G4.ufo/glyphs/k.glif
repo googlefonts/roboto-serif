@@ -2,7 +2,7 @@
 <glyph name="k" format="2">
   <advance width="634"/>
   <unicode hex="006B"/>
-  <guideline x="242" y="286" angle="90.0" identifier="dJOph8kDMW"/>
+  <guideline x="242" y="286" angle="90" identifier="dJOph8kDMW"/>
   <guideline x="0" y="518" angle="0" identifier="JBITWk4kFk"/>
   <anchor x="321.0" y="0" name="bottom"/>
   <outline>
@@ -54,16 +54,16 @@
       <point x="287" y="65" type="line"/>
       <point x="284" y="65" type="line" smooth="yes"/>
       <point x="257" y="65"/>
-      <point x="212.0" y="68.0"/>
+      <point x="212" y="68"/>
       <point x="212" y="75" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.guideline.magnetic.JBITWk4kFk</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>com.typemytype.robofont.guideline.magnetic.dJOph8kDMW</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>com.typesupply.AccentFactory.yCoordinates</key>
       <dict>
         <key>bottom</key>

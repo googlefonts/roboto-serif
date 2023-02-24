@@ -4,7 +4,7 @@
   <unicode hex="006B"/>
   <guideline x="0" y="284" angle="0" identifier="3beMy41FtM"/>
   <guideline x="0" y="289" angle="0" identifier="FHW6aKZGuy"/>
-  <guideline x="231" y="278" angle="90.0" identifier="k1aQ01RINR"/>
+  <guideline x="231" y="278" angle="90" identifier="k1aQ01RINR"/>
   <anchor x="302.2665615141956" y="0" name="bottom"/>
   <outline>
     <contour>
@@ -62,11 +62,11 @@
   <lib>
     <dict>
       <key>com.typemytype.robofont.guideline.magnetic.3beMy41FtM</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>com.typemytype.robofont.guideline.magnetic.FHW6aKZGuy</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>com.typemytype.robofont.guideline.magnetic.k1aQ01RINR</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>public.markColor</key>
       <string>1,1,0.4,1</string>
     </dict>

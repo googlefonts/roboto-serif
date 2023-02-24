@@ -1,10 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="R" format="2">
   <advance width="481"/>
   <unicode hex="0052"/>
-  <guideline x="349" y="365" angle="97.66990518617729" identifier="6ckfsXdRfc"/>
-  <anchor x="329" y="741" name="top"/>
-  <anchor x="290" y="0" name="bottom"/>
   <outline>
     <contour>
       <point x="167" y="383" type="line"/>
@@ -65,27 +61,4 @@
       <point x="287" y="31" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typesupply.AccentFactory.yCoordinates</key>
-      <dict>
-        <key>bottom</key>
-        <dict>
-          <key>name</key>
-          <string>origin</string>
-          <key>type</key>
-          <string>glyphMetric</string>
-        </dict>
-        <key>top</key>
-        <dict>
-          <key>name</key>
-          <string>capHeight</string>
-          <key>type</key>
-          <string>fontInfo</string>
-        </dict>
-      </dict>
-      <key>public.markColor</key>
-      <string>0,1,1,1</string>
-    </dict>
-  </lib>
 </glyph>

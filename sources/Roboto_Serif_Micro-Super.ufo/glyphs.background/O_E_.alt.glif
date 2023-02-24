@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="OE.alt" format="2">
   <advance width="1147"/>
   <outline>
@@ -21,7 +20,7 @@
     </contour>
     <contour>
       <point x="1082" y="710" type="line"/>
-      <point x="400" y="710" type="line"/>
+      <point x="400" y="710" type="line" smooth="yes"/>
       <point x="191" y="710"/>
       <point x="42" y="597"/>
       <point x="42" y="351" type="curve" smooth="yes"/>

@@ -1,15 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tcommaaccent" format="2">
   <advance width="495"/>
-  <unicode hex="0163"/>
+  <unicode hex="021B"/>
   <outline>
     <component base="t"/>
-    <component base="commaaccent" xOffset="-31"/>
+    <component base="commaaccent" xOffset="-59"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typesupply.AccentFactory.compileType</key>
-      <string>manual</string>
-    </dict>
-  </lib>
 </glyph>

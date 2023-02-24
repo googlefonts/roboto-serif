@@ -49,8 +49,6 @@
       <point x="12" y="-252"/>
     </contour>
     <contour>
-      <point x="143" y="258"/>
-      <point x="220" y="179"/>
       <point x="342" y="179" type="curve" smooth="yes"/>
       <point x="488" y="179"/>
       <point x="564" y="280"/>
@@ -61,10 +59,10 @@
       <point x="219" y="576"/>
       <point x="143" y="476"/>
       <point x="143" y="363" type="curve" smooth="yes"/>
+      <point x="143" y="258"/>
+      <point x="220" y="179"/>
     </contour>
     <contour>
-      <point x="550" y="525"/>
-      <point x="586" y="544"/>
       <point x="687" y="544" type="curve"/>
       <point x="703" y="610" type="line"/>
       <point x="694" y="611"/>
@@ -74,10 +72,10 @@
       <point x="543" y="574"/>
       <point x="501" y="497" type="curve"/>
       <point x="511" y="496" type="line"/>
+      <point x="550" y="525"/>
+      <point x="586" y="544"/>
     </contour>
     <contour>
-      <point x="442" y="239"/>
-      <point x="401" y="222"/>
       <point x="342" y="222" type="curve" smooth="yes"/>
       <point x="256" y="222"/>
       <point x="196" y="272"/>
@@ -94,6 +92,8 @@
       <point x="511" y="344"/>
       <point x="499" y="299"/>
       <point x="469" y="267" type="curve" smooth="yes"/>
+      <point x="442" y="239"/>
+      <point x="401" y="222"/>
     </contour>
   </outline>
   <lib>
@@ -1077,7 +1077,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>530.0</real>
+                  <integer>530</integer>
                   <key>y</key>
                   <integer>-21</integer>
                 </dict>
@@ -1266,9 +1266,9 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>251.0</real>
+                  <integer>251</integer>
                   <key>y</key>
-                  <real>516.0</real>
+                  <integer>516</integer>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -1284,15 +1284,15 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>409.0</real>
+                  <integer>409</integer>
                   <key>y</key>
-                  <real>516.0</real>
+                  <integer>516</integer>
                 </dict>
                 <dict>
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>460.0</real>
+                  <integer>460</integer>
                   <key>y</key>
                   <real>463.117241379</real>
                 </dict>
@@ -1393,7 +1393,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>550.0</real>
+                  <integer>550</integer>
                   <key>y</key>
                   <real>494.214634146</real>
                 </dict>
@@ -1401,9 +1401,9 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>456.0</real>
+                  <integer>456</integer>
                   <key>y</key>
-                  <real>576.0</real>
+                  <integer>576</integer>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -1419,9 +1419,9 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>203.0</real>
+                  <integer>203</integer>
                   <key>y</key>
-                  <real>576.0</real>
+                  <integer>576</integer>
                 </dict>
                 <dict>
                   <key>smooth</key>
@@ -1549,10 +1549,10 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>1.0</real>
+        <integer>1</integer>
         <real>0.5769</real>
-        <real>0.0</real>
-        <real>1.0</real>
+        <integer>0</integer>
+        <integer>1</integer>
       </array>
       <key>public.markColor</key>
       <string>1,0.5769,0,1</string>

@@ -2,7 +2,7 @@
 <glyph name="parenleft" format="2">
   <advance width="364"/>
   <unicode hex="0028"/>
-  <guideline x="283.92" y="738.8305681143229" angle="0"/>
+  <guideline x="283.92" y="738.8305681143" angle="0" identifier="Vkl5FGW41f"/>
   <outline>
     <contour>
       <point x="131" y="310" type="curve" smooth="yes"/>
@@ -37,9 +37,9 @@
           <key>name</key>
           <string></string>
           <key>x</key>
-          <real>330.5024028891943</real>
+          <real>330.5024028892</real>
           <key>y</key>
-          <real>738.8305681143229</real>
+          <real>738.8305681143</real>
         </dict>
       </array>
       <key>com.typemytype.robofont.layerData</key>
@@ -343,10 +343,10 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>1.0</real>
+        <integer>1</integer>
         <real>0.5769</real>
-        <real>0.0</real>
-        <real>1.0</real>
+        <integer>0</integer>
+        <integer>1</integer>
       </array>
       <key>public.markColor</key>
       <string>1,0.5769,0,1</string>

@@ -2,9 +2,9 @@
 <glyph name="estimated" format="2">
   <advance width="840"/>
   <unicode hex="212E"/>
-  <guideline x="0.0" y="588" angle="0" identifier="eHgZXsQR04"/>
-  <guideline x="168.0" y="578" angle="90" identifier="eR93rE8ktE"/>
-  <guideline x="0.0" y="355" angle="0" identifier="vNIYrnolVU"/>
+  <guideline x="0" y="588" angle="0" identifier="eHgZXsQR04"/>
+  <guideline x="168" y="578" angle="90" identifier="eR93rE8ktE"/>
+  <guideline x="0" y="355" angle="0" identifier="vNIYrnolVU"/>
   <outline>
     <contour>
       <point x="182" y="188" type="line"/>
@@ -42,11 +42,11 @@
   <lib>
     <dict>
       <key>com.typemytype.robofont.guideline.magnetic.eHgZXsQR04</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>com.typemytype.robofont.guideline.magnetic.eR93rE8ktE</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>com.typemytype.robofont.guideline.magnetic.vNIYrnolVU</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>public.markColor</key>
       <string>0.9962,1,0.5137,1</string>
     </dict>

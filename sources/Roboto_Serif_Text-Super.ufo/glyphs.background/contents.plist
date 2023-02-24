@@ -12,16 +12,32 @@
     <string>A_ogonek.glif</string>
     <key>B</key>
     <string>B_.glif</string>
+    <key>Bhook</key>
+    <string>B_hook.glif</string>
     <key>C</key>
     <string>C_.glif</string>
+    <key>Che</key>
+    <string>C_he.glif</string>
+    <key>Chedescender</key>
+    <string>C_hedescender.glif</string>
+    <key>Cheverticalstroke</key>
+    <string>C_heverticalstroke.glif</string>
+    <key>De</key>
+    <string>D_e.glif</string>
+    <key>Dhook</key>
+    <string>D_hook.glif</string>
     <key>E</key>
     <string>E_.glif</string>
     <key>E.alt</key>
     <string>E_.alt.glif</string>
+    <key>Ecyr</key>
+    <string>E_cyr.glif</string>
     <key>Ehookabove.alt</key>
     <string>E_hookabove.alt.glif</string>
     <key>Eng</key>
     <string>E_ng.glif</string>
+    <key>Eng.afr</key>
+    <string>E_ng.afr.glif</string>
     <key>Euro</key>
     <string>E_uro.glif</string>
     <key>Euro.proportional</key>
@@ -38,12 +54,12 @@
     <string>H_.glif</string>
     <key>I</key>
     <string>I_.glif</string>
-    <key>Ihoi</key>
-    <string>I_hoi.glif</string>
     <key>J</key>
     <string>J_.glif</string>
     <key>K</key>
     <string>K_.glif</string>
+    <key>Khook</key>
+    <string>K_hook.glif</string>
     <key>L</key>
     <string>L_.glif</string>
     <key>Ldot</key>
@@ -68,8 +84,6 @@
     <string>R_.glif</string>
     <key>S</key>
     <string>S_.glif</string>
-    <key>SS</key>
-    <string>S_S_.glif</string>
     <key>Schwa</key>
     <string>S_chwa.glif</string>
     <key>T</key>
@@ -88,10 +102,16 @@
     <string>W_.glif</string>
     <key>Y</key>
     <string>Y_.glif</string>
+    <key>Yhook</key>
+    <string>Y_hook.glif</string>
     <key>Z</key>
     <string>Z_.glif</string>
+    <key>Ze</key>
+    <string>Z_e.glif</string>
     <key>a</key>
     <string>a.glif</string>
+    <key>a.alt</key>
+    <string>a.alt.glif</string>
     <key>acute</key>
     <string>acute.glif</string>
     <key>acute.pl</key>
@@ -106,6 +126,8 @@
     <string>ae.glif</string>
     <key>ampersand</key>
     <string>ampersand.glif</string>
+    <key>aogonek.alt</key>
+    <string>aogonek.alt.glif</string>
     <key>approxequal</key>
     <string>approxequal.glif</string>
     <key>asterisk</key>
@@ -116,6 +138,10 @@
     <string>at.uc.glif</string>
     <key>b</key>
     <string>b.glif</string>
+    <key>be</key>
+    <string>be.glif</string>
+    <key>bhook</key>
+    <string>bhook.glif</string>
     <key>blackdiamond</key>
     <string>blackdiamond.glif</string>
     <key>blackdownpointingtriangle</key>
@@ -216,6 +242,12 @@
     <string>dcroat.glif</string>
     <key>degree</key>
     <string>degree.glif</string>
+    <key>dhook</key>
+    <string>dhook.glif</string>
+    <key>dieresiscaron</key>
+    <string>dieresiscaron.glif</string>
+    <key>dieresiscaron.uc</key>
+    <string>dieresiscaron.uc.glif</string>
     <key>dieresiscomb</key>
     <string>dieresiscomb.glif</string>
     <key>divide</key>
@@ -246,6 +278,8 @@
     <string>dotlessj.glif</string>
     <key>e</key>
     <string>e.glif</string>
+    <key>ecyr</key>
+    <string>ecyr.glif</string>
     <key>eight</key>
     <string>eight.glif</string>
     <key>eight.den</key>
@@ -332,8 +366,16 @@
     <string>g.glif</string>
     <key>g.alt</key>
     <string>g.alt.glif</string>
+    <key>gecyr</key>
+    <string>gecyr.glif</string>
     <key>germandbls</key>
     <string>germandbls.glif</string>
+    <key>ghe</key>
+    <string>ghe.glif</string>
+    <key>ghestroke</key>
+    <string>ghestroke.glif</string>
+    <key>gheup</key>
+    <string>gheup.glif</string>
     <key>gravecomb</key>
     <string>gravecomb.glif</string>
     <key>guarani</key>
@@ -344,6 +386,8 @@
     <string>guilsinglleft.glif</string>
     <key>h</key>
     <string>h.glif</string>
+    <key>hard.bgr</key>
+    <string>hard.bgr.glif</string>
     <key>hbar</key>
     <string>hbar.glif</string>
     <key>heartsuitwhite</key>
@@ -366,8 +410,6 @@
     <string>hungarumlautcomb.glif</string>
     <key>i</key>
     <string>i.glif</string>
-    <key>ihoi</key>
-    <string>ihoi.glif</string>
     <key>infinity</key>
     <string>infinity.glif</string>
     <key>integral</key>
@@ -378,6 +420,8 @@
     <string>k.glif</string>
     <key>kgreenlandic</key>
     <string>kgreenlandic.glif</string>
+    <key>khook</key>
+    <string>khook.glif</string>
     <key>kip</key>
     <string>kip.glif</string>
     <key>kip.proportional</key>
@@ -398,8 +442,6 @@
     <string>liraT_urkish.glif</string>
     <key>liraTurkish.proportional</key>
     <string>liraT_urkish.proportional.glif</string>
-    <key>literSign</key>
-    <string>literS_ign.glif</string>
     <key>litre</key>
     <string>litre.glif</string>
     <key>logicalnot</key>
@@ -544,6 +586,8 @@
     <string>six.oldprop.glif</string>
     <key>slash.uc</key>
     <string>slash.uc.glif</string>
+    <key>soft.bgr</key>
+    <string>soft.bgr.glif</string>
     <key>sterling</key>
     <string>sterling.glif</string>
     <key>sterling.alt</key>
@@ -616,6 +660,8 @@
     <string>y.glif</string>
     <key>yen</key>
     <string>yen.glif</string>
+    <key>yhook</key>
+    <string>yhook.glif</string>
     <key>zero.linprop</key>
     <string>zero.linprop.glif</string>
     <key>zero.oldprop</key>

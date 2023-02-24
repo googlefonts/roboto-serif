@@ -4,36 +4,36 @@
   <unicode hex="0066"/>
   <outline>
     <contour>
-      <point x="56" y="565.0" type="line"/>
+      <point x="56" y="565" type="line"/>
       <point x="56" y="521" type="line"/>
       <point x="459" y="521" type="line"/>
-      <point x="459" y="565.0" type="line"/>
+      <point x="459" y="565" type="line"/>
     </contour>
     <contour>
-      <point x="506" y="780.0" type="line"/>
-      <point x="479" y="785.0"/>
-      <point x="435" y="790.0"/>
-      <point x="390" y="790.0" type="curve" smooth="yes"/>
+      <point x="506" y="780" type="line"/>
+      <point x="479" y="785"/>
+      <point x="435" y="790"/>
+      <point x="390" y="790" type="curve" smooth="yes"/>
       <point x="266" y="790"/>
       <point x="193" y="751"/>
       <point x="193" y="618" type="curve" smooth="yes"/>
       <point x="193" y="89" type="line" smooth="yes"/>
-      <point x="193.0" y="49.0"/>
+      <point x="193" y="49"/>
       <point x="163" y="39"/>
       <point x="103" y="39" type="curve" smooth="yes"/>
       <point x="56" y="39" type="line"/>
-      <point x="56" y="0.0" type="line"/>
-      <point x="389" y="0.0" type="line"/>
+      <point x="56" y="0" type="line"/>
+      <point x="389" y="0" type="line"/>
       <point x="389" y="39" type="line"/>
       <point x="336" y="39" type="line" smooth="yes"/>
-      <point x="286.0" y="39"/>
-      <point x="241.0" y="47.0"/>
+      <point x="286" y="39"/>
+      <point x="241" y="47"/>
       <point x="241" y="57" type="curve" smooth="yes"/>
       <point x="241" y="616" type="line" smooth="yes"/>
       <point x="241" y="717"/>
       <point x="278" y="748"/>
       <point x="389" y="748" type="curve" smooth="yes"/>
-      <point x="434.0" y="748.0"/>
+      <point x="434" y="748"/>
       <point x="472" y="744"/>
       <point x="506" y="737" type="curve"/>
     </contour>
@@ -966,10 +966,10 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>1.0</real>
+        <integer>1</integer>
         <real>0.5769</real>
-        <real>0.0</real>
-        <real>1.0</real>
+        <integer>0</integer>
+        <integer>1</integer>
       </array>
     </dict>
   </lib>

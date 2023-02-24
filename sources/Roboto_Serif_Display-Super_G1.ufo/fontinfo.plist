@@ -3,7 +3,7 @@
 <plist version="1.0">
   <dict>
     <key>ascender</key>
-    <integer>735</integer>
+    <integer>750</integer>
     <key>capHeight</key>
     <integer>710</integer>
     <key>copyright</key>
@@ -13,7 +13,158 @@
     <key>familyName</key>
     <string>Roboto Serif</string>
     <key>guidelines</key>
-    <array/>
+    <array>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>identifier</key>
+        <string>fQxwdn6sf6</string>
+        <key>x</key>
+        <integer>450</integer>
+        <key>y</key>
+        <integer>852</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>identifier</key>
+        <string>5Acoh3li2f</string>
+        <key>x</key>
+        <integer>488</integer>
+        <key>y</key>
+        <integer>710</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>identifier</key>
+        <string>0pD9p2QfW0</string>
+        <key>x</key>
+        <integer>445</integer>
+        <key>y</key>
+        <integer>677</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>identifier</key>
+        <string>SQ1Kn1vhvZ</string>
+        <key>x</key>
+        <integer>629</integer>
+        <key>y</key>
+        <integer>646</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>identifier</key>
+        <string>DH6yHJNEm5</string>
+        <key>x</key>
+        <integer>736</integer>
+        <key>y</key>
+        <integer>602</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>identifier</key>
+        <string>yIHQzCfMsu</string>
+        <key>x</key>
+        <integer>439</integer>
+        <key>y</key>
+        <integer>524</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>identifier</key>
+        <string>47GVtrYjtB</string>
+        <key>x</key>
+        <integer>193</integer>
+        <key>y</key>
+        <integer>55</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>identifier</key>
+        <string>HXVZ6tOZ4D</string>
+        <key>x</key>
+        <integer>530</integer>
+        <key>y</key>
+        <integer>453</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>identifier</key>
+        <string>2jCE0l0qIt</string>
+        <key>x</key>
+        <integer>756</integer>
+        <key>y</key>
+        <integer>0</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>identifier</key>
+        <string>MtsMS5nHtb</string>
+        <key>x</key>
+        <integer>809</integer>
+        <key>y</key>
+        <integer>-150</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>90</integer>
+        <key>identifier</key>
+        <string>jIr66x8SR0</string>
+        <key>x</key>
+        <integer>104</integer>
+        <key>y</key>
+        <integer>342</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>90</integer>
+        <key>identifier</key>
+        <string>IpccHl5B0i</string>
+        <key>x</key>
+        <integer>368</integer>
+        <key>y</key>
+        <integer>278</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>identifier</key>
+        <string>znsgsVTCGM</string>
+        <key>x</key>
+        <integer>765</integer>
+        <key>y</key>
+        <integer>-72</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>identifier</key>
+        <string>9QjEcJooNy</string>
+        <key>x</key>
+        <integer>639</integer>
+        <key>y</key>
+        <integer>430</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>identifier</key>
+        <string>rdTFCdl3B9</string>
+        <key>x</key>
+        <integer>277</integer>
+        <key>y</key>
+        <integer>198</integer>
+      </dict>
+    </array>
     <key>italicAngle</key>
     <integer>0</integer>
     <key>openTypeHeadCreated</key>
@@ -68,9 +219,9 @@
     <key>openTypeOS2WidthClass</key>
     <integer>5</integer>
     <key>openTypeOS2WinAscent</key>
-    <integer>1152</integer>
+    <integer>1048</integer>
     <key>openTypeOS2WinDescent</key>
-    <integer>305</integer>
+    <integer>251</integer>
     <key>postscriptBlueValues</key>
     <array>
       <integer>-10</integer>
@@ -125,8 +276,6 @@
     <integer>-150</integer>
     <key>postscriptUnderlineThickness</key>
     <integer>100</integer>
-    <key>styleMapFamilyName</key>
-    <string>Roboto Serif Grade-1 144pt Black</string>
     <key>styleMapStyleName</key>
     <string>regular</string>
     <key>styleName</key>
@@ -138,8 +287,8 @@
     <key>versionMajor</key>
     <integer>1</integer>
     <key>versionMinor</key>
-    <integer>7</integer>
+    <integer>8</integer>
     <key>xHeight</key>
-    <integer>508</integer>
+    <integer>518</integer>
   </dict>
 </plist>

@@ -12,18 +12,28 @@
     <string>A_ogonek.glif</string>
     <key>B</key>
     <string>B_.glif</string>
+    <key>Bhook</key>
+    <string>B_hook.glif</string>
     <key>C</key>
     <string>C_.glif</string>
     <key>D</key>
     <string>D_.glif</string>
     <key>Delta</key>
     <string>D_elta.glif</string>
+    <key>Dhook</key>
+    <string>D_hook.glif</string>
+    <key>Dje</key>
+    <string>D_je.glif</string>
     <key>E</key>
     <string>E_.glif</string>
     <key>E.alt</key>
     <string>E_.alt.glif</string>
+    <key>Ef</key>
+    <string>E_f.glif</string>
     <key>Eng</key>
     <string>E_ng.glif</string>
+    <key>Eng.afr</key>
+    <string>E_ng.afr.glif</string>
     <key>Eth</key>
     <string>E_th.glif</string>
     <key>Euro</key>
@@ -50,6 +60,8 @@
     <string>J_.glif</string>
     <key>K</key>
     <string>K_.glif</string>
+    <key>Khook</key>
+    <string>K_hook.glif</string>
     <key>L</key>
     <string>L_.glif</string>
     <key>Ldot</key>
@@ -92,6 +104,8 @@
     <string>T_horn.glif</string>
     <key>U</key>
     <string>U_.glif</string>
+    <key>Ucyr</key>
+    <string>U_cyr.glif</string>
     <key>Uhorn</key>
     <string>U_horn.glif</string>
     <key>Uogonek</key>
@@ -104,10 +118,16 @@
     <string>X_.glif</string>
     <key>Y</key>
     <string>Y_.glif</string>
+    <key>Yhook</key>
+    <string>Y_hook.glif</string>
     <key>Z</key>
     <string>Z_.glif</string>
+    <key>Ze</key>
+    <string>Z_e.glif</string>
     <key>a</key>
     <string>a.glif</string>
+    <key>a.alt</key>
+    <string>a.alt.glif</string>
     <key>acute</key>
     <string>acute.glif</string>
     <key>acute.pl</key>
@@ -128,6 +148,8 @@
     <string>ae.glif</string>
     <key>ampersand</key>
     <string>ampersand.glif</string>
+    <key>aogonek.alt</key>
+    <string>aogonek.alt.glif</string>
     <key>apostrophemod</key>
     <string>apostrophemod.glif</string>
     <key>approxequal</key>
@@ -174,6 +196,10 @@
     <string>bar.glif</string>
     <key>bar.uc</key>
     <string>bar.uc.glif</string>
+    <key>be</key>
+    <string>be.glif</string>
+    <key>bhook</key>
+    <string>bhook.glif</string>
     <key>blackcircle</key>
     <string>blackcircle.glif</string>
     <key>blackdiamond</key>
@@ -186,8 +212,6 @@
     <string>blackrightpointingtriangle.glif</string>
     <key>blacksquare</key>
     <string>blacksquare.glif</string>
-    <key>blacktriangle</key>
-    <string>blacktriangle.glif</string>
     <key>blackuppointingtriangle</key>
     <string>blackuppointingtriangle.glif</string>
     <key>braceleft</key>
@@ -208,6 +232,10 @@
     <string>bracketright.uc.glif</string>
     <key>breve</key>
     <string>breve.glif</string>
+    <key>breve.cyr</key>
+    <string>breve.cyr.glif</string>
+    <key>breve.cyr.uc</key>
+    <string>breve.cyr.uc.glif</string>
     <key>breve.uc</key>
     <string>breve.uc.glif</string>
     <key>breve_acute</key>
@@ -344,6 +372,8 @@
     <string>dcroat.glif</string>
     <key>degree</key>
     <string>degree.glif</string>
+    <key>dhook</key>
+    <string>dhook.glif</string>
     <key>dieresis</key>
     <string>dieresis.glif</string>
     <key>dieresis.uc</key>
@@ -550,6 +580,12 @@
     <string>g.alt.glif</string>
     <key>germandbls</key>
     <string>germandbls.glif</string>
+    <key>ghe</key>
+    <string>ghe.glif</string>
+    <key>ghestroke</key>
+    <string>ghestroke.glif</string>
+    <key>gheup</key>
+    <string>gheup.glif</string>
     <key>grave</key>
     <string>grave.glif</string>
     <key>grave.uc</key>
@@ -626,6 +662,8 @@
     <string>k.glif</string>
     <key>kgreenlandic</key>
     <string>kgreenlandic.glif</string>
+    <key>khook</key>
+    <string>khook.glif</string>
     <key>kip</key>
     <string>kip.glif</string>
     <key>kip.proportional</key>
@@ -652,8 +690,6 @@
     <string>liraT_urkish.glif</string>
     <key>liraTurkish.proportional</key>
     <string>liraT_urkish.proportional.glif</string>
-    <key>literSign</key>
-    <string>literS_ign.glif</string>
     <key>litre</key>
     <string>litre.glif</string>
     <key>logicalnot</key>
@@ -1026,8 +1062,6 @@
     <string>whiterightpointingtriangle.glif</string>
     <key>whitesquare</key>
     <string>whitesquare.glif</string>
-    <key>whitetriangle</key>
-    <string>whitetriangle.glif</string>
     <key>whiteuppointingtriangle</key>
     <string>whiteuppointingtriangle.glif</string>
     <key>won</key>
@@ -1042,8 +1076,14 @@
     <string>yen.glif</string>
     <key>yen.proportional</key>
     <string>yen.proportional.glif</string>
+    <key>yhook</key>
+    <string>yhook.glif</string>
     <key>z</key>
     <string>z.glif</string>
+    <key>ze</key>
+    <string>ze.glif</string>
+    <key>ze.bgr</key>
+    <string>ze.bgr.glif</string>
     <key>zero</key>
     <string>zero.glif</string>
     <key>zero.den</key>

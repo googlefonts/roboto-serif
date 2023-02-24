@@ -6,10 +6,10 @@
   <anchor x="514.1164465786314" y="0" name="bottom"/>
   <outline>
     <contour>
-      <point x="256.0" y="397" type="line"/>
-      <point x="256.0" y="335" type="line"/>
-      <point x="771.0" y="335" type="line"/>
-      <point x="771.0" y="397" type="line"/>
+      <point x="256" y="397" type="line"/>
+      <point x="256" y="335" type="line"/>
+      <point x="771" y="335" type="line"/>
+      <point x="771" y="397" type="line"/>
     </contour>
     <contour>
       <point x="69" y="0" type="line"/>
@@ -20,7 +20,7 @@
       <point x="276" y="65"/>
       <point x="276" y="72" type="curve" smooth="yes"/>
       <point x="276" y="638" type="line" smooth="yes"/>
-      <point x="276.0" y="645.0"/>
+      <point x="276" y="645"/>
       <point x="325" y="648"/>
       <point x="363" y="648" type="curve" smooth="yes"/>
       <point x="392" y="648" type="line"/>
@@ -29,7 +29,7 @@
       <point x="69" y="648" type="line"/>
       <point x="100" y="648" type="line" smooth="yes"/>
       <point x="149" y="648"/>
-      <point x="185.0" y="641.0"/>
+      <point x="185" y="641"/>
       <point x="185" y="612" type="curve" smooth="yes"/>
       <point x="185" y="98" type="line" smooth="yes"/>
       <point x="185" y="69"/>
@@ -46,7 +46,7 @@
       <point x="842" y="69"/>
       <point x="842" y="98" type="curve" smooth="yes"/>
       <point x="842" y="612" type="line" smooth="yes"/>
-      <point x="842.0" y="641.0"/>
+      <point x="842" y="641"/>
       <point x="878" y="648"/>
       <point x="927" y="648" type="curve" smooth="yes"/>
       <point x="958" y="648" type="line"/>
@@ -55,7 +55,7 @@
       <point x="635" y="648" type="line"/>
       <point x="664" y="648" type="line" smooth="yes"/>
       <point x="702" y="648"/>
-      <point x="751.0" y="645.0"/>
+      <point x="751" y="645"/>
       <point x="751" y="638" type="curve" smooth="yes"/>
       <point x="751" y="72" type="line" smooth="yes"/>
       <point x="751" y="65"/>
@@ -1295,10 +1295,10 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>1.0</real>
+        <integer>1</integer>
         <real>0.5769</real>
-        <real>0.0</real>
-        <real>1.0</real>
+        <integer>0</integer>
+        <integer>1</integer>
       </array>
     </dict>
   </lib>

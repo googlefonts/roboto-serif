@@ -21,7 +21,7 @@
       <point x="619" y="70" type="line"/>
       <point x="612" y="72" type="line" smooth="yes"/>
       <point x="593" y="77"/>
-      <point x="588.0" y="85.0"/>
+      <point x="588" y="85"/>
     </contour>
     <contour>
       <point x="238" y="580" type="curve" smooth="yes"/>
@@ -35,11 +35,11 @@
       <point x="381" y="59"/>
       <point x="419" y="176" type="curve"/>
       <point x="420" y="219" type="line"/>
-      <point x="362" y="128"/>
-      <point x="341" y="101"/>
+      <point x="362.0" y="128.0"/>
+      <point x="341.0" y="101.0"/>
       <point x="304" y="101" type="curve" smooth="yes"/>
-      <point x="258" y="101"/>
-      <point x="250" y="147"/>
+      <point x="258.0" y="101.0"/>
+      <point x="250.0" y="147.0"/>
       <point x="250" y="283" type="curve" smooth="yes"/>
       <point x="250" y="436"/>
       <point x="271" y="466"/>
@@ -857,10 +857,10 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>1.0</real>
+        <integer>1</integer>
         <real>0.5769</real>
-        <real>0.0</real>
-        <real>1.0</real>
+        <integer>0</integer>
+        <integer>1</integer>
       </array>
       <key>com.typesupply.AccentFactory.xCoordinates</key>
       <dict>
