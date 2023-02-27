@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Pecyr" format="2">
+  <advance width="781"/>
+  <unicode hex="041F"/>
+  <anchor x="390.5" y="741" name="top"/>
+  <outline>
+    <contour>
+      <point x="183" y="710" type="line"/>
+      <point x="183" y="675" type="line"/>
+      <point x="598" y="675" type="line"/>
+      <point x="598" y="710" type="line"/>
+    </contour>
+    <contour>
+      <point x="36" y="0" type="line"/>
+      <point x="301" y="0" type="line"/>
+      <point x="301" y="30" type="line"/>
+      <point x="292" y="30" type="line" smooth="yes"/>
+      <point x="258" y="30"/>
+      <point x="215" y="33"/>
+      <point x="215" y="40" type="curve" smooth="yes"/>
+      <point x="215" y="710" type="line"/>
+      <point x="36" y="710" type="line"/>
+      <point x="36" y="680" type="line"/>
+      <point x="42" y="680" type="line" smooth="yes"/>
+      <point x="84" y="680"/>
+      <point x="122" y="673"/>
+      <point x="122" y="644" type="curve" smooth="yes"/>
+      <point x="122" y="66" type="line" smooth="yes"/>
+      <point x="122" y="37"/>
+      <point x="85" y="30"/>
+      <point x="42" y="30" type="curve" smooth="yes"/>
+      <point x="36" y="30" type="line"/>
+    </contour>
+    <contour>
+      <point x="480" y="0" type="line"/>
+      <point x="745" y="0" type="line"/>
+      <point x="745" y="30" type="line"/>
+      <point x="739" y="30" type="line" smooth="yes"/>
+      <point x="696" y="30"/>
+      <point x="659" y="37"/>
+      <point x="659" y="66" type="curve" smooth="yes"/>
+      <point x="659" y="644" type="line" smooth="yes"/>
+      <point x="659" y="673"/>
+      <point x="697" y="680"/>
+      <point x="739" y="680" type="curve" smooth="yes"/>
+      <point x="745" y="680" type="line"/>
+      <point x="745" y="710" type="line"/>
+      <point x="566" y="710" type="line"/>
+      <point x="566" y="40" type="line" smooth="yes"/>
+      <point x="566" y="33"/>
+      <point x="523" y="30"/>
+      <point x="489" y="30" type="curve" smooth="yes"/>
+      <point x="480" y="30" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.6945,1,0.666,1</string>
+    </dict>
+  </lib>
+</glyph>

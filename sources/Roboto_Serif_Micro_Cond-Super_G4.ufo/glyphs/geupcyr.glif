@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="geupcyr" format="2">
+  <advance width="520"/>
+  <unicode hex="0491"/>
+  <anchor x="244.4" y="569" name="top"/>
+  <outline>
+    <contour>
+      <point x="65" y="180" type="line" smooth="yes"/>
+      <point x="65" y="126"/>
+      <point x="57" y="110"/>
+      <point x="37" y="110" type="curve" smooth="yes"/>
+      <point x="34" y="110" type="line"/>
+      <point x="34" y="0" type="line"/>
+      <point x="333" y="0" type="line"/>
+      <point x="333" y="110" type="line"/>
+      <point x="320" y="110" type="line" smooth="yes"/>
+      <point x="291" y="110"/>
+      <point x="280" y="126"/>
+      <point x="280" y="180" type="curve" smooth="yes"/>
+      <point x="280" y="569" type="line"/>
+      <point x="34" y="569" type="line"/>
+      <point x="34" y="459" type="line"/>
+      <point x="37" y="459" type="line" smooth="yes"/>
+      <point x="57" y="459"/>
+      <point x="65" y="443"/>
+      <point x="65" y="389" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="172" y="569" type="line"/>
+      <point x="172" y="445" type="line"/>
+      <point x="505" y="445" type="line"/>
+      <point x="505" y="726" type="line"/>
+      <point x="375" y="726" type="line"/>
+      <point x="364" y="622" type="line" smooth="yes"/>
+      <point x="361" y="586"/>
+      <point x="347" y="569"/>
+      <point x="308" y="569" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5741,1,0.8315,1</string>
+    </dict>
+  </lib>
+</glyph>

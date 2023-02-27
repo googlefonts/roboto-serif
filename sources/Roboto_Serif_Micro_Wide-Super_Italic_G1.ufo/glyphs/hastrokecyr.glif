@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hastrokecyr" format="2">
+  <advance width="786"/>
+  <unicode hex="04FF"/>
+  <anchor x="408.72" y="551" name="top"/>
+  <anchor x="369.42" y="0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="96" y="262" type="line"/>
+      <point x="716" y="262" type="line"/>
+      <point x="725" y="320" type="line"/>
+      <point x="105" y="320" type="line"/>
+    </contour>
+    <contour>
+      <point x="530" y="289" type="line"/>
+      <point x="801" y="561" type="line"/>
+      <point x="800" y="572" type="line"/>
+      <point x="636" y="572" type="line"/>
+      <point x="498" y="332" type="line"/>
+    </contour>
+    <contour>
+      <point x="34" y="0" type="line"/>
+      <point x="198" y="0" type="line"/>
+      <point x="338" y="239" type="line"/>
+      <point x="306" y="282" type="line"/>
+      <point x="33" y="11" type="line"/>
+    </contour>
+    <contour>
+      <point x="553" y="0" type="curve" smooth="yes"/>
+      <point x="618" y="0"/>
+      <point x="684" y="0"/>
+      <point x="748" y="0" type="curve"/>
+      <point x="757" y="58" type="line"/>
+      <point x="741.7931034483" y="58"/>
+      <point x="730" y="58"/>
+      <point x="715" y="58" type="curve" smooth="yes"/>
+      <point x="680" y="58"/>
+      <point x="675" y="69"/>
+      <point x="655" y="103" type="curve" smooth="yes"/>
+      <point x="385" y="572" type="line"/>
+      <point x="109" y="572" type="line"/>
+      <point x="100" y="522" type="line"/>
+      <point x="118" y="520" type="line" smooth="yes"/>
+      <point x="152" y="516"/>
+      <point x="164" y="510"/>
+      <point x="176" y="489" type="curve" smooth="yes"/>
+      <point x="412" y="72" type="line" smooth="yes"/>
+      <point x="441.2515072046" y="20.3140741343"/>
+      <point x="477.9352517986" y="0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5602,1,0.8428,1</string>
+    </dict>
+  </lib>
+</glyph>

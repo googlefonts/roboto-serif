@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eukrcyr" format="2">
+  <advance width="511"/>
+  <unicode hex="0404"/>
+  <anchor x="265.72" y="741" name="top"/>
+  <anchor x="265.72" y="0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="184" y="378" type="curve"/>
+      <point x="174" y="348" type="line"/>
+      <point x="296" y="348"/>
+      <point x="332" y="335"/>
+      <point x="393" y="320" type="curve"/>
+      <point x="408" y="405" type="line"/>
+      <point x="341" y="387"/>
+      <point x="302" y="379"/>
+    </contour>
+    <contour>
+      <point x="312" y="32" type="curve" smooth="yes"/>
+      <point x="257" y="32"/>
+      <point x="228" y="80"/>
+      <point x="228" y="212" type="curve" smooth="yes"/>
+      <point x="228" y="421"/>
+      <point x="304" y="687"/>
+      <point x="408" y="687" type="curve" smooth="yes"/>
+      <point x="474" y="687"/>
+      <point x="499" y="593"/>
+      <point x="499" y="501" type="curve"/>
+      <point x="524" y="501" type="line"/>
+      <point x="561" y="710" type="line"/>
+      <point x="539" y="710" type="line"/>
+      <point x="504" y="600" type="line"/>
+      <point x="515" y="582" type="line"/>
+      <point x="511" y="683"/>
+      <point x="448.7106918239" y="720"/>
+      <point x="360" y="720" type="curve" smooth="yes"/>
+      <point x="178" y="720"/>
+      <point x="29" y="532"/>
+      <point x="29" y="293" type="curve" smooth="yes"/>
+      <point x="29" y="113"/>
+      <point x="110" y="-10"/>
+      <point x="258" y="-10" type="curve" smooth="yes"/>
+      <point x="383" y="-10"/>
+      <point x="465" y="78"/>
+      <point x="504" y="236" type="curve"/>
+      <point x="478" y="238" type="line"/>
+      <point x="441" y="106"/>
+      <point x="375" y="32"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5602,1,0.8428,1</string>
+    </dict>
+  </lib>
+</glyph>

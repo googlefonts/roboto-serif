@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="turkishlira" format="2">
+  <advance width="560"/>
+  <unicode hex="20BA"/>
+  <outline>
+    <contour>
+      <point x="16" y="468" type="line"/>
+      <point x="16" y="360" type="line"/>
+      <point x="460" y="498" type="line"/>
+      <point x="460" y="606" type="line"/>
+    </contour>
+    <contour>
+      <point x="16" y="302" type="line"/>
+      <point x="16" y="193" type="line"/>
+      <point x="460" y="331" type="line"/>
+      <point x="460" y="440" type="line"/>
+    </contour>
+    <contour>
+      <point x="273" y="131" type="curve" smooth="yes"/>
+      <point x="256" y="131" type="line"/>
+      <point x="256" y="537" type="line" smooth="yes"/>
+      <point x="256" y="566"/>
+      <point x="269" y="573"/>
+      <point x="296" y="573" type="curve" smooth="yes"/>
+      <point x="309" y="573" type="line"/>
+      <point x="309" y="710" type="line"/>
+      <point x="35" y="710" type="line"/>
+      <point x="35" y="573" type="line"/>
+      <point x="46" y="573" type="line" smooth="yes"/>
+      <point x="79" y="573"/>
+      <point x="94" y="566"/>
+      <point x="94" y="537" type="curve" smooth="yes"/>
+      <point x="94" y="173" type="line" smooth="yes"/>
+      <point x="94" y="144"/>
+      <point x="79" y="137"/>
+      <point x="46" y="137" type="curve" smooth="yes"/>
+      <point x="35" y="137" type="line"/>
+      <point x="35" y="0" type="line"/>
+      <point x="231" y="0" type="line" smooth="yes"/>
+      <point x="466" y="0"/>
+      <point x="533" y="104"/>
+      <point x="548" y="244" type="curve"/>
+      <point x="422" y="271" type="line"/>
+      <point x="410" y="188"/>
+      <point x="381" y="131"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.5769,0,1</string>
+    </dict>
+  </lib>
+</glyph>

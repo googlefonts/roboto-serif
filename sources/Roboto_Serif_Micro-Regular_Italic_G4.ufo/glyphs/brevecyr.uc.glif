@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecyr.uc" format="2">
+  <advance width="500"/>
+  <anchor x="260" y="694" name="_top"/>
+  <outline>
+    <contour>
+      <point x="132" y="967" type="curve"/>
+      <point x="233" y="967" type="line"/>
+      <point x="225" y="902"/>
+      <point x="248" y="877"/>
+      <point x="304" y="877" type="curve" smooth="yes"/>
+      <point x="356" y="877"/>
+      <point x="383" y="902"/>
+      <point x="394" y="967" type="curve"/>
+      <point x="490" y="967" type="line"/>
+      <point x="474" y="853"/>
+      <point x="398" y="798"/>
+      <point x="293" y="798" type="curve" smooth="yes"/>
+      <point x="197" y="798"/>
+      <point x="131" y="847"/>
+      <point x="131" y="951" type="curve" smooth="yes"/>
+      <point x="131" y="957"/>
+      <point x="131" y="959"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_top</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>capHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.5602,1,0.8428,1</string>
+    </dict>
+  </lib>
+</glyph>

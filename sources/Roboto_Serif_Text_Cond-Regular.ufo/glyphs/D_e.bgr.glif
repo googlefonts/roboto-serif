@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="De.bgr" format="2">
+  <advance width="619"/>
+  <anchor x="309.5" y="741" name="top"/>
+  <outline>
+    <contour>
+      <point x="286" y="678" type="line"/>
+      <point x="461" y="40" type="line"/>
+      <point x="548" y="40" type="line"/>
+      <point x="363" y="710" type="line"/>
+      <point x="255" y="710" type="line"/>
+      <point x="71" y="40" type="line"/>
+      <point x="130" y="40" type="line"/>
+      <point x="298" y="652" type="line"/>
+    </contour>
+    <contour>
+      <point x="170" y="0" type="curve" smooth="yes"/>
+      <point x="449" y="0" type="line" smooth="yes"/>
+      <point x="519" y="0"/>
+      <point x="546" y="-11"/>
+      <point x="550" y="-70" type="curve" smooth="yes"/>
+      <point x="555" y="-145" type="line"/>
+      <point x="608" y="-145" type="line"/>
+      <point x="608" y="53" type="line"/>
+      <point x="11" y="53" type="line"/>
+      <point x="11" y="-145" type="line"/>
+      <point x="64" y="-145" type="line"/>
+      <point x="69" y="-70" type="line" smooth="yes"/>
+      <point x="73" y="-11"/>
+      <point x="100" y="0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5066,0.9903,0.9972,1</string>
+    </dict>
+  </lib>
+</glyph>
