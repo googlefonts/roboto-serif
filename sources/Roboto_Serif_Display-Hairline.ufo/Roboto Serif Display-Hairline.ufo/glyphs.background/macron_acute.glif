@@ -1,0 +1,27 @@
+<glyph name="macron_acute" format="2">
+  <advance width="550"/>
+  <anchor x="275" y="526" name="_top"/>
+  <outline>
+    <contour>
+      <point x="150" y="689" type="line"/>
+      <point x="150" y="659" type="line"/>
+      <point x="400" y="659" type="line"/>
+      <point x="400" y="689" type="line"/>
+    </contour>
+    <contour>
+      <point x="291" y="866" type="curve" smooth="yes"/>
+      <point x="236" y="749" type="line"/>
+      <point x="236" y="735" type="line"/>
+      <point x="250" y="735" type="line"/>
+      <point x="334" y="842" type="line" smooth="yes"/>
+      <point x="348" y="859"/>
+      <point x="360" y="874"/>
+      <point x="360" y="889" type="curve" smooth="yes"/>
+      <point x="360" y="903"/>
+      <point x="350" y="913"/>
+      <point x="334" y="913" type="curve" smooth="yes"/>
+      <point x="315" y="913"/>
+      <point x="305" y="896"/>
+    </contour>
+  </outline>
+</glyph>

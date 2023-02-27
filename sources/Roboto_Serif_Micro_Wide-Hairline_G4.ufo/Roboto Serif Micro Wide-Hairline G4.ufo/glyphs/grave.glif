@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="grave" format="2">
+  <advance width="530"/>
+  <unicode hex="0060"/>
+  <outline>
+    <contour>
+      <point x="312" y="793" type="line" smooth="yes"/>
+      <point x="290" y="829"/>
+      <point x="271" y="855"/>
+      <point x="239" y="855" type="curve" smooth="yes"/>
+      <point x="208" y="855"/>
+      <point x="196" y="835"/>
+      <point x="196" y="819" type="curve" smooth="yes"/>
+      <point x="196" y="793"/>
+      <point x="207" y="779"/>
+      <point x="234" y="755" type="curve" smooth="yes"/>
+      <point x="345" y="661" type="line"/>
+      <point x="382" y="661" type="line"/>
+      <point x="382" y="679" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_top</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>LC accents</string>
+          <key>type</key>
+          <string>fontGuide</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>1,1,0.4,1</string>
+    </dict>
+  </lib>
+</glyph>

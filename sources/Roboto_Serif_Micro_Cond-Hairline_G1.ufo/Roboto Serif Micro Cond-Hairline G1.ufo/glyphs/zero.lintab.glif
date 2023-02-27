@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero.lintab" format="2">
+  <advance width="560"/>
+  <outline>
+    <contour>
+      <point x="280" y="-11" type="curve"/>
+      <point x="422" y="-11"/>
+      <point x="510" y="112"/>
+      <point x="510" y="362" type="curve"/>
+      <point x="510" y="612"/>
+      <point x="422" y="735"/>
+      <point x="280" y="735" type="curve"/>
+      <point x="138" y="735"/>
+      <point x="50" y="612"/>
+      <point x="50" y="362" type="curve"/>
+      <point x="50" y="112"/>
+      <point x="138" y="-11"/>
+    </contour>
+    <contour>
+      <point x="280" y="21" type="curve"/>
+      <point x="137" y="21"/>
+      <point x="87" y="137"/>
+      <point x="87" y="362" type="curve"/>
+      <point x="87" y="587"/>
+      <point x="137" y="703"/>
+      <point x="280" y="703" type="curve"/>
+      <point x="423" y="703"/>
+      <point x="474" y="587"/>
+      <point x="474" y="362" type="curve"/>
+      <point x="474" y="137"/>
+      <point x="423" y="21"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.8273,0.0492,1</string>
+    </dict>
+  </lib>
+</glyph>

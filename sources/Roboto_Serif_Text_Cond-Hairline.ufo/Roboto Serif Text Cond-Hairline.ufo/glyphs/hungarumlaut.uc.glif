@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hungarumlaut.uc" format="2">
+  <advance width="403"/>
+  <outline>
+    <contour>
+      <point x="154" y="861" type="curve" smooth="yes"/>
+      <point x="131" y="775" type="line"/>
+      <point x="131" y="758" type="line"/>
+      <point x="147" y="758" type="line"/>
+      <point x="196" y="842" type="line" smooth="yes"/>
+      <point x="204.5332858599" y="856.6284900456"/>
+      <point x="214" y="872.6818181818"/>
+      <point x="214" y="887" type="curve" smooth="yes"/>
+      <point x="214" y="902"/>
+      <point x="204" y="911"/>
+      <point x="191" y="911" type="curve" smooth="yes"/>
+      <point x="173.0285714286" y="911"/>
+      <point x="163.4244778737" y="896.2393520494"/>
+    </contour>
+    <contour>
+      <point x="249" y="861" type="curve" smooth="yes"/>
+      <point x="226" y="775" type="line"/>
+      <point x="226" y="758" type="line"/>
+      <point x="241" y="758" type="line"/>
+      <point x="291" y="842" type="line" smooth="yes"/>
+      <point x="299.6622126835" y="856.5525173083"/>
+      <point x="309" y="872.6818181818"/>
+      <point x="309" y="887" type="curve" smooth="yes"/>
+      <point x="309" y="902"/>
+      <point x="299" y="911"/>
+      <point x="286" y="911" type="curve" smooth="yes"/>
+      <point x="268.0285714286" y="911"/>
+      <point x="258.4244778737" y="896.2393520494"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_top</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>capHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>1,0.8273,0.0492,1</string>
+    </dict>
+  </lib>
+</glyph>

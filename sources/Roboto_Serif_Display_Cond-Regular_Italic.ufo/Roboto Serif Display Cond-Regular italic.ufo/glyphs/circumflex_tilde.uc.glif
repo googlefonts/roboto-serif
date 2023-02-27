@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflex_tilde.uc" format="2">
+  <advance width="340"/>
+  <outline>
+    <contour>
+      <point x="309" y="907" type="curve" smooth="yes"/>
+      <point x="341" y="907"/>
+      <point x="373" y="931"/>
+      <point x="391" y="1005" type="curve"/>
+      <point x="367" y="1014" type="line"/>
+      <point x="352" y="972"/>
+      <point x="340" y="957"/>
+      <point x="324" y="957" type="curve" smooth="yes"/>
+      <point x="294" y="957"/>
+      <point x="279" y="1017"/>
+      <point x="229" y="1017" type="curve" smooth="yes"/>
+      <point x="197" y="1017"/>
+      <point x="165" y="993"/>
+      <point x="147" y="919" type="curve"/>
+      <point x="171" y="910" type="line"/>
+      <point x="186" y="952"/>
+      <point x="198" y="967"/>
+      <point x="214" y="967" type="curve" smooth="yes"/>
+      <point x="244" y="967"/>
+      <point x="259" y="907"/>
+    </contour>
+    <contour>
+      <point x="293" y="877" type="line"/>
+      <point x="346" y="770" type="line"/>
+      <point x="345" y="760" type="line"/>
+      <point x="323" y="760" type="line"/>
+      <point x="255" y="831" type="line"/>
+      <point x="262" y="831" type="line"/>
+      <point x="157" y="760" type="line"/>
+      <point x="139" y="760" type="line"/>
+      <point x="140" y="770" type="line"/>
+      <point x="231" y="877" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_top</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.6814,0.703,1,1</string>
+    </dict>
+  </lib>
+</glyph>

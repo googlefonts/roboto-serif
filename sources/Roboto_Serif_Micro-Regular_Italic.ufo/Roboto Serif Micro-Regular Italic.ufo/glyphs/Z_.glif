@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Z" format="2">
+  <advance width="675"/>
+  <unicode hex="005A"/>
+  <outline>
+    <contour>
+      <point x="44" y="62" type="line"/>
+      <point x="45" y="25" type="line"/>
+      <point x="664" y="637" type="line"/>
+      <point x="683" y="710" type="line"/>
+      <point x="159" y="710" type="line"/>
+      <point x="107" y="503" type="line"/>
+      <point x="171" y="503" type="line"/>
+      <point x="209" y="603" type="line" smooth="yes"/>
+      <point x="223" y="639"/>
+      <point x="259" y="648"/>
+      <point x="345" y="648" type="curve" smooth="yes"/>
+      <point x="601" y="648" type="line"/>
+      <point x="589" y="672" type="line"/>
+      <point x="-15" y="76" type="line"/>
+      <point x="-34" y="0" type="line"/>
+      <point x="521" y="0" type="line"/>
+      <point x="579" y="231" type="line"/>
+      <point x="513" y="231" type="line"/>
+      <point x="467" y="107" type="line" smooth="yes"/>
+      <point x="454" y="71"/>
+      <point x="417" y="62"/>
+      <point x="331" y="62" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.0j56t10d9s</key>
+      <integer>5</integer>
+      <key>com.typemytype.robofont.guideline.magnetic.OadleoFwyn</key>
+      <integer>5</integer>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>bottom</key>
+        <dict>
+          <key>name</key>
+          <string>origin</string>
+          <key>type</key>
+          <string>glyphMetric</string>
+        </dict>
+        <key>top</key>
+        <dict>
+          <key>name</key>
+          <string>capHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>1,0.5769,0,1</string>
+    </dict>
+  </lib>
+</glyph>

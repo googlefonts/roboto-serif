@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresis.uc" format="2">
+  <advance width="579"/>
+  <outline>
+    <contour>
+      <point x="263" y="772" type="curve" smooth="yes"/>
+      <point x="343" y="772"/>
+      <point x="392" y="808"/>
+      <point x="392" y="882" type="curve" smooth="yes"/>
+      <point x="392" y="956"/>
+      <point x="343" y="993"/>
+      <point x="263" y="993" type="curve" smooth="yes"/>
+      <point x="180" y="993"/>
+      <point x="132" y="956"/>
+      <point x="132" y="882" type="curve" smooth="yes"/>
+      <point x="132" y="807"/>
+      <point x="180" y="772"/>
+    </contour>
+    <contour>
+      <point x="597" y="772" type="curve" smooth="yes"/>
+      <point x="679" y="772"/>
+      <point x="727" y="808"/>
+      <point x="727" y="882" type="curve" smooth="yes"/>
+      <point x="727" y="956"/>
+      <point x="679" y="993"/>
+      <point x="597" y="993" type="curve" smooth="yes"/>
+      <point x="516" y="993"/>
+      <point x="468" y="956"/>
+      <point x="468" y="882" type="curve" smooth="yes"/>
+      <point x="468" y="807"/>
+      <point x="516" y="772"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_top</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>capHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>1,1,0.4,1</string>
+    </dict>
+  </lib>
+</glyph>

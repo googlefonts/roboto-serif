@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Uhorngrave" format="2">
+  <advance width="972"/>
+  <unicode hex="1EEA"/>
+  <outline>
+    <component base="Uhorn" xOffset="5"/>
+    <component base="grave.uc" xOffset="317"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.compileType</key>
+      <string>manual</string>
+    </dict>
+  </lib>
+</glyph>

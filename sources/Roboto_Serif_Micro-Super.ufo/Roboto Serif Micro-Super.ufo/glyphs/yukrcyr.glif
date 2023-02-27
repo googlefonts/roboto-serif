@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yukrcyr" format="2">
+  <advance width="400"/>
+  <unicode hex="0457"/>
+  <outline>
+    <contour>
+      <point x="100" y="616" type="curve" smooth="yes"/>
+      <point x="157.6551724138" y="616"/>
+      <point x="188" y="649"/>
+      <point x="188" y="719" type="curve" smooth="yes"/>
+      <point x="188" y="788"/>
+      <point x="157.6551724138" y="822"/>
+      <point x="100" y="822" type="curve" smooth="yes"/>
+      <point x="42.3448275862" y="822"/>
+      <point x="12" y="788"/>
+      <point x="12" y="719" type="curve" smooth="yes"/>
+      <point x="12" y="648"/>
+      <point x="42.3448275862" y="616"/>
+    </contour>
+    <contour>
+      <point x="301" y="616" type="curve" smooth="yes"/>
+      <point x="358.6627906977" y="616"/>
+      <point x="388" y="649"/>
+      <point x="388" y="719" type="curve" smooth="yes"/>
+      <point x="388" y="788"/>
+      <point x="358.6627906977" y="822"/>
+      <point x="301" y="822" type="curve" smooth="yes"/>
+      <point x="243.3522727273" y="822"/>
+      <point x="212" y="788"/>
+      <point x="212" y="719" type="curve" smooth="yes"/>
+      <point x="212" y="648"/>
+      <point x="243.3522727273" y="616"/>
+    </contour>
+    <component base="dotlessi"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5066,0.9903,0.9972,1</string>
+    </dict>
+  </lib>
+</glyph>

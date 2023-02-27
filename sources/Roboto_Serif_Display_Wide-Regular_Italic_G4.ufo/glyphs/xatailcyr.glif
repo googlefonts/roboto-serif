@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="xatailcyr" format="2">
+  <advance width="613"/>
+  <unicode hex="04B3"/>
+  <anchor x="318.76" y="551" name="top"/>
+  <outline>
+    <contour>
+      <point x="334" y="270" type="line"/>
+      <point x="590" y="513" type="line"/>
+      <point x="590" y="518" type="line"/>
+      <point x="484" y="518" type="line"/>
+      <point x="307" y="288" type="line"/>
+    </contour>
+    <contour>
+      <point x="8" y="0" type="line"/>
+      <point x="116" y="0" type="line"/>
+      <point x="303" y="248" type="line"/>
+      <point x="274" y="268" type="line"/>
+      <point x="8" y="5" type="line"/>
+    </contour>
+    <contour>
+      <point x="467" y="0" type="curve" smooth="yes"/>
+      <point x="499" y="0"/>
+      <point x="516" y="-10"/>
+      <point x="515" y="-53" type="curve" smooth="yes"/>
+      <point x="513" y="-140" type="line"/>
+      <point x="561" y="-140" type="line"/>
+      <point x="598" y="52" type="line"/>
+      <point x="531" y="52" type="line" smooth="yes"/>
+      <point x="493.625" y="52"/>
+      <point x="468.4676437174" y="67.2150849197"/>
+      <point x="439" y="122" type="curve" smooth="yes"/>
+      <point x="226" y="518" type="line"/>
+      <point x="65" y="518" type="line"/>
+      <point x="57" y="468" type="line"/>
+      <point x="75" y="466" type="line" smooth="yes"/>
+      <point x="132" y="460"/>
+      <point x="148" y="449"/>
+      <point x="165" y="418" type="curve" smooth="yes"/>
+      <point x="340" y="97" type="line" smooth="yes"/>
+      <point x="376.9630128167" y="29.1992736334"/>
+      <point x="404" y="0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5602,1,0.8428,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Idieresisacute" format="2">
+  <advance width="322"/>
+  <unicode hex="1E2E"/>
+  <guideline x="45" y="735" angle="90" identifier="FxIdcX9098"/>
+  <guideline x="277" y="738" angle="90" identifier="PXVXjWS6Eu"/>
+  <outline>
+    <component base="I"/>
+    <component base="dieresis_acute.uc" xOffset="-108"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.FxIdcX9098</key>
+      <integer>5</integer>
+      <key>com.typemytype.robofont.guideline.magnetic.PXVXjWS6Eu</key>
+      <integer>5</integer>
+      <key>com.typesupply.AccentFactory.compileType</key>
+      <string>manual</string>
+      <key>public.markColor</key>
+      <string>0.9962,1,0.5137,1</string>
+    </dict>
+  </lib>
+</glyph>

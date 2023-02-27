@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="grave.uc" format="2">
+  <advance width="588"/>
+  <outline>
+    <contour>
+      <point x="313" y="872" type="curve" smooth="yes"/>
+      <point x="382" y="797" type="line"/>
+      <point x="382" y="766" type="line"/>
+      <point x="340" y="766" type="line"/>
+      <point x="251" y="803" type="line" smooth="yes"/>
+      <point x="203" y="824"/>
+      <point x="187" y="850"/>
+      <point x="187" y="876" type="curve"/>
+      <point x="187" y="898"/>
+      <point x="205" y="918"/>
+      <point x="235" y="918" type="curve" smooth="yes"/>
+      <point x="269" y="918"/>
+      <point x="290" y="898"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_top</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>capHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.9962,1,0.5137,1</string>
+    </dict>
+  </lib>
+</glyph>

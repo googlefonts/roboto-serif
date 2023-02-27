@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Uhornhoi" format="2">
+  <advance width="959"/>
+  <unicode hex="1EEC"/>
+  <outline>
+    <component base="Uhorn" xOffset="-1"/>
+    <component base="hook.uc" xOffset="253"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.compileType</key>
+      <string>manual</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cedilla" format="2">
+  <advance width="530"/>
+  <unicode hex="00B8"/>
+  <outline>
+    <contour>
+      <point x="303" y="-288" type="curve" smooth="yes"/>
+      <point x="389" y="-288"/>
+      <point x="432" y="-245"/>
+      <point x="432" y="-183" type="curve" smooth="yes"/>
+      <point x="432" y="-136"/>
+      <point x="396.2352941176" y="-87"/>
+      <point x="268" y="-87" type="curve"/>
+      <point x="275" y="-94" type="line"/>
+      <point x="353" y="5" type="line"/>
+      <point x="285" y="5" type="line"/>
+      <point x="230" y="-121" type="line"/>
+      <point x="259" y="-121" type="line" smooth="yes"/>
+      <point x="348" y="-121"/>
+      <point x="379" y="-146"/>
+      <point x="379" y="-185" type="curve" smooth="yes"/>
+      <point x="379" y="-227"/>
+      <point x="354" y="-248"/>
+      <point x="300" y="-248" type="curve" smooth="yes"/>
+      <point x="235" y="-248"/>
+      <point x="202" y="-218"/>
+      <point x="179" y="-186" type="curve"/>
+      <point x="142" y="-215" type="line"/>
+      <point x="166" y="-250"/>
+      <point x="211" y="-288"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_bottom</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>above</key>
+        <dict>
+          <key>name</key>
+          <string>origin</string>
+          <key>type</key>
+          <string>glyphMetric</string>
+        </dict>
+        <key>top</key>
+        <dict>
+          <key>name</key>
+          <string>origin</string>
+          <key>type</key>
+          <string>glyphMetric</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

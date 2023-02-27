@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresis.uc" format="2">
+  <advance width="630"/>
+  <outline>
+    <contour>
+      <point x="254" y="816" type="curve" smooth="yes"/>
+      <point x="254" y="835"/>
+      <point x="241" y="848"/>
+      <point x="222" y="848" type="curve" smooth="yes"/>
+      <point x="203" y="848"/>
+      <point x="190" y="835"/>
+      <point x="190" y="816" type="curve" smooth="yes"/>
+      <point x="190" y="797"/>
+      <point x="203" y="784"/>
+      <point x="222" y="784" type="curve" smooth="yes"/>
+      <point x="241" y="784"/>
+      <point x="254" y="797"/>
+    </contour>
+    <contour>
+      <point x="438" y="816" type="curve" smooth="yes"/>
+      <point x="438" y="835"/>
+      <point x="425" y="848"/>
+      <point x="406" y="848" type="curve" smooth="yes"/>
+      <point x="387" y="848"/>
+      <point x="374" y="835"/>
+      <point x="374" y="816" type="curve" smooth="yes"/>
+      <point x="374" y="797"/>
+      <point x="387" y="784"/>
+      <point x="406" y="784" type="curve" smooth="yes"/>
+      <point x="425" y="784"/>
+      <point x="438" y="797"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.pIngqDNfML</key>
+      <integer>5</integer>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_top</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>UC accents</string>
+          <key>type</key>
+          <string>fontGuide</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="breve_tilde.uc" format="2">
+  <advance width="588"/>
+  <outline>
+    <contour>
+      <point x="294" y="759" type="curve" smooth="yes"/>
+      <point x="214.8181818182" y="759"/>
+      <point x="167.0008324371" y="804.9906053528"/>
+      <point x="160" y="884" type="curve"/>
+      <point x="191" y="884" type="line"/>
+      <point x="202.0081693307" y="827.9584106799"/>
+      <point x="231.7920792079" y="799"/>
+      <point x="294" y="799" type="curve" smooth="yes"/>
+      <point x="355.1538461538" y="799"/>
+      <point x="387.9901159787" y="826.9530508987"/>
+      <point x="400" y="884" type="curve"/>
+      <point x="428" y="884" type="line"/>
+      <point x="420.9991675629" y="804.9906053528"/>
+      <point x="373.1818181818" y="759"/>
+    </contour>
+    <contour>
+      <point x="356" y="929" type="curve" smooth="yes"/>
+      <point x="399" y="929"/>
+      <point x="424.0164850878" y="961.0531186161"/>
+      <point x="442" y="1019" type="curve"/>
+      <point x="414" y="1028" type="line"/>
+      <point x="400.0210546861" y="985.0646679646"/>
+      <point x="388.0196078431" y="962"/>
+      <point x="361" y="962" type="curve" smooth="yes"/>
+      <point x="324.5441176471" y="962"/>
+      <point x="282.7518248175" y="1033"/>
+      <point x="227" y="1033" type="curve" smooth="yes"/>
+      <point x="183.5697674419" y="1033"/>
+      <point x="155.9846660915" y="1001.922052632"/>
+      <point x="144" y="941" type="curve"/>
+      <point x="172" y="931" type="line"/>
+      <point x="181.9745500405" y="975.8854751824"/>
+      <point x="193.7222222222" y="1000"/>
+      <point x="223" y="1000" type="curve" smooth="yes"/>
+      <point x="258.2058823529" y="1000"/>
+      <point x="302.8" y="929"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_top</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>UC accents</string>
+          <key>type</key>
+          <string>fontGuide</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,1,1,1</string>
+    </dict>
+  </lib>
+</glyph>

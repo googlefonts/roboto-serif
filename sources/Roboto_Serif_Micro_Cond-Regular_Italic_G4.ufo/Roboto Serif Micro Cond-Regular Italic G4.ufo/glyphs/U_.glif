@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="U" format="2">
+  <advance width="682"/>
+  <unicode hex="0055"/>
+  <outline>
+    <contour>
+      <point x="211" y="336" type="curve" smooth="yes"/>
+      <point x="284" y="624" type="line" smooth="yes"/>
+      <point x="286" y="631"/>
+      <point x="314" y="634"/>
+      <point x="344" y="634" type="curve" smooth="yes"/>
+      <point x="352" y="634" type="line"/>
+      <point x="370" y="710" type="line"/>
+      <point x="129" y="710" type="line"/>
+      <point x="111" y="634" type="line"/>
+      <point x="120" y="634" type="line" smooth="yes"/>
+      <point x="159" y="634"/>
+      <point x="184" y="627"/>
+      <point x="177" y="598" type="curve" smooth="yes"/>
+      <point x="114" y="343" type="line" smooth="yes"/>
+      <point x="88" y="238"/>
+      <point x="83" y="199"/>
+      <point x="83" y="156" type="curve" smooth="yes"/>
+      <point x="83" y="41"/>
+      <point x="177" y="-23"/>
+      <point x="296" y="-23" type="curve" smooth="yes"/>
+      <point x="418" y="-23"/>
+      <point x="502" y="34"/>
+      <point x="547" y="211" type="curve" smooth="yes"/>
+      <point x="645" y="598" type="line" smooth="yes"/>
+      <point x="652" y="627"/>
+      <point x="663" y="634"/>
+      <point x="700" y="634" type="curve" smooth="yes"/>
+      <point x="709" y="634" type="line"/>
+      <point x="728" y="710" type="line"/>
+      <point x="520" y="710" type="line"/>
+      <point x="501" y="634" type="line"/>
+      <point x="508" y="634" type="line" smooth="yes"/>
+      <point x="538" y="634"/>
+      <point x="574" y="631"/>
+      <point x="572" y="624" type="curve" smooth="yes"/>
+      <point x="469" y="217" type="line" smooth="yes"/>
+      <point x="437" y="92"/>
+      <point x="378" y="51"/>
+      <point x="303" y="51" type="curve" smooth="yes"/>
+      <point x="219" y="51"/>
+      <point x="183" y="104"/>
+      <point x="183" y="161" type="curve" smooth="yes"/>
+      <point x="183" y="203"/>
+      <point x="186" y="239"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>bottom</key>
+        <dict>
+          <key>name</key>
+          <string>origin</string>
+          <key>type</key>
+          <string>glyphMetric</string>
+        </dict>
+        <key>top</key>
+        <dict>
+          <key>name</key>
+          <string>capHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>1,0.6331,0.046,1</string>
+    </dict>
+  </lib>
+</glyph>

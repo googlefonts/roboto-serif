@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Jcircumflex" format="2">
+  <advance width="633"/>
+  <unicode hex="0134"/>
+  <guideline x="231" y="701" angle="90" identifier="jRRwtQBdB9"/>
+  <guideline x="625" y="660" angle="90" identifier="PpmMtsfL1Z"/>
+  <outline>
+    <component base="J"/>
+    <component base="circumflex.uc" xOffset="152"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.PpmMtsfL1Z</key>
+      <integer>5</integer>
+      <key>com.typemytype.robofont.guideline.magnetic.jRRwtQBdB9</key>
+      <integer>5</integer>
+      <key>com.typesupply.AccentFactory.compileType</key>
+      <string>manual</string>
+    </dict>
+  </lib>
+</glyph>

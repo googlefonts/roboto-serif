@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotlessj" format="2">
+  <advance width="350"/>
+  <unicode hex="0237"/>
+  <outline>
+    <contour>
+      <point x="149" y="-84" type="line" smooth="yes"/>
+      <point x="149" y="-184"/>
+      <point x="108" y="-207"/>
+      <point x="43" y="-207" type="curve" smooth="yes"/>
+      <point x="-1" y="-207"/>
+      <point x="-36" y="-199"/>
+      <point x="-58" y="-191" type="curve"/>
+      <point x="-58" y="-235" type="line"/>
+      <point x="-42" y="-243"/>
+      <point x="2" y="-250"/>
+      <point x="43" y="-250" type="curve" smooth="yes"/>
+      <point x="137" y="-250"/>
+      <point x="236" y="-211"/>
+      <point x="236" y="-79" type="curve" smooth="yes"/>
+      <point x="236" y="565" type="line"/>
+      <point x="42" y="565" type="line"/>
+      <point x="42" y="522" type="line"/>
+      <point x="57" y="520" type="line" smooth="yes"/>
+      <point x="111" y="513"/>
+      <point x="149" y="504"/>
+      <point x="149" y="475" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>top</key>
+        <dict>
+          <key>name</key>
+          <string>xHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.9962,1,0.5137,1</string>
+    </dict>
+  </lib>
+</glyph>

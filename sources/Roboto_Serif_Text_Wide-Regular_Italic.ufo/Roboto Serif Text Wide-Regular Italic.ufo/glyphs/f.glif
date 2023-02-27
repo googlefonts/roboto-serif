@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="f" format="2">
+  <advance width="393"/>
+  <unicode hex="0066"/>
+  <outline>
+    <contour>
+      <point x="47" y="508" type="line"/>
+      <point x="38" y="453" type="line"/>
+      <point x="399" y="453" type="line"/>
+      <point x="408" y="508" type="line"/>
+    </contour>
+    <contour>
+      <point x="385" y="695" type="curve" smooth="yes"/>
+      <point x="425" y="695"/>
+      <point x="460" y="684"/>
+      <point x="487" y="671" type="curve"/>
+      <point x="497" y="733" type="line"/>
+      <point x="475" y="744"/>
+      <point x="434" y="752"/>
+      <point x="383" y="752" type="curve" smooth="yes"/>
+      <point x="272" y="752"/>
+      <point x="174" y="700"/>
+      <point x="156" y="555" type="curve" smooth="yes"/>
+      <point x="59" y="-223" type="line"/>
+      <point x="135" y="-223" type="line"/>
+      <point x="257" y="563" type="line" smooth="yes"/>
+      <point x="272" y="662"/>
+      <point x="316" y="695"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,1,0.4,1</string>
+    </dict>
+  </lib>
+</glyph>

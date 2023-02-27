@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflex_tilde.uc" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="326" y="910" type="curve" smooth="yes"/>
+      <point x="360" y="910"/>
+      <point x="382" y="936"/>
+      <point x="405" y="986" type="curve"/>
+      <point x="393" y="992" type="line"/>
+      <point x="374" y="954"/>
+      <point x="360" y="940"/>
+      <point x="334" y="940" type="curve" smooth="yes"/>
+      <point x="297" y="940"/>
+      <point x="261" y="990"/>
+      <point x="219" y="990" type="curve" smooth="yes"/>
+      <point x="184" y="990"/>
+      <point x="160" y="964"/>
+      <point x="140" y="911" type="curve"/>
+      <point x="152" y="906" type="line"/>
+      <point x="164" y="942"/>
+      <point x="184" y="962"/>
+      <point x="210" y="962" type="curve" smooth="yes"/>
+      <point x="248" y="962"/>
+      <point x="280" y="910"/>
+    </contour>
+    <contour>
+      <point x="284" y="883" type="line"/>
+      <point x="372" y="750" type="line"/>
+      <point x="371" y="749" type="line"/>
+      <point x="361" y="749" type="line"/>
+      <point x="243" y="870" type="line"/>
+      <point x="276" y="870" type="line"/>
+      <point x="114" y="749" type="line"/>
+      <point x="100" y="749" type="line"/>
+      <point x="100" y="750" type="line"/>
+      <point x="236" y="883" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_top</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>capHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.9962,1,0.5137,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iinvertedbreve" format="2">
+  <advance width="346"/>
+  <unicode hex="020B"/>
+  <outline>
+    <contour>
+      <point x="253" y="839" type="curve" smooth="yes"/>
+      <point x="368.5606936416" y="839"/>
+      <point x="421" y="795"/>
+      <point x="421" y="708" type="curve"/>
+      <point x="421" y="689"/>
+      <point x="419" y="662"/>
+      <point x="413" y="639" type="curve"/>
+      <point x="315" y="639" type="line"/>
+      <point x="320.996284105" y="701.9609831027"/>
+      <point x="310.3571428571" y="721"/>
+      <point x="250" y="721" type="curve" smooth="yes"/>
+      <point x="179.5922330097" y="721"/>
+      <point x="168.953856896" y="707.8127132837"/>
+      <point x="152" y="639" type="curve"/>
+      <point x="55" y="639" type="line"/>
+      <point x="66.9984262278" y="801.9786229281"/>
+      <point x="139.8571428571" y="839"/>
+    </contour>
+    <component base="dotlessi"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.3922,0.8039,1,1</string>
+    </dict>
+  </lib>
+</glyph>

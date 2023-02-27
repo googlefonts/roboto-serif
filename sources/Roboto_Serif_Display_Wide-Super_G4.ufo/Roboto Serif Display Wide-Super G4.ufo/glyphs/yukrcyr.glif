@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yukrcyr" format="2">
+  <advance width="415"/>
+  <unicode hex="0457"/>
+  <outline>
+    <contour>
+      <point x="104" y="558" type="curve" smooth="yes"/>
+      <point x="164" y="558"/>
+      <point x="198" y="596"/>
+      <point x="198" y="659" type="curve" smooth="yes"/>
+      <point x="198" y="722"/>
+      <point x="164" y="760"/>
+      <point x="104" y="760" type="curve" smooth="yes"/>
+      <point x="44" y="760"/>
+      <point x="10" y="722"/>
+      <point x="10" y="659" type="curve" smooth="yes"/>
+      <point x="10" y="596"/>
+      <point x="44" y="558"/>
+    </contour>
+    <contour>
+      <point x="311" y="558" type="curve" smooth="yes"/>
+      <point x="372" y="558"/>
+      <point x="405" y="596"/>
+      <point x="405" y="659" type="curve" smooth="yes"/>
+      <point x="405" y="722"/>
+      <point x="372" y="760"/>
+      <point x="311" y="760" type="curve" smooth="yes"/>
+      <point x="252" y="760"/>
+      <point x="217" y="722"/>
+      <point x="217" y="659" type="curve" smooth="yes"/>
+      <point x="217" y="596"/>
+      <point x="252" y="558"/>
+    </contour>
+    <component base="dotlessi"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5741,1,0.8315,1</string>
+    </dict>
+  </lib>
+</glyph>

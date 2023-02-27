@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="K" format="2">
+  <advance width="746"/>
+  <unicode hex="004B"/>
+  <outline>
+    <contour>
+      <point x="-48" y="0" type="line"/>
+      <point x="251" y="0" type="line"/>
+      <point x="273" y="85" type="line"/>
+      <point x="266" y="85" type="line" smooth="yes"/>
+      <point x="256" y="85"/>
+      <point x="244" y="88"/>
+      <point x="246" y="95" type="curve"/>
+      <point x="376" y="615" type="line"/>
+      <point x="378" y="622"/>
+      <point x="387" y="625"/>
+      <point x="414" y="625" type="curve" smooth="yes"/>
+      <point x="423" y="625" type="line"/>
+      <point x="445" y="710" type="line"/>
+      <point x="130" y="710" type="line"/>
+      <point x="108" y="625" type="line"/>
+      <point x="118" y="625" type="line" smooth="yes"/>
+      <point x="142" y="625"/>
+      <point x="149" y="620"/>
+      <point x="141" y="589" type="curve" smooth="yes"/>
+      <point x="25" y="121" type="line" smooth="yes"/>
+      <point x="18" y="91"/>
+      <point x="3" y="85"/>
+      <point x="-17" y="85" type="curve" smooth="yes"/>
+      <point x="-26" y="85" type="line"/>
+    </contour>
+    <contour>
+      <point x="330" y="0" type="line"/>
+      <point x="647" y="0" type="line"/>
+      <point x="669" y="85" type="line"/>
+      <point x="655" y="85" type="line" smooth="yes"/>
+      <point x="639" y="85"/>
+      <point x="616" y="86"/>
+      <point x="611" y="106" type="curve" smooth="yes"/>
+      <point x="523" y="460" type="line"/>
+      <point x="423" y="350" type="line"/>
+      <point x="663" y="596" type="line" smooth="yes"/>
+      <point x="688" y="621"/>
+      <point x="710" y="625"/>
+      <point x="737" y="625" type="curve" smooth="yes"/>
+      <point x="746" y="625" type="line"/>
+      <point x="768" y="710" type="line"/>
+      <point x="520" y="710" type="line"/>
+      <point x="498" y="625" type="line"/>
+      <point x="513" y="625" type="line" smooth="yes"/>
+      <point x="538" y="625"/>
+      <point x="567" y="621"/>
+      <point x="566" y="614" type="curve"/>
+      <point x="329" y="372" type="line"/>
+      <point x="324" y="348" type="line"/>
+      <point x="384" y="95" type="line"/>
+      <point x="382" y="88"/>
+      <point x="376" y="85"/>
+      <point x="356" y="85" type="curve" smooth="yes"/>
+      <point x="352" y="85" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>bottom</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>bottom</key>
+        <dict>
+          <key>name</key>
+          <string>origin</string>
+          <key>type</key>
+          <string>glyphMetric</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Oslash" format="2">
+  <advance width="737"/>
+  <unicode hex="00D8"/>
+  <outline>
+    <contour>
+      <point x="368" y="684" type="curve" smooth="yes"/>
+      <point x="514" y="684"/>
+      <point x="630" y="575"/>
+      <point x="630" y="355" type="curve" smooth="yes"/>
+      <point x="630" y="145"/>
+      <point x="514" y="26"/>
+      <point x="368" y="26" type="curve" smooth="yes"/>
+      <point x="226" y="26"/>
+      <point x="107" y="135"/>
+      <point x="107" y="355" type="curve" smooth="yes"/>
+      <point x="107" y="565"/>
+      <point x="226" y="684"/>
+    </contour>
+    <contour>
+      <point x="368" y="-10" type="curve" smooth="yes"/>
+      <point x="554" y="-10"/>
+      <point x="695" y="139"/>
+      <point x="695" y="355" type="curve" smooth="yes"/>
+      <point x="695" y="572"/>
+      <point x="554" y="720"/>
+      <point x="368" y="720" type="curve" smooth="yes"/>
+      <point x="183" y="720"/>
+      <point x="42" y="572"/>
+      <point x="42" y="355" type="curve" smooth="yes"/>
+      <point x="42" y="139"/>
+      <point x="183" y="-10"/>
+    </contour>
+    <contour>
+      <point x="27" y="-10" type="line"/>
+      <point x="72" y="-10" type="line"/>
+      <point x="710" y="720" type="line"/>
+      <point x="665" y="720" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>top</key>
+        <dict>
+          <key>name</key>
+          <string>capHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>1,0.5769,0,1</string>
+    </dict>
+  </lib>
+</glyph>

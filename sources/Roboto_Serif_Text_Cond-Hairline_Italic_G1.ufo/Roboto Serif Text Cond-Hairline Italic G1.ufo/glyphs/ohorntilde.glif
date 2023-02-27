@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ohorntilde" format="2">
+  <advance width="455"/>
+  <unicode hex="1EE1"/>
+  <outline>
+    <contour>
+      <point x="304" y="623" type="curve" smooth="yes"/>
+      <point x="335" y="623"/>
+      <point x="357" y="659"/>
+      <point x="372" y="713" type="curve"/>
+      <point x="357" y="720" type="line"/>
+      <point x="342" y="676"/>
+      <point x="328" y="645"/>
+      <point x="307" y="645" type="curve" smooth="yes"/>
+      <point x="279" y="645"/>
+      <point x="284" y="722"/>
+      <point x="239" y="722" type="curve" smooth="yes"/>
+      <point x="203" y="722"/>
+      <point x="186" y="685"/>
+      <point x="167" y="632" type="curve"/>
+      <point x="185" y="625" type="line"/>
+      <point x="201" y="668"/>
+      <point x="215" y="699"/>
+      <point x="234" y="699" type="curve" smooth="yes"/>
+      <point x="259" y="699"/>
+      <point x="258" y="623"/>
+    </contour>
+    <component base="ohorn"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.compileType</key>
+      <string>manual</string>
+      <key>public.markColor</key>
+      <string>0.9962,1,0.5137,1</string>
+    </dict>
+  </lib>
+</glyph>

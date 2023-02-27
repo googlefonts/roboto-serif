@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="thorn" format="2">
+  <advance width="422"/>
+  <unicode hex="00FE"/>
+  <outline>
+    <contour>
+      <point x="194" y="48" type="curve" smooth="yes"/>
+      <point x="151" y="48"/>
+      <point x="111" y="74"/>
+      <point x="98" y="141" type="curve"/>
+      <point x="84" y="101" type="line"/>
+      <point x="97" y="35"/>
+      <point x="137" y="-10"/>
+      <point x="205" y="-10" type="curve" smooth="yes"/>
+      <point x="348" y="-10"/>
+      <point x="424" y="187"/>
+      <point x="424" y="361" type="curve" smooth="yes"/>
+      <point x="424" y="475"/>
+      <point x="385" y="528"/>
+      <point x="328" y="528" type="curve" smooth="yes"/>
+      <point x="243" y="528"/>
+      <point x="183" y="435"/>
+      <point x="133" y="291" type="curve"/>
+      <point x="150" y="252" type="line"/>
+      <point x="189" y="362"/>
+      <point x="238" y="465"/>
+      <point x="293" y="465" type="curve" smooth="yes"/>
+      <point x="317" y="465"/>
+      <point x="333" y="439"/>
+      <point x="333" y="376" type="curve" smooth="yes"/>
+      <point x="333" y="217"/>
+      <point x="290" y="48"/>
+    </contour>
+    <contour>
+      <point x="135" y="-223" type="line"/>
+      <point x="144" y="-173" type="line"/>
+      <point x="136" y="-173" type="line" smooth="yes"/>
+      <point x="131" y="-173"/>
+      <point x="87" y="-171"/>
+      <point x="87" y="-162" type="curve" smooth="yes"/>
+      <point x="248" y="750" type="line"/>
+      <point x="117" y="750" type="line"/>
+      <point x="109" y="700" type="line"/>
+      <point x="115" y="698" type="line" smooth="yes"/>
+      <point x="145" y="688"/>
+      <point x="149" y="682"/>
+      <point x="144" y="654" type="curve" smooth="yes"/>
+      <point x="2" y="-139" type="line" smooth="yes"/>
+      <point x="-2" y="-163"/>
+      <point x="-12" y="-173"/>
+      <point x="-45" y="-173" type="curve" smooth="yes"/>
+      <point x="-47" y="-173" type="line"/>
+      <point x="-56" y="-223" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.5769,0,1</string>
+    </dict>
+  </lib>
+</glyph>

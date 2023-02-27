@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="grave" format="2">
+  <advance width="418"/>
+  <unicode hex="0060"/>
+  <outline>
+    <contour>
+      <point x="380" y="802" type="curve" smooth="yes" identifier="bq0qgdiQDV"/>
+      <point x="409" y="694" type="line" identifier="6rBCVB18Ra"/>
+      <point x="402" y="643" type="line" identifier="vzuo1N3WTS"/>
+      <point x="314" y="643" type="line" identifier="8MYU9j91Za"/>
+      <point x="256" y="702" type="line" smooth="yes" identifier="y1Colbq1UL"/>
+      <point x="224" y="734" identifier="OYJjzOaeys"/>
+      <point x="195" y="755" identifier="Ar8JsK6aTX"/>
+      <point x="195" y="802" type="curve" smooth="yes" identifier="LErETh5uN9"/>
+      <point x="195" y="843" identifier="leiKDWKf1Q"/>
+      <point x="224" y="884" identifier="VLKl3qd8gn"/>
+      <point x="283" y="884" type="curve" smooth="yes" identifier="JVO2qI192B"/>
+      <point x="345" y="884" identifier="07jPUit6YN"/>
+      <point x="366" y="855" identifier="S1lgztgLRO"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_top</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>xHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.7167,0.7338,0.8154,1</string>
+      <key>rb_smoothie_points</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

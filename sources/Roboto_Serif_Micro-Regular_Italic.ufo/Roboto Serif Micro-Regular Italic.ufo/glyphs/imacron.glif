@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="imacron" format="2">
+  <advance width="350"/>
+  <unicode hex="012B"/>
+  <outline>
+    <contour>
+      <point x="62" y="778" type="line"/>
+      <point x="44" y="708" type="line"/>
+      <point x="365" y="708" type="line"/>
+      <point x="383" y="778" type="line"/>
+    </contour>
+    <component base="dotlessi"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.compileType</key>
+      <string>manual</string>
+      <key>public.markColor</key>
+      <string>1,0.5769,0,1</string>
+    </dict>
+  </lib>
+</glyph>

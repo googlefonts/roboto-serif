@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflex_grave.uc" format="2">
+  <advance width="599"/>
+  <outline>
+    <contour>
+      <point x="488" y="952" type="line" smooth="yes"/>
+      <point x="468" y="980"/>
+      <point x="449" y="1001"/>
+      <point x="423" y="1001" type="curve" smooth="yes"/>
+      <point x="396" y="1001"/>
+      <point x="377" y="982"/>
+      <point x="377" y="959" type="curve" smooth="yes"/>
+      <point x="377" y="932"/>
+      <point x="408" y="909"/>
+      <point x="447" y="892" type="curve" smooth="yes"/>
+      <point x="535" y="853" type="line"/>
+      <point x="551" y="853" type="line"/>
+      <point x="551" y="867" type="line"/>
+    </contour>
+    <component base="circumflex.uc"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_top</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>capHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.9962,1,0.5137,1</string>
+    </dict>
+  </lib>
+</glyph>

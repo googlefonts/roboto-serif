@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="currency.proportional" format="2">
+  <advance width="700"/>
+  <outline>
+    <contour>
+      <point x="348" y="171" type="curve"/>
+      <point x="477" y="171"/>
+      <point x="572" y="265"/>
+      <point x="572" y="382" type="curve" smooth="yes"/>
+      <point x="572" y="499"/>
+      <point x="477" y="582"/>
+      <point x="365" y="582" type="curve" smooth="yes"/>
+      <point x="235" y="582"/>
+      <point x="140" y="489"/>
+      <point x="140" y="371" type="curve" smooth="yes"/>
+      <point x="140" y="254"/>
+      <point x="236" y="171"/>
+    </contour>
+    <contour>
+      <point x="350" y="220" type="curve" smooth="yes"/>
+      <point x="268" y="220"/>
+      <point x="195" y="279"/>
+      <point x="194" y="372" type="curve" smooth="yes"/>
+      <point x="193" y="464"/>
+      <point x="259" y="533"/>
+      <point x="363" y="533" type="curve" smooth="yes"/>
+      <point x="444" y="533"/>
+      <point x="519" y="474"/>
+      <point x="519" y="381" type="curve" smooth="yes"/>
+      <point x="519" y="289"/>
+      <point x="453" y="220"/>
+    </contour>
+    <contour>
+      <point x="93" y="121" type="line"/>
+      <point x="228" y="233" type="line"/>
+      <point x="185" y="266" type="line"/>
+      <point x="59" y="161" type="line"/>
+    </contour>
+    <contour>
+      <point x="207" y="498" type="line"/>
+      <point x="248" y="532" type="line"/>
+      <point x="155" y="630" type="line"/>
+      <point x="114" y="596" type="line"/>
+    </contour>
+    <contour>
+      <point x="530" y="488" type="line"/>
+      <point x="655" y="592" type="line"/>
+      <point x="621" y="631" type="line"/>
+      <point x="488" y="520" type="line"/>
+    </contour>
+    <contour>
+      <point x="552" y="121" type="line"/>
+      <point x="593" y="155" type="line"/>
+      <point x="510" y="246" type="line"/>
+      <point x="465" y="215" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.9962,1,0.5137,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflex_tilde.uc" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="333" y="935" type="curve" smooth="yes"/>
+      <point x="398" y="935"/>
+      <point x="436" y="990"/>
+      <point x="450" y="1072" type="curve"/>
+      <point x="396" y="1092" type="line"/>
+      <point x="386" y="1056"/>
+      <point x="370" y="1052"/>
+      <point x="351" y="1052" type="curve" smooth="yes"/>
+      <point x="312" y="1052"/>
+      <point x="271" y="1099"/>
+      <point x="226" y="1099" type="curve" smooth="yes"/>
+      <point x="157" y="1099"/>
+      <point x="126" y="1044"/>
+      <point x="113" y="960" type="curve"/>
+      <point x="166" y="943" type="line"/>
+      <point x="174" y="975"/>
+      <point x="187" y="982"/>
+      <point x="206" y="982" type="curve" smooth="yes"/>
+      <point x="241" y="982"/>
+      <point x="283" y="935"/>
+    </contour>
+    <contour>
+      <point x="339" y="897" type="line"/>
+      <point x="471" y="776" type="line"/>
+      <point x="471" y="749" type="line"/>
+      <point x="412" y="749" type="line"/>
+      <point x="195" y="838" type="line"/>
+      <point x="345" y="838" type="line"/>
+      <point x="130" y="749" type="line"/>
+      <point x="69" y="749" type="line"/>
+      <point x="69" y="776" type="line"/>
+      <point x="202" y="897" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_top</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>capHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.9962,1,0.5137,1</string>
+    </dict>
+  </lib>
+</glyph>

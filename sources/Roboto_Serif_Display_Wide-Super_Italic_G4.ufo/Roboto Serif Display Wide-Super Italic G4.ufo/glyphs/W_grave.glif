@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Wgrave" format="2">
+  <advance width="1241"/>
+  <unicode hex="1E80"/>
+  <outline>
+    <component base="W" xOffset="-1"/>
+    <component base="grave.uc" xOffset="504"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.compileType</key>
+      <string>manual</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ereversedcyr" format="2">
+  <advance width="828"/>
+  <unicode hex="042D"/>
+  <outline>
+    <contour>
+      <point x="488" y="375" type="line"/>
+      <point x="379" y="385"/>
+      <point x="299" y="395"/>
+      <point x="217" y="413" type="curve"/>
+      <point x="217" y="313" type="line"/>
+      <point x="299" y="331"/>
+      <point x="379" y="342"/>
+      <point x="488" y="351" type="curve"/>
+    </contour>
+    <contour>
+      <point x="360" y="-10" type="curve" smooth="yes"/>
+      <point x="627" y="-10"/>
+      <point x="808" y="136"/>
+      <point x="808" y="355" type="curve" smooth="yes"/>
+      <point x="808" y="574"/>
+      <point x="627" y="720"/>
+      <point x="360" y="720" type="curve" smooth="yes"/>
+      <point x="179" y="720"/>
+      <point x="105" y="650"/>
+      <point x="72" y="556" type="curve"/>
+      <point x="110" y="591" type="line"/>
+      <point x="80" y="710" type="line"/>
+      <point x="45" y="710" type="line"/>
+      <point x="45" y="498" type="line"/>
+      <point x="80" y="498" type="line"/>
+      <point x="113" y="604"/>
+      <point x="188" y="682"/>
+      <point x="294" y="682" type="curve" smooth="yes"/>
+      <point x="416" y="682"/>
+      <point x="483" y="582"/>
+      <point x="483" y="355" type="curve" smooth="yes"/>
+      <point x="483" y="127"/>
+      <point x="416" y="28"/>
+      <point x="294" y="28" type="curve" smooth="yes"/>
+      <point x="188" y="28"/>
+      <point x="113" y="107"/>
+      <point x="80" y="212" type="curve"/>
+      <point x="45" y="212" type="line"/>
+      <point x="45" y="0" type="line"/>
+      <point x="80" y="0" type="line"/>
+      <point x="110" y="119" type="line"/>
+      <point x="72" y="154" type="line"/>
+      <point x="105" y="60"/>
+      <point x="179" y="-10"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5741,1,0.8315,1</string>
+    </dict>
+  </lib>
+</glyph>

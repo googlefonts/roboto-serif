@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iogonek" format="2">
+  <advance width="345"/>
+  <unicode hex="012F"/>
+  <outline>
+    <contour>
+      <point x="250" y="38" type="line"/>
+      <point x="109.1084022205" y="-29.5105572693"/>
+      <point x="30" y="-72.5945945946"/>
+      <point x="30" y="-148" type="curve" smooth="yes"/>
+      <point x="30" y="-204.3595505618"/>
+      <point x="77.2956521739" y="-236"/>
+      <point x="141" y="-236" type="curve" smooth="yes"/>
+      <point x="194.5384615385" y="-236"/>
+      <point x="232.1154975518" y="-214.8937422524"/>
+      <point x="257" y="-192" type="curve"/>
+      <point x="231" y="-155" type="line"/>
+      <point x="215.1433409182" y="-168.8745766966"/>
+      <point x="192.619047619" y="-183"/>
+      <point x="169" y="-183" type="curve" smooth="yes"/>
+      <point x="143.6046511628" y="-183"/>
+      <point x="127" y="-171"/>
+      <point x="127" y="-142" type="curve" smooth="yes"/>
+      <point x="127" y="-97"/>
+      <point x="156.0404392203" y="-50.9051301744"/>
+      <point x="277" y="14" type="curve"/>
+    </contour>
+    <component base="i"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.compileType</key>
+      <string>manual</string>
+    </dict>
+  </lib>
+</glyph>

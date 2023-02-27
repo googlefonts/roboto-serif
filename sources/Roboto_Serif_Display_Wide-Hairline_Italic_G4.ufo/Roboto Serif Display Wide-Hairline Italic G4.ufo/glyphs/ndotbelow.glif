@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ndotbelow" format="2">
+  <advance width="680"/>
+  <unicode hex="1E47"/>
+  <outline>
+    <component base="n" xOffset="3"/>
+    <component base="dotbelow" xOffset="-15"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.compileType</key>
+      <string>manual</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="A" format="2">
+  <advance width="699"/>
+  <unicode hex="0041"/>
+  <guideline x="349" y="710" angle="0" name="UC accents" identifier="9mm2qvhiwP"/>
+  <guideline x="756" y="508" angle="0" name="LC accents" identifier="3Cn6EtYC2Q"/>
+  <outline>
+    <contour>
+      <point x="186" y="290" type="line"/>
+      <point x="180" y="254" type="line"/>
+      <point x="488" y="254" type="line"/>
+      <point x="487" y="290" type="line"/>
+    </contour>
+    <contour>
+      <point x="322" y="672" type="line"/>
+      <point x="540" y="42" type="line"/>
+      <point x="540" y="35"/>
+      <point x="486" y="32"/>
+      <point x="448" y="32" type="curve" smooth="yes"/>
+      <point x="431" y="32" type="line"/>
+      <point x="431" y="0" type="line"/>
+      <point x="691" y="0" type="line"/>
+      <point x="691" y="32" type="line"/>
+      <point x="686" y="32" type="line" smooth="yes"/>
+      <point x="652" y="32"/>
+      <point x="636" y="34"/>
+      <point x="627" y="60" type="curve" smooth="yes"/>
+      <point x="399" y="710" type="line"/>
+      <point x="297" y="710" type="line"/>
+      <point x="87" y="75" type="line" smooth="yes"/>
+      <point x="75" y="38"/>
+      <point x="50" y="32"/>
+      <point x="13" y="32" type="curve" smooth="yes"/>
+      <point x="8" y="32" type="line"/>
+      <point x="8" y="0" type="line"/>
+      <point x="239" y="0" type="line"/>
+      <point x="239" y="32" type="line"/>
+      <point x="224" y="32" type="line" smooth="yes"/>
+      <point x="186" y="32"/>
+      <point x="124" y="39"/>
+      <point x="124" y="50" type="curve"/>
+      <point x="336" y="695" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.3Cn6EtYC2Q</key>
+      <integer>5</integer>
+      <key>com.typemytype.robofont.guideline.magnetic.9mm2qvhiwP</key>
+      <integer>5</integer>
+      <key>com.typemytype.robofont.guideline.showMeasurements.3Cn6EtYC2Q</key>
+      <false/>
+      <key>com.typemytype.robofont.guideline.showMeasurements.9mm2qvhiwP</key>
+      <false/>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>bottom</key>
+        <dict>
+          <key>name</key>
+          <string>origin</string>
+          <key>type</key>
+          <string>glyphMetric</string>
+        </dict>
+        <key>top</key>
+        <dict>
+          <key>name</key>
+          <string>capHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.9962,1,0.5137,1</string>
+    </dict>
+  </lib>
+</glyph>

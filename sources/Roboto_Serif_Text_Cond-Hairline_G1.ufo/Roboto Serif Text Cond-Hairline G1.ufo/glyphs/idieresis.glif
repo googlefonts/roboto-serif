@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="idieresis" format="2">
+  <advance width="228"/>
+  <unicode hex="00EF"/>
+  <outline>
+    <contour>
+      <point x="34" y="664" type="curve" smooth="yes"/>
+      <point x="54" y="664"/>
+      <point x="67" y="676"/>
+      <point x="67" y="701" type="curve" smooth="yes"/>
+      <point x="67" y="725"/>
+      <point x="54" y="738"/>
+      <point x="34" y="738" type="curve" smooth="yes"/>
+      <point x="13" y="738"/>
+      <point x="0" y="725"/>
+      <point x="0" y="701" type="curve" smooth="yes"/>
+      <point x="0" y="676"/>
+      <point x="13" y="664"/>
+    </contour>
+    <contour>
+      <point x="183" y="664" type="curve" smooth="yes"/>
+      <point x="203" y="664"/>
+      <point x="217" y="676"/>
+      <point x="217" y="701" type="curve" smooth="yes"/>
+      <point x="217" y="725"/>
+      <point x="203" y="738"/>
+      <point x="183" y="738" type="curve" smooth="yes"/>
+      <point x="163" y="738"/>
+      <point x="150" y="725"/>
+      <point x="150" y="701" type="curve" smooth="yes"/>
+      <point x="150" y="676"/>
+      <point x="163" y="664"/>
+    </contour>
+    <component base="dotlessi"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.compileType</key>
+      <string>manual</string>
+    </dict>
+  </lib>
+</glyph>

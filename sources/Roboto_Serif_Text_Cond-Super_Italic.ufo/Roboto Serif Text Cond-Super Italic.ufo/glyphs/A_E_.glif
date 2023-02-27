@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="AE" format="2">
+  <advance width="824"/>
+  <unicode hex="00C6"/>
+  <outline>
+    <contour>
+      <point x="-36" y="77" type="line"/>
+      <point x="-50" y="0" type="line"/>
+      <point x="126" y="0" type="line"/>
+      <point x="140" y="77" type="line"/>
+      <point x="131" y="77" type="line" smooth="yes"/>
+      <point x="106" y="77"/>
+      <point x="99" y="84"/>
+      <point x="99" y="96" type="curve"/>
+      <point x="398" y="614" type="line"/>
+      <point x="399" y="614" type="line"/>
+      <point x="309" y="103" type="line" smooth="yes"/>
+      <point x="306" y="84"/>
+      <point x="295" y="77"/>
+      <point x="279" y="77" type="curve" smooth="yes"/>
+      <point x="268" y="77" type="line"/>
+      <point x="254" y="0" type="line"/>
+      <point x="751" y="0" type="line"/>
+      <point x="788" y="226" type="line"/>
+      <point x="689" y="226" type="line"/>
+      <point x="667" y="145" type="line" smooth="yes"/>
+      <point x="654" y="96"/>
+      <point x="637" y="87"/>
+      <point x="578" y="87" type="curve" smooth="yes"/>
+      <point x="544" y="87" type="line"/>
+      <point x="638" y="623" type="line"/>
+      <point x="663" y="623" type="line" smooth="yes"/>
+      <point x="713" y="623"/>
+      <point x="728" y="608"/>
+      <point x="723" y="562" type="curve" smooth="yes"/>
+      <point x="718" y="512" type="line"/>
+      <point x="815" y="512" type="line"/>
+      <point x="845" y="710" type="line"/>
+      <point x="278" y="710" type="line"/>
+      <point x="264" y="633" type="line"/>
+      <point x="272" y="633" type="line" smooth="yes"/>
+      <point x="291" y="633"/>
+      <point x="301" y="625"/>
+      <point x="300" y="609" type="curve"/>
+      <point x="18" y="120" type="line" smooth="yes"/>
+      <point x="-2" y="86"/>
+      <point x="-16" y="77"/>
+      <point x="-32" y="77" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="197" y="306" type="line"/>
+      <point x="149" y="226" type="line"/>
+      <point x="386" y="226" type="line"/>
+      <point x="403" y="306" type="line"/>
+    </contour>
+    <contour>
+      <point x="578" y="401" type="curve"/>
+      <point x="567" y="326" type="line"/>
+      <point x="622" y="321"/>
+      <point x="664" y="317"/>
+      <point x="717" y="313" type="curve"/>
+      <point x="735" y="415" type="line"/>
+      <point x="680" y="411"/>
+      <point x="635" y="406"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>top</key>
+        <dict>
+          <key>name</key>
+          <string>capHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>1,0.5769,0,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflex_tilde" format="2">
+  <advance width="340"/>
+  <outline>
+    <contour>
+      <point x="199" y="827" type="curve" smooth="yes"/>
+      <point x="178" y="827"/>
+      <point x="160" y="808"/>
+      <point x="149" y="762" type="curve"/>
+      <point x="156" y="762" type="line"/>
+      <point x="166" y="794"/>
+      <point x="179" y="806"/>
+      <point x="193" y="806" type="curve" smooth="yes"/>
+      <point x="213" y="806"/>
+      <point x="237" y="766"/>
+      <point x="266" y="766" type="curve" smooth="yes"/>
+      <point x="283" y="766"/>
+      <point x="302" y="783"/>
+      <point x="312" y="826" type="curve"/>
+      <point x="307" y="828" type="line"/>
+      <point x="298" y="798"/>
+      <point x="283" y="787"/>
+      <point x="274" y="787" type="curve" smooth="yes"/>
+      <point x="250" y="787"/>
+      <point x="226" y="827"/>
+    </contour>
+    <contour>
+      <point x="238" y="728" type="line"/>
+      <point x="284" y="588" type="line"/>
+      <point x="284" y="586" type="line"/>
+      <point x="276" y="586" type="line"/>
+      <point x="213" y="708" type="line"/>
+      <point x="226" y="708" type="line"/>
+      <point x="130" y="586" type="line"/>
+      <point x="119" y="586" type="line"/>
+      <point x="120" y="588" type="line"/>
+      <point x="206" y="728" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_top</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>xHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.7167,0.7338,0.8154,1</string>
+    </dict>
+  </lib>
+</glyph>

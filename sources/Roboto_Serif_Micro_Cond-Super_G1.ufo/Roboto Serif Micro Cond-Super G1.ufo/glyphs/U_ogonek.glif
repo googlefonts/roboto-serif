@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Uogonek" format="2">
+  <advance width="644"/>
+  <unicode hex="0172"/>
+  <outline>
+    <contour>
+      <point x="490" y="35" type="line"/>
+      <point x="275" y="-58"/>
+      <point x="205" y="-78"/>
+      <point x="205" y="-155" type="curve" smooth="yes"/>
+      <point x="205" y="-224"/>
+      <point x="267" y="-252"/>
+      <point x="361" y="-252" type="curve" smooth="yes"/>
+      <point x="451" y="-252"/>
+      <point x="493" y="-228"/>
+      <point x="529" y="-191" type="curve"/>
+      <point x="511" y="-171" type="line"/>
+      <point x="485" y="-199"/>
+      <point x="458" y="-222"/>
+      <point x="427" y="-222" type="curve" smooth="yes"/>
+      <point x="396" y="-222"/>
+      <point x="379" y="-200"/>
+      <point x="379" y="-152" type="curve" smooth="yes"/>
+      <point x="379" y="-71"/>
+      <point x="459" y="-33"/>
+      <point x="516" y="39" type="curve" smooth="yes"/>
+      <point x="549" y="82"/>
+      <point x="564" y="134"/>
+      <point x="564" y="219" type="curve" smooth="yes"/>
+      <point x="564" y="627" type="line" smooth="yes"/>
+      <point x="564" y="658"/>
+      <point x="597" y="665"/>
+      <point x="616" y="665" type="curve" smooth="yes"/>
+      <point x="625" y="665" type="line"/>
+      <point x="625" y="710" type="line"/>
+      <point x="445" y="710" type="line"/>
+      <point x="445" y="665" type="line"/>
+      <point x="458" y="665" type="line" smooth="yes"/>
+      <point x="480" y="665"/>
+      <point x="518" y="660"/>
+      <point x="518" y="648" type="curve" smooth="yes"/>
+      <point x="518" y="219" type="line" smooth="yes"/>
+      <point x="518" y="75"/>
+      <point x="467" y="36"/>
+      <point x="395" y="36" type="curve" smooth="yes"/>
+      <point x="325" y="36"/>
+      <point x="293" y="73"/>
+      <point x="293" y="189" type="curve" smooth="yes"/>
+      <point x="293" y="655" type="line" smooth="yes"/>
+      <point x="293" y="662"/>
+      <point x="311" y="665"/>
+      <point x="325" y="665" type="curve" smooth="yes"/>
+      <point x="337" y="665" type="line"/>
+      <point x="337" y="710" type="line"/>
+      <point x="23" y="710" type="line"/>
+      <point x="23" y="665" type="line"/>
+      <point x="32" y="665" type="line" smooth="yes"/>
+      <point x="51" y="665"/>
+      <point x="65" y="658"/>
+      <point x="65" y="629" type="curve" smooth="yes"/>
+      <point x="65" y="229" type="line" smooth="yes"/>
+      <point x="65" y="43"/>
+      <point x="170" y="-23"/>
+      <point x="335" y="-23" type="curve" smooth="yes"/>
+      <point x="382" y="-23"/>
+      <point x="428" y="-15"/>
+      <point x="464" y="1" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.compileType</key>
+      <string>manual</string>
+      <key>public.markColor</key>
+      <string>1,0.6331,0.046,1</string>
+    </dict>
+  </lib>
+</glyph>

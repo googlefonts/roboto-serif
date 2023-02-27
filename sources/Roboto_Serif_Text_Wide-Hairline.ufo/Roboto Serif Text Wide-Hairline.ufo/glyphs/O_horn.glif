@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ohorn" format="2">
+  <advance width="868"/>
+  <unicode hex="01A0"/>
+  <outline>
+    <contour>
+      <point x="432" y="20" type="curve" smooth="yes"/>
+      <point x="240" y="20"/>
+      <point x="98" y="150"/>
+      <point x="98" y="355" type="curve" smooth="yes"/>
+      <point x="98" y="560"/>
+      <point x="240" y="690"/>
+      <point x="432" y="690" type="curve" smooth="yes"/>
+      <point x="623" y="690"/>
+      <point x="765" y="560"/>
+      <point x="765" y="355" type="curve" smooth="yes"/>
+      <point x="765" y="150"/>
+      <point x="623" y="20"/>
+    </contour>
+    <contour>
+      <point x="563" y="690" type="line"/>
+      <point x="563" y="696" type="line"/>
+      <point x="532" y="695" type="line"/>
+      <point x="574" y="692"/>
+      <point x="587" y="692"/>
+      <point x="599" y="692" type="curve" smooth="yes"/>
+      <point x="744" y="692"/>
+      <point x="832.7531495947" y="735.1875326292"/>
+      <point x="842" y="878" type="curve"/>
+      <point x="801" y="878" type="line"/>
+      <point x="789.7228424089" y="729.3465590262"/>
+      <point x="669.9953051643" y="716"/>
+      <point x="583" y="716" type="curve" smooth="yes"/>
+      <point x="519.1153846154" y="716"/>
+      <point x="476.5256410256" y="720"/>
+      <point x="432" y="720" type="curve" smooth="yes"/>
+      <point x="216" y="720"/>
+      <point x="55" y="572"/>
+      <point x="55" y="355" type="curve" smooth="yes"/>
+      <point x="55" y="139"/>
+      <point x="216" y="-10"/>
+      <point x="432" y="-10" type="curve" smooth="yes"/>
+      <point x="648" y="-10"/>
+      <point x="808" y="139"/>
+      <point x="808" y="355" type="curve" smooth="yes"/>
+      <point x="808" y="526.5113636364"/>
+      <point x="703.9737756555" y="664.0061190137"/>
+      <point x="524" y="706" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>bottom</key>
+        <dict>
+          <key>name</key>
+          <string>origin</string>
+          <key>type</key>
+          <string>glyphMetric</string>
+        </dict>
+        <key>top</key>
+        <dict>
+          <key>name</key>
+          <string>capHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

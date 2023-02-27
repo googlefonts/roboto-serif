@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflex_acute" format="2">
+  <advance width="458"/>
+  <outline>
+    <contour>
+      <point x="394" y="929" type="curve" smooth="yes" identifier="STzPMPQUL0"/>
+      <point x="341" y="820" type="line" identifier="pRhUNKt7cN"/>
+      <point x="341" y="801" type="line" identifier="QiCzM6Ou9Y"/>
+      <point x="376" y="801" type="line" identifier="T2IY8sIL09"/>
+      <point x="462" y="896" type="line" smooth="yes" identifier="tdwwf7hizb"/>
+      <point x="483" y="920" identifier="j0igzRgi75"/>
+      <point x="493" y="931" identifier="uHiGGjpIRO"/>
+      <point x="493" y="955" type="curve" identifier="gmhYESMbKk"/>
+      <point x="493" y="978" identifier="krvqrXpGfx"/>
+      <point x="478" y="991" identifier="yAYdzys6s4"/>
+      <point x="455" y="991" type="curve" smooth="yes" identifier="wSbUoBneGo"/>
+      <point x="426" y="991" identifier="cf5zLtEtTf"/>
+      <point x="409" y="964" identifier="S26q3wWCW5"/>
+    </contour>
+    <component base="circumflex"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_top</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>xHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>1,0.6331,0.046,1</string>
+      <key>rb_smoothie_points</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

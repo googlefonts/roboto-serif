@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Emacrongrave.alt" format="2">
+  <advance width="560"/>
+  <outline>
+    <component base="E.alt"/>
+    <component base="macron_grave.uc" xOffset="13"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.compileType</key>
+      <string>manual</string>
+    </dict>
+  </lib>
+</glyph>

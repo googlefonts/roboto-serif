@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Schwa" format="2">
+  <advance width="703"/>
+  <unicode hex="018F"/>
+  <outline>
+    <contour>
+      <point x="341" y="720" type="curve" smooth="yes"/>
+      <point x="203" y="720"/>
+      <point x="110" y="648"/>
+      <point x="55" y="557" type="curve"/>
+      <point x="103" y="523" type="line"/>
+      <point x="155" y="610"/>
+      <point x="220" y="664"/>
+      <point x="335" y="664" type="curve" smooth="yes"/>
+      <point x="476" y="664"/>
+      <point x="553" y="556"/>
+      <point x="553" y="356" type="curve"/>
+      <point x="553" y="164"/>
+      <point x="462" y="46"/>
+      <point x="347" y="46" type="curve" smooth="yes"/>
+      <point x="228" y="46"/>
+      <point x="159" y="137"/>
+      <point x="156" y="339" type="curve"/>
+      <point x="119" y="319" type="line"/>
+      <point x="617" y="319" type="line"/>
+      <point x="615" y="375" type="line"/>
+      <point x="48" y="375" type="line"/>
+      <point x="49" y="114"/>
+      <point x="154" y="-10"/>
+      <point x="347" y="-10" type="curve" smooth="yes"/>
+      <point x="523" y="-10"/>
+      <point x="661" y="141"/>
+      <point x="661" y="358" type="curve" smooth="yes"/>
+      <point x="661" y="580"/>
+      <point x="531" y="720"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.9962,1,0.5137,1</string>
+    </dict>
+  </lib>
+</glyph>

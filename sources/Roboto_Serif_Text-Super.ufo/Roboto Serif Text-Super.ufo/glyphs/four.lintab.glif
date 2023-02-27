@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four.lintab" format="2">
+  <advance width="560"/>
+  <outline>
+    <contour>
+      <point x="206" y="0" type="line"/>
+      <point x="546" y="0" type="line"/>
+      <point x="546" y="82" type="line"/>
+      <point x="536" y="82" type="line" smooth="yes"/>
+      <point x="511" y="82"/>
+      <point x="493" y="89"/>
+      <point x="493" y="118" type="curve" smooth="yes"/>
+      <point x="493" y="710" type="line"/>
+      <point x="285" y="710" type="line"/>
+      <point x="269" y="611" type="line"/>
+      <point x="269" y="118" type="line" smooth="yes"/>
+      <point x="269" y="89"/>
+      <point x="251" y="82"/>
+      <point x="221" y="82" type="curve" smooth="yes"/>
+      <point x="206" y="82" type="line"/>
+    </contour>
+    <contour>
+      <point x="20" y="172" type="line"/>
+      <point x="554" y="172" type="line"/>
+      <point x="554" y="327" type="line"/>
+      <point x="109" y="327" type="line"/>
+      <point x="75" y="243" type="line"/>
+      <point x="302" y="623" type="line"/>
+      <point x="317" y="710" type="line"/>
+      <point x="250" y="710" type="line"/>
+      <point x="20" y="328" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.9962,1,0.5137,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="idieresisacute" format="2">
+  <advance width="331"/>
+  <unicode hex="1E2F"/>
+  <outline>
+    <contour>
+      <point x="53" y="693" type="curve" smooth="yes"/>
+      <point x="84" y="693"/>
+      <point x="109" y="708"/>
+      <point x="109" y="749" type="curve" smooth="yes"/>
+      <point x="109" y="789"/>
+      <point x="84" y="805"/>
+      <point x="53" y="805" type="curve" smooth="yes"/>
+      <point x="20" y="805"/>
+      <point x="-3" y="789"/>
+      <point x="-3" y="749" type="curve" smooth="yes"/>
+      <point x="-3" y="708"/>
+      <point x="20" y="693"/>
+    </contour>
+    <contour>
+      <point x="277" y="693" type="curve" smooth="yes"/>
+      <point x="308" y="693"/>
+      <point x="333" y="708"/>
+      <point x="333" y="749" type="curve" smooth="yes"/>
+      <point x="333" y="789"/>
+      <point x="308" y="805"/>
+      <point x="277" y="805" type="curve" smooth="yes"/>
+      <point x="244" y="805"/>
+      <point x="221" y="789"/>
+      <point x="221" y="749" type="curve" smooth="yes"/>
+      <point x="221" y="708"/>
+      <point x="244" y="693"/>
+    </contour>
+    <contour>
+      <point x="216" y="999" type="curve" smooth="yes"/>
+      <point x="146" y="883" type="line"/>
+      <point x="146" y="863" type="line"/>
+      <point x="168" y="863" type="line"/>
+      <point x="278" y="960" type="line" smooth="yes"/>
+      <point x="304" y="983"/>
+      <point x="323" y="1000"/>
+      <point x="323" y="1026" type="curve" smooth="yes"/>
+      <point x="323" y="1044"/>
+      <point x="308" y="1061"/>
+      <point x="282" y="1061" type="curve" smooth="yes"/>
+      <point x="251" y="1061"/>
+      <point x="237" y="1034"/>
+    </contour>
+    <component base="dotlessi"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.5769,0,1</string>
+    </dict>
+  </lib>
+</glyph>

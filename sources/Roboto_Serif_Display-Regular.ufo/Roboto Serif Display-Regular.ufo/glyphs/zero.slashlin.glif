@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero.slashlin" format="2">
+  <advance width="560"/>
+  <outline>
+    <contour>
+      <point x="37" y="354" type="curve" smooth="yes"/>
+      <point x="37" y="127"/>
+      <point x="137" y="-10"/>
+      <point x="280" y="-10" type="curve" smooth="yes"/>
+      <point x="423" y="-10"/>
+      <point x="523" y="127"/>
+      <point x="523" y="354" type="curve" smooth="yes"/>
+      <point x="523" y="583"/>
+      <point x="423" y="720"/>
+      <point x="280" y="720" type="curve" smooth="yes"/>
+      <point x="137" y="720"/>
+      <point x="37" y="583"/>
+    </contour>
+    <contour>
+      <point x="432" y="354" type="curve" smooth="yes"/>
+      <point x="432" y="140"/>
+      <point x="383" y="20"/>
+      <point x="280" y="20" type="curve" smooth="yes"/>
+      <point x="177" y="20"/>
+      <point x="128" y="140"/>
+      <point x="128" y="354" type="curve" smooth="yes"/>
+      <point x="128" y="569"/>
+      <point x="177" y="690"/>
+      <point x="280" y="690" type="curve" smooth="yes"/>
+      <point x="383" y="690"/>
+      <point x="432" y="569"/>
+    </contour>
+    <contour>
+      <point x="462" y="501" type="line"/>
+      <point x="439" y="525" type="line"/>
+      <point x="99" y="207" type="line"/>
+      <point x="125" y="186" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.9962,1,0.5137,1</string>
+    </dict>
+  </lib>
+</glyph>

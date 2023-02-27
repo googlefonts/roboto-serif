@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macron_grave.uc" format="2">
+  <advance width="557"/>
+  <outline>
+    <component base="macron.uc" xOffset="-4"/>
+    <component base="grave.uc" xOffset="34" yOffset="223"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iinvertedbreve" format="2">
+  <advance width="350"/>
+  <unicode hex="020B"/>
+  <outline>
+    <contour>
+      <point x="202" y="833" type="curve" smooth="yes"/>
+      <point x="294" y="833"/>
+      <point x="333" y="790"/>
+      <point x="333" y="719" type="curve" smooth="yes"/>
+      <point x="333" y="698"/>
+      <point x="332" y="688"/>
+      <point x="327" y="665" type="curve"/>
+      <point x="283" y="665" type="line"/>
+      <point x="290" y="728"/>
+      <point x="281" y="764"/>
+      <point x="197" y="764" type="curve" smooth="yes"/>
+      <point x="123" y="764"/>
+      <point x="100" y="743"/>
+      <point x="83" y="665" type="curve"/>
+      <point x="37" y="665" type="line"/>
+      <point x="56" y="797"/>
+      <point x="108" y="833"/>
+    </contour>
+    <component base="dotlessi"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.compileType</key>
+      <string>manual</string>
+      <key>public.markColor</key>
+      <string>0.9962,1,0.5137,1</string>
+    </dict>
+  </lib>
+</glyph>

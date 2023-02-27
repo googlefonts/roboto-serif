@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Aogonek" format="2">
+  <advance width="775"/>
+  <unicode hex="0104"/>
+  <outline>
+    <contour>
+      <point x="202" y="292" type="line"/>
+      <point x="202" y="274" type="line"/>
+      <point x="568" y="274" type="line"/>
+      <point x="568" y="292" type="line"/>
+    </contour>
+    <contour>
+      <point x="671" y="19" type="line"/>
+      <point x="591" y="-25"/>
+      <point x="516" y="-77"/>
+      <point x="516" y="-141" type="curve" smooth="yes"/>
+      <point x="516" y="-199"/>
+      <point x="560" y="-233"/>
+      <point x="617" y="-233" type="curve" smooth="yes"/>
+      <point x="666" y="-233"/>
+      <point x="705" y="-209"/>
+      <point x="733" y="-176" type="curve"/>
+      <point x="718" y="-161" type="line"/>
+      <point x="695" y="-185"/>
+      <point x="666" y="-210"/>
+      <point x="620" y="-210" type="curve" smooth="yes"/>
+      <point x="583" y="-210"/>
+      <point x="545" y="-187"/>
+      <point x="545" y="-138" type="curve" smooth="yes"/>
+      <point x="545" y="-82"/>
+      <point x="596" y="-49"/>
+      <point x="689" y="7" type="curve"/>
+    </contour>
+    <contour>
+      <point x="763" y="0" type="line"/>
+      <point x="763" y="20" type="line"/>
+      <point x="757" y="20" type="line"/>
+      <point x="722" y="20"/>
+      <point x="696" y="25"/>
+      <point x="683" y="54" type="curve" smooth="yes"/>
+      <point x="402" y="710" type="line"/>
+      <point x="368" y="710" type="line"/>
+      <point x="96" y="65" type="line" smooth="yes"/>
+      <point x="82" y="31"/>
+      <point x="54" y="20"/>
+      <point x="17" y="20" type="curve"/>
+      <point x="12" y="20" type="line"/>
+      <point x="12" y="0" type="line"/>
+      <point x="229" y="0" type="line"/>
+      <point x="229" y="20" type="line"/>
+      <point x="211" y="20" type="line" smooth="yes"/>
+      <point x="171" y="20"/>
+      <point x="109" y="27"/>
+      <point x="109" y="38" type="curve"/>
+      <point x="387" y="701" type="line"/>
+      <point x="379" y="703" type="line"/>
+      <point x="676" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.compileType</key>
+      <string>manual</string>
+      <key>public.markColor</key>
+      <string>0.9962,1,0.5137,1</string>
+    </dict>
+  </lib>
+</glyph>

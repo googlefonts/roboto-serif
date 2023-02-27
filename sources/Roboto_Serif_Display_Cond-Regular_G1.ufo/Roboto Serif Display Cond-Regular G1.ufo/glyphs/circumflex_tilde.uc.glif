@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflex_tilde.uc" format="2">
+  <advance width="340"/>
+  <outline>
+    <contour>
+      <point x="210" y="909" type="curve" smooth="yes"/>
+      <point x="236" y="909"/>
+      <point x="258" y="930"/>
+      <point x="270" y="996" type="curve"/>
+      <point x="257" y="1001" type="line"/>
+      <point x="248" y="964"/>
+      <point x="236" y="950"/>
+      <point x="219" y="950" type="curve" smooth="yes"/>
+      <point x="189" y="950"/>
+      <point x="176" y="1004"/>
+      <point x="130" y="1004" type="curve" smooth="yes"/>
+      <point x="104" y="1004"/>
+      <point x="83" y="982"/>
+      <point x="72" y="916" type="curve"/>
+      <point x="84" y="912" type="line"/>
+      <point x="93" y="950"/>
+      <point x="104" y="963"/>
+      <point x="121" y="963" type="curve" smooth="yes"/>
+      <point x="151" y="963"/>
+      <point x="164" y="909"/>
+    </contour>
+    <contour>
+      <point x="200" y="877" type="line"/>
+      <point x="268" y="770" type="line"/>
+      <point x="268" y="760" type="line"/>
+      <point x="254" y="760" type="line"/>
+      <point x="152" y="845" type="line"/>
+      <point x="187" y="845" type="line"/>
+      <point x="88" y="760" type="line"/>
+      <point x="78" y="760" type="line"/>
+      <point x="78" y="770" type="line"/>
+      <point x="146" y="877" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_top</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>capHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>1,0.6331,0.046,1</string>
+    </dict>
+  </lib>
+</glyph>

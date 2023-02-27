@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="breve_acute.uc" format="2">
+  <advance width="630"/>
+  <outline>
+    <contour>
+      <point x="386" y="1018" type="curve" smooth="yes"/>
+      <point x="290" y="918" type="line"/>
+      <point x="290" y="916" type="line"/>
+      <point x="300" y="916" type="line"/>
+      <point x="412" y="989" type="line" smooth="yes"/>
+      <point x="442" y="1008"/>
+      <point x="458" y="1022"/>
+      <point x="458" y="1036" type="curve" smooth="yes"/>
+      <point x="458" y="1047"/>
+      <point x="450" y="1056"/>
+      <point x="437" y="1056" type="curve" smooth="yes"/>
+      <point x="420" y="1056"/>
+      <point x="407" y="1038"/>
+    </contour>
+    <component base="breve.uc" xOffset="1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_top</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>capHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,1,1,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="notequal" format="2">
+  <advance width="560"/>
+  <unicode hex="2260"/>
+  <guideline x="56" y="161" angle="90" identifier="cGIvd1jxQ0"/>
+  <guideline x="448" y="144" angle="90" identifier="lkWvfQVQJX"/>
+  <outline>
+    <contour>
+      <point x="456" y="618" type="line"/>
+      <point x="54" y="39" type="line"/>
+      <point x="104" y="39" type="line"/>
+      <point x="506" y="618" type="line"/>
+    </contour>
+    <component base="equal"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.5769,0,1</string>
+    </dict>
+  </lib>
+</glyph>

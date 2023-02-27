@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresis_acute" format="2">
+  <advance width="595"/>
+  <outline>
+    <component base="dieresis" xOffset="5"/>
+    <component base="acute" xOffset="38" yOffset="202"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="i" format="2">
+  <advance width="345"/>
+  <unicode hex="0069"/>
+  <outline>
+    <contour>
+      <point x="101" y="73" type="curve" smooth="yes"/>
+      <point x="101" y="20"/>
+      <point x="141" y="-7"/>
+      <point x="200" y="-7" type="curve" smooth="yes"/>
+      <point x="238" y="-7"/>
+      <point x="271" y="7"/>
+      <point x="290" y="20" type="curve"/>
+      <point x="300" y="82" type="line"/>
+      <point x="290" y="78"/>
+      <point x="272" y="68"/>
+      <point x="242" y="68" type="curve" smooth="yes"/>
+      <point x="219" y="68"/>
+      <point x="208" y="79"/>
+      <point x="208" y="97" type="curve" smooth="yes"/>
+      <point x="208" y="114"/>
+      <point x="210" y="140"/>
+      <point x="218" y="180" type="curve" smooth="yes"/>
+      <point x="277" y="508" type="line"/>
+      <point x="83" y="508" type="line"/>
+      <point x="72" y="441" type="line"/>
+      <point x="88" y="439" type="line" smooth="yes"/>
+      <point x="137" y="433"/>
+      <point x="158" y="423"/>
+      <point x="152" y="392" type="curve" smooth="yes"/>
+      <point x="114" y="183" type="line" smooth="yes"/>
+      <point x="103" y="123"/>
+      <point x="101" y="103"/>
+    </contour>
+    <contour>
+      <point x="144" y="679" type="curve" smooth="yes"/>
+      <point x="144" y="636"/>
+      <point x="173" y="607"/>
+      <point x="216" y="607" type="curve" smooth="yes"/>
+      <point x="262" y="607"/>
+      <point x="294" y="637"/>
+      <point x="294" y="679" type="curve" smooth="yes"/>
+      <point x="294" y="721"/>
+      <point x="263" y="750"/>
+      <point x="217" y="750" type="curve" smooth="yes"/>
+      <point x="174" y="750"/>
+      <point x="144" y="721"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>bottom</key>
+        <dict>
+          <key>name</key>
+          <string>origin</string>
+          <key>type</key>
+          <string>glyphMetric</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.9962,1,0.5137,1</string>
+    </dict>
+  </lib>
+</glyph>

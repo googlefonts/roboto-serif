@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="manat.proportional" format="2">
+  <advance width="435"/>
+  <outline>
+    <contour>
+      <point x="200" y="720" type="line"/>
+      <point x="200" y="144" type="line"/>
+      <point x="236" y="144" type="line"/>
+      <point x="236" y="720" type="line"/>
+    </contour>
+    <contour>
+      <point x="218" y="555" type="curve" smooth="yes"/>
+      <point x="295" y="555"/>
+      <point x="353" y="375"/>
+      <point x="353" y="0" type="curve"/>
+      <point x="405" y="0" type="line"/>
+      <point x="405" y="382"/>
+      <point x="330" y="590"/>
+      <point x="218" y="590" type="curve" smooth="yes"/>
+      <point x="106" y="590"/>
+      <point x="31" y="382"/>
+      <point x="31" y="0" type="curve"/>
+      <point x="83" y="0" type="line"/>
+      <point x="83" y="375"/>
+      <point x="141" y="555"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0.6331,0.046,1</string>
+    </dict>
+  </lib>
+</glyph>

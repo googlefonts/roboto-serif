@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflex_tilde.uc" format="2">
+  <advance width="588"/>
+  <outline>
+    <contour>
+      <point x="365" y="897" type="curve"/>
+      <point x="405" y="897"/>
+      <point x="428" y="924"/>
+      <point x="446" y="982" type="curve"/>
+      <point x="425" y="989" type="line"/>
+      <point x="411" y="946"/>
+      <point x="392" y="920"/>
+      <point x="370" y="920" type="curve"/>
+      <point x="323" y="920"/>
+      <point x="273" y="991"/>
+      <point x="225" y="991" type="curve" smooth="yes"/>
+      <point x="180" y="991"/>
+      <point x="155" y="965"/>
+      <point x="143" y="904" type="curve"/>
+      <point x="164" y="898" type="line"/>
+      <point x="174" y="943"/>
+      <point x="190" y="968"/>
+      <point x="221" y="968" type="curve" smooth="yes"/>
+      <point x="260" y="968"/>
+      <point x="316" y="897"/>
+    </contour>
+    <contour>
+      <point x="327" y="859" type="line"/>
+      <point x="446" y="754" type="line"/>
+      <point x="446" y="749" type="line"/>
+      <point x="430" y="749" type="line"/>
+      <point x="263" y="849" type="line"/>
+      <point x="319" y="849" type="line"/>
+      <point x="157" y="749" type="line"/>
+      <point x="142" y="749" type="line"/>
+      <point x="142" y="754" type="line"/>
+      <point x="260" y="859" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_top</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>capHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.9962,1,0.5137,1</string>
+    </dict>
+  </lib>
+</glyph>

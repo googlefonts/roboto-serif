@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflex_grave" format="2">
+  <advance width="510"/>
+  <guideline x="413.1" y="668" angle="90" identifier="syRKXmyPNk"/>
+  <outline>
+    <contour>
+      <point x="549" y="802" type="curve" smooth="yes"/>
+      <point x="577" y="709" type="line"/>
+      <point x="577" y="677" type="line"/>
+      <point x="506" y="677" type="line"/>
+      <point x="434" y="720" type="line" smooth="yes"/>
+      <point x="379" y="753"/>
+      <point x="354" y="789"/>
+      <point x="354" y="834" type="curve" smooth="yes"/>
+      <point x="354" y="876"/>
+      <point x="388" y="908"/>
+      <point x="439" y="908" type="curve" smooth="yes"/>
+      <point x="501" y="908"/>
+      <point x="529" y="868"/>
+    </contour>
+    <component base="circumflex"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.syRKXmyPNk</key>
+      <integer>5</integer>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_top</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>xHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>1,0.5769,0,1</string>
+    </dict>
+  </lib>
+</glyph>

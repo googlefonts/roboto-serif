@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="icircumflex" format="2">
+  <advance width="235"/>
+  <unicode hex="00EE"/>
+  <outline>
+    <contour>
+      <point x="212" y="739" type="line"/>
+      <point x="260" y="603" type="line"/>
+      <point x="260" y="598" type="line"/>
+      <point x="248" y="598" type="line"/>
+      <point x="181" y="731" type="line"/>
+      <point x="197" y="731" type="line"/>
+      <point x="86" y="598" type="line"/>
+      <point x="72" y="598" type="line"/>
+      <point x="73" y="603" type="line"/>
+      <point x="170" y="739" type="line"/>
+    </contour>
+    <component base="dotlessi" yxScale="0.031426266"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.compileType</key>
+      <string>manual</string>
+      <key>public.markColor</key>
+      <string>0.9962,1,0.5137,1</string>
+    </dict>
+  </lib>
+</glyph>

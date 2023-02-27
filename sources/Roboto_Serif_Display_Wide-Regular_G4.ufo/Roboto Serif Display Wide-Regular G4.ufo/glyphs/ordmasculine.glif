@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ordmasculine" format="2">
+  <advance width="566"/>
+  <unicode hex="00BA"/>
+  <outline>
+    <contour>
+      <point x="520" y="516" type="curve" smooth="yes"/>
+      <point x="520" y="637"/>
+      <point x="419" y="720"/>
+      <point x="283" y="720" type="curve" smooth="yes"/>
+      <point x="147" y="720"/>
+      <point x="46" y="637"/>
+      <point x="46" y="516" type="curve" smooth="yes"/>
+      <point x="46" y="395"/>
+      <point x="147" y="312"/>
+      <point x="283" y="312" type="curve" smooth="yes"/>
+      <point x="419" y="312"/>
+      <point x="520" y="395"/>
+    </contour>
+    <contour>
+      <point x="142" y="516" type="curve" smooth="yes"/>
+      <point x="142" y="624"/>
+      <point x="193" y="677"/>
+      <point x="283" y="677" type="curve" smooth="yes"/>
+      <point x="374" y="677"/>
+      <point x="424" y="624"/>
+      <point x="424" y="516" type="curve" smooth="yes"/>
+      <point x="424" y="409"/>
+      <point x="373" y="355"/>
+      <point x="283" y="355" type="curve" smooth="yes"/>
+      <point x="193" y="355"/>
+      <point x="142" y="409"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,1,0.4,1</string>
+    </dict>
+  </lib>
+</glyph>

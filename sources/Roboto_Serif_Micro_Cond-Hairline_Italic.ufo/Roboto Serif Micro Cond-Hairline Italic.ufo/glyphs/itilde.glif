@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="itilde" format="2">
+  <advance width="286"/>
+  <unicode hex="0129"/>
+  <outline>
+    <contour>
+      <point x="260" y="668" type="curve" smooth="yes"/>
+      <point x="300.6736842105" y="668"/>
+      <point x="320.0560535112" y="696.2294690615"/>
+      <point x="352" y="827" type="curve"/>
+      <point x="319" y="836" type="line"/>
+      <point x="297.0615561451" y="746.2518205934"/>
+      <point x="287.6779661017" y="712"/>
+      <point x="263" y="712" type="curve" smooth="yes"/>
+      <point x="224" y="712"/>
+      <point x="234" y="831"/>
+      <point x="162" y="831" type="curve" smooth="yes"/>
+      <point x="120.34375" y="831"/>
+      <point x="96.9575319711" y="798.813444016"/>
+      <point x="69" y="676" type="curve"/>
+      <point x="103" y="667" type="line"/>
+      <point x="122.946427501" y="752.7696382543"/>
+      <point x="132.3392857143" y="787"/>
+      <point x="156" y="787" type="curve" smooth="yes"/>
+      <point x="198" y="787"/>
+      <point x="186" y="668"/>
+    </contour>
+    <component base="dotlessi"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.3922,0.8039,1,1</string>
+    </dict>
+  </lib>
+</glyph>

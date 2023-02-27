@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="idieresisacute" format="2">
+  <advance width="345"/>
+  <unicode hex="1E2F"/>
+  <outline>
+    <contour>
+      <point x="90" y="605" type="curve" smooth="yes"/>
+      <point x="52" y="605"/>
+      <point x="24" y="627"/>
+      <point x="24" y="666" type="curve" smooth="yes"/>
+      <point x="24" y="705"/>
+      <point x="52" y="727"/>
+      <point x="90" y="727" type="curve" smooth="yes"/>
+      <point x="129" y="727"/>
+      <point x="158" y="705"/>
+      <point x="158" y="666" type="curve" smooth="yes"/>
+      <point x="158" y="627"/>
+      <point x="129" y="605"/>
+    </contour>
+    <contour>
+      <point x="332" y="605" type="curve" smooth="yes"/>
+      <point x="293" y="605"/>
+      <point x="264" y="627"/>
+      <point x="264" y="666" type="curve" smooth="yes"/>
+      <point x="264" y="705"/>
+      <point x="293" y="727"/>
+      <point x="332" y="727" type="curve" smooth="yes"/>
+      <point x="370" y="727"/>
+      <point x="398" y="705"/>
+      <point x="398" y="666" type="curve" smooth="yes"/>
+      <point x="398" y="627"/>
+      <point x="370" y="605"/>
+    </contour>
+    <contour>
+      <point x="262" y="877" type="curve" smooth="yes"/>
+      <point x="194" y="768" type="line"/>
+      <point x="194" y="758" type="line"/>
+      <point x="221" y="758" type="line"/>
+      <point x="334" y="852" type="line" smooth="yes"/>
+      <point x="361" y="874"/>
+      <point x="378" y="888"/>
+      <point x="378" y="913" type="curve" smooth="yes"/>
+      <point x="378" y="937"/>
+      <point x="362" y="951"/>
+      <point x="339" y="951" type="curve" smooth="yes"/>
+      <point x="303" y="951"/>
+      <point x="289" y="921"/>
+    </contour>
+    <component base="dotlessi"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.compileType</key>
+      <string>manual</string>
+      <key>public.markColor</key>
+      <string>0.9962,1,0.5137,1</string>
+    </dict>
+  </lib>
+</glyph>

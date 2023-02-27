@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="r" format="2">
+  <advance width="484"/>
+  <unicode hex="0072"/>
+  <guideline x="0" y="518" angle="0" identifier="VdAZ4226GI"/>
+  <guideline x="271" y="337" angle="90" identifier="m6YEHcFLVt"/>
+  <outline>
+    <contour>
+      <point x="462" y="512" type="line"/>
+      <point x="455" y="515"/>
+      <point x="441" y="518"/>
+      <point x="422" y="518" type="curve" smooth="yes"/>
+      <point x="326" y="518"/>
+      <point x="296" y="435"/>
+      <point x="271" y="319" type="curve"/>
+      <point x="271" y="297" type="line"/>
+      <point x="295" y="346"/>
+      <point x="343" y="355"/>
+      <point x="400" y="355" type="curve" smooth="yes"/>
+      <point x="423" y="355"/>
+      <point x="445" y="350"/>
+      <point x="462" y="345" type="curve"/>
+    </contour>
+    <contour>
+      <point x="16" y="0" type="line"/>
+      <point x="351" y="0" type="line"/>
+      <point x="351" y="36" type="line"/>
+      <point x="349" y="36" type="line"/>
+      <point x="327" y="36"/>
+      <point x="295" y="38"/>
+      <point x="295" y="44" type="curve" smooth="yes"/>
+      <point x="295" y="357" type="line"/>
+      <point x="281" y="342" type="line"/>
+      <point x="281" y="514" type="line"/>
+      <point x="16" y="514" type="line"/>
+      <point x="16" y="474" type="line"/>
+      <point x="23" y="472" type="line" smooth="yes"/>
+      <point x="43" y="466"/>
+      <point x="50" y="462"/>
+      <point x="50" y="446" type="curve" smooth="yes"/>
+      <point x="50" y="62" type="line" smooth="yes"/>
+      <point x="50" y="42"/>
+      <point x="35" y="36"/>
+      <point x="17" y="36" type="curve" smooth="yes"/>
+      <point x="16" y="36" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.VdAZ4226GI</key>
+      <integer>5</integer>
+      <key>com.typemytype.robofont.guideline.magnetic.m6YEHcFLVt</key>
+      <integer>5</integer>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>bottom</key>
+        <dict>
+          <key>name</key>
+          <string>origin</string>
+          <key>type</key>
+          <string>glyphMetric</string>
+        </dict>
+        <key>top</key>
+        <dict>
+          <key>name</key>
+          <string>xHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.9962,1,0.5137,1</string>
+    </dict>
+  </lib>
+</glyph>

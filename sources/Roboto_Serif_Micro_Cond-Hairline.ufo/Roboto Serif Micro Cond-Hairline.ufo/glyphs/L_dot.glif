@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ldot" format="2">
+  <advance width="568"/>
+  <unicode hex="013F"/>
+  <outline>
+    <contour>
+      <point x="268" y="710" type="line"/>
+      <point x="268" y="664" type="line"/>
+      <point x="250" y="664" type="line" smooth="yes"/>
+      <point x="202" y="664"/>
+      <point x="173" y="657"/>
+      <point x="173" y="628" type="curve" smooth="yes"/>
+      <point x="173" y="42" type="line"/>
+      <point x="341" y="42" type="line" smooth="yes"/>
+      <point x="421" y="42"/>
+      <point x="454" y="50"/>
+      <point x="457" y="83" type="curve" smooth="yes"/>
+      <point x="471" y="221" type="line"/>
+      <point x="513" y="221" type="line"/>
+      <point x="513" y="0" type="line"/>
+      <point x="43" y="0" type="line"/>
+      <point x="43" y="46" type="line"/>
+      <point x="53" y="46" type="line" smooth="yes"/>
+      <point x="94" y="46"/>
+      <point x="125" y="53"/>
+      <point x="125" y="82" type="curve" smooth="yes"/>
+      <point x="125" y="628" type="line" smooth="yes"/>
+      <point x="125" y="657"/>
+      <point x="94" y="664"/>
+      <point x="53" y="664" type="curve" smooth="yes"/>
+      <point x="43" y="664" type="line"/>
+      <point x="43" y="710" type="line"/>
+    </contour>
+    <component base="periodcentered" xOffset="307" yOffset="117"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.3922,0.8039,1,1</string>
+    </dict>
+  </lib>
+</glyph>

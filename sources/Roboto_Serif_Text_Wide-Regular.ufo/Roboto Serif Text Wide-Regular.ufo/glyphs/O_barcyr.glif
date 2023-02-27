@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Obarcyr" format="2">
+  <advance width="914"/>
+  <unicode hex="04E8"/>
+  <outline>
+    <contour>
+      <point x="103" y="396" type="line"/>
+      <point x="103" y="336" type="line"/>
+      <point x="812" y="336" type="line"/>
+      <point x="812" y="396" type="line"/>
+    </contour>
+    <contour>
+      <point x="457" y="-10" type="curve" smooth="yes"/>
+      <point x="684" y="-10"/>
+      <point x="866" y="139"/>
+      <point x="866" y="355" type="curve" smooth="yes"/>
+      <point x="866" y="572"/>
+      <point x="684" y="720"/>
+      <point x="457" y="720" type="curve" smooth="yes"/>
+      <point x="230" y="720"/>
+      <point x="48" y="572"/>
+      <point x="48" y="355" type="curve" smooth="yes"/>
+      <point x="48" y="139"/>
+      <point x="230" y="-10"/>
+    </contour>
+    <contour>
+      <point x="457" y="52" type="curve" smooth="yes"/>
+      <point x="284" y="52"/>
+      <point x="153" y="169"/>
+      <point x="153" y="355" type="curve" smooth="yes"/>
+      <point x="153" y="541"/>
+      <point x="283" y="658"/>
+      <point x="457" y="658" type="curve" smooth="yes"/>
+      <point x="630" y="658"/>
+      <point x="761" y="541"/>
+      <point x="761" y="355" type="curve" smooth="yes"/>
+      <point x="761" y="169"/>
+      <point x="630" y="52"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5066,0.9903,0.9972,1</string>
+    </dict>
+  </lib>
+</glyph>

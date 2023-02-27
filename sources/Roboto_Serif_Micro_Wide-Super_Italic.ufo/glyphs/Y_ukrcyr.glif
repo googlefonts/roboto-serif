@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Yukrcyr" format="2">
+  <advance width="544"/>
+  <unicode hex="0407"/>
+  <anchor x="272.0" y="983" name="top"/>
+  <anchor x="272.0" y="0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="256" y="780" type="curve" smooth="yes"/>
+      <point x="322" y="780"/>
+      <point x="361" y="819"/>
+      <point x="361" y="886" type="curve" smooth="yes"/>
+      <point x="361" y="954"/>
+      <point x="322" y="993"/>
+      <point x="256" y="993" type="curve" smooth="yes"/>
+      <point x="189" y="993"/>
+      <point x="151" y="954"/>
+      <point x="151" y="886" type="curve" smooth="yes"/>
+      <point x="151" y="818"/>
+      <point x="189" y="780"/>
+    </contour>
+    <contour>
+      <point x="522" y="780" type="curve" smooth="yes"/>
+      <point x="588" y="780"/>
+      <point x="626" y="819"/>
+      <point x="626" y="886" type="curve" smooth="yes"/>
+      <point x="626" y="954"/>
+      <point x="588" y="993"/>
+      <point x="522" y="993" type="curve" smooth="yes"/>
+      <point x="455" y="993"/>
+      <point x="417" y="954"/>
+      <point x="417" y="886" type="curve" smooth="yes"/>
+      <point x="417" y="818"/>
+      <point x="455" y="780"/>
+    </contour>
+    <component base="I"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5602,1,0.8428,1</string>
+    </dict>
+  </lib>
+</glyph>

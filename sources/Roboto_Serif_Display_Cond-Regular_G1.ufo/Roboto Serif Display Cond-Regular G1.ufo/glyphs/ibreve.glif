@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ibreve" format="2">
+  <advance width="221"/>
+  <unicode hex="012D"/>
+  <outline>
+    <contour>
+      <point x="112" y="586" type="curve" smooth="yes"/>
+      <point x="61" y="586"/>
+      <point x="29" y="619"/>
+      <point x="26" y="723" type="curve"/>
+      <point x="37" y="723" type="line"/>
+      <point x="44" y="666"/>
+      <point x="72" y="646"/>
+      <point x="113" y="646" type="curve" smooth="yes"/>
+      <point x="154" y="646"/>
+      <point x="180" y="666"/>
+      <point x="188" y="723" type="curve"/>
+      <point x="197" y="723" type="line"/>
+      <point x="194" y="619"/>
+      <point x="163" y="586"/>
+    </contour>
+    <component base="dotlessi"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.compileType</key>
+      <string>manual</string>
+      <key>public.markColor</key>
+      <string>1,0.5769,0,1</string>
+    </dict>
+  </lib>
+</glyph>

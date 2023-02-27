@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="florin" format="2">
+  <advance width="560"/>
+  <unicode hex="0192"/>
+  <guideline x="0" y="721" angle="0" identifier="45bOoZT5GL"/>
+  <guideline x="0" y="760" angle="0" identifier="aymcNO4u9z"/>
+  <guideline x="-44.8" y="-236" angle="0" identifier="t8YJXPv16k"/>
+  <guideline x="0" y="-51" angle="0" identifier="3q0PydNwUJ"/>
+  <guideline x="0" y="-57" angle="0" identifier="PmZtiHUxr6"/>
+  <outline>
+    <contour>
+      <point x="77" y="508" type="line"/>
+      <point x="66" y="373" type="line"/>
+      <point x="501" y="373" type="line"/>
+      <point x="512" y="508" type="line"/>
+    </contour>
+    <contour>
+      <point x="325" y="83" type="curve" smooth="yes"/>
+      <point x="390" y="526" type="line" smooth="yes"/>
+      <point x="399" y="586"/>
+      <point x="431" y="603"/>
+      <point x="470" y="603" type="curve" smooth="yes"/>
+      <point x="500" y="603"/>
+      <point x="520" y="596"/>
+      <point x="537" y="590" type="curve"/>
+      <point x="548" y="720" type="line"/>
+      <point x="523" y="732"/>
+      <point x="484" y="741"/>
+      <point x="423" y="741" type="curve" smooth="yes"/>
+      <point x="280" y="741"/>
+      <point x="196" y="677"/>
+      <point x="176" y="541" type="curve" smooth="yes"/>
+      <point x="108" y="69" type="line" smooth="yes"/>
+      <point x="88" y="-70"/>
+      <point x="49" y="-90"/>
+      <point x="9" y="-90" type="curve" smooth="yes"/>
+      <point x="-20" y="-90"/>
+      <point x="-45" y="-77"/>
+      <point x="-58" y="-72" type="curve"/>
+      <point x="-65" y="-215" type="line"/>
+      <point x="-49" y="-225"/>
+      <point x="-11" y="-236"/>
+      <point x="34" y="-236" type="curve" smooth="yes"/>
+      <point x="181" y="-236"/>
+      <point x="290" y="-157"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.3q0PydNwUJ</key>
+      <integer>5</integer>
+      <key>com.typemytype.robofont.guideline.magnetic.45bOoZT5GL</key>
+      <integer>5</integer>
+      <key>com.typemytype.robofont.guideline.magnetic.PmZtiHUxr6</key>
+      <integer>5</integer>
+      <key>com.typemytype.robofont.guideline.magnetic.aymcNO4u9z</key>
+      <integer>5</integer>
+      <key>com.typemytype.robofont.guideline.magnetic.t8YJXPv16k</key>
+      <integer>5</integer>
+      <key>public.markColor</key>
+      <string>0.9962,1,0.5137,1</string>
+    </dict>
+  </lib>
+</glyph>

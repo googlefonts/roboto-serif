@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gmacron.alt" format="2">
+  <advance width="617"/>
+  <outline>
+    <component base="g.alt"/>
+    <component base="macron" xOffset="54" yOffset="3"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.compileType</key>
+      <string>manual</string>
+    </dict>
+  </lib>
+</glyph>

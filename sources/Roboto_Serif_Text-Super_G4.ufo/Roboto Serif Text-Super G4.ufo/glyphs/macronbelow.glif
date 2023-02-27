@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macronbelow" format="2">
+  <advance width="500"/>
+  <guideline x="445" y="-94" angle="0" identifier="Y8oBnkob0b"/>
+  <guideline x="468" y="-119" angle="0" identifier="PO24CCF0oG"/>
+  <guideline x="451" y="-74" angle="0" identifier="FudG7xY5O8"/>
+  <outline>
+    <component base="macron" yOffset="-780"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.PO24CCF0oG</key>
+      <integer>5</integer>
+      <key>com.typemytype.robofont.guideline.magnetic.Y8oBnkob0b</key>
+      <integer>5</integer>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_bottom</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>above</key>
+        <dict>
+          <key>name</key>
+          <string>origin</string>
+          <key>type</key>
+          <string>glyphMetric</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.4926,1,0.3437,1</string>
+    </dict>
+  </lib>
+</glyph>

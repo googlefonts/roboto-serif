@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="breve_tilde.uc" format="2">
+  <advance width="554"/>
+  <outline>
+    <contour>
+      <point x="523" y="1024" type="curve" smooth="yes"/>
+      <point x="611" y="1024"/>
+      <point x="676" y="1070"/>
+      <point x="719" y="1215" type="curve"/>
+      <point x="630" y="1242" type="line"/>
+      <point x="607" y="1188"/>
+      <point x="585" y="1161"/>
+      <point x="550" y="1161" type="curve" smooth="yes"/>
+      <point x="485" y="1161"/>
+      <point x="440" y="1232"/>
+      <point x="343" y="1232" type="curve" smooth="yes"/>
+      <point x="247" y="1232"/>
+      <point x="187" y="1177"/>
+      <point x="148" y="1045" type="curve"/>
+      <point x="238" y="1018" type="line"/>
+      <point x="258" y="1071"/>
+      <point x="284" y="1097"/>
+      <point x="320" y="1097" type="curve" smooth="yes"/>
+      <point x="380" y="1097"/>
+      <point x="418" y="1024"/>
+    </contour>
+    <contour>
+      <point x="156" y="984" type="line"/>
+      <point x="155" y="973"/>
+      <point x="155" y="969"/>
+      <point x="155" y="961" type="curve" smooth="yes"/>
+      <point x="155" y="847"/>
+      <point x="250" y="781"/>
+      <point x="403" y="781" type="curve" smooth="yes"/>
+      <point x="576" y="781"/>
+      <point x="669" y="846"/>
+      <point x="692" y="984" type="curve"/>
+      <point x="581" y="984" type="line"/>
+      <point x="558" y="931"/>
+      <point x="507" y="916"/>
+      <point x="420" y="916" type="curve" smooth="yes"/>
+      <point x="333" y="916"/>
+      <point x="280" y="934"/>
+      <point x="275" y="984" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_top</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>capHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

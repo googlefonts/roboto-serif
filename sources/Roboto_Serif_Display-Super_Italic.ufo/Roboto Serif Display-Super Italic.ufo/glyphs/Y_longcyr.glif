@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ylongcyr" format="2">
+  <advance width="1096"/>
+  <unicode hex="042B"/>
+  <outline>
+    <contour>
+      <point x="651" y="0" type="line"/>
+      <point x="1016" y="0" type="line"/>
+      <point x="1024" y="42" type="line"/>
+      <point x="1014" y="42" type="line" smooth="yes"/>
+      <point x="989" y="42"/>
+      <point x="972" y="48"/>
+      <point x="977" y="75" type="curve" smooth="yes"/>
+      <point x="1075" y="635" type="line" smooth="yes"/>
+      <point x="1080" y="662"/>
+      <point x="1099" y="668"/>
+      <point x="1124" y="668" type="curve" smooth="yes"/>
+      <point x="1134" y="668" type="line"/>
+      <point x="1142" y="710" type="line"/>
+      <point x="777" y="710" type="line"/>
+      <point x="769" y="668" type="line"/>
+      <point x="777" y="668" type="line" smooth="yes"/>
+      <point x="797" y="668"/>
+      <point x="821" y="666"/>
+      <point x="820" y="660" type="curve"/>
+      <point x="712" y="50" type="line" smooth="yes"/>
+      <point x="711" y="44"/>
+      <point x="687" y="42"/>
+      <point x="667" y="42" type="curve" smooth="yes"/>
+      <point x="659" y="42" type="line"/>
+    </contour>
+    <component base="Softcyr"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5602,1,0.8428,1</string>
+    </dict>
+  </lib>
+</glyph>

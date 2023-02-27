@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acute.uc" format="2">
+  <advance width="630"/>
+  <outline>
+    <contour>
+      <point x="311" y="873" type="line" smooth="yes"/>
+      <point x="345" y="928"/>
+      <point x="375" y="953"/>
+      <point x="425" y="953" type="curve" smooth="yes"/>
+      <point x="477" y="953"/>
+      <point x="512" y="917"/>
+      <point x="512" y="872" type="curve" smooth="yes"/>
+      <point x="512" y="819"/>
+      <point x="471" y="792"/>
+      <point x="411" y="779" type="curve" smooth="yes"/>
+      <point x="303" y="756" type="line"/>
+      <point x="253" y="756" type="line"/>
+      <point x="253" y="779" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_top</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>UC accents</string>
+          <key>type</key>
+          <string>fontGuide</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

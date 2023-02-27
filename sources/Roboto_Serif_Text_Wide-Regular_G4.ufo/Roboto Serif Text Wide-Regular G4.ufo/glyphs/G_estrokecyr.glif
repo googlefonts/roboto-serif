@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Gestrokecyr" format="2">
+  <advance width="670"/>
+  <unicode hex="0492"/>
+  <outline>
+    <contour>
+      <point x="61" y="395" type="line"/>
+      <point x="61" y="315" type="line"/>
+      <point x="448" y="315" type="line"/>
+      <point x="448" y="395" type="line"/>
+    </contour>
+    <contour>
+      <point x="258" y="630" type="line"/>
+      <point x="397" y="630" type="line" smooth="yes"/>
+      <point x="521" y="630"/>
+      <point x="539" y="623"/>
+      <point x="546" y="576" type="curve" smooth="yes"/>
+      <point x="555" y="519" type="line"/>
+      <point x="630" y="519" type="line"/>
+      <point x="630" y="710" type="line"/>
+      <point x="61" y="710" type="line"/>
+      <point x="61" y="641" type="line"/>
+      <point x="74" y="641" type="line" smooth="yes"/>
+      <point x="113" y="641"/>
+      <point x="149" y="634"/>
+      <point x="149" y="605" type="curve" smooth="yes"/>
+      <point x="149" y="105" type="line" smooth="yes"/>
+      <point x="149" y="76"/>
+      <point x="113" y="69"/>
+      <point x="74" y="69" type="curve" smooth="yes"/>
+      <point x="61" y="69" type="line"/>
+      <point x="61" y="0" type="line"/>
+      <point x="378" y="0" type="line"/>
+      <point x="378" y="69" type="line"/>
+      <point x="358" y="69" type="line" smooth="yes"/>
+      <point x="313" y="69"/>
+      <point x="258" y="70"/>
+      <point x="258" y="105" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5741,1,0.8315,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="a" format="2">
+  <advance width="711"/>
+  <unicode hex="0061"/>
+  <outline>
+    <contour>
+      <point x="535" y="346" type="line"/>
+      <point x="171" y="308"/>
+      <point x="76" y="251"/>
+      <point x="76" y="132" type="curve" smooth="yes"/>
+      <point x="76" y="31"/>
+      <point x="139" y="-12"/>
+      <point x="243" y="-12" type="curve" smooth="yes"/>
+      <point x="386" y="-12"/>
+      <point x="467" y="52"/>
+      <point x="538" y="153" type="curve"/>
+      <point x="535" y="182" type="line"/>
+      <point x="447" y="76"/>
+      <point x="377" y="21"/>
+      <point x="252" y="21" type="curve" smooth="yes"/>
+      <point x="156" y="21"/>
+      <point x="115" y="54"/>
+      <point x="115" y="133" type="curve" smooth="yes"/>
+      <point x="115" y="227"/>
+      <point x="179" y="277"/>
+      <point x="535" y="318" type="curve"/>
+    </contour>
+    <contour>
+      <point x="537" y="0" type="line"/>
+      <point x="665" y="0" type="line"/>
+      <point x="665" y="28" type="line"/>
+      <point x="618" y="33" type="line" smooth="yes"/>
+      <point x="558" y="38"/>
+      <point x="558" y="47"/>
+      <point x="558" y="78" type="curve" smooth="yes"/>
+      <point x="558" y="399" type="line" smooth="yes"/>
+      <point x="558" y="520"/>
+      <point x="484" y="576"/>
+      <point x="344" y="576" type="curve" smooth="yes"/>
+      <point x="256" y="576"/>
+      <point x="174" y="548"/>
+      <point x="112" y="515" type="curve"/>
+      <point x="112" y="388" type="line"/>
+      <point x="149" y="388" type="line"/>
+      <point x="149" y="510" type="line"/>
+      <point x="144" y="510"/>
+      <point x="138" y="503"/>
+      <point x="145" y="494" type="curve"/>
+      <point x="205" y="524"/>
+      <point x="269" y="544"/>
+      <point x="340" y="544" type="curve" smooth="yes"/>
+      <point x="467" y="544"/>
+      <point x="525" y="490"/>
+      <point x="525" y="393" type="curve" smooth="yes"/>
+      <point x="525" y="141" type="line"/>
+      <point x="525" y="139" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.7Ws0S6Yzy0</key>
+      <integer>5</integer>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>right</key>
+        <dict>
+          <key>name</key>
+          <string>right</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>bottom</key>
+        <dict>
+          <key>name</key>
+          <string>origin</string>
+          <key>type</key>
+          <string>glyphMetric</string>
+        </dict>
+        <key>top</key>
+        <dict>
+          <key>name</key>
+          <string>xHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0,1,0.502,1</string>
+    </dict>
+  </lib>
+</glyph>

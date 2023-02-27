@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cedilla" format="2">
+  <advance width="495"/>
+  <unicode hex="00B8"/>
+  <outline>
+    <contour>
+      <point x="259" y="4" type="line"/>
+      <point x="196" y="4" type="line"/>
+      <point x="169" y="-104" type="line"/>
+      <point x="198" y="-104" type="line" smooth="yes"/>
+      <point x="237" y="-104"/>
+      <point x="251" y="-116"/>
+      <point x="251" y="-146" type="curve" smooth="yes"/>
+      <point x="251" y="-175"/>
+      <point x="236" y="-184"/>
+      <point x="218" y="-184" type="curve" smooth="yes"/>
+      <point x="193" y="-184"/>
+      <point x="175" y="-172"/>
+      <point x="160" y="-148" type="curve"/>
+      <point x="118" y="-184" type="line"/>
+      <point x="139" y="-219"/>
+      <point x="173" y="-243"/>
+      <point x="220" y="-243" type="curve" smooth="yes"/>
+      <point x="281" y="-243"/>
+      <point x="330" y="-212"/>
+      <point x="330" y="-147" type="curve" smooth="yes"/>
+      <point x="330" y="-83"/>
+      <point x="277" y="-54"/>
+      <point x="214" y="-58" type="curve"/>
+      <point x="225" y="-69" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_bottom</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>above</key>
+        <dict>
+          <key>name</key>
+          <string>origin</string>
+          <key>type</key>
+          <string>glyphMetric</string>
+        </dict>
+        <key>top</key>
+        <dict>
+          <key>name</key>
+          <string>origin</string>
+          <key>type</key>
+          <string>glyphMetric</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>1,0.568,0.6434,1</string>
+    </dict>
+  </lib>
+</glyph>

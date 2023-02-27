@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="exclam" format="2">
+  <advance width="206"/>
+  <unicode hex="0021"/>
+  <outline>
+    <contour>
+      <point x="146" y="735" type="line"/>
+      <point x="146" y="569"/>
+      <point x="117" y="468"/>
+      <point x="117" y="211" type="curve"/>
+      <point x="89" y="211" type="line"/>
+      <point x="89" y="468"/>
+      <point x="60" y="569"/>
+      <point x="60" y="735" type="curve"/>
+    </contour>
+    <component base="period"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.m3ZyUWKrvG</key>
+      <integer>5</integer>
+      <key>public.markColor</key>
+      <string>1,0.6568,1,1</string>
+    </dict>
+  </lib>
+</glyph>

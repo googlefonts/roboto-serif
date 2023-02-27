@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ohorn" format="2">
+  <advance width="723"/>
+  <unicode hex="01A0"/>
+  <outline>
+    <contour>
+      <point x="394" y="704" type="curve" smooth="yes"/>
+      <point x="568" y="704"/>
+      <point x="649" y="556"/>
+      <point x="649" y="389" type="curve" smooth="yes"/>
+      <point x="649" y="360"/>
+      <point x="646" y="332"/>
+      <point x="641" y="303" type="curve" smooth="yes"/>
+      <point x="612" y="144"/>
+      <point x="504" y="6"/>
+      <point x="336" y="6" type="curve" smooth="yes"/>
+      <point x="162" y="6"/>
+      <point x="81" y="157"/>
+      <point x="81" y="321" type="curve" smooth="yes"/>
+      <point x="81" y="349"/>
+      <point x="83" y="377"/>
+      <point x="88" y="405" type="curve" smooth="yes"/>
+      <point x="117" y="565"/>
+      <point x="226" y="704"/>
+    </contour>
+    <contour>
+      <point x="493" y="687" type="line"/>
+      <point x="498" y="701" type="line"/>
+      <point x="472" y="704" type="line"/>
+      <point x="499" y="697"/>
+      <point x="527" y="692"/>
+      <point x="565" y="692" type="curve" smooth="yes"/>
+      <point x="661" y="692"/>
+      <point x="747" y="717"/>
+      <point x="776" y="843" type="curve"/>
+      <point x="736" y="843" type="line"/>
+      <point x="710" y="742"/>
+      <point x="659" y="707"/>
+      <point x="565" y="707" type="curve" smooth="yes"/>
+      <point x="502" y="707"/>
+      <point x="458" y="720"/>
+      <point x="394" y="720" type="curve" smooth="yes"/>
+      <point x="175" y="720"/>
+      <point x="38" y="521"/>
+      <point x="38" y="321" type="curve" smooth="yes"/>
+      <point x="38" y="149"/>
+      <point x="146" y="-10"/>
+      <point x="336" y="-10" type="curve" smooth="yes"/>
+      <point x="554" y="-10"/>
+      <point x="692" y="189"/>
+      <point x="692" y="389" type="curve" smooth="yes"/>
+      <point x="692" y="533"/>
+      <point x="621" y="660"/>
+      <point x="486" y="701" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.PWKu4OmcrS</key>
+      <integer>5</integer>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>bottom</key>
+        <dict>
+          <key>name</key>
+          <string>origin</string>
+          <key>type</key>
+          <string>glyphMetric</string>
+        </dict>
+        <key>top</key>
+        <dict>
+          <key>name</key>
+          <string>capHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.9962,1,0.5137,1</string>
+    </dict>
+  </lib>
+</glyph>

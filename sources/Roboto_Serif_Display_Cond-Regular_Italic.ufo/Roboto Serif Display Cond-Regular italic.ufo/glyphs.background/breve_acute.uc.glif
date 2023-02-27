@@ -1,0 +1,36 @@
+<glyph name="breve_acute.uc" format="2">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="283" y="1022" type="curve" smooth="yes"/>
+      <point x="225" y="930" type="line"/>
+      <point x="222" y="917" type="line"/>
+      <point x="237" y="917" type="line"/>
+      <point x="310" y="961" type="line" smooth="yes"/>
+      <point x="342" y="979"/>
+      <point x="363" y="998"/>
+      <point x="365" y="1028" type="curve" smooth="yes"/>
+      <point x="366" y="1049"/>
+      <point x="355" y="1068"/>
+      <point x="335" y="1068" type="curve" smooth="yes"/>
+      <point x="314" y="1068"/>
+      <point x="302" y="1051"/>
+    </contour>
+    <contour>
+      <point x="283" y="1022" type="curve" smooth="yes"/>
+      <point x="225" y="930" type="line"/>
+      <point x="222" y="917" type="line"/>
+      <point x="237" y="917" type="line"/>
+      <point x="310" y="961" type="line" smooth="yes"/>
+      <point x="342" y="979"/>
+      <point x="363" y="998"/>
+      <point x="365" y="1028" type="curve" smooth="yes"/>
+      <point x="366" y="1049"/>
+      <point x="355" y="1068"/>
+      <point x="335" y="1068" type="curve" smooth="yes"/>
+      <point x="314" y="1068"/>
+      <point x="302" y="1051"/>
+    </contour>
+    <component base="breve.uc" xOffset="2"/>
+  </outline>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="imacron" format="2">
+  <advance width="435"/>
+  <unicode hex="012B"/>
+  <outline>
+    <contour>
+      <point x="134" y="783" type="line"/>
+      <point x="120" y="708" type="line"/>
+      <point x="504" y="708" type="line"/>
+      <point x="518" y="783" type="line"/>
+    </contour>
+    <component base="dotlessi"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.compileType</key>
+      <string>manual</string>
+    </dict>
+  </lib>
+</glyph>

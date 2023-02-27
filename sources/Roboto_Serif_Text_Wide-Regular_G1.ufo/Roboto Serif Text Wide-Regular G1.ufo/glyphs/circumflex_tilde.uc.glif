@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflex_tilde.uc" format="2">
+  <advance width="588"/>
+  <outline>
+    <contour>
+      <point x="352" y="901" type="curve" smooth="yes"/>
+      <point x="400" y="901"/>
+      <point x="427" y="928"/>
+      <point x="449" y="983" type="curve"/>
+      <point x="409" y="1002" type="line"/>
+      <point x="398" y="977"/>
+      <point x="381" y="957"/>
+      <point x="358" y="957" type="curve" smooth="yes"/>
+      <point x="314" y="957"/>
+      <point x="285" y="998"/>
+      <point x="230" y="998" type="curve" smooth="yes"/>
+      <point x="185" y="998"/>
+      <point x="158" y="968"/>
+      <point x="142" y="913" type="curve"/>
+      <point x="181" y="896" type="line"/>
+      <point x="191" y="925"/>
+      <point x="205" y="943"/>
+      <point x="227" y="943" type="curve" smooth="yes"/>
+      <point x="262" y="943"/>
+      <point x="291" y="901"/>
+    </contour>
+    <contour>
+      <point x="341" y="865" type="line"/>
+      <point x="449" y="764" type="line"/>
+      <point x="449" y="750" type="line"/>
+      <point x="406" y="750" type="line"/>
+      <point x="263" y="831" type="line"/>
+      <point x="316" y="831" type="line"/>
+      <point x="173" y="750" type="line"/>
+      <point x="139" y="750" type="line"/>
+      <point x="139" y="764" type="line"/>
+      <point x="247" y="865" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.xCoordinates</key>
+      <dict>
+        <key>center</key>
+        <dict>
+          <key>name</key>
+          <string>_top</string>
+          <key>type</key>
+          <string>glyphAnchor</string>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>capHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.9962,1,0.5137,1</string>
+    </dict>
+  </lib>
+</glyph>

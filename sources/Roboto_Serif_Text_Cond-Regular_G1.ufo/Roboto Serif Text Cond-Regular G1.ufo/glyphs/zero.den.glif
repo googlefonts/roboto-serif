@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero.den" format="2">
+  <advance width="275"/>
+  <unicode hex="E402"/>
+  <outline>
+    <contour>
+      <point x="137" y="347" type="curve" smooth="yes"/>
+      <point x="64" y="347"/>
+      <point x="18" y="279"/>
+      <point x="18" y="170" type="curve" smooth="yes"/>
+      <point x="18" y="61"/>
+      <point x="63" y="-6"/>
+      <point x="137" y="-6" type="curve" smooth="yes"/>
+      <point x="211" y="-6"/>
+      <point x="258" y="63"/>
+      <point x="258" y="171" type="curve" smooth="yes"/>
+      <point x="258" y="279"/>
+      <point x="211" y="347"/>
+    </contour>
+    <contour>
+      <point x="187" y="171" type="curve" smooth="yes"/>
+      <point x="187" y="54"/>
+      <point x="172" y="23"/>
+      <point x="137" y="23" type="curve" smooth="yes"/>
+      <point x="102" y="23"/>
+      <point x="88" y="52"/>
+      <point x="88" y="170" type="curve" smooth="yes"/>
+      <point x="88" y="283"/>
+      <point x="101" y="317"/>
+      <point x="137" y="317" type="curve" smooth="yes"/>
+      <point x="173" y="317"/>
+      <point x="187" y="282"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.9962,1,0.5137,1</string>
+    </dict>
+  </lib>
+</glyph>

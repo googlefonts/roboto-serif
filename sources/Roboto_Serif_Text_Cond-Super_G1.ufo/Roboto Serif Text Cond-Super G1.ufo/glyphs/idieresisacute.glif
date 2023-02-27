@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="idieresisacute" format="2">
+  <advance width="289"/>
+  <unicode hex="1E2F"/>
+  <outline>
+    <contour>
+      <point x="45" y="577" type="curve" smooth="yes"/>
+      <point x="104" y="577"/>
+      <point x="137" y="606"/>
+      <point x="137" y="656" type="curve" smooth="yes"/>
+      <point x="137" y="706"/>
+      <point x="104" y="735"/>
+      <point x="45" y="735" type="curve" smooth="yes"/>
+      <point x="-15" y="735"/>
+      <point x="-47" y="706"/>
+      <point x="-47" y="656" type="curve" smooth="yes"/>
+      <point x="-47" y="606"/>
+      <point x="-15" y="577"/>
+    </contour>
+    <contour>
+      <point x="244" y="577" type="curve" smooth="yes"/>
+      <point x="304" y="577"/>
+      <point x="336" y="606"/>
+      <point x="336" y="656" type="curve" smooth="yes"/>
+      <point x="336" y="706"/>
+      <point x="304" y="735"/>
+      <point x="244" y="735" type="curve" smooth="yes"/>
+      <point x="185" y="735"/>
+      <point x="152" y="706"/>
+      <point x="152" y="656" type="curve" smooth="yes"/>
+      <point x="152" y="606"/>
+      <point x="185" y="577"/>
+    </contour>
+    <contour>
+      <point x="132" y="887" type="curve" smooth="yes"/>
+      <point x="113" y="789" type="line"/>
+      <point x="113" y="760" type="line"/>
+      <point x="153" y="760" type="line"/>
+      <point x="219" y="806" type="line" smooth="yes"/>
+      <point x="266" y="839"/>
+      <point x="301" y="869"/>
+      <point x="301" y="909" type="curve" smooth="yes"/>
+      <point x="301" y="951"/>
+      <point x="271" y="983"/>
+      <point x="221" y="983" type="curve" smooth="yes"/>
+      <point x="166" y="983"/>
+      <point x="143" y="948"/>
+    </contour>
+    <component base="dotlessi"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.compileType</key>
+      <string>manual</string>
+    </dict>
+  </lib>
+</glyph>

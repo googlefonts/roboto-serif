@@ -1,0 +1,9 @@
+<glyph name="onequarter" format="2">
+  <advance width="500"/>
+  <unicode hex="00BC"/>
+  <outline>
+    <component base="one.num"/>
+    <component base="fraction" xOffset="254"/>
+    <component base="four.den" xOffset="518"/>
+  </outline>
+</glyph>

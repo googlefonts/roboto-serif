@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="parenleft" format="2">
+  <advance width="380"/>
+  <unicode hex="0028"/>
+  <guideline x="383.8" y="738.8305681143" angle="0" identifier="JmbYY574Y4"/>
+  <outline>
+    <contour>
+      <point x="238" y="310" type="curve" smooth="yes"/>
+      <point x="238" y="113"/>
+      <point x="316" y="-50"/>
+      <point x="375" y="-127" type="curve"/>
+      <point x="375" y="-130" type="line"/>
+      <point x="205" y="-130" type="line"/>
+      <point x="123" y="-51"/>
+      <point x="25" y="116"/>
+      <point x="25" y="310" type="curve" smooth="yes"/>
+      <point x="25" y="504"/>
+      <point x="123" y="671"/>
+      <point x="205" y="750" type="curve"/>
+      <point x="375" y="750" type="line"/>
+      <point x="375" y="747" type="line"/>
+      <point x="316" y="670"/>
+      <point x="238" y="507"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.JmbYY574Y4</key>
+      <integer>5</integer>
+      <key>public.markColor</key>
+      <string>1,0.5769,0,1</string>
+    </dict>
+  </lib>
+</glyph>
