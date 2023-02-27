@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Sdotbelowdotaccent" format="2">
   <advance width="500"/>
   <outline>
@@ -6,10 +5,4 @@
     <component base="dotaccent.uc" xOffset="36"/>
     <component base="dotbelow" xOffset="36"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>1,0,0,0.5</string>
-    </dict>
-  </lib>
 </glyph>

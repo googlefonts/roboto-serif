@@ -2,6 +2,7 @@
 <glyph name="breve.uc" format="2">
   <advance width="340"/>
   <anchor x="170.0" y="694" name="_top"/>
+  <anchor x="170.0" y="694" name="_top"/>
   <outline>
     <contour>
       <point x="250" y="760" type="curve" smooth="yes"/>
@@ -26,7 +27,7 @@
   <lib>
     <dict>
       <key>com.typemytype.robofont.guideline.magnetic.JYYMipmDEm</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>com.typesupply.AccentFactory.yCoordinates</key>
       <dict>
         <key>below</key>

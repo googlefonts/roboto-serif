@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="paragraph" format="2">
   <advance width="500"/>
   <unicode hex="00B6"/>
@@ -6,7 +5,7 @@
     <contour>
       <point x="460" y="710" type="line"/>
       <point x="455" y="679" type="line"/>
-      <point x="450" y="679" type="line"/>
+      <point x="450" y="679" type="line" smooth="yes"/>
       <point x="417" y="679"/>
       <point x="397" y="674"/>
       <point x="392" y="643" type="curve" smooth="yes"/>

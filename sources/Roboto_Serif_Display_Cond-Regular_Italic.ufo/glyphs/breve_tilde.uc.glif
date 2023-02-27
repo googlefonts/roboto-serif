@@ -2,10 +2,9 @@
 <glyph name="breve_tilde.uc" format="2">
   <advance width="340"/>
   <anchor x="190.4" y="694" name="_top"/>
+  <anchor x="190.4" y="694" name="_top"/>
   <outline>
     <contour>
-      <point x="238" y="974"/>
-      <point x="260" y="924"/>
       <point x="306" y="924" type="curve" smooth="yes"/>
       <point x="331" y="924"/>
       <point x="358" y="938"/>
@@ -24,6 +23,8 @@
       <point x="197" y="969"/>
       <point x="204" y="974"/>
       <point x="212" y="974" type="curve" smooth="yes"/>
+      <point x="238" y="974"/>
+      <point x="260" y="924"/>
     </contour>
     <contour>
       <point x="170" y="880" type="line"/>

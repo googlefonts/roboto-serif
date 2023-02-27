@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="b" format="2">
-  <advance width="690"/>
+  <advance width="686"/>
   <unicode hex="0062"/>
-  <guideline x="274" y="259" angle="90.0" identifier="WqqPf8r25r"/>
+  <guideline x="274" y="259" angle="90" identifier="WqqPf8r25r"/>
   <outline>
     <contour>
       <point x="429" y="-10" type="curve" smooth="yes"/>
@@ -43,13 +43,13 @@
       <point x="14" y="615" type="line"/>
       <point x="21" y="613" type="line" smooth="yes"/>
       <point x="41" y="607"/>
-      <point x="48.0" y="603.0"/>
+      <point x="48" y="603"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.guideline.magnetic.WqqPf8r25r</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>public.markColor</key>
       <string>0.9962,1,0.5137,1</string>
     </dict>

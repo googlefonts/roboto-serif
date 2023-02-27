@@ -2,7 +2,7 @@
 <glyph name="s" format="2">
   <advance width="537"/>
   <unicode hex="0073"/>
-  <guideline x="53.7" y="176" angle="90.0" identifier="zfm8SxwQRy"/>
+  <guideline x="53.7" y="176" angle="90" identifier="zfm8SxwQRy"/>
   <guideline x="0" y="528" angle="0" identifier="NlMSOiny8I"/>
   <anchor x="270.1957894736842" y="565" name="top"/>
   <anchor x="273.58736842105264" y="0" name="bottom"/>
@@ -64,7 +64,7 @@
       <array>
         <dict>
           <key>angle</key>
-          <real>90.0</real>
+          <integer>90</integer>
           <key>isGlobal</key>
           <false/>
           <key>magnetic</key>
@@ -854,10 +854,10 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>1.0</real>
+        <integer>1</integer>
         <real>0.5769</real>
-        <real>0.0</real>
-        <real>1.0</real>
+        <integer>0</integer>
+        <integer>1</integer>
       </array>
       <key>com.typesupply.AccentFactory.yCoordinates</key>
       <dict>

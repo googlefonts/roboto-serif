@@ -13,11 +13,11 @@
       <point x="95" y="40" type="curve" smooth="yes"/>
       <point x="133" y="255" type="line"/>
       <point x="163" y="255" type="line" smooth="yes"/>
-      <point x="315.0" y="255"/>
-      <point x="388.0" y="403.18637992831543"/>
+      <point x="315" y="255"/>
+      <point x="388" y="403.1863799283"/>
       <point x="388" y="527" type="curve" smooth="yes"/>
-      <point x="388.0" y="639.2954545454545"/>
-      <point x="323.0" y="710"/>
+      <point x="388" y="639.2954545455"/>
+      <point x="323" y="710"/>
       <point x="216" y="710" type="curve" smooth="yes"/>
       <point x="83" y="710" type="line"/>
       <point x="78" y="680" type="line"/>
@@ -83,7 +83,7 @@
   <lib>
     <dict>
       <key>com.typemytype.robofont.guideline.magnetic.PrnnInXzPV</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>public.markColor</key>
       <string>1,1,0.4,1</string>
     </dict>

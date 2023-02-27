@@ -2,8 +2,8 @@
 <glyph name="m" format="2">
   <advance width="999"/>
   <unicode hex="006D"/>
-  <guideline x="271" y="394" angle="90.0" identifier="y8cdxnEYdb"/>
-  <guideline x="600" y="350" angle="90.0" identifier="rVa4Gi432R"/>
+  <guideline x="271" y="394" angle="90" identifier="y8cdxnEYdb"/>
+  <guideline x="600" y="350" angle="90" identifier="rVa4Gi432R"/>
   <anchor x="506.0723684210526" y="-10.0" name="bottom"/>
   <outline>
     <contour>
@@ -89,9 +89,9 @@
   <lib>
     <dict>
       <key>com.typemytype.robofont.guideline.magnetic.rVa4Gi432R</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>com.typemytype.robofont.guideline.magnetic.y8cdxnEYdb</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>com.typesupply.AccentFactory.yCoordinates</key>
       <dict>
         <key>bottom</key>

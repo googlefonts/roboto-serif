@@ -3,22 +3,22 @@
   <advance width="652"/>
   <outline>
     <contour>
-      <point x="-19" y="113.0" type="line"/>
-      <point x="588" y="113.0" type="line"/>
-      <point x="624" y="258.0" type="line"/>
-      <point x="87" y="258.0" type="line"/>
-      <point x="63" y="185.0" type="line"/>
-      <point x="445" y="614.0" type="line"/>
-      <point x="463" y="667.0" type="line"/>
-      <point x="374" y="667.0" type="line"/>
-      <point x="23" y="279.0" type="line"/>
+      <point x="-19" y="113" type="line"/>
+      <point x="588" y="113" type="line"/>
+      <point x="624" y="258" type="line"/>
+      <point x="87" y="258" type="line"/>
+      <point x="63" y="185" type="line"/>
+      <point x="445" y="614" type="line"/>
+      <point x="463" y="667" type="line"/>
+      <point x="374" y="667" type="line"/>
+      <point x="23" y="279" type="line"/>
     </contour>
     <contour>
-      <point x="447" y="-50.0" type="line"/>
-      <point x="626" y="667.0" type="line"/>
-      <point x="435" y="667.0" type="line"/>
-      <point x="424" y="642.0" type="line"/>
-      <point x="251" y="-50.0" type="line"/>
+      <point x="447" y="-50" type="line"/>
+      <point x="626" y="667" type="line"/>
+      <point x="435" y="667" type="line"/>
+      <point x="424" y="642" type="line"/>
+      <point x="251" y="-50" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -279,9 +279,9 @@
       <key>com.typemytype.robofont.mark</key>
       <array>
         <real>0.9962</real>
-        <real>1.0</real>
+        <integer>1</integer>
         <real>0.5137</real>
-        <real>1.0</real>
+        <integer>1</integer>
       </array>
       <key>public.markColor</key>
       <string>1,0.5769,0,1</string>

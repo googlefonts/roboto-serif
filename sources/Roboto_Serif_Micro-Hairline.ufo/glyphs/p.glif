@@ -2,7 +2,7 @@
 <glyph name="p" format="2">
   <advance width="688"/>
   <unicode hex="0070"/>
-  <guideline x="178.88" y="310" angle="90.0" identifier="ITZYbrXAXF"/>
+  <guideline x="178.88" y="310" angle="90" identifier="ITZYbrXAXF"/>
   <outline>
     <contour>
       <point x="306" y="-223" type="line"/>
@@ -517,10 +517,10 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>1.0</real>
+        <integer>1</integer>
         <real>0.5769</real>
-        <real>0.0</real>
-        <real>1.0</real>
+        <integer>0</integer>
+        <integer>1</integer>
       </array>
       <key>public.markColor</key>
       <string>1,0.5769,0,1</string>

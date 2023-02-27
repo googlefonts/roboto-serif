@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="breve_tilde" format="2">
   <advance width="510"/>
-  <guideline x="119" y="766" angle="90.0" identifier="c9VBPvl5al"/>
+  <guideline x="119" y="766" angle="90" identifier="c9VBPvl5al"/>
   <anchor x="255.0" y="524" name="_top"/>
   <outline>
     <contour>
@@ -46,7 +46,7 @@
   <lib>
     <dict>
       <key>com.typemytype.robofont.guideline.magnetic.c9VBPvl5al</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>com.typesupply.AccentFactory.xCoordinates</key>
       <dict>
         <key>center</key>

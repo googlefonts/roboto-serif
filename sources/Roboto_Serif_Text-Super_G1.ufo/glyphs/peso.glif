@@ -2,7 +2,7 @@
 <glyph name="peso" format="2">
   <advance width="560"/>
   <unicode hex="20B1"/>
-  <guideline x="44.800000000000004" y="629" angle="90" identifier="HVcWL5P1TR"/>
+  <guideline x="44.8" y="629" angle="90" identifier="HVcWL5P1TR"/>
   <outline>
     <contour>
       <point x="12" y="0" type="line"/>
@@ -10,7 +10,7 @@
       <point x="284" y="42" type="line"/>
       <point x="278" y="42" type="line" smooth="yes"/>
       <point x="255" y="42"/>
-      <point x="243.0" y="44.0"/>
+      <point x="243" y="44"/>
       <point x="243" y="51" type="curve" smooth="yes"/>
       <point x="243" y="199" type="line"/>
       <point x="256" y="199" type="line" smooth="yes"/>
@@ -27,7 +27,7 @@
       <point x="48" y="661"/>
       <point x="48" y="632" type="curve" smooth="yes"/>
       <point x="48" y="78" type="line" smooth="yes"/>
-      <point x="48.0" y="49.0"/>
+      <point x="48" y="49"/>
       <point x="37" y="42"/>
       <point x="22" y="42" type="curve" smooth="yes"/>
       <point x="12" y="42" type="line"/>
@@ -44,15 +44,15 @@
       <point x="243" y="657" type="line"/>
     </contour>
     <contour>
-      <point x="12.0" y="493.0" type="line"/>
-      <point x="12.0" y="433.0" type="line"/>
+      <point x="12" y="493" type="line"/>
+      <point x="12" y="433" type="line"/>
       <point x="193" y="433" type="line"/>
       <point x="210" y="438" type="line"/>
       <point x="407" y="438" type="line"/>
       <point x="442" y="433" type="line"/>
-      <point x="560.0" y="433.0" type="line"/>
-      <point x="560.0" y="493.0" type="line"/>
-      <point x="455.0" y="493.0" type="line"/>
+      <point x="560" y="433" type="line"/>
+      <point x="560" y="493" type="line"/>
+      <point x="455" y="493" type="line"/>
       <point x="422" y="487" type="line"/>
       <point x="188" y="487" type="line"/>
       <point x="181" y="493" type="line"/>
@@ -61,7 +61,7 @@
   <lib>
     <dict>
       <key>com.typemytype.robofont.guideline.magnetic.HVcWL5P1TR</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>public.markColor</key>
       <string>0.9962,1,0.5137,1</string>
     </dict>

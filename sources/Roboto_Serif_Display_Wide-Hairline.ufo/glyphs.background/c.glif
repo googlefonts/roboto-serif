@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="c" format="2">
   <advance width="623"/>
   <unicode hex="0063"/>
@@ -72,25 +71,25 @@
   </outline>
   <lib>
     <dict>
-      <key>com.typesupply.AccentFactory.yCoordinates</key>
-      <dict>
-        <key>bottom</key>
-        <dict>
-          <key>name</key>
-          <string>origin</string>
-          <key>type</key>
-          <string>glyphMetric</string>
-        </dict>
-        <key>top</key>
-        <dict>
-          <key>name</key>
-          <string>xHeight</string>
-          <key>type</key>
-          <string>fontInfo</string>
-        </dict>
-      </dict>
-      <key>public.markColor</key>
-      <string>1,0.3151,0.8535,1</string>
-    </dict>
+	<key>com.typesupply.AccentFactory.yCoordinates</key>
+	<dict>
+		<key>bottom</key>
+		<dict>
+			<key>name</key>
+			<string>origin</string>
+			<key>type</key>
+			<string>glyphMetric</string>
+		</dict>
+		<key>top</key>
+		<dict>
+			<key>name</key>
+			<string>xHeight</string>
+			<key>type</key>
+			<string>fontInfo</string>
+		</dict>
+	</dict>
+	<key>public.markColor</key>
+	<string>1,0.3151,0.8535,1</string>
+</dict>
   </lib>
 </glyph>

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="peseta.proportional" format="2">
   <advance width="826"/>
-  <guideline x="801" y="103" angle="90.0" identifier="hELvUWEVYV"/>
+  <guideline x="801" y="103" angle="90" identifier="hELvUWEVYV"/>
   <outline>
     <contour>
       <point x="43" y="0" type="line"/>
@@ -9,7 +9,7 @@
       <point x="322" y="32" type="line"/>
       <point x="295" y="32" type="line" smooth="yes"/>
       <point x="263" y="32"/>
-      <point x="222.0" y="35.0"/>
+      <point x="222" y="35"/>
       <point x="222" y="42" type="curve" smooth="yes"/>
       <point x="222" y="275" type="line"/>
       <point x="248" y="275" type="line" smooth="yes"/>
@@ -23,7 +23,7 @@
       <point x="43" y="679" type="line"/>
       <point x="54" y="679" type="line" smooth="yes"/>
       <point x="97" y="679"/>
-      <point x="129.0" y="672.0"/>
+      <point x="129" y="672"/>
       <point x="129" y="643" type="curve" smooth="yes"/>
       <point x="129" y="68" type="line" smooth="yes"/>
       <point x="129" y="39"/>
@@ -57,7 +57,7 @@
       <point x="769" y="34"/>
       <point x="749" y="34" type="curve" smooth="yes"/>
       <point x="703" y="34"/>
-      <point x="675.0" y="55.0"/>
+      <point x="675" y="55"/>
       <point x="675" y="125" type="curve" smooth="yes"/>
       <point x="675" y="648" type="line"/>
       <point x="603" y="648" type="line"/>
@@ -74,7 +74,7 @@
   <lib>
     <dict>
       <key>com.typemytype.robofont.guideline.magnetic.hELvUWEVYV</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>public.markColor</key>
       <string>0.9962,1,0.5137,1</string>
     </dict>

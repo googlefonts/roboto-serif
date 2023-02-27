@@ -2,7 +2,7 @@
 <glyph name="z" format="2">
   <advance width="530"/>
   <unicode hex="007A"/>
-  <guideline x="439.9" y="249" angle="90.0"/>
+  <guideline x="439.9" y="249" angle="90"/>
   <anchor x="270.6382978723404" y="565" name="top"/>
   <anchor x="292.063829787234" y="0" name="bottom"/>
   <outline>
@@ -37,7 +37,7 @@
       <array>
         <dict>
           <key>angle</key>
-          <real>90.0</real>
+          <integer>90</integer>
           <key>isGlobal</key>
           <false/>
           <key>magnetic</key>

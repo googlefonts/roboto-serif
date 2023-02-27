@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="sterling.altprop" format="2">
   <advance width="528"/>
   <outline>
@@ -18,8 +17,8 @@
       <point x="344.54" y="591.2" type="curve"/>
       <point x="371.92" y="600.74"/>
       <point x="373.32" y="630.26"/>
-      <point x="334.34000000000003" y="630.5" type="curve"/>
-      <point x="334.34000000000003" y="517.1" type="line"/>
+      <point x="334.34" y="630.5" type="curve"/>
+      <point x="334.34" y="517.1" type="line"/>
       <point x="491.42" y="517.1" type="line"/>
       <point x="491.42" y="661.06" type="line"/>
       <point x="454.2" y="692.7"/>
@@ -34,8 +33,8 @@
       <point x="133.78" y="180.68"/>
       <point x="95.22" y="140.66"/>
       <point x="22.6" y="120.46" type="curve"/>
-      <point x="22.6" y="0.0" type="line"/>
-      <point x="508.82" y="0.0" type="line"/>
+      <point x="22.6" y="0" type="line"/>
+      <point x="508.82" y="0" type="line"/>
       <point x="508.82" y="242.66" type="line"/>
       <point x="427.74" y="242.66" type="line"/>
       <point x="419.8" y="183.14" type="line" smooth="yes"/>
@@ -48,7 +47,7 @@
       <point x="305.24" y="191.92"/>
       <point x="305.24" y="275.44" type="curve" smooth="yes"/>
       <point x="305.24" y="378.62"/>
-      <point x="263.52" y="456.0"/>
+      <point x="263.52" y="456"/>
     </contour>
   </outline>
 </glyph>

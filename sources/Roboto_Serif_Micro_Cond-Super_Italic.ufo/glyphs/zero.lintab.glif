@@ -3,38 +3,38 @@
   <advance width="560"/>
   <outline>
     <contour>
-      <point x="217" y="-11.0" type="curve" smooth="yes"/>
-      <point x="453.0" y="-11.0"/>
-      <point x="549.0" y="305.0"/>
-      <point x="549.0" y="518.0" type="curve" smooth="yes"/>
-      <point x="549.0" y="644.0"/>
-      <point x="481.0" y="735.0"/>
-      <point x="343" y="735.0" type="curve" smooth="yes"/>
-      <point x="107.0" y="735.0"/>
+      <point x="217" y="-11" type="curve" smooth="yes"/>
+      <point x="453" y="-11"/>
+      <point x="549" y="305"/>
+      <point x="549" y="518" type="curve" smooth="yes"/>
+      <point x="549" y="644"/>
+      <point x="481" y="735"/>
+      <point x="343" y="735" type="curve" smooth="yes"/>
+      <point x="107" y="735"/>
       <point x="11" y="419"/>
-      <point x="11" y="206.0" type="curve" smooth="yes"/>
+      <point x="11" y="206" type="curve" smooth="yes"/>
       <point x="11" y="80"/>
-      <point x="79" y="-11.0"/>
+      <point x="79" y="-11"/>
     </contour>
     <contour>
       <point x="219" y="73" type="curve" smooth="yes"/>
-      <point x="191.5" y="73.0"/>
-      <point x="186.0" y="88.07692307692308"/>
+      <point x="191.5" y="73"/>
+      <point x="186" y="88.0769230769"/>
       <point x="186" y="122" type="curve" smooth="yes"/>
-      <point x="186.0" y="161.45882352941177"/>
-      <point x="198.64316982434167" y="242.4834717534521"/>
+      <point x="186" y="161.4588235294"/>
+      <point x="198.6431698243" y="242.4834717535"/>
       <point x="231" y="380" type="curve"/>
-      <point x="286.08246797189446" y="613.3493643172983"/>
-      <point x="303.9906542056075" y="651.0"/>
+      <point x="286.0824679719" y="613.3493643173"/>
+      <point x="303.9906542056" y="651"/>
       <point x="341" y="651" type="curve" smooth="yes"/>
-      <point x="368.5" y="651.0"/>
-      <point x="374.0" y="635.9230769230769"/>
+      <point x="368.5" y="651"/>
+      <point x="374" y="635.9230769231"/>
       <point x="374" y="602" type="curve" smooth="yes"/>
-      <point x="374.0" y="562.5411764705882"/>
-      <point x="361.35683017565833" y="481.5165282465479"/>
+      <point x="374" y="562.5411764706"/>
+      <point x="361.3568301757" y="481.5165282465"/>
       <point x="329" y="344" type="curve"/>
-      <point x="273.91753202810554" y="110.65063568270165"/>
-      <point x="256.0093457943925" y="73.0"/>
+      <point x="273.9175320281" y="110.6506356827"/>
+      <point x="256.0093457944" y="73"/>
     </contour>
   </outline>
   <lib>
@@ -42,9 +42,9 @@
       <key>com.typemytype.robofont.mark</key>
       <array>
         <real>0.9962</real>
-        <real>1.0</real>
+        <integer>1</integer>
         <real>0.5137</real>
-        <real>1.0</real>
+        <integer>1</integer>
       </array>
       <key>public.markColor</key>
       <string>0.8431,0.8627,1,1</string>

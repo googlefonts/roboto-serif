@@ -4,10 +4,8 @@
   <unicode hex="0039"/>
   <outline>
     <contour>
-      <point x="33" y="523"/>
-      <point x="109" y="693"/>
       <point x="325" y="693" type="curve" smooth="yes"/>
-      <point x="475.0" y="693.0"/>
+      <point x="475" y="693"/>
       <point x="544" y="620"/>
       <point x="544" y="470" type="curve" smooth="yes"/>
       <point x="544" y="211"/>
@@ -42,6 +40,8 @@
       <point x="84" y="219"/>
       <point x="33" y="272"/>
       <point x="33" y="359" type="curve" smooth="yes"/>
+      <point x="33" y="523"/>
+      <point x="109" y="693"/>
     </contour>
   </outline>
   <lib>
@@ -355,9 +355,9 @@
       <key>com.typemytype.robofont.mark</key>
       <array>
         <real>0.9962</real>
-        <real>1.0</real>
+        <integer>1</integer>
         <real>0.5137</real>
-        <real>1.0</real>
+        <integer>1</integer>
       </array>
       <key>public.markColor</key>
       <string>1,0.5769,0,1</string>

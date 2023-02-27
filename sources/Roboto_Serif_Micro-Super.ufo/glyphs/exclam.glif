@@ -4,21 +4,15 @@
   <unicode hex="0021"/>
   <outline>
     <contour>
-      <point x="352.0" y="765" type="line"/>
-      <point x="352.0" y="573"/>
-      <point x="287.0" y="476"/>
-      <point x="287.0" y="283" type="curve"/>
-      <point x="161.0" y="283" type="line"/>
-      <point x="161.0" y="476"/>
-      <point x="96.0" y="572"/>
-      <point x="96.0" y="765" type="curve"/>
+      <point x="352" y="765" type="line"/>
+      <point x="352" y="573"/>
+      <point x="287" y="476"/>
+      <point x="287" y="283" type="curve"/>
+      <point x="161" y="283" type="line"/>
+      <point x="161" y="476"/>
+      <point x="96" y="572"/>
+      <point x="96" y="765" type="curve"/>
     </contour>
     <component base="period"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>1,0.5769,0,1</string>
-    </dict>
-  </lib>
 </glyph>

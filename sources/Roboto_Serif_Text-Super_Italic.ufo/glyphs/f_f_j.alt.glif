@@ -26,8 +26,6 @@
       <point x="478" y="504" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="393" y="606"/>
-      <point x="411" y="637"/>
       <point x="463" y="637" type="curve" smooth="yes"/>
       <point x="498" y="637"/>
       <point x="514" y="621"/>
@@ -47,6 +45,8 @@
       <point x="40" y="-223" type="line"/>
       <point x="216" y="-223" type="line"/>
       <point x="377" y="532" type="line" smooth="yes"/>
+      <point x="393" y="606"/>
+      <point x="411" y="637"/>
     </contour>
     <contour>
       <point x="44" y="514" type="line"/>
@@ -55,8 +55,6 @@
       <point x="526" y="514" type="line"/>
     </contour>
     <contour>
-      <point x="812" y="429"/>
-      <point x="821" y="420"/>
       <point x="817" y="401" type="curve" smooth="yes"/>
       <point x="745" y="7" type="line" smooth="yes"/>
       <point x="725" y="-103"/>
@@ -75,7 +73,9 @@
       <point x="1081" y="514" type="line"/>
       <point x="392" y="514" type="line"/>
       <point x="378" y="429" type="line"/>
-      <point x="790" y="429" type="line"/>
+      <point x="790" y="429" type="line" smooth="yes"/>
+      <point x="812" y="429"/>
+      <point x="821" y="420"/>
     </contour>
   </outline>
   <lib>

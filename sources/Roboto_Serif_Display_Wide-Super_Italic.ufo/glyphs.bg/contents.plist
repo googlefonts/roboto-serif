@@ -208,6 +208,8 @@
     <string>G_commaaccent.glif</string>
     <key>Gdotaccent</key>
     <string>G_dotaccent.glif</string>
+    <key>Gecyr</key>
+    <string>G_ecyr.glif</string>
     <key>Germandbls</key>
     <string>G_ermandbls.glif</string>
     <key>Gmacron</key>
@@ -248,10 +250,6 @@
     <string>I_dotbelow.glif</string>
     <key>Igrave</key>
     <string>I_grave.glif</string>
-    <key>Ihoi</key>
-    <string>I_hoi.glif</string>
-    <key>Ihookabove</key>
-    <string>I_hookabove.glif</string>
     <key>Iinvertedbreve</key>
     <string>I_invertedbreve.glif</string>
     <key>Imacron</key>
@@ -410,8 +408,6 @@
     <string>R_linebelow.glif</string>
     <key>S</key>
     <string>S_.glif</string>
-    <key>SS</key>
-    <string>S_S_.glif</string>
     <key>Sacute</key>
     <string>S_acute.glif</string>
     <key>Sacute.pl</key>
@@ -462,6 +458,8 @@
     <string>U_caron.glif</string>
     <key>Ucircumflex</key>
     <string>U_circumflex.glif</string>
+    <key>Ucyr</key>
+    <string>U_cyr.glif</string>
     <key>Udblgrave</key>
     <string>U_dblgrave.glif</string>
     <key>Udieresis</key>
@@ -674,8 +672,6 @@
     <string>blackrightpointingtriangle.glif</string>
     <key>blacksquare</key>
     <string>blacksquare.glif</string>
-    <key>blacktriangle</key>
-    <string>blacktriangle.glif</string>
     <key>blackuppointingtriangle</key>
     <string>blackuppointingtriangle.glif</string>
     <key>braceleft</key>
@@ -966,10 +962,6 @@
     <string>eight.sub.glif</string>
     <key>eight.sup</key>
     <string>eight.sup.glif</string>
-    <key>eightinferior</key>
-    <string>eightinferior.glif</string>
-    <key>eightsuperior</key>
-    <string>eightsuperior.glif</string>
     <key>einvertedbreve</key>
     <string>einvertedbreve.glif</string>
     <key>ellipsis</key>
@@ -1094,10 +1086,6 @@
     <string>five.sup.glif</string>
     <key>fiveeighths</key>
     <string>fiveeighths.glif</string>
-    <key>fiveinferior</key>
-    <string>fiveinferior.glif</string>
-    <key>fivesuperior</key>
-    <string>fivesuperior.glif</string>
     <key>fl</key>
     <string>fl.glif</string>
     <key>florin</key>
@@ -1126,10 +1114,6 @@
     <string>four.sub.glif</string>
     <key>four.sup</key>
     <string>four.sup.glif</string>
-    <key>fourinferior</key>
-    <string>fourinferior.glif</string>
-    <key>foursuperior</key>
-    <string>foursuperior.glif</string>
     <key>fourthtonechinese</key>
     <string>fourthtonechinese.glif</string>
     <key>fraction</key>
@@ -1260,14 +1244,8 @@
     <string>idotaccent.glif</string>
     <key>idotbelow</key>
     <string>idotbelow.glif</string>
-    <key>idotless</key>
-    <string>idotless.glif</string>
     <key>igrave</key>
     <string>igrave.glif</string>
-    <key>ihoi</key>
-    <string>ihoi.glif</string>
-    <key>ihookabove</key>
-    <string>ihookabove.glif</string>
     <key>iinvertedbreve</key>
     <string>iinvertedbreve.glif</string>
     <key>ij</key>
@@ -1290,8 +1268,6 @@
     <string>jacute.glif</string>
     <key>jcircumflex</key>
     <string>jcircumflex.glif</string>
-    <key>jdotless</key>
-    <string>jdotless.glif</string>
     <key>k</key>
     <string>k.glif</string>
     <key>kcommaaccent</key>
@@ -1334,10 +1310,10 @@
     <string>liraT_urkish.glif</string>
     <key>liraTurkish.proportional</key>
     <string>liraT_urkish.proportional.glif</string>
-    <key>literSign</key>
-    <string>literS_ign.glif</string>
     <key>litre</key>
     <string>litre.glif</string>
+    <key>ljecyr</key>
+    <string>ljecyr.glif</string>
     <key>llinebelow</key>
     <string>llinebelow.glif</string>
     <key>logicalnot</key>
@@ -1438,10 +1414,6 @@
     <string>nine.sub.glif</string>
     <key>nine.sup</key>
     <string>nine.sup.glif</string>
-    <key>nineinferior</key>
-    <string>nineinferior.glif</string>
-    <key>ninesuperior</key>
-    <string>ninesuperior.glif</string>
     <key>nlinebelow</key>
     <string>nlinebelow.glif</string>
     <key>notequal</key>
@@ -1546,12 +1518,8 @@
     <string>oneeighth.glif</string>
     <key>onehalf</key>
     <string>onehalf.glif</string>
-    <key>oneinferior</key>
-    <string>oneinferior.glif</string>
     <key>onequarter</key>
     <string>onequarter.glif</string>
-    <key>onesuperior</key>
-    <string>onesuperior.glif</string>
     <key>onethird</key>
     <string>onethird.glif</string>
     <key>oogonek</key>
@@ -1748,10 +1716,6 @@
     <string>seven.sup.glif</string>
     <key>seveneighths</key>
     <string>seveneighths.glif</string>
-    <key>seveninferior</key>
-    <string>seveninferior.glif</string>
-    <key>sevensuperior</key>
-    <string>sevensuperior.glif</string>
     <key>six</key>
     <string>six.glif</string>
     <key>six.den</key>
@@ -1774,10 +1738,6 @@
     <string>six.sub.glif</string>
     <key>six.sup</key>
     <string>six.sup.glif</string>
-    <key>sixinferior</key>
-    <string>sixinferior.glif</string>
-    <key>sixsuperior</key>
-    <string>sixsuperior.glif</string>
     <key>slash</key>
     <string>slash.glif</string>
     <key>slash.uc</key>
@@ -1806,8 +1766,6 @@
     <string>tcaron.glif</string>
     <key>tcedilla</key>
     <string>tcedilla.glif</string>
-    <key>tcommaaccent</key>
-    <string>tcommaaccent.glif</string>
     <key>tdieresis</key>
     <string>tdieresis.glif</string>
     <key>tdotbelow</key>
@@ -1844,12 +1802,8 @@
     <string>three.sup.glif</string>
     <key>threeeighths</key>
     <string>threeeighths.glif</string>
-    <key>threeinferior</key>
-    <string>threeinferior.glif</string>
     <key>threequarters</key>
     <string>threequarters.glif</string>
-    <key>threesuperior</key>
-    <string>threesuperior.glif</string>
     <key>tilde</key>
     <string>tilde.glif</string>
     <key>tilde.uc</key>
@@ -1894,10 +1848,6 @@
     <string>two.sub.glif</string>
     <key>two.sup</key>
     <string>two.sup.glif</string>
-    <key>twoinferior</key>
-    <string>twoinferior.glif</string>
-    <key>twosuperior</key>
-    <string>twosuperior.glif</string>
     <key>twothirds</key>
     <string>twothirds.glif</string>
     <key>u</key>
@@ -2008,8 +1958,6 @@
     <string>whiterightpointingtriangle.glif</string>
     <key>whitesquare</key>
     <string>whitesquare.glif</string>
-    <key>whitetriangle</key>
-    <string>whitetriangle.glif</string>
     <key>whiteuppointingtriangle</key>
     <string>whiteuppointingtriangle.glif</string>
     <key>won</key>
@@ -2090,10 +2038,6 @@
     <string>zero.sup.glif</string>
     <key>zero.zero</key>
     <string>zero.zero.glif</string>
-    <key>zeroinferior</key>
-    <string>zeroinferior.glif</string>
-    <key>zerosuperior</key>
-    <string>zerosuperior.glif</string>
     <key>zerowidthspace</key>
     <string>zerowidthspace.glif</string>
   </dict>

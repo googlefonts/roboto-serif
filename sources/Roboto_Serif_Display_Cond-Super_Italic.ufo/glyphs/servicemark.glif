@@ -10,14 +10,14 @@
       <point x="388" y="402" type="line" smooth="yes"/>
       <point x="381" y="402"/>
       <point x="372" y="403"/>
-      <point x="373" y="406" type="curve" smooth="yes"/>
+      <point x="373" y="406" type="curve"/>
       <point x="425" y="701" type="line"/>
       <point x="408" y="700" type="line"/>
       <point x="415" y="368" type="line"/>
       <point x="475" y="368" type="line"/>
       <point x="601" y="699" type="line"/>
       <point x="584" y="699" type="line"/>
-      <point x="532" y="406" type="line" smooth="yes"/>
+      <point x="532" y="406" type="line"/>
       <point x="531" y="403"/>
       <point x="525" y="402"/>
       <point x="518" y="402" type="curve" smooth="yes"/>
@@ -48,12 +48,10 @@
       <point x="337" y="418" type="line" smooth="yes"/>
       <point x="335" y="405"/>
       <point x="330" y="402"/>
-      <point x="322" y="402" type="curve"/>
+      <point x="322" y="402" type="curve" smooth="yes"/>
       <point x="319" y="402" type="line"/>
     </contour>
     <contour>
-      <point x="140" y="716"/>
-      <point x="81" y="676"/>
       <point x="81" y="599" type="curve" smooth="yes"/>
       <point x="81" y="535"/>
       <point x="122" y="511"/>
@@ -98,28 +96,30 @@
       <point x="309" y="694"/>
       <point x="261" y="716"/>
       <point x="209" y="716" type="curve" smooth="yes"/>
+      <point x="140" y="716"/>
+      <point x="81" y="676"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.guideline.magnetic.8f6NL2ffAv</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>com.typemytype.robofont.guideline.magnetic.CcEwXiYlFh</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>com.typemytype.robofont.guideline.magnetic.DGSz7gjglA</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>com.typemytype.robofont.guideline.magnetic.ESHwElftaD</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>com.typemytype.robofont.guideline.magnetic.OImpKXIZoB</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>com.typemytype.robofont.guideline.magnetic.UTqYBP0Bpo</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>com.typemytype.robofont.guideline.magnetic.nXXvCimhrC</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>com.typemytype.robofont.guideline.magnetic.nm6PjIGaxV</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>com.typemytype.robofont.guideline.magnetic.ocUwdjMfJ3</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>public.markColor</key>
       <string>1,0.6568,1,1</string>
     </dict>

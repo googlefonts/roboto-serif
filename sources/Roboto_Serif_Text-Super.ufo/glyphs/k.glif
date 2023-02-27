@@ -3,7 +3,7 @@
   <advance width="728"/>
   <unicode hex="006B"/>
   <guideline x="276.64" y="286" angle="90" identifier="GhmwqXmYTY"/>
-  <guideline x="0.0" y="518" angle="0" identifier="gsEobOBTar"/>
+  <guideline x="0" y="518" angle="0" identifier="gsEobOBTar"/>
   <anchor x="368.5930599369085" y="0" name="bottom"/>
   <outline>
     <contour>
@@ -61,9 +61,9 @@
   <lib>
     <dict>
       <key>com.typemytype.robofont.guideline.magnetic.GhmwqXmYTY</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>com.typemytype.robofont.guideline.magnetic.gsEobOBTar</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>com.typesupply.AccentFactory.yCoordinates</key>
       <dict>
         <key>bottom</key>

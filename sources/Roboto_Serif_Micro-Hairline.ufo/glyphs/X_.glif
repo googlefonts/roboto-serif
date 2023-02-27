@@ -2,8 +2,8 @@
 <glyph name="X" format="2">
   <advance width="758"/>
   <unicode hex="0058"/>
-  <guideline x="-7.58" y="65" angle="90.0"/>
-  <guideline x="704.94" y="84" angle="90.0"/>
+  <guideline x="-7.58" y="65" angle="90"/>
+  <guideline x="704.94" y="84" angle="90"/>
   <outline>
     <contour>
       <point x="43" y="662" type="line"/>
@@ -71,9 +71,9 @@
   <lib>
     <dict>
       <key>com.typemytype.robofont.guideline.magnetic.91cUJph7ZE</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>com.typemytype.robofont.guideline.magnetic.vED2qdS4Wg</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>public.markColor</key>
       <string>1,0.5769,0,1</string>
     </dict>

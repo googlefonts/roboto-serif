@@ -7,7 +7,7 @@
   <outline>
     <contour>
       <point x="734" y="223" type="line" smooth="yes"/>
-      <point x="734.0" y="256.0"/>
+      <point x="734" y="256"/>
       <point x="745" y="263"/>
       <point x="774" y="263" type="curve" smooth="yes"/>
       <point x="797" y="263" type="line"/>
@@ -16,7 +16,7 @@
       <point x="434" y="263" type="line"/>
       <point x="463" y="263" type="line" smooth="yes"/>
       <point x="495" y="263"/>
-      <point x="523.0" y="256.0"/>
+      <point x="523" y="256"/>
       <point x="523" y="223" type="curve" smooth="yes"/>
       <point x="523" y="105" type="line"/>
       <point x="503" y="89"/>
@@ -1729,10 +1729,10 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>1.0</real>
+        <integer>1</integer>
         <real>0.5769</real>
-        <real>0.0</real>
-        <real>1.0</real>
+        <integer>0</integer>
+        <integer>1</integer>
       </array>
       <key>com.typesupply.AccentFactory.yCoordinates</key>
       <dict>

@@ -54,7 +54,7 @@
     </contour>
     <contour>
       <point x="211" y="415" type="curve" smooth="yes"/>
-      <point x="156.0" y="415.0"/>
+      <point x="156" y="415"/>
       <point x="123.690469221" y="444.977911568"/>
       <point x="109" y="488" type="curve"/>
       <point x="50" y="488" type="line"/>
@@ -70,11 +70,11 @@
       <point x="308" y="363"/>
       <point x="367" y="402"/>
       <point x="367" y="484" type="curve" smooth="yes"/>
-      <point x="367.0" y="557.620689655"/>
+      <point x="367" y="557.620689655"/>
       <point x="319.212108883" y="586.953138735"/>
       <point x="233" y="606" type="curve" smooth="yes"/>
       <point x="198.04897586" y="613.988805518"/>
-      <point x="171.0" y="618.628571429"/>
+      <point x="171" y="618.628571429"/>
       <point x="171" y="640" type="curve" smooth="yes"/>
       <point x="171" y="656"/>
       <point x="184" y="664"/>
@@ -95,11 +95,11 @@
       <point x="112" y="716"/>
       <point x="60" y="679"/>
       <point x="60" y="608" type="curve" smooth="yes"/>
-      <point x="60.0" y="526.982608696"/>
+      <point x="60" y="526.982608696"/>
       <point x="124.777557491" y="503.062440002"/>
       <point x="182" y="487" type="curve" smooth="yes"/>
       <point x="238.916990497" y="472.021844606"/>
-      <point x="254.0" y="465.5"/>
+      <point x="254" y="465.5"/>
       <point x="254" y="444" type="curve" smooth="yes"/>
       <point x="254" y="425"/>
       <point x="238" y="415"/>
@@ -108,7 +108,7 @@
   <lib>
     <dict>
       <key>com.typemytype.robofont.guideline.magnetic.JOfFnnmGX8</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>public.markColor</key>
       <string>1,0,0,0.5</string>
     </dict>

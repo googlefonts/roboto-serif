@@ -2,14 +2,14 @@
 <glyph name="Dcroat" format="2">
   <advance width="755"/>
   <unicode hex="0110"/>
-  <guideline x="36" y="666" angle="90.0" identifier="CSqhscToHZ"/>
+  <guideline x="36" y="666" angle="90" identifier="CSqhscToHZ"/>
   <outline>
     <component base="Eth"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.guideline.magnetic.CSqhscToHZ</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>public.markColor</key>
       <string>0.9962,1,0.5137,1</string>
     </dict>

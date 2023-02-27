@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="indianrupee" format="2">
+  <advance width="680"/>
+  <unicode hex="20B9"/>
+  <outline>
+    <contour>
+      <point x="93" y="523" type="line"/>
+      <point x="84" y="471" type="line"/>
+      <point x="690" y="471" type="line"/>
+      <point x="700" y="523" type="line"/>
+    </contour>
+    <contour>
+      <point x="121" y="294" type="line"/>
+      <point x="255" y="284" type="line"/>
+      <point x="469" y="284"/>
+      <point x="634" y="348"/>
+      <point x="634" y="514" type="curve" smooth="yes"/>
+      <point x="634" y="625"/>
+      <point x="542" y="686"/>
+      <point x="358" y="686" type="curve"/>
+      <point x="251" y="662" type="line"/>
+      <point x="724" y="662" type="line"/>
+      <point x="732" y="710" type="line"/>
+      <point x="127" y="710" type="line"/>
+      <point x="117" y="658" type="line"/>
+      <point x="222" y="658" type="line" smooth="yes"/>
+      <point x="305" y="658"/>
+      <point x="346" y="610"/>
+      <point x="346" y="525" type="curve" smooth="yes"/>
+      <point x="346" y="406"/>
+      <point x="274" y="318"/>
+      <point x="149" y="318" type="curve" smooth="yes"/>
+      <point x="57" y="318" type="line"/>
+      <point x="49" y="274" type="line"/>
+      <point x="264" y="0" type="line"/>
+      <point x="610" y="0" type="line"/>
+      <point x="620" y="42" type="line"/>
+      <point x="603" y="42" type="line" smooth="yes"/>
+      <point x="571" y="42"/>
+      <point x="553" y="49"/>
+      <point x="533" y="70" type="curve" smooth="yes"/>
+      <point x="334" y="330" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guideline.magnetic.ErQdrOrSuM</key>
+      <integer>5</integer>
+      <key>com.typemytype.robofont.guideline.magnetic.FtqXCL5GYL</key>
+      <integer>5</integer>
+      <key>public.markColor</key>
+      <string>0.9904,0.5124,0.4439,1</string>
+    </dict>
+  </lib>
+</glyph>

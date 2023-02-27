@@ -1,8 +1,7 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Z" format="2">
   <advance width="480"/>
   <unicode hex="005A"/>
-  <guideline x="456" y="640" angle="66.95875332643614" identifier="heoiGEFTlP"/>
+  <guideline x="456" y="640" angle="66.9587533264" identifier="heoiGEFTlP"/>
   <outline>
     <contour>
       <point x="152" y="48" type="line"/>
@@ -31,29 +30,29 @@
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.guideline.magnetic.c4FmmiCNJP</key>
-      <real>5.0</real>
-      <key>com.typemytype.robofont.guideline.magnetic.o4zsCJBdpd</key>
-      <real>5.0</real>
-      <key>com.typesupply.AccentFactory.yCoordinates</key>
-      <dict>
-        <key>bottom</key>
-        <dict>
-          <key>name</key>
-          <string>origin</string>
-          <key>type</key>
-          <string>glyphMetric</string>
-        </dict>
-        <key>top</key>
-        <dict>
-          <key>name</key>
-          <string>capHeight</string>
-          <key>type</key>
-          <string>fontInfo</string>
-        </dict>
-      </dict>
-      <key>public.markColor</key>
-      <string>0,1,1,1</string>
-    </dict>
+	<key>com.typemytype.robofont.guideline.magnetic.c4FmmiCNJP</key>
+	<integer>5</integer>
+	<key>com.typemytype.robofont.guideline.magnetic.o4zsCJBdpd</key>
+	<integer>5</integer>
+	<key>com.typesupply.AccentFactory.yCoordinates</key>
+	<dict>
+		<key>bottom</key>
+		<dict>
+			<key>name</key>
+			<string>origin</string>
+			<key>type</key>
+			<string>glyphMetric</string>
+		</dict>
+		<key>top</key>
+		<dict>
+			<key>name</key>
+			<string>capHeight</string>
+			<key>type</key>
+			<string>fontInfo</string>
+		</dict>
+	</dict>
+	<key>public.markColor</key>
+	<string>0,1,1,1</string>
+</dict>
   </lib>
 </glyph>

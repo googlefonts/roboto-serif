@@ -3,7 +3,7 @@
   <advance width="543"/>
   <unicode hex="0073"/>
   <guideline x="64.92" y="176" angle="90" identifier="04CbTyxnEn"/>
-  <guideline x="0.0" y="528" angle="0" identifier="itM6eYPGJz"/>
+  <guideline x="0" y="528" angle="0" identifier="itM6eYPGJz"/>
   <anchor x="273.21473684210525" y="514" name="top"/>
   <anchor x="276.64421052631576" y="0" name="bottom"/>
   <outline>
@@ -61,9 +61,9 @@
   <lib>
     <dict>
       <key>com.typemytype.robofont.guideline.magnetic.04CbTyxnEn</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>com.typemytype.robofont.guideline.magnetic.itM6eYPGJz</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>com.typesupply.AccentFactory.yCoordinates</key>
       <dict>
         <key>bottom</key>

@@ -4,14 +4,12 @@
   <unicode hex="0062"/>
   <outline>
     <contour>
-      <point x="453" y="258"/>
-      <point x="388" y="32"/>
       <point x="227" y="32" type="curve" smooth="yes"/>
-      <point x="157.0142857142857" y="32.0"/>
-      <point x="103.62756392491136" y="75.9214105051241"/>
+      <point x="157.0142857143" y="32"/>
+      <point x="103.6275639249" y="75.9214105051"/>
       <point x="85" y="102" type="curve"/>
-      <point x="71.52265163621126" y="127.99202898730685"/>
-      <point x="83.00355524137932" y="82.9997265198939"/>
+      <point x="71.5226516362" y="127.9920289873"/>
+      <point x="83.0035552414" y="82.9997265199"/>
       <point x="96" y="82" type="curve"/>
       <point x="271" y="780" type="line"/>
       <point x="144" y="780" type="line"/>
@@ -21,8 +19,8 @@
       <point x="204" y="710"/>
       <point x="197" y="680" type="curve" smooth="yes"/>
       <point x="46" y="72" type="line"/>
-      <point x="84.25242828825199" y="29.72100031298463"/>
-      <point x="145.10734463276836" y="-12.0"/>
+      <point x="84.2524282883" y="29.721000313"/>
+      <point x="145.1073446328" y="-12"/>
       <point x="225" y="-12" type="curve" smooth="yes"/>
       <point x="409" y="-12"/>
       <point x="504" y="225"/>
@@ -40,6 +38,8 @@
       <point x="430" y="532"/>
       <point x="453" y="484"/>
       <point x="453" y="402" type="curve" smooth="yes"/>
+      <point x="453" y="258"/>
+      <point x="388" y="32"/>
     </contour>
   </outline>
   <lib>
@@ -48,7 +48,7 @@
       <array>
         <dict>
           <key>angle</key>
-          <real>90.0</real>
+          <integer>90</integer>
           <key>isGlobal</key>
           <false/>
           <key>magnetic</key>
@@ -1106,10 +1106,10 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>1.0</real>
+        <integer>1</integer>
         <real>0.5769</real>
-        <real>0.0</real>
-        <real>1.0</real>
+        <integer>0</integer>
+        <integer>1</integer>
       </array>
     </dict>
   </lib>

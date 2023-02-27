@@ -4,8 +4,6 @@
   <unicode hex="E402"/>
   <outline>
     <contour>
-      <point x="243" y="80"/>
-      <point x="210" y="19"/>
       <point x="148" y="19" type="curve" smooth="yes"/>
       <point x="102" y="19"/>
       <point x="72" y="53"/>
@@ -22,10 +20,10 @@
       <point x="263" y="192"/>
       <point x="261" y="169"/>
       <point x="256" y="146" type="curve" smooth="yes"/>
+      <point x="243" y="80"/>
+      <point x="210" y="19"/>
     </contour>
     <contour>
-      <point x="345" y="274"/>
-      <point x="294" y="347"/>
       <point x="188" y="347" type="curve" smooth="yes"/>
       <point x="59" y="347"/>
       <point x="-10" y="247"/>
@@ -36,18 +34,20 @@
       <point x="276" y="-6"/>
       <point x="345" y="94"/>
       <point x="345" y="191" type="curve" smooth="yes"/>
+      <point x="345" y="274"/>
+      <point x="294" y="347"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.guideline.magnetic.G0Oy5NZ9A6</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>com.typemytype.robofont.guideline.magnetic.QvIC8lKlkG</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>com.typemytype.robofont.guideline.magnetic.SVQbnSLXt1</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>com.typemytype.robofont.guideline.magnetic.w2BeTkcx1W</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>public.markColor</key>
       <string>1,0,1,1</string>
     </dict>

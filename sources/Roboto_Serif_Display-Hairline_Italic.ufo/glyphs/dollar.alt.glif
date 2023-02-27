@@ -3,17 +3,15 @@
   <advance width="560"/>
   <outline>
     <contour>
-      <point x="388" y="8"/>
-      <point x="485" y="76"/>
       <point x="485" y="196" type="curve" smooth="yes"/>
-      <point x="485.0" y="297.5674157303371"/>
-      <point x="396.07136860724245" y="340.96807193886525"/>
+      <point x="485" y="297.5674157303"/>
+      <point x="396.0713686072" y="340.9680719389"/>
       <point x="320" y="375" type="curve" smooth="yes"/>
-      <point x="231.0909660812369" y="414.9591163679834"/>
+      <point x="231.0909660812" y="414.959116368"/>
       <point x="148" y="453"/>
       <point x="148" y="538" type="curve" smooth="yes"/>
       <point x="148" y="626"/>
-      <point x="214.65284974093265" y="683.0"/>
+      <point x="214.6528497409" y="683"/>
       <point x="340" y="683" type="curve" smooth="yes"/>
       <point x="402" y="683"/>
       <point x="466" y="667"/>
@@ -33,11 +31,11 @@
       <point x="115" y="431"/>
       <point x="196" y="391"/>
       <point x="270" y="356" type="curve" smooth="yes"/>
-      <point x="357.21237870867446" y="314.375910161769"/>
-      <point x="450.0" y="284.0"/>
+      <point x="357.2123787087" y="314.3759101618"/>
+      <point x="450" y="284"/>
       <point x="450" y="190" type="curve" smooth="yes"/>
-      <point x="450.0" y="82.0"/>
-      <point x="372.8167539267016" y="23.0"/>
+      <point x="450" y="82"/>
+      <point x="372.8167539267" y="23"/>
       <point x="261" y="23" type="curve" smooth="yes"/>
       <point x="170" y="23"/>
       <point x="89" y="47"/>
@@ -51,12 +49,14 @@
       <point x="51" y="55"/>
       <point x="131" y="8"/>
       <point x="259" y="8" type="curve" smooth="yes"/>
+      <point x="388" y="8"/>
+      <point x="485" y="76"/>
     </contour>
     <contour>
       <point x="343" y="689" type="line"/>
       <point x="360" y="689" type="line"/>
-      <point x="378.0" y="787.0" type="line"/>
-      <point x="361.0" y="787.0" type="line"/>
+      <point x="378" y="787" type="line"/>
+      <point x="361" y="787" type="line"/>
     </contour>
     <contour>
       <point x="218" y="-120" type="line"/>
@@ -68,13 +68,13 @@
   <lib>
     <dict>
       <key>com.typemytype.robofont.guideline.magnetic.0lUZaQm9UV</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>com.typemytype.robofont.guideline.magnetic.IucNmOtYXJ</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>com.typemytype.robofont.guideline.magnetic.b1nFwHYvxH</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>com.typemytype.robofont.guideline.magnetic.roxaNNwOof</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>public.markColor</key>
       <string>1,1,0.4,1</string>
     </dict>

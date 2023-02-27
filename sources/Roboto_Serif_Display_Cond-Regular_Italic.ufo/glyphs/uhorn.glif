@@ -4,10 +4,10 @@
   <unicode hex="01B0"/>
   <anchor x="193.30852713178297" y="545" name="top"/>
   <anchor x="187.35038759689922" y="0" name="bottom"/>
+  <anchor x="193.30852713178297" y="545" name="top"/>
+  <anchor x="187.35038759689922" y="0" name="bottom"/>
   <outline>
     <contour>
-      <point x="53" y="30"/>
-      <point x="74" y="-10"/>
       <point x="131" y="-10" type="curve" smooth="yes"/>
       <point x="206" y="-10"/>
       <point x="257" y="63"/>
@@ -33,6 +33,8 @@
       <point x="55" y="126"/>
       <point x="53" y="105"/>
       <point x="53" y="87" type="curve" smooth="yes"/>
+      <point x="53" y="30"/>
+      <point x="74" y="-10"/>
     </contour>
     <contour>
       <point x="326" y="-10" type="curve" smooth="yes"/>
@@ -57,7 +59,7 @@
       <point x="470" y="690" type="line"/>
       <point x="451" y="551"/>
       <point x="430" y="518"/>
-      <point x="344" y="518" type="curve"/>
+      <point x="344" y="518" type="curve" smooth="yes"/>
       <point x="338" y="518" type="line"/>
       <point x="269" y="126" type="line"/>
       <point x="269" y="122" type="line"/>
@@ -71,7 +73,7 @@
   <lib>
     <dict>
       <key>com.typemytype.robofont.guideline.magnetic.Yv2Uc4SJJc</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>com.typesupply.AccentFactory.yCoordinates</key>
       <dict>
         <key>bottom</key>

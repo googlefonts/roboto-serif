@@ -19,20 +19,20 @@
       <point x="-22" y="56" type="line"/>
       <point x="-37" y="0" type="line"/>
       <point x="224" y="0" type="line" smooth="yes"/>
-      <point x="488.0" y="0"/>
-      <point x="622.0" y="199"/>
+      <point x="488" y="0"/>
+      <point x="622" y="199"/>
       <point x="622" y="435" type="curve" smooth="yes"/>
       <point x="622" y="599"/>
-      <point x="518.0" y="710"/>
+      <point x="518" y="710"/>
       <point x="324" y="710" type="curve" smooth="yes"/>
     </contour>
     <contour>
       <point x="329" y="656" type="line" smooth="yes"/>
-      <point x="462.0" y="656"/>
+      <point x="462" y="656"/>
       <point x="526" y="586"/>
       <point x="526" y="442" type="curve" smooth="yes"/>
-      <point x="526.0" y="249"/>
-      <point x="452.0" y="54"/>
+      <point x="526" y="249"/>
+      <point x="452" y="54"/>
       <point x="223" y="54" type="curve" smooth="yes"/>
       <point x="143" y="54" type="line"/>
       <point x="293" y="656" type="line"/>
@@ -369,10 +369,10 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>1.0</real>
+        <integer>1</integer>
         <real>0.5769</real>
-        <real>0.0</real>
-        <real>1.0</real>
+        <integer>0</integer>
+        <integer>1</integer>
       </array>
       <key>com.typesupply.AccentFactory.xCoordinates</key>
       <dict>

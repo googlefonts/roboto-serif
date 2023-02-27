@@ -2,6 +2,7 @@
 <glyph name="breve_hook.uc" format="2">
   <advance width="340"/>
   <anchor x="169.32" y="724" name="_top"/>
+  <anchor x="169.32" y="724" name="_top"/>
   <outline>
     <contour>
       <point x="203" y="1013" type="line"/>
@@ -29,8 +30,6 @@
       <point x="255" y="1013" type="curve"/>
     </contour>
     <contour>
-      <point x="342" y="789"/>
-      <point x="296" y="760"/>
       <point x="250" y="760" type="curve" smooth="yes"/>
       <point x="202" y="760"/>
       <point x="169" y="790"/>
@@ -46,6 +45,8 @@
       <point x="322" y="844"/>
       <point x="334" y="888" type="curve"/>
       <point x="354" y="888" type="line"/>
+      <point x="342" y="789"/>
+      <point x="296" y="760"/>
     </contour>
   </outline>
   <lib>

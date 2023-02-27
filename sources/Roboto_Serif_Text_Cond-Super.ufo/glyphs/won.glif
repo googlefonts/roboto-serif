@@ -2,7 +2,7 @@
 <glyph name="won" format="2">
   <advance width="561"/>
   <unicode hex="20A9"/>
-  <guideline x="0.0" y="616" angle="0" identifier="BgqyveXh6h"/>
+  <guideline x="0" y="616" angle="0" identifier="BgqyveXh6h"/>
   <outline>
     <contour>
       <point x="11" y="710" type="line"/>
@@ -81,7 +81,7 @@
   <lib>
     <dict>
       <key>com.typemytype.robofont.guideline.magnetic.BgqyveXh6h</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>public.markColor</key>
       <string>1,0.5769,0,1</string>
     </dict>

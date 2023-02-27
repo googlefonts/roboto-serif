@@ -3,23 +3,23 @@
   <advance width="560"/>
   <outline>
     <contour>
-      <point x="271" y="573.0" type="line" smooth="yes"/>
+      <point x="271" y="573" type="line" smooth="yes"/>
       <point x="207" y="573"/>
       <point x="179" y="567"/>
-      <point x="167" y="530.0" type="curve" smooth="yes"/>
-      <point x="141" y="453.0" type="line"/>
-      <point x="57" y="453.0" type="line"/>
-      <point x="121" y="710.0" type="line"/>
-      <point x="600" y="710.0" type="line"/>
-      <point x="564" y="564.0" type="line"/>
-      <point x="412.20600058961037" y="444.16263204442924"/>
-      <point x="341.72380037862945" y="332.8885461019547"/>
-      <point x="259" y="0.0" type="curve"/>
-      <point x="52" y="0.0" type="line"/>
+      <point x="167" y="530" type="curve" smooth="yes"/>
+      <point x="141" y="453" type="line"/>
+      <point x="57" y="453" type="line"/>
+      <point x="121" y="710" type="line"/>
+      <point x="600" y="710" type="line"/>
+      <point x="564" y="564" type="line"/>
+      <point x="412.2060005896" y="444.1626320444"/>
+      <point x="341.7238003786" y="332.888546102"/>
+      <point x="259" y="0" type="curve"/>
+      <point x="52" y="0" type="line"/>
       <point x="139" y="313"/>
-      <point x="382.9049556993993" y="517.9485825914783"/>
-      <point x="505" y="584.0" type="curve"/>
-      <point x="517" y="573.0" type="line"/>
+      <point x="382.9049556994" y="517.9485825915"/>
+      <point x="505" y="584" type="curve"/>
+      <point x="517" y="573" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -211,9 +211,9 @@
       <key>com.typemytype.robofont.mark</key>
       <array>
         <real>0.9962</real>
-        <real>1.0</real>
+        <integer>1</integer>
         <real>0.5137</real>
-        <real>1.0</real>
+        <integer>1</integer>
       </array>
       <key>public.markColor</key>
       <string>0.8431,0.8627,1,1</string>

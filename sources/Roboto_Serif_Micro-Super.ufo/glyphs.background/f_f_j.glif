@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="f_f_j" format="2">
   <advance width="1305"/>
   <outline>
@@ -58,7 +57,7 @@
     </contour>
     <contour>
       <point x="1006" y="452" type="curve" smooth="yes"/>
-      <point x="1006" y="89" type="line"/>
+      <point x="1006" y="89" type="line" smooth="yes"/>
       <point x="1006" y="83"/>
       <point x="978" y="81"/>
       <point x="948" y="81" type="curve" smooth="yes"/>
@@ -90,7 +89,7 @@
       <point x="838" y="81" type="line" smooth="yes"/>
       <point x="808" y="81"/>
       <point x="779" y="83"/>
-      <point x="779" y="89" type="curve"/>
+      <point x="779" y="89" type="curve" smooth="yes"/>
       <point x="779" y="614" type="line" smooth="yes"/>
       <point x="779" y="670"/>
       <point x="796" y="690"/>

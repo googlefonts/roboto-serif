@@ -30,7 +30,7 @@
       <point x="465" y="91" type="line"/>
       <point x="465" y="85"/>
       <point x="452" y="81"/>
-      <point x="434" y="81" type="curve"/>
+      <point x="434" y="81" type="curve" smooth="yes"/>
       <point x="428" y="81" type="line"/>
       <point x="428" y="0" type="line"/>
     </contour>
@@ -56,20 +56,4 @@
       <point x="311" y="89" type="curve" smooth="yes"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typesupply.AccentFactory.yCoordinates</key>
-      <dict>
-        <key>bottom</key>
-        <dict>
-          <key>name</key>
-          <string>origin</string>
-          <key>type</key>
-          <string>glyphMetric</string>
-        </dict>
-      </dict>
-      <key>public.markColor</key>
-      <string>1,0.5769,0,1</string>
-    </dict>
-  </lib>
 </glyph>

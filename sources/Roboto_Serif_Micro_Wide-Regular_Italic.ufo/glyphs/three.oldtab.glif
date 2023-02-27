@@ -5,7 +5,7 @@
     <contour>
       <point x="353" y="296" type="line"/>
       <point x="516" y="299"/>
-      <point x="638.0" y="347.0"/>
+      <point x="638" y="347"/>
       <point x="638" y="486" type="curve" smooth="yes"/>
       <point x="638" y="584"/>
       <point x="561" y="649"/>
@@ -23,21 +23,21 @@
       <point x="331" y="584"/>
       <point x="395" y="585" type="curve" smooth="yes"/>
       <point x="492" y="587"/>
-      <point x="543.0" y="552.0"/>
+      <point x="543" y="552"/>
       <point x="543" y="470" type="curve" smooth="yes"/>
-      <point x="543.0" y="359.0"/>
-      <point x="452.0" y="321.0"/>
+      <point x="543" y="359"/>
+      <point x="452" y="321"/>
       <point x="322" y="321" type="curve" smooth="yes"/>
       <point x="254" y="321" type="line"/>
       <point x="244" y="259" type="line"/>
       <point x="328" y="259" type="line" smooth="yes"/>
-      <point x="462.0" y="259.0"/>
-      <point x="539.0" y="225.0"/>
+      <point x="462" y="259"/>
+      <point x="539" y="225"/>
       <point x="539" y="125" type="curve" smooth="yes"/>
       <point x="539" y="19"/>
-      <point x="461.0" y="-26.0"/>
+      <point x="461" y="-26"/>
       <point x="349" y="-26" type="curve" smooth="yes"/>
-      <point x="228.0" y="-26"/>
+      <point x="228" y="-26"/>
       <point x="173" y="26"/>
       <point x="133" y="109" type="curve"/>
       <point x="59" y="70" type="line"/>
@@ -45,7 +45,7 @@
       <point x="190" y="-90"/>
       <point x="331" y="-90" type="curve" smooth="yes"/>
       <point x="524" y="-90"/>
-      <point x="633.0" y="-12.0"/>
+      <point x="633" y="-12"/>
       <point x="633" y="125" type="curve" smooth="yes"/>
       <point x="633" y="233"/>
       <point x="543" y="289"/>
@@ -503,9 +503,9 @@
       <key>com.typemytype.robofont.mark</key>
       <array>
         <real>0.9962</real>
-        <real>1.0</real>
+        <integer>1</integer>
         <real>0.5137</real>
-        <real>1.0</real>
+        <integer>1</integer>
       </array>
       <key>public.markColor</key>
       <string>1,1,0,1</string>

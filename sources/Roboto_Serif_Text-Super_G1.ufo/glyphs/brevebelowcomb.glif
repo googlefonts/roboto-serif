@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="brevebelowcomb" format="2">
   <unicode hex="032E"/>
-  <guideline x="-303" y="-30" angle="90.0" identifier="n4wTs21pUQ"/>
+  <guideline x="-303" y="-30" angle="90" identifier="n4wTs21pUQ"/>
   <anchor x="-329.18640948488223" y="-46.0" name="_bottom"/>
   <outline>
     <component base="brevebelow" xOffset="-583"/>
@@ -9,7 +9,7 @@
   <lib>
     <dict>
       <key>com.typemytype.robofont.guideline.magnetic.n4wTs21pUQ</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>public.markColor</key>
       <string>1,0.5769,0,1</string>
     </dict>

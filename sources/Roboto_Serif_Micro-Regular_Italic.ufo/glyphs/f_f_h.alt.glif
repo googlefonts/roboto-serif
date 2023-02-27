@@ -10,8 +10,6 @@
       <point x="956" y="715" type="line"/>
     </contour>
     <contour>
-      <point x="1225" y="88"/>
-      <point x="1236" y="132"/>
       <point x="1268" y="248" type="curve" smooth="yes"/>
       <point x="1307" y="391" type="line" smooth="yes"/>
       <point x="1318" y="430"/>
@@ -40,16 +38,18 @@
       <point x="1135" y="20"/>
       <point x="1166" y="0"/>
       <point x="1219" y="0" type="curve" smooth="yes"/>
-      <point x="1257" y="0.0"/>
-      <point x="1295" y="0.0"/>
+      <point x="1257" y="0"/>
+      <point x="1295" y="0"/>
       <point x="1333" y="0" type="curve"/>
       <point x="1344" y="63" type="line"/>
-      <point x="1310" y="63.0"/>
-      <point x="1275" y="63.0"/>
+      <point x="1310" y="63"/>
+      <point x="1275" y="63"/>
       <point x="1241" y="63" type="curve" smooth="yes"/>
       <point x="1229" y="63"/>
       <point x="1225" y="67"/>
       <point x="1225" y="76" type="curve" smooth="yes"/>
+      <point x="1225" y="88"/>
+      <point x="1236" y="132"/>
     </contour>
     <contour>
       <point x="432" y="565" type="line"/>
@@ -58,8 +58,6 @@
       <point x="791" y="565" type="line"/>
     </contour>
     <contour>
-      <point x="656" y="701"/>
-      <point x="680" y="723"/>
       <point x="776" y="723" type="curve" smooth="yes"/>
       <point x="859" y="723"/>
       <point x="913" y="708"/>
@@ -74,10 +72,10 @@
       <point x="396" y="-223" type="line"/>
       <point x="470" y="-223" type="line"/>
       <point x="641" y="627" type="line" smooth="yes"/>
+      <point x="656" y="701"/>
+      <point x="680" y="723"/>
     </contour>
     <contour>
-      <point x="298" y="691"/>
-      <point x="333" y="712"/>
       <point x="433" y="712" type="curve" smooth="yes"/>
       <point x="527" y="712"/>
       <point x="589" y="687"/>
@@ -97,6 +95,8 @@
       <point x="40" y="-223" type="line"/>
       <point x="114" y="-223" type="line"/>
       <point x="282" y="612" type="line" smooth="yes"/>
+      <point x="298" y="691"/>
+      <point x="333" y="712"/>
     </contour>
     <contour>
       <point x="76" y="565" type="line"/>

@@ -50,7 +50,7 @@
       <point x="608" y="-187"/>
       <point x="608" y="-46" type="curve" smooth="yes"/>
       <point x="608" y="64"/>
-      <point x="544.0" y="116.0"/>
+      <point x="544" y="116"/>
       <point x="414" y="116" type="curve" smooth="yes"/>
       <point x="229" y="116" type="line" smooth="yes"/>
       <point x="197" y="116"/>
@@ -63,8 +63,8 @@
       <point x="90" y="199"/>
       <point x="30" y="152"/>
       <point x="30" y="79" type="curve" smooth="yes"/>
-      <point x="30.0" y="2.0"/>
-      <point x="78.02086560473208" y="-40.65952749768367"/>
+      <point x="30" y="2"/>
+      <point x="78.0208656047" y="-40.6595274977"/>
       <point x="151" y="-49" type="curve"/>
       <point x="121" y="-68" type="line"/>
       <point x="394" y="-68" type="line" smooth="yes"/>
@@ -75,7 +75,7 @@
       <point x="417" y="-174"/>
       <point x="343" y="-174" type="curve" smooth="yes"/>
       <point x="216" y="-174" type="line" smooth="yes"/>
-      <point x="169.0" y="-174.0"/>
+      <point x="169" y="-174"/>
       <point x="154" y="-158"/>
       <point x="154" y="-124" type="curve" smooth="yes"/>
       <point x="154" y="-84"/>
@@ -86,7 +86,7 @@
       <point x="1" y="-84"/>
       <point x="1" y="-152" type="curve" smooth="yes"/>
       <point x="1" y="-225"/>
-      <point x="41.0" y="-256"/>
+      <point x="41" y="-256"/>
     </contour>
   </outline>
   <lib>
@@ -1070,7 +1070,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>530.0</real>
+                  <integer>530</integer>
                   <key>y</key>
                   <integer>-21</integer>
                 </dict>
@@ -1259,9 +1259,9 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>251.0</real>
+                  <integer>251</integer>
                   <key>y</key>
-                  <real>516.0</real>
+                  <integer>516</integer>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -1277,15 +1277,15 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>409.0</real>
+                  <integer>409</integer>
                   <key>y</key>
-                  <real>516.0</real>
+                  <integer>516</integer>
                 </dict>
                 <dict>
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>460.0</real>
+                  <integer>460</integer>
                   <key>y</key>
                   <real>463.117241379</real>
                 </dict>
@@ -1386,7 +1386,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>550.0</real>
+                  <integer>550</integer>
                   <key>y</key>
                   <real>494.214634146</real>
                 </dict>
@@ -1394,9 +1394,9 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>456.0</real>
+                  <integer>456</integer>
                   <key>y</key>
-                  <real>576.0</real>
+                  <integer>576</integer>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -1412,9 +1412,9 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>203.0</real>
+                  <integer>203</integer>
                   <key>y</key>
-                  <real>576.0</real>
+                  <integer>576</integer>
                 </dict>
                 <dict>
                   <key>smooth</key>
@@ -1542,10 +1542,10 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>1.0</real>
+        <integer>1</integer>
         <real>0.5769</real>
-        <real>0.0</real>
-        <real>1.0</real>
+        <integer>0</integer>
+        <integer>1</integer>
       </array>
       <key>com.typesupply.AccentFactory.xCoordinates</key>
       <dict>

@@ -27,7 +27,7 @@
       <point x="1208" y="0" type="line"/>
       <point x="1225" y="105" type="line"/>
       <point x="1200" y="105" type="line" smooth="yes"/>
-      <point x="1170.3529411764705" y="105.0"/>
+      <point x="1170.3529411765" y="105"/>
       <point x="1151" y="117"/>
       <point x="1154" y="135" type="curve" smooth="yes"/>
       <point x="1224" y="575" type="line" smooth="yes"/>
@@ -550,10 +550,10 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>1.0</real>
+        <integer>1</integer>
         <real>0.5769</real>
-        <real>0.0</real>
-        <real>1.0</real>
+        <integer>0</integer>
+        <integer>1</integer>
       </array>
       <key>com.typesupply.AccentFactory.yCoordinates</key>
       <dict>

@@ -7,7 +7,7 @@
   <outline>
     <contour>
       <point x="888" y="225" type="line" smooth="yes"/>
-      <point x="888.0" y="245.0"/>
+      <point x="888" y="245"/>
       <point x="908" y="255"/>
       <point x="938" y="255" type="curve" smooth="yes"/>
       <point x="967" y="255" type="line"/>
@@ -16,7 +16,7 @@
       <point x="516" y="255" type="line"/>
       <point x="587" y="255" type="line" smooth="yes"/>
       <point x="617" y="255"/>
-      <point x="637.0" y="245.0"/>
+      <point x="637" y="245"/>
       <point x="637" y="225" type="curve" smooth="yes"/>
       <point x="637" y="119" type="line"/>
       <point x="612" y="104"/>
@@ -1729,10 +1729,10 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>1.0</real>
+        <integer>1</integer>
         <real>0.5769</real>
-        <real>0.0</real>
-        <real>1.0</real>
+        <integer>0</integer>
+        <integer>1</integer>
       </array>
       <key>public.markColor</key>
       <string>1,1,0,1</string>

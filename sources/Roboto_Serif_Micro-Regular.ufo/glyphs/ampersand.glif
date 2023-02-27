@@ -2,7 +2,7 @@
 <glyph name="ampersand" format="2">
   <advance width="795"/>
   <unicode hex="0026"/>
-  <guideline x="704" y="193" angle="90.0" identifier="UPJjfQuYRQ"/>
+  <guideline x="704" y="193" angle="90" identifier="UPJjfQuYRQ"/>
   <outline>
     <contour>
       <point x="664" y="306" type="curve" smooth="yes"/>
@@ -20,7 +20,7 @@
       <point x="606" y="222"/>
       <point x="497" y="51"/>
       <point x="328" y="51" type="curve" smooth="yes"/>
-      <point x="217.0" y="51"/>
+      <point x="217" y="51"/>
       <point x="158" y="93"/>
       <point x="158" y="214" type="curve" smooth="yes"/>
       <point x="158" y="324"/>
@@ -73,7 +73,7 @@
   <lib>
     <dict>
       <key>com.typemytype.robofont.guideline.magnetic.dOlcINb8xm</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>public.markColor</key>
       <string>1,0.5769,0,1</string>
     </dict>

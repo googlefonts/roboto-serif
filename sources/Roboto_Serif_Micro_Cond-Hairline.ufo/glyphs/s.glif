@@ -7,8 +7,8 @@
   <outline>
     <contour>
       <point x="362" y="149" type="curve" smooth="yes"/>
-      <point x="362.0" y="71.0"/>
-      <point x="319.63235294117646" y="30.0"/>
+      <point x="362" y="71"/>
+      <point x="319.6323529412" y="30"/>
       <point x="228" y="30" type="curve" smooth="yes"/>
       <point x="161" y="30"/>
       <point x="109" y="51"/>
@@ -22,17 +22,17 @@
       <point x="88" y="9"/>
       <point x="156" y="-12"/>
       <point x="227" y="-12" type="curve" smooth="yes"/>
-      <point x="351.344262295082" y="-12.0"/>
-      <point x="412.0" y="57.999999999999986"/>
+      <point x="351.3442622951" y="-12"/>
+      <point x="412" y="57"/>
       <point x="412" y="153" type="curve" smooth="yes"/>
-      <point x="412.0" y="273.0"/>
-      <point x="326.8964161848611" y="296.76716462730883"/>
+      <point x="412" y="273"/>
+      <point x="326.8964161849" y="296.7671646273"/>
       <point x="249" y="317" type="curve" smooth="yes"/>
-      <point x="172.0390404304333" y="338.7069373144932"/>
-      <point x="112.0" y="348.0"/>
+      <point x="172.0390404304" y="338.7069373145"/>
+      <point x="112" y="348"/>
       <point x="112" y="435" type="curve" smooth="yes"/>
-      <point x="112.0" y="497.0"/>
-      <point x="150.38582677165354" y="534.0"/>
+      <point x="112" y="497"/>
+      <point x="150.3858267717" y="534"/>
       <point x="237" y="534" type="curve" smooth="yes"/>
       <point x="293" y="534"/>
       <point x="337" y="522"/>
@@ -52,8 +52,8 @@
       <point x="64" y="314"/>
       <point x="144" y="293"/>
       <point x="222" y="273" type="curve" smooth="yes"/>
-      <point x="293.05237660716944" y="254.2500672842192"/>
-      <point x="362.0" y="239.0"/>
+      <point x="293.0523766072" y="254.2500672842"/>
+      <point x="362" y="239"/>
     </contour>
   </outline>
   <lib>
@@ -62,7 +62,7 @@
       <array>
         <dict>
           <key>angle</key>
-          <real>90.0</real>
+          <integer>90</integer>
           <key>isGlobal</key>
           <false/>
           <key>magnetic</key>
@@ -852,10 +852,10 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>1.0</real>
+        <integer>1</integer>
         <real>0.5769</real>
-        <real>0.0</real>
-        <real>1.0</real>
+        <integer>0</integer>
+        <integer>1</integer>
       </array>
       <key>com.typesupply.AccentFactory.xCoordinates</key>
       <dict>

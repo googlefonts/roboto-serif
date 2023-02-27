@@ -2,8 +2,8 @@
 <glyph name="notequal" format="2">
   <advance width="560"/>
   <unicode hex="2260"/>
-  <guideline x="60" y="161" angle="90.0" identifier="B2nK4DZLpj"/>
-  <guideline x="450" y="144" angle="90.0" identifier="b7hC8DbKzf"/>
+  <guideline x="60" y="161" angle="90" identifier="B2nK4DZLpj"/>
+  <guideline x="450" y="144" angle="90" identifier="b7hC8DbKzf"/>
   <outline>
     <contour>
       <point x="377" y="566" type="line"/>
@@ -16,9 +16,9 @@
   <lib>
     <dict>
       <key>com.typemytype.robofont.guideline.magnetic.B2nK4DZLpj</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>com.typemytype.robofont.guideline.magnetic.b7hC8DbKzf</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>public.markColor</key>
       <string>1,0.5769,0,1</string>
     </dict>

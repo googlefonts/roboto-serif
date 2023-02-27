@@ -3,8 +3,8 @@
   <advance width="728"/>
   <unicode hex="006B"/>
   <guideline x="276.64" y="286" angle="90" identifier="GhmwqXmYTY"/>
-  <guideline x="0.0" y="518" angle="0" identifier="gsEobOBTar"/>
-  <guideline x="602" y="217" angle="305.9982448774387" identifier="z7uKmzAwuX"/>
+  <guideline x="0" y="518" angle="0" identifier="gsEobOBTar"/>
+  <guideline x="602" y="217" angle="305.9982448774" identifier="z7uKmzAwuX"/>
   <anchor x="368.5930599369085" y="0" name="bottom"/>
   <outline>
     <contour>
@@ -25,14 +25,14 @@
       <point x="406" y="514" type="line"/>
       <point x="406" y="398" type="line"/>
       <point x="414" y="398" type="line" smooth="yes"/>
-      <point x="425.0" y="398.0"/>
+      <point x="425" y="398"/>
       <point x="447" y="393"/>
       <point x="447" y="389" type="curve"/>
       <point x="315" y="291" type="line"/>
       <point x="315" y="247" type="line"/>
       <point x="402" y="126" type="line"/>
       <point x="402" y="120"/>
-      <point x="387.0" y="116.0"/>
+      <point x="387" y="116"/>
       <point x="370" y="116" type="curve" smooth="yes"/>
       <point x="367" y="116" type="line"/>
       <point x="367" y="0" type="line"/>
@@ -62,9 +62,9 @@
   <lib>
     <dict>
       <key>com.typemytype.robofont.guideline.magnetic.GhmwqXmYTY</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>com.typemytype.robofont.guideline.magnetic.gsEobOBTar</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>com.typesupply.AccentFactory.xCoordinates</key>
       <dict>
         <key>center</key>

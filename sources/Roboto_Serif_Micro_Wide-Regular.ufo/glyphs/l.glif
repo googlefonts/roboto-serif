@@ -8,24 +8,24 @@
   <anchor x="441.747572815534" y="391.0" name="mid"/>
   <outline>
     <contour>
-      <point x="265" y="780.0" type="line"/>
-      <point x="67" y="780.0" type="line"/>
+      <point x="265" y="780" type="line"/>
+      <point x="67" y="780" type="line"/>
       <point x="67" y="726" type="line"/>
       <point x="96" y="722" type="line" smooth="yes"/>
       <point x="151" y="714"/>
       <point x="177" y="708"/>
       <point x="177" y="679" type="curve" smooth="yes"/>
       <point x="177" y="126" type="line" smooth="yes"/>
-      <point x="177.0" y="66.0"/>
-      <point x="147.0" y="50.0"/>
+      <point x="177" y="66"/>
+      <point x="147" y="50"/>
       <point x="91" y="50" type="curve" smooth="yes"/>
       <point x="68" y="50" type="line"/>
-      <point x="68" y="0.0" type="line"/>
-      <point x="376" y="0.0" type="line"/>
+      <point x="68" y="0" type="line"/>
+      <point x="376" y="0" type="line"/>
       <point x="376" y="50" type="line"/>
       <point x="353" y="50" type="line" smooth="yes"/>
-      <point x="297.0" y="50"/>
-      <point x="265.0" y="66.0"/>
+      <point x="297" y="50"/>
+      <point x="265" y="66"/>
       <point x="265" y="126" type="curve" smooth="yes"/>
     </contour>
   </outline>
@@ -237,10 +237,10 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>1.0</real>
+        <integer>1</integer>
         <real>0.5769</real>
-        <real>0.0</real>
-        <real>1.0</real>
+        <integer>0</integer>
+        <integer>1</integer>
       </array>
     </dict>
   </lib>

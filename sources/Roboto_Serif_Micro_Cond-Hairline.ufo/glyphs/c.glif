@@ -7,8 +7,8 @@
   <outline>
     <contour>
       <point x="261" y="32" type="curve" smooth="yes"/>
-      <point x="148.0" y="32.0"/>
-      <point x="97.0" y="103.71200000000002"/>
+      <point x="148" y="32"/>
+      <point x="97" y="103.712"/>
       <point x="97" y="281" type="curve" smooth="yes"/>
       <point x="97" y="452"/>
       <point x="144" y="532"/>
@@ -16,8 +16,8 @@
       <point x="320" y="532"/>
       <point x="355" y="522"/>
       <point x="380" y="515" type="curve"/>
-      <point x="377.9992953837447" y="536.0073984706805"/>
-      <point x="374.79183183927506" y="531.8868811658178"/>
+      <point x="377.9992953837" y="536.0073984707"/>
+      <point x="374.7918318393" y="531.8868811658"/>
       <point x="353" y="535" type="curve"/>
       <point x="353" y="400" type="line"/>
       <point x="408" y="400" type="line"/>
@@ -28,15 +28,15 @@
       <point x="123" y="576"/>
       <point x="45" y="463"/>
       <point x="45" y="281" type="curve" smooth="yes"/>
-      <point x="45.0" y="87.65986394557825"/>
-      <point x="128.0" y="-12.0"/>
+      <point x="45" y="87.6598639456"/>
+      <point x="128" y="-12"/>
       <point x="261" y="-12" type="curve" smooth="yes"/>
-      <point x="340.0" y="-12.0"/>
-      <point x="402.20725139723294" y="43.502427629655614"/>
+      <point x="340" y="-12"/>
+      <point x="402.2072513972" y="43.5024276297"/>
       <point x="435" y="123" type="curve"/>
       <point x="401" y="142" type="line"/>
-      <point x="372.2141878711837" y="80.45791889701346"/>
-      <point x="337.0" y="32.0"/>
+      <point x="372.2141878712" y="80.457918897"/>
+      <point x="337" y="32"/>
     </contour>
   </outline>
   <lib>
@@ -622,10 +622,10 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>1.0</real>
+        <integer>1</integer>
         <real>0.5769</real>
-        <real>0.0</real>
-        <real>1.0</real>
+        <integer>0</integer>
+        <integer>1</integer>
       </array>
       <key>com.typesupply.AccentFactory.xCoordinates</key>
       <dict>

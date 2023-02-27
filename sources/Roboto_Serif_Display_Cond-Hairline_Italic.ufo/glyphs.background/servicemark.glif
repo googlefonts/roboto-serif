@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="servicemark" format="2">
   <advance width="522"/>
   <unicode hex="2120"/>
@@ -10,14 +9,14 @@
       <point x="830" y="408" type="line" smooth="yes"/>
       <point x="824" y="408"/>
       <point x="812" y="411"/>
-      <point x="812" y="413" type="curve" smooth="yes"/>
+      <point x="812" y="413" type="curve"/>
       <point x="862" y="702" type="line"/>
       <point x="859" y="701" type="line"/>
       <point x="882" y="394" type="line"/>
       <point x="895" y="394" type="line"/>
       <point x="1025" y="702" type="line"/>
       <point x="1022" y="702" type="line"/>
-      <point x="973" y="413" type="line" smooth="yes"/>
+      <point x="973" y="413" type="line"/>
       <point x="973" y="411"/>
       <point x="962" y="408"/>
       <point x="954" y="408" type="curve" smooth="yes"/>
@@ -44,11 +43,11 @@
       <point x="827" y="697" type="line" smooth="yes"/>
       <point x="841" y="697"/>
       <point x="850" y="696"/>
-      <point x="847" y="684" type="curve" smooth="yes"/>
+      <point x="847" y="684" type="curve"/>
       <point x="802" y="422" type="line" smooth="yes"/>
       <point x="800" y="411"/>
       <point x="790" y="408"/>
-      <point x="777" y="408" type="curve"/>
+      <point x="777" y="408" type="curve" smooth="yes"/>
       <point x="773" y="408" type="line"/>
     </contour>
     <contour>
@@ -114,7 +113,7 @@
       <point x="175" y="545"/>
     </contour>
     <contour>
-      <point x="162" y="399.0" type="curve" smooth="yes"/>
+      <point x="162" y="399" type="curve" smooth="yes"/>
       <point x="126" y="399"/>
       <point x="91" y="422"/>
       <point x="89" y="472" type="curve"/>
@@ -139,7 +138,7 @@
       <point x="192" y="571" type="curve" smooth="yes"/>
       <point x="165" y="592"/>
       <point x="135" y="609"/>
-      <point x="135.0" y="649" type="curve" smooth="yes"/>
+      <point x="135" y="649" type="curve" smooth="yes"/>
       <point x="135" y="681"/>
       <point x="154" y="707"/>
       <point x="190" y="707" type="curve" smooth="yes"/>

@@ -4,8 +4,6 @@
   <unicode hex="014A"/>
   <outline>
     <contour>
-      <point x="292" y="-204"/>
-      <point x="333" y="-166"/>
       <point x="347" y="-85" type="curve" smooth="yes"/>
       <point x="480" y="668" type="line" smooth="yes"/>
       <point x="484" y="690"/>
@@ -55,14 +53,16 @@
       <point x="167" y="-192"/>
       <point x="193" y="-204"/>
       <point x="229" y="-204" type="curve" smooth="yes"/>
+      <point x="292" y="-204"/>
+      <point x="333" y="-166"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.guideline.magnetic.3nk2qMTQzC</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>com.typemytype.robofont.guideline.magnetic.pOBt0fa49m</key>
-      <real>5.0</real>
+      <integer>5</integer>
       <key>public.markColor</key>
       <string>0,1,1,1</string>
     </dict>
